@@ -7,12 +7,6 @@ $title = "Music in Dollar";
 htmlHead ( $title );
 ?>
 
-
-
-
-
-
-
 <body>
 
 	<div class="container-fluid">
@@ -20,17 +14,16 @@ htmlHead ( $title );
 showHeaderBar ( "index" );
 ?>
 
-<div class="navbar navbar-nomargin well clearfix"
-			style="border-top-left-radius: 0px; border-top-right-radius: 0px;">
+<div class="navbar navbar-nomargin well clearfix home-subheader">
 			<div class="row">
 				<div class="col-sm-12" style="">
 					<img src="image/dollarthumbs2.jpeg" class="widthfull" />
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-sm-4">
+				<div class="col-sm-6">
 					<div class="panel panel-default">
-						<div class="panel-heading">Who are we?</div>
+						<div class="panel-heading"><h4 class="text-info">Who are we?</h4></div>
 						<div class="panel-body">
 							<p>Dollar Music Society is an independent organisation with a
 								mission to promote music and the arts around Dollar,
@@ -38,16 +31,32 @@ showHeaderBar ( "index" );
 							<a type="button" class="btn btn-default btn-xs" href="about.php">read
 								more</a>
 						</div>
+						<div class="panel-body">
+							<p>
+								Want to keep up with music in Dollar? Why not <a
+									href="contact.php">sign up</a> for our mailing list. We won't
+								swamp you with mail and you can unsubscribe at any time
+							</p>
+						</div>
+
 					</div>
 				</div>
-				<div class="col-sm-4">
+
+				<div class="col-sm-6">
 					<div class="panel panel-default">
-						<div class="panel-heading">News</div>
+						<div class="panel-heading"><h4 class="text-info">News</h4></div>
 						<div class="panel-body">
 							<p>
 								The <a href="#NextConcert">next concert</a> of the new season is
 								on 15<span class="subscript">th</span> November. Don&#39;t miss
 								it.
+							</p>
+							<p>
+								Our next outing is a New Year trip to the RSNO <a
+									href="http://www.rsno.org.uk/whatson/?c_id=287&action=Read+More" target="_blank">Viennese
+									Gala concert</a> in Perth, on 7th January 2015.
+								Cost &#163;26 per person, including travel from Dollar. Beat the
+								rush and book early!
 							</p>
 							<p>
 								A new membership scheme has been introduced this year. <a
@@ -57,19 +66,6 @@ showHeaderBar ( "index" );
 							<p>Next year we are 50! To celebrate half a century of music in
 								Dollar, we will hold some special events. Watch this space for
 								details.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-4">
-					<div class="panel panel-default">
-						<div class="panel-heading">Keep in touch</div>
-						<div class="panel-body">
-							<p>
-								Want to keep up with music in Dollar? Why not <a
-									href="signup.html" onclick="signUp();return false;">sign up</a>
-								for our mailing list. We won't swamp you with mail and you can
-								unsubscribe at any time
-							</p>
 						</div>
 					</div>
 				</div>

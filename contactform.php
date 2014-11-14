@@ -3,10 +3,10 @@
 ini_set('display_errors', 'On');
 error_reporting(E_ALL | E_STRICT);
 
-echo "this is a msg<br>";
-echo $_POST ['inputEmail'] . "<br>";
-echo print_r( $_POST );
-echo "<br>";
+// echo "this is a msg<br>";
+// echo $_POST ['inputEmail'] . "<br>";
+// echo print_r( $_POST );
+// echo "<br>";
 
 if( isset( $_POST ['inputEmail'] ) ) {
 	$email_to = "info@musicindollar.org.uk";

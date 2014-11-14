@@ -29,6 +29,13 @@
 	border-bottom-right-radius:0px;
 }
 
+/* home */
+.home-subheader {
+	padding:0;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+}
+
 /* general */
 a.MoreLink {
 	font-style:italic;
