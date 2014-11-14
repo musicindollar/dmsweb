@@ -1,4 +1,4 @@
 dmsweb
 ======
 
-DMS website
+Dollar Music Society website source files
