@@ -7,6 +7,15 @@ $title = "Music in Dollar";
 htmlHead ( $title );
 ?>
 
+
+
+
+
+
+
+
+
+
 <body>
 
 	<div class="container-fluid">
@@ -23,7 +32,9 @@ showHeaderBar ( "index" );
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="panel panel-default">
-						<div class="panel-heading"><h4 class="text-info">Who are we?</h4></div>
+						<div class="panel-heading">
+							<h4 class="text-info">Who are we?</h4>
+						</div>
 						<div class="panel-body">
 							<p>Dollar Music Society is an independent organisation with a
 								mission to promote music and the arts around Dollar,
@@ -44,19 +55,21 @@ showHeaderBar ( "index" );
 
 				<div class="col-sm-6">
 					<div class="panel panel-default">
-						<div class="panel-heading"><h4 class="text-info">News</h4></div>
+						<div class="panel-heading">
+							<h4 class="text-info">News</h4>
+						</div>
 						<div class="panel-body">
 							<p>
 								The <a href="#NextConcert">next concert</a> of the new season is
-								on 15<span class="subscript">th</span> November. Don&#39;t miss
-								it.
+								on Sunday 18<span class="subscript">th</span> January, at 2pm.
+								Don&#39;t miss it.
 							</p>
 							<p>
 								Our next outing is a New Year trip to the RSNO <a
-									href="http://www.rsno.org.uk/whatson/?c_id=287&action=Read+More" target="_blank">Viennese
-									Gala concert</a> in Perth, on 7th January 2015.
-								Cost &#163;26 per person, including travel from Dollar. Beat the
-								rush and book early!
+									href="http://www.rsno.org.uk/whatson/?c_id=287&action=Read+More"
+									target="_blank">Viennese Gala concert</a> in Perth, on 7th
+								January 2015. Cost &#163;26 per person, including travel from
+								Dollar. Beat the rush and book early!
 							</p>
 							<p>
 								A new membership scheme has been introduced this year. <a
@@ -93,46 +106,10 @@ showHeaderBar ( "index" );
 				<h3 class="text-info">Next concert</h3>
 			</div>
 		</div>
-		<div class="col-sm-12">
-			<ul class="list-group">
-				<li class="clearfix list-group-item dms-list-item-next">
-					<div class="col-sm-3">
-						<h3>Edinburgh String Quartet</h3>
-						<h4 class="text-info">
-							Saturday, 15<span class="subscript">th</span> November 2014
-						</h4>
-						<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
-					</div>
-					<div class="col-sm-3">
-						<img src="image/edinburghquartet-sm.jpeg" />
-					</div>
-					<div class="col-sm-6">
-						<p>We are delighted to welcome the Edinburgh Quartet back to
-							Dollar. It is a rare privilege to have such distinguished
-							artistes playing for us.</p>
-						<p>The Edinburgh Quartet has a long and colourful history as one
-							of Britain&#39;s foremost chamber ensembles, having appeared
-							regularly at prestigious venues across the UK and toured
-							extensively across Europe, the Far and Middle East, and North and
-							South America.</p>
-						<p>The quartet will play Haydn Quartet Op 54 no.2, Debussy Quartet
-							& Schumann Quartet No.3</p>
-						<a href="http://www.edinburghquartet.com" target="_blank">More
-							about Edinburgh String Quartet</a>
-					</div>
-				</li>
-			</ul>
-		</div>
-
-		<div class="row">
-			<div class="col-sm-12">
-				<h3 class="text-info">Still to come</h3>
-			</div>
-		</div>
 		<div class="row">
 			<div class="col-sm-12">
 				<ul class="list-group">
-					<li class="clearfix list-group-item dms-list-item">
+					<li class="clearfix list-group-item dms-list-item dms-list-item-next">
 						<div class="col-sm-3">
 							<h3>Opera on a Shoestring</h3>
 							<h4 class="text-info">
@@ -161,7 +138,18 @@ showHeaderBar ( "index" );
 								about Opera on a Shoestring</a>
 						</div>
 					</li>
+				</ul>
+			</div>
+		</div>
 
+		<div class="row">
+			<div class="col-sm-12">
+				<h3 class="text-info">Still to come</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
+				<ul class="list-group">
 					<li class="clearfix list-group-item dms-list-item">
 						<div class="col-sm-3">
 							<h3>The Whistlebinkies</h3>
@@ -221,7 +209,34 @@ showHeaderBar ( "index" );
 		<div class="row">
 			<div class="col-sm-12">
 				<ul class="list-group">
-					<li class="row list-group-item dms-list-item-prev">
+					<li class="clearfix list-group-item dms-list-item-prev">
+						<div class="col-sm-3">
+							<h3>Edinburgh String Quartet</h3>
+							<h4 class="text-info">
+								Saturday, 15<span class="subscript">th</span> November 2014
+							</h4>
+							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
+						</div>
+						<div class="col-sm-3">
+							<img src="image/edinburghquartet-sm.jpeg" />
+						</div>
+						<div class="col-sm-6">
+							<p>We are delighted to welcome the Edinburgh Quartet back to
+								Dollar. It is a rare privilege to have such distinguished
+								artistes playing for us.</p>
+							<p>The Edinburgh Quartet has a long and colourful history as one
+								of Britain&#39;s foremost chamber ensembles, having appeared
+								regularly at prestigious venues across the UK and toured
+								extensively across Europe, the Far and Middle East, and North
+								and South America.</p>
+							<p>The quartet will play Haydn Quartet Op 54 no.2, Debussy
+								Quartet & Schumann Quartet No.3</p>
+							<a href="http://www.edinburghquartet.com" target="_blank">More
+								about Edinburgh String Quartet</a>
+						</div>
+					</li>
+
+					<li class="clearfix list-group-item dms-list-item-prev">
 						<div class="col-sm-3">
 							<h3>Philip Contini</h3>
 							<h4 class="text-info">
@@ -229,10 +244,10 @@ showHeaderBar ( "index" );
 							</h4>
 							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
 						</div>
-						<div class="col-sm-4">
+						<div class="col-sm-3">
 							<img src="image/philipcontini-sm.jpeg" />
 						</div>
-						<div class="col-sm-5">
+						<div class="col-sm-6">
 							<p>Philip will make you happy!</p>
 							<p>He sings Italian and Neapolitan and American classics plus
 								American songs from the likes of Cole Porter, Louis Prima and
