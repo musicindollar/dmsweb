@@ -1,19 +1,19 @@
-$(document).ready(function() {
-	$("#contactForm").submit(function(e) {
-		e.preventDefault();
-	    var url = $("#contactForm").prop("action");
-	    $.ajax({
-	       type: "POST",
-	       url: url,
-	       data: $("#contactForm").serialize(),
-	       success: function(ret) {
-	    	   alert(ret);
-	       }
-     });
-
-    return false; // avoid to execute the actual submit of the form.
-	});	
-});
+//$(document).ready(function() {
+//	$("#contactForm").submit(function(e) {
+//		e.preventDefault();
+//	    var url = $("#contactForm").prop("action");
+//	    $.ajax({
+//	       type: "POST",
+//	       url: url,
+//	       data: $("#contactForm").serialize(),
+//	       success: function(ret) {
+//	    	   alert(ret);
+//	       }
+//     });
+//
+//    return false; // avoid to execute the actual submit of the form.
+//	});	
+//});
 
 /******************************************************************************
  * signUp()

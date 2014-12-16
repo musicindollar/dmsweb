@@ -12,17 +12,10 @@ if( isset( $_POST ['inputEmail'] ) ) {
 	$email_to = "info@musicindollar.org.uk";
 	$email_subject = "DMS Contact form";
 
-
-	function died($error) {
-		echo "Error:<br>";
-		echo $error . "<br>";
-		echo "Please fix and resubmit.<br><br>";
-		echo '<a href="contact.php">Click to continue</a>';
-		die ();
-	}
 	
 	if ( ! (isset( $_POST ['inputEmail'] ) && isset( $_POST ['inputPhone'] ) && isset( $_POST ['textareaMsg'] )) ) {
 		died( 'Error on form' );
+		return false;
 	}
 	
 	$i_email = $_POST["inputEmail"];
@@ -39,29 +32,17 @@ if( isset( $_POST ['inputEmail'] ) ) {
 	
     // check email address pattern
 	if (! preg_match( $email_exp, $i_email )) {
-		$error_message .= 'The email address you entered does not appear to be valid.<br>';
+		$error_message .= 'The email address you entered does not appear to be valid<br>';
 	}
 	
     // check that a message was entered
 	if (strlen ( $i_msg ) < 2) {
-		$error_message .= 'No message entered.<br>';
+		$error_message .= 'No message entered<br>';
 	}
 	
 	if (strlen ( $error_message ) > 0) {
 		died ( $error_message );
-	}
-
-	function clean_string($string) {
-		$bad = array (
-				"content-type",
-				"bcc:",
-				"to:",
-				"cc:",
-				"href",
-				"\r\n"
-		);
-		
-		return str_replace ( $bad, "", $string );
+		return false;
 	}
 
 	$email_message = "The contact form details are:\n\n";
@@ -78,13 +59,37 @@ if( isset( $_POST ['inputEmail'] ) ) {
 	$mailstatus = mail ( $email_to, $email_subject, $email_message, $headers );
     
 //     echo "mail status [" . $mailstatus . "]<br>";
-?>
+//     echo "ok";
 
-<p>Thanks for sending us a message</p>
-<p>We will respond as soon as possible</p>
-<a href="index.php">Click to continue</a>
+	$ret = "";
+	$mstatus = $mailstatus;
+	if($mstatus == "" || $mstatus) {
+		return "";
+	} else {
+		return "Send mail failed<br>";
+	}
+}
 
-<?php
+function died($error) {
+// 	echo "Error:<br>";
+// 	echo $error . "<br>";
+// 	echo "Please fix and resubmit.<br><br>";
+// 	echo '<a href="contact.php">Click to continue</a>';
+	echo $error;
+	die ();
+}
+
+function clean_string($string) {
+	$bad = array (
+			"content-type",
+			"bcc:",
+			"to:",
+			"cc:",
+			"href",
+			"\r\n"
+	);
+
+	return str_replace ( $bad, "", $string );
 }
 
 ?>

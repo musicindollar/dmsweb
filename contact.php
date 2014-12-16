@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
-<?php 
-	require "header.php";
-	$title = "Contact Music in Dollar";
-	htmlHead($title);
+<?php
+require "header.php";
+$title = "Contact Music in Dollar";
+htmlHead ( $title );
 ?>
 
 <body>
 
 	<div class="container-fluid">
 <?php
-showHeaderBar( "contact" );
+showHeaderBar ( "contact" );
 ?>
 
 	<div class="row page-header">
@@ -45,7 +45,8 @@ showHeaderBar( "contact" );
 		<div class="row">
 			<div class="col-sm-6">
 				<div class="well">
-					<form id="contactForm" class="bs-example form-horizontal" action="contactform.php">
+					<form id="contactForm" class="bs-example form-horizontal"
+						action="contactform.php">
 						<fieldset>
 							<legend>Ask a question or give feedback</legend>
 							<div class="form-group">
@@ -86,11 +87,17 @@ showHeaderBar( "contact" );
 								</div>
 							</div>
 							<div class="form-group">
-								<div class="col-sm-12 col-sm-offset-2">
+								<div class="col-sm-4">
 									<button class="btn btn-default"
 										onclick="$('contactForm').reset();">Cancel</button>
-									<button type="submit" class="btn btn-primary"
-										formaction="contactform.php" formmethod="post">Submit</button>
+									<button type="submit" class="btn btn-primary">Submit</button>
+								</div>
+								<div class="col-sm-8">
+									<div id="mailAlert"
+										class="alert alert-success">
+										<span id="mailAlertMsg">Mail sent!</span> <a href="contact.php"
+											class="alert-link">Continue</a>
+									</div>
 								</div>
 							</div>
 						</fieldset>
@@ -107,3 +114,32 @@ showHeaderBar( "contact" );
 </body>
 </html>
 
+<script>
+$("document").ready(function() {
+	$("#mailAlert").hide();
+	
+	$("#contactForm").submit(function() {
+	  $.ajax({
+				type: "POST",
+				url: "contactform.php",
+				data: $(this).serialize(),
+				success: function(ret) {
+					if(ret === "") {
+						$("#mailAlertMsg").html("Mail sent!");
+						$("#mailAlert").removeClass("alert-warning").addClass("alert-success").show();
+					} else {
+						$("#mailAlertMsg").html("<b>Error</b><br>"+ ret);
+						$("#mailAlert").removeClass("alert-success").addClass("alert-danger").show();
+					}					
+				},
+				error: function(ret) {
+					$("#mailError").show();
+				}
+		});
+		return false;
+	});
+});
+
+</script>
+
+<!-- 										formaction="contactform.php" formmethod="post">Submit</button> -->
