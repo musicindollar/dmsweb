@@ -7,15 +7,6 @@ $title = "Music in Dollar";
 htmlHead ( $title );
 ?>
 
-
-
-
-
-
-
-
-
-
 <body>
 
 	<div class="container-fluid">
@@ -61,22 +52,15 @@ showHeaderBar ( "index" );
 						<div class="panel-body">
 							<p>
 								The <a href="#NextConcert">next concert</a> of the new season is
-								on Sunday 18<span class="subscript">th</span> January, at 2pm.
+								on Saturday 21<span class="subscript">st</span> March, at 7:30pm.
 								Don&#39;t miss it.
-							</p>
-							<p>
-								Our next outing is a New Year trip to the RSNO <a
-									href="http://www.rsno.org.uk/whatson/?c_id=287&action=Read+More"
-									target="_blank">Viennese Gala concert</a> in Perth, on 7th
-								January 2015. Cost &#163;26 per person, including travel from
-								Dollar. Beat the rush and book early!
 							</p>
 							<p>
 								A new membership scheme has been introduced this year. <a
 									href="about.php#Membership">Find out</a> how you can save money
 								and help us to bring the best music to Dollar.
 							</p>
-							<p>Next year we are 50! To celebrate half a century of music in
+							<p>This year we are 50! To celebrate half a century of music in
 								Dollar, we will hold some special events. Watch this space for
 								details.</p>
 						</div>
@@ -109,7 +93,78 @@ showHeaderBar ( "index" );
 		<div class="row">
 			<div class="col-sm-12">
 				<ul class="list-group">
-					<li class="clearfix list-group-item dms-list-item dms-list-item-next">
+					<li class="clearfix list-group-item dms-list-item-next">
+						<div class="col-sm-3">
+							<h3>RCS Brass Ensemble</h3>
+							<h4 class="text-info">
+								Saturday, 21<span class="subscript">st</span> March 2015
+							</h4>
+							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
+						</div>
+						<div class="col-sm-3">
+							<img src="image/brass-sm.jpeg" />
+						</div>
+						<div class="col-sm-6">
+							<p>We are excited to present the cream of young Scottish brass
+								musicians from the Royal Conservatoire of Scotland. The stars of
+								the future are coming together to play a unique concert in
+								Dollar.</p>
+							<p>The programme will range widely, with music from Russia and
+								Norway to Spain and Italy, including composers such as Bizet,
+								Elgar and Dougie MacLean! Should be a night to remember.</p>
+							<a href="http://www.rcs.ac.uk" target="_blank">More about the
+								Royal Conservatoire of Scotland</a>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+<!-- 		<div class="row"> -->
+<!-- 			<div class="col-sm-12"> -->
+<!-- 				<h3 class="text-info">Still to come</h3> -->
+<!-- 			</div> -->
+<!-- 		</div> -->
+<!-- 		<div class="row"> -->
+<!-- 			<div class="col-sm-12"> -->
+<!-- 				<ul class="list-group"> -->
+<!-- 				</ul> -->
+<!-- 			</div> -->
+<!-- 		</div> -->
+
+		<div id="PrevConcert" class="row">
+			<div class="col-sm-12">
+				<h3 class="text-info">Previous concerts</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
+				<ul class="list-group">
+					<li class="clearfix list-group-item dms-list-item-prev">
+						<div class="col-sm-3">
+							<h3>The Whistlebinkies</h3>
+							<h4 class="text-info">
+								Saturday, 21<span class="subscript">st</span> February 2015
+							</h4>
+							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
+						</div>
+						<div class="col-sm-3">
+							<img src="image/binkies-on-stage-sm.jpg" />
+						</div>
+						<div class="col-sm-6">
+							<p>For more than 40 years the Whistlebinkies have toured the
+								world with their own brand of authentic Scottish traditional
+								music.</p>
+							<p>With a very wide ranging repertoire, based around (but never
+								limited by) traditional themes and styles, the 'binkies have
+								been a key part of the reinvention of traditional music for the
+								modern age.</p>
+							<a href="http://whistlebinkies.co.uk" target="_blank">More about
+								The Whistlebinkies</a>
+						</div>
+					</li>
+
+					<li class="clearfix list-group-item dms-list-item dms-list-item-prev">
 						<div class="col-sm-3">
 							<h3>Opera on a Shoestring</h3>
 							<h4 class="text-info">
@@ -138,77 +193,7 @@ showHeaderBar ( "index" );
 								about Opera on a Shoestring</a>
 						</div>
 					</li>
-				</ul>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-sm-12">
-				<h3 class="text-info">Still to come</h3>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<ul class="list-group">
-					<li class="clearfix list-group-item dms-list-item">
-						<div class="col-sm-3">
-							<h3>The Whistlebinkies</h3>
-							<h4 class="text-info">
-								Saturday, 21<span class="subscript">st</span> February 2015
-							</h4>
-							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
-						</div>
-						<div class="col-sm-3">
-							<img src="image/binkies-on-stage-sm.jpg" />
-						</div>
-						<div class="col-sm-6">
-							<p>For more than 40 years the Whistlebinkies have toured the
-								world with their own brand of authentic Scottish traditional
-								music.</p>
-							<p>With a very wide ranging repertoire, based around (but never
-								limited by) traditional themes and styles, the 'binkies have
-								been a key part of the reinvention of traditional music for the
-								modern age.</p>
-							<a href="http://whistlebinkies.co.uk" target="_blank">More about
-								The Whistlebinkies</a>
-						</div>
-					</li>
-
-					<li class="clearfix list-group-item dms-list-item">
-						<div class="col-sm-3">
-							<h3>RCS Brass Ensemble</h3>
-							<h4 class="text-info">
-								Saturday, 21<span class="subscript">st</span> March 2015
-							</h4>
-							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
-						</div>
-						<div class="col-sm-3">
-							<img src="image/brass-sm.jpeg" />
-						</div>
-						<div class="col-sm-6">
-							<p>We are excited to present the cream of young Scottish brass
-								musicians from the Royal Conservatoire of Scotland. The stars of
-								the future are coming together to play a unique concert in
-								Dollar.</p>
-							<p>The programme will range widely, with music from Russia and
-								Norway to Spain and Italy, including composers such as Bizet,
-								Elgar and Dougie MacLean! Should be a night to remember.</p>
-							<a href="http://www.rcs.ac.uk" target="_blank">More about the
-								Royal Conservatoire of Scotland</a>
-						</div>
-					</li>
-				</ul>
-			</div>
-		</div>
-
-		<div id="PrevConcert" class="row">
-			<div class="col-sm-12">
-				<h3 class="text-info">Previous concerts</h3>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<ul class="list-group">
+					
 					<li class="clearfix list-group-item dms-list-item-prev">
 						<div class="col-sm-3">
 							<h3>Edinburgh String Quartet</h3>
@@ -262,6 +247,7 @@ showHeaderBar ( "index" );
 								target="_blank">More about Philip and his band</a>
 						</div>
 					</li>
+					
 				</ul>
 			</div>
 		</div>
