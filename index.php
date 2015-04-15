@@ -7,6 +7,9 @@ $title = "Music in Dollar";
 htmlHead ( $title );
 ?>
 
+
+
+
 <body>
 
 	<div class="container-fluid">
@@ -51,14 +54,11 @@ showHeaderBar ( "index" );
 						</div>
 						<div class="panel-body">
 							<p>
-								The <a href="#NextConcert">next concert</a> of the new season is
-								on Saturday 21<span class="subscript">st</span> March, at 7:30pm.
+								The <a href="#NextConcert">final concert</a> of the current
+								season (2014-15) is on Thursday 21<span class="subscript">st</span>
+								May, at 7:30pm. It will feature outstanding local talent, jazz
+								pianist Fergus McCreadie. A short AGM will also be held. Note that venue is the Burnside Hall. 
 								Don&#39;t miss it.
-							</p>
-							<p>
-								A new membership scheme has been introduced this year. <a
-									href="about.php#Membership">Find out</a> how you can save money
-								and help us to bring the best music to Dollar.
 							</p>
 							<p>This year we are 50! To celebrate half a century of music in
 								Dollar, we will hold some special events. Watch this space for
@@ -95,6 +95,46 @@ showHeaderBar ( "index" );
 				<ul class="list-group">
 					<li class="clearfix list-group-item dms-list-item-next">
 						<div class="col-sm-3">
+							<h3>Fergus McCreadie and AGM</h3>
+							<h4 class="text-info">
+								Thursday, 21<span class="subscript">st</span> May 2015
+							</h4>
+							<p>7:30pm <b>Burnside Hall</b>, Dollar</p>
+						</div>
+						<div class="col-sm-3">
+							<img src="image/fergusmcc1.jpeg" />
+						</div>
+						<div class="col-sm-6">
+							<p>Outstanding young local jazz pianist Fergus McCreadie will show us why he won young Scottish jazz musician two years running!</p>
+							<p>A short AGM will accompany the recital.</p>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<!-- 		<div class="row"> -->
+		<!-- 			<div class="col-sm-12"> -->
+		<!-- 				<h3 class="text-info">Still to come</h3> -->
+		<!-- 			</div> -->
+		<!-- 		</div> -->
+		<!-- 		<div class="row"> -->
+		<!-- 			<div class="col-sm-12"> -->
+		<!-- 				<ul class="list-group"> -->
+		<!-- 				</ul> -->
+		<!-- 			</div> -->
+		<!-- 		</div> -->
+
+		<div id="PrevConcert" class="row">
+			<div class="col-sm-12">
+				<h3 class="text-info">Previous concerts</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
+				<ul class="list-group">
+					<li class="clearfix list-group-item dms-list-item-prev">
+						<div class="col-sm-3">
 							<h3>RCS Brass Ensemble</h3>
 							<h4 class="text-info">
 								Saturday, 21<span class="subscript">st</span> March 2015
@@ -116,30 +156,7 @@ showHeaderBar ( "index" );
 								Royal Conservatoire of Scotland</a>
 						</div>
 					</li>
-				</ul>
-			</div>
-		</div>
 
-<!-- 		<div class="row"> -->
-<!-- 			<div class="col-sm-12"> -->
-<!-- 				<h3 class="text-info">Still to come</h3> -->
-<!-- 			</div> -->
-<!-- 		</div> -->
-<!-- 		<div class="row"> -->
-<!-- 			<div class="col-sm-12"> -->
-<!-- 				<ul class="list-group"> -->
-<!-- 				</ul> -->
-<!-- 			</div> -->
-<!-- 		</div> -->
-
-		<div id="PrevConcert" class="row">
-			<div class="col-sm-12">
-				<h3 class="text-info">Previous concerts</h3>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<ul class="list-group">
 					<li class="clearfix list-group-item dms-list-item-prev">
 						<div class="col-sm-3">
 							<h3>The Whistlebinkies</h3>
@@ -164,7 +181,8 @@ showHeaderBar ( "index" );
 						</div>
 					</li>
 
-					<li class="clearfix list-group-item dms-list-item dms-list-item-prev">
+					<li
+						class="clearfix list-group-item dms-list-item dms-list-item-prev">
 						<div class="col-sm-3">
 							<h3>Opera on a Shoestring</h3>
 							<h4 class="text-info">
@@ -193,7 +211,7 @@ showHeaderBar ( "index" );
 								about Opera on a Shoestring</a>
 						</div>
 					</li>
-					
+
 					<li class="clearfix list-group-item dms-list-item-prev">
 						<div class="col-sm-3">
 							<h3>Edinburgh String Quartet</h3>
@@ -247,7 +265,7 @@ showHeaderBar ( "index" );
 								target="_blank">More about Philip and his band</a>
 						</div>
 					</li>
-					
+
 				</ul>
 			</div>
 		</div>
