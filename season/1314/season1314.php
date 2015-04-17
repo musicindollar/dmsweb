@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <?php 
-	require "header.php";
+	require "../../header.php";
 	$title = "Previous season archive: 2013-14";
 	htmlHead($title);
 ?>
@@ -21,9 +21,9 @@
 
 		<div class="row page-header">
 			<div class="col-sm-12">
-				<a href="season/1314/DMS-Leaflet-2013-14.pdf" target="_blank">View</a> the full
-								programme for season 2013-14 [PDF 0.6Mb] <a href="season/1314/DMS-Leaflet-2013-14.pdf" target="_blank"><img
-									src="image/pdf.jpeg" /></a>
+				<a href="/season/1314/DMS-Leaflet-2013-14.pdf" target="_blank">View</a> the full
+								programme for season 2013-14 [PDF 0.6Mb] <a href="/season/1314/DMS-Leaflet-2013-14.pdf" target="_blank"><img
+									src="/image/pdf.jpeg" /></a>
 			</div>
 		</div>
 
@@ -39,7 +39,7 @@
 							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
 						</div>
 						<div class="col-sm-3">
-							<img src="image/lornareid-sm.jpeg" />
+							<img src="/image/lornareid-sm.jpeg" />
 						</div>
 						<div class="col-sm-6">
 							<p>Since launching her debut album in 2008, Lorna Reid has grown to become one of Scotland's most sought after jazz artists.</p>
@@ -64,7 +64,7 @@
 							<p>3:00pm Gibson Hall, Dollar FK7 1QW</p>
 						</div>
 						<div class="col-sm-3">
-							<img src="image/childrensclassicconcerts-sm.jpeg" />
+							<img src="/image/childrensclassicconcerts-sm.jpeg" />
 						</div>
 						<div class="col-sm-6">
 							<p>Children's Classic Concerts present music to primary school age children in their unique and entertaining style.</p>
@@ -86,7 +86,7 @@
 							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
 						</div>
 						<div class="col-sm-3">
-							<img src="image/katonatwins-sm.jpeg" />
+							<img src="/image/katonatwins-sm.jpeg" />
 						</div>
 						<div class="col-sm-6">
 							<p>The world famous Katona Twins bring their exciting programme to Dollar for the first time.</p>
@@ -108,7 +108,7 @@
 							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
 						</div>
 						<div class="col-sm-3">
-							<img src="image/rowanmcgirr-sm.jpeg" />
+							<img src="/image/rowanmcgirr-sm.jpeg" />
 						</div>
 						<div class="col-sm-6">
 							<p>From an early age, local lass Rowan (who attended Dollar Academy) has been captivating audiences 
@@ -124,12 +124,12 @@
 						<div class="col-sm-3">
 							<h3>Edward Cohen</h3>
 							<h4 class="text-info">
-								Saturday, ss<span class="subscript">nd</span> February 2014
+								Saturday, 22<span class="subscript">nd</span> February 2014
 							</h4>
 							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
 						</div>
 						<div class="col-sm-3">
-							<img src="image/edwardcohen-sm.jpeg" />
+							<img src="/image/edwardcohen-sm.jpeg" />
 						</div>
 						<div class="col-sm-6">
 							<p>Edward began piano studies at The Royal College of Music when he was 10 
@@ -152,7 +152,7 @@
 							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
 						</div>
 						<div class="col-sm-3">
-							<img src="image/buschensemble-sm.jpeg" />
+							<img src="/image/buschensemble-sm.jpeg" />
 						</div>
 						<div class="col-sm-6">
 							<p>The Busch Ensemble is a London based piano trio, founded in November 2010 and comprising 
@@ -168,7 +168,7 @@
 			</div>
 		</div>
 
-<?php require "footer.php";?>
+<?php require "../../footer.php";?>
 		
 	</div>
 

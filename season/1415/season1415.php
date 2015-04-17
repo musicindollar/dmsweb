@@ -1,152 +1,54 @@
 <!DOCTYPE html>
 <html>
-<head>
-<?php
-require "header.php";
-$title = "Music in Dollar";
-htmlHead ( $title );
+<?php 
+	require "../../header.php";
+	$title = "Previous season archive: 2014-15";
+	htmlHead($title);
 ?>
-
-
-
-
-
-
 
 <body>
 
 	<div class="container-fluid">
 <?php
-showHeaderBar ( "index" );
+	showHeaderBar("archive1415");
 ?>
-
-<div class="navbar navbar-nomargin well clearfix home-subheader">
-			<div class="row">
-				<div class="col-sm-12" style="">
-					<img src="image/dollarthumbs2.jpeg" class="widthfull" />
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-sm-6">
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<h4 class="text-info">Who are we?</h4>
-						</div>
-						<div class="panel-body">
-							<p>Dollar Music Society is an independent organisation with a
-								mission to promote music and the arts around Dollar,
-								Clackmannanshire, Scotland.</p>
-							<a type="button" class="btn btn-default btn-xs" href="about.php">read
-								more</a>
-						</div>
-						<div class="panel-body">
-							<p>
-								Want to keep up with music in Dollar? Why not <a
-									href="contact.php">sign up</a> for our mailing list. We won't
-								swamp you with mail and you can unsubscribe at any time
-							</p>
-						</div>
-
-					</div>
-				</div>
-
-				<div class="col-sm-6">
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<h4 class="text-info">News</h4>
-						</div>
-						<div class="panel-body">
-							<p>
-								The <a href="#NextConcert">final concert</a> of the current
-								season (2014-15) is on Thursday 21<span class="subscript">st</span>
-								May, at 7:30pm. It will feature outstanding local talent, jazz
-								pianist Fergus McCreadie. A short AGM will also be held. Note
-								that venue is the Burnside Hall. Don&#39;t miss it.
-							</p>
-							<p>This year we are 50! To celebrate half a century of music in
-								Dollar, we will hold some special events. Watch this space for
-								details.</p>
-							<p>
-								<a href="/season/1516/season1516.php">Next season&#39;s programme</a>
-								is released. Another varied and classy line-up, including jazz,
-								chamber (with a twist), vocal and piano.
-							</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div id="WhatsOn" class="row">
-			<div class="col-sm-6">
-				<h2>2014-15 Season</h2>
-			</div>
-			<div class="col-sm-6 margintop10">
-				<div class="panel panel-default">
-					<div class="panel-body">
-						<a href="season/1415/DMS-Leaflet-2014-15.pdf" target="_blank">View</a>
-						the full programme for the current season [PDF 3.6Mb] <a
-							href="season/1415/DMS-Leaflet-2014-15.pdf" target="_blank"><img
-							src="image/pdf.jpeg" /></a>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div id="NextConcert" class="row">
+	
+		<div class="row page-header">
 			<div class="col-sm-12">
-				<h3 class="text-info">Next concert</h3>
+				<h2><?php echo $title;?></h2>
 			</div>
 		</div>
+
+		<div class="row page-header">
+			<div class="col-sm-12">
+				<a href="/season/1415/DMS-Leaflet-2014-15.pdf" target="_blank">View</a> the full
+								programme for season 2014-15 [PDF 3.6Mb] <a href="/season/1415/DMS-Leaflet-2014-15.pdf" target="_blank"><img
+									src="/image/pdf.jpeg" /></a>
+			</div>
+		</div>
+
 		<div class="row">
 			<div class="col-sm-12">
 				<ul class="list-group">
-					<li class="clearfix list-group-item dms-list-item-next">
+
+					<li class="clearfix list-group-item dms-list-item-prev">
 						<div class="col-sm-3">
 							<h3>Fergus McCreadie and AGM</h3>
 							<h4 class="text-info">
 								Thursday, 21<span class="subscript">st</span> May 2015
 							</h4>
-							<p>
-								7:30pm <b>Burnside Hall</b>, Dollar
-							</p>
+							<p>7:30pm <b>Burnside Hall</b>, Dollar</p>
 						</div>
 						<div class="col-sm-3">
-							<img src="image/fergusmcc1.jpeg" />
+							<img src="/image/fergusmcc1.jpeg" />
 						</div>
 						<div class="col-sm-6">
-							<p>Outstanding young local jazz pianist Fergus McCreadie will
-								show us why he won young Scottish jazz musician two years
-								running!</p>
+							<p>Outstanding young local jazz pianist Fergus McCreadie will show us why he won young Scottish jazz musician two years running!</p>
 							<p>A short AGM will accompany the recital.</p>
-							<a href="http://www.fergusmccreadiejazzpiano.com/"
-								target="_blank">More about Fergus McCreadie</a>
-						</div>
-					</li>
-				</ul>
-			</div>
-		</div>
-
-		<!-- 		<div class="row"> -->
-		<!-- 			<div class="col-sm-12"> -->
-		<!-- 				<h3 class="text-info">Still to come</h3> -->
-		<!-- 			</div> -->
-		<!-- 		</div> -->
-		<!-- 		<div class="row"> -->
-		<!-- 			<div class="col-sm-12"> -->
-		<!-- 				<ul class="list-group"> -->
-		<!-- 				</ul> -->
-		<!-- 			</div> -->
-		<!-- 		</div> -->
-
-		<div id="PrevConcert" class="row">
-			<div class="col-sm-12">
-				<h3 class="text-info">Previous concerts</h3>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<ul class="list-group">
+							<a href="http://www.fergusmccreadiejazzpiano.com/" target="_blank">More about Fergus McCreadie</a>
+							</div>
+						</li>
+				
 					<li class="clearfix list-group-item dms-list-item-prev">
 						<div class="col-sm-3">
 							<h3>RCS Brass Ensemble</h3>
@@ -156,7 +58,7 @@ showHeaderBar ( "index" );
 							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
 						</div>
 						<div class="col-sm-3">
-							<img src="image/brass-sm.jpeg" />
+							<img src="/image/brass-sm.jpeg" />
 						</div>
 						<div class="col-sm-6">
 							<p>We are excited to present the cream of young Scottish brass
@@ -180,7 +82,7 @@ showHeaderBar ( "index" );
 							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
 						</div>
 						<div class="col-sm-3">
-							<img src="image/binkies-on-stage-sm.jpg" />
+							<img src="/image/binkies-on-stage-sm.jpg" />
 						</div>
 						<div class="col-sm-6">
 							<p>For more than 40 years the Whistlebinkies have toured the
@@ -204,11 +106,11 @@ showHeaderBar ( "index" );
 							</h4>
 							<p>2:00pm Gibson Hall, Dollar FK7 1QW</p>
 							<p class="text-warning">
-								<img src="image/warning24.png" /> Afternoon concert
+								<img src="/image/warning24.png" /> Afternoon concert
 							</p>
 						</div>
 						<div class="col-sm-3">
-							<img src="image/operaonshoestring-sm.jpg" />
+							<img src="/image/operaonshoestring-sm.jpg" />
 						</div>
 						<div class="col-sm-6">
 							<p>Opera On a Shoestring is a small, independent, professional
@@ -235,7 +137,7 @@ showHeaderBar ( "index" );
 							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
 						</div>
 						<div class="col-sm-3">
-							<img src="image/edinburghquartet-sm.jpeg" />
+							<img src="/image/edinburghquartet-sm.jpeg" />
 						</div>
 						<div class="col-sm-6">
 							<p>We are delighted to welcome the Edinburgh Quartet back to
@@ -262,7 +164,7 @@ showHeaderBar ( "index" );
 							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
 						</div>
 						<div class="col-sm-3">
-							<img src="image/philipcontini-sm.jpeg" />
+							<img src="/image/philipcontini-sm.jpeg" />
 						</div>
 						<div class="col-sm-6">
 							<p>Philip will make you happy!</p>
@@ -279,14 +181,16 @@ showHeaderBar ( "index" );
 								target="_blank">More about Philip and his band</a>
 						</div>
 					</li>
-
+				
 				</ul>
 			</div>
 		</div>
 
-<?php require "footer.php";?>
-		
+<?php require "../../footer.php";?>
+				
 	</div>
+
 
 </body>
 </html>
+
