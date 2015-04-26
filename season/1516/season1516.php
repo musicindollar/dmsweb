@@ -37,7 +37,7 @@ showHeaderBar ( "archive1516" );
 						<div class="col-sm-3">
 							<h3>Tommy Smith &amp; Brian Kellock</h3>
 							<h4 class="text-info">
-								Saturday, 12<span class="subscript">th</span> October 2015
+								Saturday, 10<span class="subscript">th</span> October 2015
 							</h4>
 							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
 						</div>
