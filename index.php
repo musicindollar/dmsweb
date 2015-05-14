@@ -108,7 +108,7 @@ showHeaderBar ( "index" );
 								Thursday, 21<span class="subscript">st</span> May 2015
 							</h4>
 							<p>
-								7:30pm <b>Burnside Hall</b>, Dollar
+								7:30pm <b>Burnside Hall</b>, Dollar FK14 7AT
 							</p>
 						</div>
 						<div class="col-sm-3">
