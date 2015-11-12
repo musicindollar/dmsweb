@@ -11,23 +11,6 @@ htmlHead ( $title );
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <body>
 
 	<div class="container-fluid">
@@ -72,13 +55,18 @@ showHeaderBar ( "index" );
 						</div>
 						<div class="panel-body">
 							<p>
-								The <a href="#NextConcert">first concert</a> of the current
-								season (2015-16) is on Saturday 10<span class="subscript">th</span>
-								October, at 7:30pm. World class jazz comes to Dollar, courtesy
-								of Tommy Smith and Brian Kellock. Don&#39;t miss it!
+								The <a href="#NextConcert">second concert</a> of the current
+								season (2015-16) is on Saturday 14<span class="subscript">th</span>
+								November, at 7:15pm (guest) for 7:30pm (main programme). High
+								Heels and Horsehair present a vibrant set with a Nocturnal
+								theme. Don&#39;t miss it!
 							</p>
-							Now is the time to sign up for a season ticket. Great savings for
-							a great programme, plus the satisfaction of supporting Music in
+							<p>For the first time we have a guest appearance, by Dollar
+								Academy student Christina Callion. She will play piano from
+								7:15pm. Remember, entry is free of charge for students, so why not come along and enjoy a varied show.
+							</p>
+							It's still not to late to join as a member this season. Great savings for a
+							great programme, plus the satisfaction of supporting Music in
 							Dollar.
 							</p>
 						</div>
@@ -111,43 +99,8 @@ showHeaderBar ( "index" );
 		<div class="row">
 			<div class="col-sm-12">
 				<ul class="list-group">
+
 					<li class="clearfix list-group-item dms-list-item-next">
-						<div class="col-sm-3">
-							<h3>Tommy Smith &amp; Brian Kellock</h3>
-							<h4 class="text-info">
-								Saturday, 10<span class="subscript">th</span> October 2015
-							</h4>
-							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
-						</div>
-						<div class="col-sm-3">
-							<img src="/image/tommysmithbriankellock.jpeg" />
-						</div>
-						<div class="col-sm-6">
-							<p>Tommy Smith and Brian Kellock need little introduction, as
-								they are amongst the finest jazz musicians in the world.</p>
-							<p>Make sure you can come for an unforgettable evening!</p>
-							<p><a
-								href="http://www.tommy-smith.co.uk/ts/tommy-smith-brian-kellock/"
-								target="_blank">More about Tommy Smith and Brian Kellock</a></p>
-							<p><a
-								href="https://www.youtube.com/watch?v=oowdyU-94a0">See Tommy and
-								Brian play</a></p>
-						</div>
-					</li>
-				</ul>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-sm-12">
-				<h3 class="text-info">Still to come</h3>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<ul class="list-group">
-
-					<li class="clearfix list-group-item dms-list-item">
 						<div class="col-sm-3">
 							<h3>High Heels and Horsehair</h3>
 							<h4 class="text-info">
@@ -168,6 +121,19 @@ showHeaderBar ( "index" );
 								about High Heels and Horsehair</a>
 						</div>
 					</li>
+
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-12">
+				<h3 class="text-info">Still to come</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
+				<ul class="list-group">
 
 					<li class="clearfix list-group-item dms-list-item dms-list-item">
 						<div class="col-sm-3">
@@ -257,19 +223,45 @@ showHeaderBar ( "index" );
 		</div>
 
 
-		<!-- 		<div id="PrevConcert" class="row"> -->
-		<!-- 			<div class="col-sm-12"> -->
-		<!-- 				<h3 class="text-info">Previous concerts</h3> -->
-		<!-- 			</div> -->
-		<!-- 		</div> -->
-		<!-- 		<div class="row"> -->
-		<!-- 			<div class="col-sm-12"> -->
-		<!-- 				<ul class="list-group"> -->
+		<div id="PrevConcert" class="row">
+			<div class="col-sm-12">
+				<h3 class="text-info">Previous concerts</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
+				<ul class="list-group">
 
+					<li class="clearfix list-group-item dms-list-item-prev">
+						<div class="col-sm-3">
+							<h3>Tommy Smith &amp; Brian Kellock</h3>
+							<h4 class="text-info">
+								Saturday, 10<span class="subscript">th</span> October 2015
+							</h4>
+							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
+						</div>
+						<div class="col-sm-3">
+							<img src="/image/tommysmithbriankellock.jpeg" />
+						</div>
+						<div class="col-sm-6">
+							<p>Tommy Smith and Brian Kellock need little introduction, as
+								they are amongst the finest jazz musicians in the world.</p>
+							<p>Make sure you can come for an unforgettable evening!</p>
+							<p>
+								<a
+									href="http://www.tommy-smith.co.uk/ts/tommy-smith-brian-kellock/"
+									target="_blank">More about Tommy Smith and Brian Kellock</a>
+							</p>
+							<p>
+								<a href="https://www.youtube.com/watch?v=oowdyU-94a0">See Tommy
+									and Brian play</a>
+							</p>
+						</div>
+					</li>
 
-		<!-- 				</ul> -->
-		<!-- 			</div> -->
-		<!-- 		</div> -->
+				</ul>
+			</div>
+		</div>
 
 <?php require "footer.php";?>
 		
