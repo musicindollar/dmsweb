@@ -55,16 +55,14 @@ showHeaderBar ( "index" );
 						</div>
 						<div class="panel-body">
 							<p>
-								The <a href="#NextConcert">second concert</a> of the current
-								season (2015-16) is on Saturday 14<span class="subscript">th</span>
-								November, at 7:15pm (guest) for 7:30pm (main programme). High
-								Heels and Horsehair present a vibrant set with a Nocturnal
-								theme. Don&#39;t miss it!
+								The <a href="#NextConcert">third concert</a> of the current
+								season (2015-16) is on Sunday 17<span class="subscript">th</span>
+								January, at 3:00pm. The pick of vocal students from the Royal Conservatoire will present a varied programme of arais, songs and popular tunes. Don&#39;t miss it!
 							</p>
-							<p>For the first time we have a guest appearance, by Dollar
-								Academy student Christina Callion. She will play piano from
-								7:15pm. Remember, entry is free of charge for students, so why not come along and enjoy a varied show.
-							</p>
+<!-- 							<p>For the first time we have a guest appearance, by Dollar -->
+<!-- 								Academy student Christina Callion. She will play piano from -->
+<!-- 								7:15pm. Remember, entry is free of charge for students, so why not come along and enjoy a varied show. -->
+<!-- 							</p> -->
 							It's still not to late to join as a member this season. Great savings for a
 							great programme, plus the satisfaction of supporting Music in
 							Dollar.
@@ -100,42 +98,7 @@ showHeaderBar ( "index" );
 			<div class="col-sm-12">
 				<ul class="list-group">
 
-					<li class="clearfix list-group-item dms-list-item-next">
-						<div class="col-sm-3">
-							<h3>High Heels and Horsehair</h3>
-							<h4 class="text-info">
-								Saturday, 14<span class="subscript">th</span> November 2015
-							</h4>
-							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
-						</div>
-						<div class="col-sm-3">
-							<img src="/image/hhah-sm.jpeg" />
-						</div>
-						<div class="col-sm-6">
-							<p>String duo High Heels and Horse Hair galloped onto Scotland’s
-								chamber music scene in 2010. Their fresh, dynamic playing and
-								engaging style has delighted audiences across the country and
-								earned them the Enterprise Music Scotland Residency Award for
-								2013-15.</p>
-							<a href="http://www.highheelsandhorsehair.com" target="_blank">More
-								about High Heels and Horsehair</a>
-						</div>
-					</li>
-
-				</ul>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-sm-12">
-				<h3 class="text-info">Still to come</h3>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<ul class="list-group">
-
-					<li class="clearfix list-group-item dms-list-item dms-list-item">
+					<li class="clearfix list-group-item dms-list-item dms-list-item-next">
 						<div class="col-sm-3">
 							<h3>RCS Vocal Ensemble</h3>
 							<h4 class="text-info">
@@ -161,6 +124,19 @@ showHeaderBar ( "index" );
 								Royal Conservatoire of Scotland</a>
 						</div>
 					</li>
+				
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-12">
+				<h3 class="text-info">Still to come</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
+				<ul class="list-group">
 
 					<li class="clearfix list-group-item dms-list-item">
 						<div class="col-sm-3">
@@ -259,6 +235,28 @@ showHeaderBar ( "index" );
 						</div>
 					</li>
 
+					<li class="clearfix list-group-item dms-list-item-prev">
+						<div class="col-sm-3">
+							<h3>High Heels and Horsehair</h3>
+							<h4 class="text-info">
+								Saturday, 14<span class="subscript">th</span> November 2015
+							</h4>
+							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
+						</div>
+						<div class="col-sm-3">
+							<img src="/image/hhah-sm.jpeg" />
+						</div>
+						<div class="col-sm-6">
+							<p>String duo High Heels and Horse Hair galloped onto Scotland’s
+								chamber music scene in 2010. Their fresh, dynamic playing and
+								engaging style has delighted audiences across the country and
+								earned them the Enterprise Music Scotland Residency Award for
+								2013-15.</p>
+							<a href="http://www.highheelsandhorsehair.com" target="_blank">More
+								about High Heels and Horsehair</a>
+						</div>
+					</li>
+					
 				</ul>
 			</div>
 		</div>
