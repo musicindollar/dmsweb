@@ -11,6 +11,33 @@ htmlHead ( $title );
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <body>
 
 	<div class="container-fluid">
@@ -55,17 +82,26 @@ showHeaderBar ( "index" );
 						</div>
 						<div class="panel-body">
 							<p>
-								The <a href="#NextConcert">third concert</a> of the current
-								season (2015-16) is on Sunday 17<span class="subscript">th</span>
-								January, at 3:00pm. The pick of vocal students from the Royal Conservatoire will present a varied programme of arais, songs and popular tunes. Don&#39;t miss it!
+								The <a href="#NextConcert">fourth concert</a> of the current
+								season (2015-16) is on Thursday 25<span class="subscript">th</span>
+								February, at 7:30pm. The Atea Wind Quintet will entertain us
+								with a varied programme drawn from the classics onwards. Note
+								this is a midweek concert in the graceful venue of St James the
+								Great church, on the main road just beside the turn-off to
+								Dollar Academy. Please let us know what you think about holding
+								concerts during the week. Don&#39;t miss it!
 							</p>
-<!-- 							<p>For the first time we have a guest appearance, by Dollar -->
-<!-- 								Academy student Christina Callion. She will play piano from -->
-<!-- 								7:15pm. Remember, entry is free of charge for students, so why not come along and enjoy a varied show. -->
-<!-- 							</p> -->
-							It's still not to late to join as a member this season. Great savings for a
-							great programme, plus the satisfaction of supporting Music in
-							Dollar.
+							<p>
+								<img src="/image/heffie2.png" />A group of Alva Academy students are <a
+									href="season/1516/Malawi2016-MusicNightPoster.pdf"
+									target="_blank">putting on a fundraiser concert</a> for their
+								trip to do volunteer work in Malawi. Projects include helping in
+								an AIDS hospice and supporting local orphans. The headline group
+								is <span class="text-danger">Moyenda</span>, a Scottish Malawian hybrid, supported by two local
+								groups performing vocal and traditional Scottish music. Should
+								be fun! Please consider coming along to support the students in
+								this very worthwhile cause. The concert is on Saturday 20<span
+									class="subscript">th</span> February in Dollar Academy.
 							</p>
 						</div>
 					</div>
@@ -98,47 +134,8 @@ showHeaderBar ( "index" );
 			<div class="col-sm-12">
 				<ul class="list-group">
 
-					<li class="clearfix list-group-item dms-list-item dms-list-item-next">
-						<div class="col-sm-3">
-							<h3>RCS Vocal Ensemble</h3>
-							<h4 class="text-info">
-								Sunday, 17<span class="subscript">th</span> January 2016
-							</h4>
-							<p>3:00pm Gibson Hall, Dollar FK7 1QW</p>
-							<p class="text-warning">
-								<img src="/image/warning24.png" />Afternoon concert
-							</p>
-						</div>
-						<div class="col-sm-3">
-							<img src="/image/rcsvocal1-sm.jpg" />
-						</div>
-						<div class="col-sm-6">
-							<p>We are excited to present the cream of young Scottish
-								vocalists from the Royal Conservatoire of Scotland. The stars of
-								the future are coming together to play a unique concert in
-								Dollar.</p>
-							<p>The programme will range widely, with music ranging from
-								popular arias to modern classics to popular tunes! Should be a
-								night to remember.</p>
-							<a href="http://www.rcs.ac.uk" target="_blank">More about the
-								Royal Conservatoire of Scotland</a>
-						</div>
-					</li>
-				
-				</ul>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-sm-12">
-				<h3 class="text-info">Still to come</h3>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<ul class="list-group">
-
-					<li class="clearfix list-group-item dms-list-item">
+					<li
+						class="clearfix list-group-item dms-list-item dms-list-item-next">
 						<div class="col-sm-3">
 							<h3>Atea Wind Quintet</h3>
 							<h4 class="text-info">
@@ -163,6 +160,20 @@ showHeaderBar ( "index" );
 								Atea Wind Quintet</a>
 						</div>
 					</li>
+
+
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-12">
+				<h3 class="text-info">Still to come</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
+				<ul class="list-group">
 
 					<li class="clearfix list-group-item dms-list-item">
 						<div class="col-sm-3">
@@ -208,6 +219,55 @@ showHeaderBar ( "index" );
 			<div class="col-sm-12">
 				<ul class="list-group">
 
+					<li class="clearfix list-group-item dms-list-item">
+						<div class="col-sm-3">
+							<h3>RCS Vocal Ensemble</h3>
+							<h4 class="text-info">
+								Sunday, 17<span class="subscript">th</span> January 2016
+							</h4>
+							<p>3:00pm Gibson Hall, Dollar FK7 1QW</p>
+							<p class="text-warning">
+								<img src="/image/warning24.png" />Afternoon concert
+							</p>
+						</div>
+						<div class="col-sm-3">
+							<img src="/image/rcsvocal1-sm.jpg" />
+						</div>
+						<div class="col-sm-6">
+							<p>We are excited to present the cream of young Scottish
+								vocalists from the Royal Conservatoire of Scotland. The stars of
+								the future are coming together to play a unique concert in
+								Dollar.</p>
+							<p>The programme will range widely, with music ranging from
+								popular arias to modern classics to popular tunes! Should be a
+								night to remember.</p>
+							<a href="http://www.rcs.ac.uk" target="_blank">More about the
+								Royal Conservatoire of Scotland</a>
+						</div>
+					</li>
+
+					<li class="clearfix list-group-item dms-list-item-prev">
+						<div class="col-sm-3">
+							<h3>High Heels and Horsehair</h3>
+							<h4 class="text-info">
+								Saturday, 14<span class="subscript">th</span> November 2015
+							</h4>
+							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
+						</div>
+						<div class="col-sm-3">
+							<img src="/image/hhah-sm.jpeg" />
+						</div>
+						<div class="col-sm-6">
+							<p>String duo High Heels and Horse Hair galloped onto Scotland’s
+								chamber music scene in 2010. Their fresh, dynamic playing and
+								engaging style has delighted audiences across the country and
+								earned them the Enterprise Music Scotland Residency Award for
+								2013-15.</p>
+							<a href="http://www.highheelsandhorsehair.com" target="_blank">More
+								about High Heels and Horsehair</a>
+						</div>
+					</li>
+
 					<li class="clearfix list-group-item dms-list-item-prev">
 						<div class="col-sm-3">
 							<h3>Tommy Smith &amp; Brian Kellock</h3>
@@ -235,28 +295,6 @@ showHeaderBar ( "index" );
 						</div>
 					</li>
 
-					<li class="clearfix list-group-item dms-list-item-prev">
-						<div class="col-sm-3">
-							<h3>High Heels and Horsehair</h3>
-							<h4 class="text-info">
-								Saturday, 14<span class="subscript">th</span> November 2015
-							</h4>
-							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
-						</div>
-						<div class="col-sm-3">
-							<img src="/image/hhah-sm.jpeg" />
-						</div>
-						<div class="col-sm-6">
-							<p>String duo High Heels and Horse Hair galloped onto Scotland’s
-								chamber music scene in 2010. Their fresh, dynamic playing and
-								engaging style has delighted audiences across the country and
-								earned them the Enterprise Music Scotland Residency Award for
-								2013-15.</p>
-							<a href="http://www.highheelsandhorsehair.com" target="_blank">More
-								about High Heels and Horsehair</a>
-						</div>
-					</li>
-					
 				</ul>
 			</div>
 		</div>
