@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
 <?php
 require "header.php";
 $title = "Music in Dollar";
@@ -82,27 +81,21 @@ showHeaderBar ( "index" );
 						</div>
 						<div class="panel-body">
 							<p>
-								The <a href="#NextConcert">fourth concert</a> of the current
-								season (2015-16) is on Thursday 25<span class="subscript">th</span>
-								February, at 7:30pm. The Atea Wind Quintet will entertain us
-								with a varied programme drawn from the classics onwards. Note
-								this is a midweek concert in the graceful venue of St James the
-								Great church, on the main road just beside the turn-off to
-								Dollar Academy. Please let us know what you think about holding
-								concerts during the week. Don&#39;t miss it!
+								The <a href="#NextConcert">fifth and final full concert</a> of
+								the current season (2015-16) is on Saturday 12<span
+									class="subscript">th</span> March, at 7:30pm. Usual venue in
+								Dollar Academy. Rising star solo pianist Alexander Ullman will
+								treat us to a programme of Haydn, Chopin, Liszt and Ravel.
+								Should be a cracker to finish the season! Don&#39;t miss it.
 							</p>
-							<p>
-								<img src="/image/heffie2.png" />A group of Alva Academy students are <a
-									href="season/1516/Malawi2016-MusicNightPoster.pdf"
-									target="_blank">putting on a fundraiser concert</a> for their
-								trip to do volunteer work in Malawi. Projects include helping in
-								an AIDS hospice and supporting local orphans. The headline group
-								is <span class="text-danger">Moyenda</span>, a Scottish Malawian hybrid, supported by two local
-								groups performing vocal and traditional Scottish music. Should
-								be fun! Please consider coming along to support the students in
-								this very worthwhile cause. The concert is on Saturday 20<span
-									class="subscript">th</span> February in Dollar Academy.
-							</p>
+							<div style='display: table'>
+								<img src="/image/cello128.png" style='display: table-cell' />
+								<div style='display: table-cell;'>Before the concert we&#39;ll
+									have cello student Ella Hammond from Dollar Academy playing for
+									us. These performances are proving to be very entertaining in
+									their own right and a great way to start the concert. Arrive
+									early to avoid missing out.</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -135,7 +128,64 @@ showHeaderBar ( "index" );
 				<ul class="list-group">
 
 					<li
-						class="clearfix list-group-item dms-list-item dms-list-item-next">
+						class="clearfix list-group-item dms-list-item-next">
+						<div class="col-sm-3">
+							<h3>Alexander Ullman</h3>
+							<h4 class="text-info">
+								Saturday, 12<span class="subscript">th</span> March 2016
+							</h4>
+							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
+						</div>
+						<div class="col-sm-3">
+							<img src="/image/AlexanderUllman-sm.jpeg" />
+						</div>
+						<div class="col-sm-6">
+							<p>
+								"It is not that Ullman is going to be one of the world’s great
+								pianists. He is that now. If ever you have the chance to hear
+								Alexander Ullman, don’t pass it by." <span><i>Jack Buckley</i></span>
+							</p>
+							<p>Winner of multiple competitions and praised from all quarters,
+								Alexander Ullman is a treat not to be missed.</p>
+							<p>
+								<a href="http://www.keyboardtrust.org/artists/alexander-ullman/"
+									target="_blank">More about Alexander Ullman</a>
+							</p>
+							<p>
+								<a href="https://www.youtube.com/watch?v=9CcWL5D7A2g">See
+									Alexander play</a>
+							</p>
+						</div>
+					</li>
+
+				</ul>
+			</div>
+		</div>
+
+<!-- 		<div class="row">
+			<div class="col-sm-12">
+				<h3 class="text-info">Still to come</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
+				<ul class="list-group">
+
+				</ul>
+			</div>
+		</div> -->
+
+
+		<div id="PrevConcert" class="row">
+			<div class="col-sm-12">
+				<h3 class="text-info">Previous concerts</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
+				<ul class="list-group">
+
+					<li class="clearfix list-group-item dms-list-item-prev">
 						<div class="col-sm-3">
 							<h3>Atea Wind Quintet</h3>
 							<h4 class="text-info">
@@ -161,65 +211,7 @@ showHeaderBar ( "index" );
 						</div>
 					</li>
 
-
-				</ul>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-sm-12">
-				<h3 class="text-info">Still to come</h3>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<ul class="list-group">
-
-					<li class="clearfix list-group-item dms-list-item">
-						<div class="col-sm-3">
-							<h3>Alexander Ullman</h3>
-							<h4 class="text-info">
-								Saturday, 12<span class="subscript">th</span> March 2016
-							</h4>
-							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
-						</div>
-						<div class="col-sm-3">
-							<img src="/image/AlexanderUllman-sm.jpeg" />
-						</div>
-						<div class="col-sm-6">
-							<p>
-								"It is not that Ullman is going to be one of the world’s great
-								pianists. He is that now. If ever you have the chance to hear
-								Alexander Ullman, don’t pass it by." <span><i>Jack Buckley</i></span>
-							</p>
-							<p>Winner of multiple competitions and praised from all quarters,
-								Alexander Ullman is a treat not to be missed.</p>
-							<p>
-								<a href="http://www.keyboardtrust.org/artists/alexander-ullman/"
-									target="_blank">More about Alexander Ullman</a>
-							</p>
-							<p>
-								<a href="http://www.youtube.com/watch?v=rxRSw2_iWTg">See
-									Alexander play</a>
-							</p>
-						</div>
-					</li>
-
-				</ul>
-			</div>
-		</div>
-
-
-		<div id="PrevConcert" class="row">
-			<div class="col-sm-12">
-				<h3 class="text-info">Previous concerts</h3>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<ul class="list-group">
-
-					<li class="clearfix list-group-item dms-list-item">
+					<li class="clearfix list-group-item dms-list-item-prev">
 						<div class="col-sm-3">
 							<h3>RCS Vocal Ensemble</h3>
 							<h4 class="text-info">
