@@ -81,21 +81,14 @@ showHeaderBar ( "index" );
 						</div>
 						<div class="panel-body">
 							<p>
-								The <a href="#NextConcert">fifth and final full concert</a> of
-								the current season (2015-16) is on Saturday 12<span
-									class="subscript">th</span> March, at 7:30pm. Usual venue in
-								Dollar Academy. Rising star solo pianist Alexander Ullman will
-								treat us to a programme of Haydn, Chopin, Liszt and Ravel.
-								Should be a cracker to finish the season! Don&#39;t miss it.
+								Well that was a fantastic way to end the full concert season! <a
+									href="#PrevConcert">Alexander Ullman</a> dazzled and delighted
+								us with precision, deep musical insight and a complete mastery
+								of the instrument. From racy yet millimetre perfect Haydn to the
+								big sound of the Liszt Sonata, this was a rare treat."
 							</p>
-							<div style='display: table'>
-								<img src="/image/cello128.png" style='display: table-cell' />
-								<div style='display: table-cell;'>Before the concert we&#39;ll
-									have cello student Ella Hammond from Dollar Academy playing for
-									us. These performances are proving to be very entertaining in
-									their own right and a great way to start the concert. Arrive
-									early to avoid missing out.</div>
-							</div>
+							<p>Next up is the members evening, including a short AGM. Playing
+								for us are <a href="#NextConcert">Burnside Baroque</a>. Should be a fascinating evening.</p>
 						</div>
 					</div>
 				</div>
@@ -127,14 +120,64 @@ showHeaderBar ( "index" );
 			<div class="col-sm-12">
 				<ul class="list-group">
 
-					<li
-						class="clearfix list-group-item dms-list-item-next">
+					<li class="clearfix list-group-item dms-list-item-prev">
+						<div class="col-sm-3">
+							<h3>Burnside Baroque</h3>
+							<h4 class="text-info">
+								Thursday, 19<span class="subscript">th</span> May 2016
+							</h4>
+							<p>7:00pm Burnside Hall, Dollar <a href="https://www.google.co.uk/maps/place/E+Burnside,+Dollar,+Clackmannanshire+FK14+7AT/@56.164462,-3.6727511,17z/data=!3m1!4b1!4m2!3m1!1s0x48862aa6dd8e796b:0xdb1e4fb0eecc11d1">FK14 7AT</a></p>
+						</div>
+						<div class="col-sm-3">
+							<img src="/image/burnsidebaroque-sm.png" />
+						</div>
+						<div class="col-sm-6">
+							<p>For our Members evening we have Lynne Hope with her ensemble
+								Burnside Baroque (the name is not a coincidence). They will play
+								a selection of music from the era before Beethoven and Mozart.</p>
+							<p>Should be a fascinating insight into an accessible and much
+								loved style.</p>
+							<p>
+								<a href="https://www.facebook.com/burnside.baroque/"
+									target="_blank">More about Burnside Baroque</a>
+							</p>
+						</div>
+					</li>
+
+				</ul>
+			</div>
+		</div>
+
+		<!-- 		<div class="row">
+			<div class="col-sm-12">
+				<h3 class="text-info">Still to come</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
+				<ul class="list-group">
+
+				</ul>
+			</div>
+		</div> -->
+
+
+		<div id="PrevConcert" class="row">
+			<div class="col-sm-12">
+				<h3 class="text-info">Previous concerts</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12">
+				<ul class="list-group">
+
+					<li class="clearfix list-group-item dms-list-item-prev">
 						<div class="col-sm-3">
 							<h3>Alexander Ullman</h3>
 							<h4 class="text-info">
 								Saturday, 12<span class="subscript">th</span> March 2016
 							</h4>
-							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
+							<p>7:30pm Gibson Hall, Dollar FK14 7DU</p>
 						</div>
 						<div class="col-sm-3">
 							<img src="/image/AlexanderUllman-sm.jpeg" />
@@ -157,33 +200,6 @@ showHeaderBar ( "index" );
 							</p>
 						</div>
 					</li>
-
-				</ul>
-			</div>
-		</div>
-
-<!-- 		<div class="row">
-			<div class="col-sm-12">
-				<h3 class="text-info">Still to come</h3>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<ul class="list-group">
-
-				</ul>
-			</div>
-		</div> -->
-
-
-		<div id="PrevConcert" class="row">
-			<div class="col-sm-12">
-				<h3 class="text-info">Previous concerts</h3>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<ul class="list-group">
 
 					<li class="clearfix list-group-item dms-list-item-prev">
 						<div class="col-sm-3">
@@ -217,7 +233,7 @@ showHeaderBar ( "index" );
 							<h4 class="text-info">
 								Sunday, 17<span class="subscript">th</span> January 2016
 							</h4>
-							<p>3:00pm Gibson Hall, Dollar FK7 1QW</p>
+							<p>3:00pm Gibson Hall, Dollar FK14 7DU</p>
 							<p class="text-warning">
 								<img src="/image/warning24.png" />Afternoon concert
 							</p>
@@ -244,7 +260,7 @@ showHeaderBar ( "index" );
 							<h4 class="text-info">
 								Saturday, 14<span class="subscript">th</span> November 2015
 							</h4>
-							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
+							<p>7:30pm Gibson Hall, Dollar FK14 7DU</p>
 						</div>
 						<div class="col-sm-3">
 							<img src="/image/hhah-sm.jpeg" />
@@ -266,7 +282,7 @@ showHeaderBar ( "index" );
 							<h4 class="text-info">
 								Saturday, 10<span class="subscript">th</span> October 2015
 							</h4>
-							<p>7:30pm Gibson Hall, Dollar FK7 1QW</p>
+							<p>7:30pm Gibson Hall, Dollar FK14 7DU</p>
 						</div>
 						<div class="col-sm-3">
 							<img src="/image/tommysmithbriankellock.jpeg" />
