@@ -120,7 +120,7 @@ showHeaderBar ( "index" );
 			<div class="col-sm-12">
 				<ul class="list-group">
 
-					<li class="clearfix list-group-item dms-list-item-prev">
+					<li class="clearfix list-group-item dms-list-item-next">
 						<div class="col-sm-3">
 							<h3>Burnside Baroque</h3>
 							<h4 class="text-info">
