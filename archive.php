@@ -23,7 +23,9 @@ showHeaderBar ( "archive" );
 				<h4>Select a season:</h4>
 				<ul class="list-group">
 					<li class="row list-group-item"><a
-						href="/season/1415/season1415.php">2014-15</a></li>
+						href="/season/1516/season1516.php">2015-16</a></li>
+					<li class="row list-group-item"><a
+							href="/season/1415/season1415.php">2014-15</a></li>
 					<li class="row list-group-item"><a
 						href="/season/1314/season1314.php">2013-14</a></li>
 					<li class="row list-group-item"><a
