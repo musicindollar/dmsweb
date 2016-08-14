@@ -287,7 +287,7 @@ htmlHead($title);
                             <span>Anthony Payne, composer</span>
                         </p>
                         <p>
-                            <a href="http://www.fenellabarton.com/PomegranatePianoTrio/"
+                            <a href="http://www.fenellabarton.com/PomegranatePianoTrio/pianotrio_home.html"
                                target="_blank">More about Pomegranate Piano Trio</a>
                         </p>
                     </div>
