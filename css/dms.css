@@ -83,3 +83,7 @@ a.footerlink {
 	padding-left:20px;
 }
 
+/* quotes */
+cite {
+	font-style: italic;
+}

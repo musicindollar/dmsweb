@@ -73,8 +73,8 @@ htmlHead($title);
             <div class="panel panel-default">
                 <div class="panel-body">
                     <a href="season/1617/DMS-Leaflet-2016-17.pdf" target="_blank">View</a>
-                    the full programme for the current season [PDF XXX.XMb] <a
-                        href="season/1616/DMS-Leaflet-2016-17.pdf" target="_blank"><img
+                    the full programme for the current season [PDF 3.5Mb] <a
+                        href="season/1617/DMS-Leaflet-2016-17.pdf" target="_blank"><img
                             src="image/pdf.jpeg"/></a>
                 </div>
             </div>
@@ -104,14 +104,19 @@ htmlHead($title);
                         <img src="/image/1617/wildings-2-sm.png"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>Wildings are an all-female trio playing a blend of traditional music with a wholly modern
-                            freshness.</p>
-                        <p>Multi-layered strings and flutes, fresh reworkings of traditional song, a sprinkling of
+                        <p>Wildings are an all-female trio playing a blend of traditional and new music with a wholly
+                            modern freshness.</p>
+                        <p>
+                            <span>Multi-layered strings and flutes, fresh reworkings of traditional song, a sprinkling of
                             gothic piano, contemplative, filmic soundscapes, the humour and verve of a dance band;
                             Wildings’ ambitious, heartfelt arrangements draw the ear to a new detail with each listen,
-                            and create <cite>“a contagious atmosphere of high energy, fun and spellbinding
-                                intensity”</cite>
-                            <span><i>(Hamish Napier).</i></span></p>
+                            and create</span>
+                            <span class="fa fa-quote-left"></span>
+                            <cite>a contagious atmosphere of high energy, fun and spellbinding
+                                intensity</cite>
+                            <span class="fa fa-quote-right"></span>
+                            <span>(Hamish Napier).</span>
+                        </p>
                         <p>This will kick off the season with energy and sparkle!</p>
                         <p>
                             <a href="http://wildingsmusic.com/"
@@ -154,11 +159,18 @@ htmlHead($title);
                         <p>
                             An exciting new male quartet of classically trained singers. Scozzesi is Italian for
                             'Scottish men', although their repertoire ranges far and wide from Puccini to Gilbert and
-                            Sullivan to traditional tunes.
+                            Sullivan to traditional tunes in four part harmony.
+                        </p>
+                        <p>
+                            <span class="fa fa-quote-left"></span>
+                            <cite>There’s some serious talent there – young conservatoire graduates with numerous opera
+                                roles under their belts.</cite>
+                            <span class="fa fa-quote-right"></span>
+                            <span>The Scotsman</span>
                         </p>
                         <p>
                             Accompained by the dazzling <a href="http://www.edwardcohen.co.uk/">Ed Cohen</a>, who played
-                            for us 2 seasons ago, this should be an evening of pure pleasure.
+                            for us 2 seasons ago, this should be an evening of pure melody and passion.
                         </p>
                         <p>
                             <a href="http://www.classicalmusiciansscotland.com/artists/scozzesi/"
@@ -177,8 +189,9 @@ htmlHead($title);
                             <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a>
                         </p>
-                        <p class="text-warning">
-                            <img src="/image/warning24.png"/>Afternoon concert
+                        <p>
+                            <span class="fa fa-warning text-danger"></span>
+                            <span class="text-warning">Afternoon concert</span>
                         </p>
                     </div>
                     <div class="col-sm-3">
@@ -186,15 +199,15 @@ htmlHead($title);
                     </div>
                     <div class="col-sm-6">
                         <p>
-                            Cuillin Sound is one of Britain's leading wind chamber groups, performing in major concert
+                            Cuillin Sound is a trio comprising the subtle and enchanting blend of flute, clarinet and
+                            bassoon. One of Britain's leading wind chamber groups, they perform in both major concert
                             venues and for smaller communities throughout the UK.
                         </p>
                         <p>The live performance will be accompanied by a film.</p>
                         <p>
-                            The trio also run 'Malvern Winds', one
-                            of the most popular wind chamber music summer schools in the country, as well as an
-                            independent CD label dedicated to the promotion of solo and chamber music for wind
-                            instruments. </p>
+                            The group has an extensive and varied repertoire list that covers a wide range of trios,
+                            duos and solos in many music genres, from original works and arrangements of well known
+                            classics to traditional folk melodies from all over the British Isles.</p>
                         <p>
                             <a href="http://www.cuillinsoundmusic.co.uk/"
                                target="_blank">More about Cuillin Sound</a>
@@ -227,9 +240,12 @@ htmlHead($title);
                             committed and direct” (Chichester Observer, 2014).
                         </p>
                         <p>Winners of numerous awards, the quartet have attracted critical acclaim:</p>
-                        <p><cite>
+                        <p>
+                            <span class="fa fa-quote-left"></span>
+                            <cite>
                                 "This performance was a revelation. joy and anguish, tenderness and high spirits, they
                                 were all there in this understated, refined, masterly performance."</cite>
+                            <span class="fa fa-quote-right"></span>
                         </p>
                         <p>
                             <a href="http://www.ruisiquartet.com/"
@@ -262,12 +278,16 @@ htmlHead($title);
                         <p>The trio's current concert season includes performances of Beethoven's 'Ghost', Rachmaninov
                             Trio Elégiaque No.1 in G minor, Schoenberg's
                             'Verklärte Nacht' and Schubert's Piano Trio in E flat Major.</p>
-                        <p><cite>"Their performance of my trio was splendid - a truly 'felt' interpretation which seemed
-                                to live inside the legendary world of the piece" Anthony Payne, composer.</cite>
-
+                        <p>
+                            <span class="fa fa-quote-left"></span>
+                            <cite>"Their performance of my trio was splendid - a truly 'felt' interpretation which
+                                seemed
+                                to live inside the legendary world of the piece"</cite>
+                            <span class="fa fa-quote-right"></span>
+                            <span>Anthony Payne, composer</span>
                         </p>
                         <p>
-                            <a href="http://www.ruisiquartet.com/"
+                            <a href="http://www.fenellabarton.com/PomegranatePianoTrio/"
                                target="_blank">More about Pomegranate Piano Trio</a>
                         </p>
                     </div>
