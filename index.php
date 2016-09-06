@@ -32,10 +32,21 @@ htmlHead($title);
                             surprises and fun, and we're sure this season will match it.
                         </p>
                         <p>
-                            Next event is the coffee morning, on <b>Saturday 24<span class="subscript">th</span>
+                            <span class="fa fa-coffee"></span> Next event is the coffee morning, on <b>Saturday 24<span
+                                    class="subscript">th</span>
                                 September</b>. Good craic, coffee and cake!
-                            No doubt there will be some music, games and lots of fabulous prizes to be won.
-                            Beat the first concert rush and buy next season's tickets early.
+                        </p>
+                        <p>
+                            Come along and hear local jazz star <a href="http://www.fergusmccreadie.co.uk/">Fergus
+                                McCreadie</a> playing live.
+                        </p>
+                        <p>
+                            We also have a <i>special offer</i> - buy a season ticket on or before the coffee morning
+                            and receive 2 free complimentary tickets for the first concert!
+                        </p>
+                        <p>
+                            There will also be a cake stall, music-themed bric-a-brac, games and lots of fabulous prizes
+                            to be won. Not to be missed!
                         </p>
                     </div>
                 </div>
@@ -54,7 +65,7 @@ htmlHead($title);
                     </div>
                     <div class="panel-body">
                         <p>
-                            Want to keep up with music in Dollar? Why not <a
+                            <span class="fa fa-envelope"></span> Want to keep up with music in Dollar? Why not <a
                                 href="contact.php">sign up</a> for our mailing list. We won't
                             swamp you with mail and you can unsubscribe at any time
                         </p>
