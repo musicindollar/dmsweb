@@ -26,27 +26,17 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
+                        <p>Our next concert is on Saturday. We welcome Scozzesi, a quartet of rising opera stars. Not
+                            quite <span class="italic">the four tenors</span>, because there are 2 baritones, but should
+                            still be a cracking evening. Songs will range from opera to musicals to traditional
+                            harmonies.</p>
                         <p>
-                            As summer meanders towards autumn, our thoughts will turn again to another interesting and
-                            varied new season. As usual there is something for everyone. Last season was full of
-                            surprises and fun, and we're sure this season will match it.
-                        </p>
+                            <span class="fa fa-heart"></span> Wildings got the new season off to a cracking start.
+                            The girls forgot to bring their CDs along to the concert, but their <a
+                                href="https://wildings.bandcamp.com/album/wildings">album is for sale online</a>.
                         <p>
-                            <span class="fa fa-coffee"></span> Next event is the coffee morning, on <b>Saturday 24<span
-                                    class="subscript">th</span>
-                                September</b>. Good craic, coffee and cake!
-                        </p>
-                        <p>
-                            Come along and hear local jazz star <a href="http://www.fergusmccreadie.co.uk/">Fergus
-                                McCreadie</a> playing live.
-                        </p>
-                        <p>
-                            We also have a <i>special offer</i> - buy a season ticket on or before the coffee morning
-                            and receive 2 free complimentary tickets for the first concert!
-                        </p>
-                        <p>
-                            There will also be a cake stall, music-themed bric-a-brac, games and lots of fabulous prizes
-                            to be won. Not to be missed!
+                            For anyone who has missed out on membership so far, do not despair! There is still plenty of
+                            time to save on entry for the remaining concerts.
                         </p>
                     </div>
                 </div>
@@ -103,54 +93,6 @@ htmlHead($title);
 
                 <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
-                        <h3>Wildings</h3>
-                        <h4 class="text-info">
-                            Saturday, 8<span class="subscript">th</span> October 2016
-                        </h4>
-                        <p>7:30pm Gibson Hall, Dollar Academy <a
-                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1617/wildings-2-sm.png"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Wildings are an all-female trio playing a blend of traditional and new music with a wholly
-                            modern freshness.</p>
-                        <p>
-                            <span>Multi-layered strings and flutes, fresh reworkings of traditional song, a sprinkling of
-                            gothic piano, contemplative, filmic soundscapes, the humour and verve of a dance band;
-                            Wildings’ ambitious, heartfelt arrangements draw the ear to a new detail with each listen,
-                            and create</span>
-                            <span class="fa fa-quote-left"></span>
-                            <cite>a contagious atmosphere of high energy, fun and spellbinding
-                                intensity</cite>
-                            <span class="fa fa-quote-right"></span>
-                            <span>(Hamish Napier).</span>
-                        </p>
-                        <p>This will kick off the season with energy and sparkle!</p>
-                        <p>
-                            <a href="http://wildingsmusic.com/"
-                               target="_blank">More about Wildings</a>
-                        </p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item">
-                    <div class="col-sm-3">
                         <h3>Scozzesi</h3>
                         <h4 class="text-info">
                             Saturday, 12<span class="subscript">th</span> November 2016
@@ -184,11 +126,28 @@ htmlHead($title);
                             for us 2 seasons ago, this should be an evening of pure melody and passion.
                         </p>
                         <p>
+                            <a href="/season/1617/Programme-161112-Scozzesi.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
+                        <p>
                             <a href="http://www.classicalmusiciansscotland.com/artists/scozzesi/"
                                target="_blank">More about Scozzesi</a>
                         </p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item">
                     <div class="col-sm-3">
@@ -309,20 +268,53 @@ htmlHead($title);
     </div>
 
 
-    <!--    <div id="PrevConcert" class="row">
-            <div class="col-sm-12">
-                <h3 class="text-info">Previous concerts</h3>
-            </div>
+    <div id="PrevConcert" class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Previous concerts</h3>
         </div>
-        <div class="row">
-            <div class="col-sm-12">
-                <ul class="list-group">
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Wildings</h3>
+                        <h4 class="text-info">
+                            Saturday, 8<span class="subscript">th</span> October 2016
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar Academy <a
+                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1617/wildings-2-sm.png"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Wildings are an all-female trio playing a blend of traditional and new music with a wholly
+                            modern freshness.</p>
+                        <p>
+                            <span>Multi-layered strings and flutes, fresh reworkings of traditional song, a sprinkling of
+                            gothic piano, contemplative, filmic soundscapes, the humour and verve of a dance band;
+                            Wildings’ ambitious, heartfelt arrangements draw the ear to a new detail with each listen,
+                            and create</span>
+                            <span class="fa fa-quote-left"></span>
+                            <cite>a contagious atmosphere of high energy, fun and spellbinding
+                                intensity</cite>
+                            <span class="fa fa-quote-right"></span>
+                            <span>(Hamish Napier).</span>
+                        </p>
+                        <p>This will kick off the season with energy and sparkle!</p>
+                        <p>
+                            <a href="http://wildingsmusic.com/"
+                               target="_blank">More about Wildings</a>
+                        </p>
+                    </div>
+                </li>
 
-                </ul>
-            </div>
+            </ul>
         </div>
-    -->
+    </div>
 
     <?php require "footer.php"; ?>
 
