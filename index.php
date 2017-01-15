@@ -26,18 +26,13 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Our next concert is on Saturday. We welcome Scozzesi, a quartet of rising opera stars. Not
-                            quite <span class="italic">the four tenors</span>, because there are 2 baritones, but should
-                            still be a cracking evening. Songs will range from opera to musicals to traditional
-                            harmonies.</p>
-                        <p>
-                            <span class="fa fa-heart"></span> Wildings got the new season off to a cracking start.
-                            The girls forgot to bring their CDs along to the concert, but their <a
-                                href="https://wildings.bandcamp.com/album/wildings">album is for sale online</a>.
-                        <p>
-                            For anyone who has missed out on membership so far, do not despair! There is still plenty of
-                            time to save on entry for the remaining concerts.
-                        </p>
+                        <p>For our first concert of the year we welcome <a href="http://www.cuillinsoundmusic.co.uk/"
+                                                                           target="_blank">Cuillin Sound</a>. With the
+                            intruiging combination of flute, clarinet and bassoon, they play a wide repertoire from the
+                            classics to
+                            traditional folk melodies. The programme includes the feature
+                            work <i>Distant Lands</i> with archive film of the Hebrides. Promises to be something a bit
+                            different!</p>
                     </div>
                 </div>
             </div>
@@ -56,7 +51,7 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                             <span class="fa fa-envelope"></span> Want to keep up with music in Dollar? Why not <a
-                                href="contact.php">sign up</a> for our mailing list. We won't
+                                    href="contact.php">sign up</a> for our mailing list. We won't
                             swamp you with mail and you can unsubscribe at any time
                         </p>
                     </div>
@@ -75,8 +70,8 @@ htmlHead($title);
                 <div class="panel-body">
                     <a href="season/1617/DMS-Leaflet-2016-17.pdf" target="_blank">View</a>
                     the full programme for the current season [PDF 3.5Mb] <a
-                        href="season/1617/DMS-Leaflet-2016-17.pdf" target="_blank"><img
-                            src="image/pdf.jpeg"/></a>
+                            href="season/1617/DMS-Leaflet-2016-17.pdf" target="_blank"><img
+                                src="image/pdf.jpeg"/></a>
                 </div>
             </div>
         </div>
@@ -92,64 +87,6 @@ htmlHead($title);
             <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item-next">
-                    <div class="col-sm-3">
-                        <h3>Scozzesi</h3>
-                        <h4 class="text-info">
-                            Saturday, 12<span class="subscript">th</span> November 2016
-                        </h4>
-                        <p>7:30pm Gibson Hall, Dollar Academy
-                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a>
-                        </p>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1617/scozzesi-1.jpeg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>
-                            Boy band comes to Dollar! Don't worry, they're posh and keep their waistcoats on.
-                        </p>
-                        <p>
-                            An exciting new male quartet of classically trained singers. Scozzesi is Italian for
-                            'Scottish men', although their repertoire ranges far and wide from Puccini to Gilbert and
-                            Sullivan to traditional tunes in four part harmony.
-                        </p>
-                        <p>
-                            <span class="fa fa-quote-left"></span>
-                            <cite>There’s some serious talent there – young conservatoire graduates with numerous opera
-                                roles under their belts.</cite>
-                            <span class="fa fa-quote-right"></span>
-                            <span>The Scotsman</span>
-                        </p>
-                        <p>
-                            Accompained by the dazzling <a href="http://www.edwardcohen.co.uk/">Ed Cohen</a>, who played
-                            for us 2 seasons ago, this should be an evening of pure melody and passion.
-                        </p>
-                        <p>
-                            <a href="/season/1617/Programme-161112-Scozzesi.pdf"
-                               target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="http://www.classicalmusiciansscotland.com/artists/scozzesi/"
-                               target="_blank">More about Scozzesi</a>
-                        </p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item">
                     <div class="col-sm-3">
                         <h3>Cuillin Sound</h3>
                         <h4 class="text-info">
@@ -188,6 +125,19 @@ htmlHead($title);
                         </p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item">
                     <div class="col-sm-3">
@@ -284,7 +234,7 @@ htmlHead($title);
                             Saturday, 8<span class="subscript">th</span> October 2016
                         </h4>
                         <p>7:30pm Gibson Hall, Dollar Academy <a
-                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                     </div>
                     <div class="col-sm-3">
@@ -308,6 +258,51 @@ htmlHead($title);
                         <p>
                             <a href="http://wildingsmusic.com/"
                                target="_blank">More about Wildings</a>
+                        </p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Scozzesi</h3>
+                        <h4 class="text-info">
+                            Saturday, 12<span class="subscript">th</span> November 2016
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar Academy
+                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a>
+                        </p>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1617/scozzesi-1.jpeg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>
+                            Boy band comes to Dollar! Don't worry, they're posh and keep their waistcoats on.
+                        </p>
+                        <p>
+                            An exciting new male quartet of classically trained singers. Scozzesi is Italian for
+                            'Scottish men', although their repertoire ranges far and wide from Puccini to Gilbert and
+                            Sullivan to traditional tunes in four part harmony.
+                        </p>
+                        <p>
+                            <span class="fa fa-quote-left"></span>
+                            <cite>There’s some serious talent there – young conservatoire graduates with numerous opera
+                                roles under their belts.</cite>
+                            <span class="fa fa-quote-right"></span>
+                            <span>The Scotsman</span>
+                        </p>
+                        <p>
+                            Accompained by the dazzling <a href="http://www.edwardcohen.co.uk/">Ed Cohen</a>, who played
+                            for us 2 seasons ago, this should be an evening of pure melody and passion.
+                        </p>
+                        <p>
+                            <a href="/season/1617/Programme-161112-Scozzesi.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="http://www.classicalmusiciansscotland.com/artists/scozzesi/"
+                               target="_blank">More about Scozzesi</a>
                         </p>
                     </div>
                 </li>
