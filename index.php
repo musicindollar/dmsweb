@@ -120,6 +120,10 @@ htmlHead($title);
                                target="_blank">More about Cuillin Sound</a>
                         </p>
                         <p>
+                            <a href="/season/1617/Programme-170129-CuillinSound.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
+                        <p>
                             <a href="https://www.youtube.com/watch?v=WawF4jwn9SY">See
                                 Cuillin Sound play</a>
                         </p>
