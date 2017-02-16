@@ -26,13 +26,21 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>For our first concert of the year we welcome <a href="http://www.cuillinsoundmusic.co.uk/"
-                                                                           target="_blank">Cuillin Sound</a>. With the
-                            intruiging combination of flute, clarinet and bassoon, they play a wide repertoire from the
-                            classics to
-                            traditional folk melodies. The programme includes the feature
-                            work <i>Distant Lands</i> with archive film of the Hebrides. Promises to be something a bit
-                            different!</p>
+                        <p>After Cuillin Sound&#39;s moving and evocative look back at life in the Hebrides and St
+                            Kilda early in
+                            the 20th century, we revert to the elegance of the concert chamber with the vibrant <a
+                                    href="http://www.ruisiquartet.com/"
+                                    target="_blank">Ruisi String Quartet</a>.
+                            They specialise in Haydn, but cover a range of works in a modern and committed style. Come
+                            along and see some of the best of the UK&#39;s young chamber musicans.</p>
+                        <p>Spam alert! We all hate spam, those annoying emails trying to trick and confuse us. At Dollar
+                            Music we send concert reminder emails and a small number of other notices throughout the
+                            year. Perhaps 10 messages in total, using the popular Mail Chimp service. We are very
+                            careful with our subscribers privacy and keep our communications to a minimum. Unfortunately
+                            some email readers will wrongly mark our messages as spam - they don&#39;t know us and
+                            sometimes make mistakes. If you don&#39;t receive concert reminders there's a strong chance
+                            that your email reader is putting it in the spam box. If you don&#39;t find it there then
+                            please do get in touch and we&#39;ll make sure you&#39;re on the list.</p>
                     </div>
                 </div>
             </div>
@@ -88,63 +96,6 @@ htmlHead($title);
 
                 <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
-                        <h3>Cuillin Sound</h3>
-                        <h4 class="text-info">
-                            Sunday, 29<span class="subscript">th</span> January 2017
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar Academy
-                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a>
-                        </p>
-                        <p>
-                            <span class="fa fa-warning text-danger"></span>
-                            <span class="text-warning">Afternoon concert</span>
-                        </p>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1617/CuillinSound-sm.png"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>
-                            Cuillin Sound is a trio comprising the subtle and enchanting blend of flute, clarinet and
-                            bassoon. One of Britain's leading wind chamber groups, they perform in both major concert
-                            venues and for smaller communities throughout the UK.
-                        </p>
-                        <p>The live performance will be accompanied by a film.</p>
-                        <p>
-                            The group has an extensive and varied repertoire list that covers a wide range of trios,
-                            duos and solos in many music genres, from original works and arrangements of well known
-                            classics to traditional folk melodies from all over the British Isles.</p>
-                        <p>
-                            <a href="http://www.cuillinsoundmusic.co.uk/"
-                               target="_blank">More about Cuillin Sound</a>
-                        </p>
-                        <p>
-                            <a href="/season/1617/Programme-170129-CuillinSound.pdf"
-                               target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="https://www.youtube.com/watch?v=WawF4jwn9SY">See
-                                Cuillin Sound play</a>
-                        </p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item">
-                    <div class="col-sm-3">
                         <h3>Ruisi String Quartet</h3>
                         <h4 class="text-info">
                             Saturday, 25<span class="subscript">th</span> February 2017
@@ -171,12 +122,26 @@ htmlHead($title);
                                 were all there in this understated, refined, masterly performance."</cite>
                             <span class="fa fa-quote-right"></span>
                         </p>
+                        <p>They come to Dollar as the current Tunnell Trust award winners.</p>
                         <p>
                             <a href="http://www.ruisiquartet.com/"
                                target="_blank">More about Ruisi String Quartet</a>
                         </p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item">
                     <div class="col-sm-3">
@@ -307,6 +272,50 @@ htmlHead($title);
                         <p>
                             <a href="http://www.classicalmusiciansscotland.com/artists/scozzesi/"
                                target="_blank">More about Scozzesi</a>
+                        </p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Cuillin Sound</h3>
+                        <h4 class="text-info">
+                            Sunday, 29<span class="subscript">th</span> January 2017
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar Academy
+                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a>
+                        </p>
+                        <p>
+                            <span class="fa fa-warning text-danger"></span>
+                            <span class="text-warning">Afternoon concert</span>
+                        </p>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1617/CuillinSound-sm.png"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>
+                            Cuillin Sound is a trio comprising the subtle and enchanting blend of flute, clarinet and
+                            bassoon. One of Britain's leading wind chamber groups, they perform in both major concert
+                            venues and for smaller communities throughout the UK.
+                        </p>
+                        <p>The live performance will be accompanied by a film.</p>
+                        <p>
+                            The group has an extensive and varied repertoire list that covers a wide range of trios,
+                            duos and solos in many music genres, from original works and arrangements of well known
+                            classics to traditional folk melodies from all over the British Isles.</p>
+                        <p>
+                            <a href="http://www.cuillinsoundmusic.co.uk/"
+                               target="_blank">More about Cuillin Sound</a>
+                        </p>
+                        <p>
+                            <a href="/season/1617/Programme-170129-CuillinSound.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="https://www.youtube.com/watch?v=WawF4jwn9SY">See
+                                Cuillin Sound play</a>
                         </p>
                     </div>
                 </li>
