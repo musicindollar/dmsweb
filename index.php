@@ -124,6 +124,10 @@ htmlHead($title);
                         </p>
                         <p>They come to Dollar as the current Tunnell Trust award winners.</p>
                         <p>
+                            <a href="/season/1617/Programme-170225-RuisiQuartet.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
+                        <p>
                             <a href="http://www.ruisiquartet.com/"
                                target="_blank">More about Ruisi String Quartet</a>
                         </p>
