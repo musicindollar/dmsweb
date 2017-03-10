@@ -26,13 +26,8 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>After Cuillin Sound&#39;s moving and evocative look back at life in the Hebrides and St
-                            Kilda early in
-                            the 20th century, we revert to the elegance of the concert chamber with the vibrant <a
-                                    href="http://www.ruisiquartet.com/"
-                                    target="_blank">Ruisi String Quartet</a>.
-                            They specialise in Haydn, but cover a range of works in a modern and committed style. Come
-                            along and see some of the best of the UK&#39;s young chamber musicans.</p>
+                        <p>The final concert of the season is the Pomegranate Piano Trio. They will play some of the
+                            best-loved classics from the trio repertoire. Don&#39;t miss it!</p>
                         <p>Spam alert! We all hate spam, those annoying emails trying to trick and confuse us. At Dollar
                             Music we send concert reminder emails and a small number of other notices throughout the
                             year. Perhaps 10 messages in total, using the popular Mail Chimp service. We are very
@@ -96,59 +91,6 @@ htmlHead($title);
 
                 <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
-                        <h3>Ruisi String Quartet</h3>
-                        <h4 class="text-info">
-                            Saturday, 25<span class="subscript">th</span> February 2017
-                        </h4>
-                        <p>7:30pm Gibson Hall, Dollar Academy
-                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a>
-                        </p>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1617/ruisi-2-sm.png"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>
-                            The Ruisi Quartet has quickly established a reputation as one of the leading British
-                            quartets of its generation, delivering performances that are “strikingly immediate,
-                            committed and direct” (Chichester Observer, 2014).
-                        </p>
-                        <p>Winners of numerous awards, the quartet have attracted critical acclaim:</p>
-                        <p>
-                            <span class="fa fa-quote-left"></span>
-                            <cite>
-                                "This performance was a revelation. joy and anguish, tenderness and high spirits, they
-                                were all there in this understated, refined, masterly performance."</cite>
-                            <span class="fa fa-quote-right"></span>
-                        </p>
-                        <p>They come to Dollar as the current Tunnell Trust award winners.</p>
-                        <p>
-                            <a href="/season/1617/Programme-170225-RuisiQuartet.pdf"
-                               target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="http://www.ruisiquartet.com/"
-                               target="_blank">More about Ruisi String Quartet</a>
-                        </p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item">
-                    <div class="col-sm-3">
                         <h3>Pomegranate Piano Trio</h3>
                         <h4 class="text-info">
                             Saturday, 11<span class="subscript">th</span> March 2017
@@ -180,11 +122,28 @@ htmlHead($title);
                             <span>Anthony Payne, composer</span>
                         </p>
                         <p>
+                            <a href="/season/1617/Programme-170311-PomegranateTrio.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
+                        <p>
                             <a href="http://www.fenellabarton.com/PomegranatePianoTrio/pianotrio_home.html"
                                target="_blank">More about Pomegranate Piano Trio</a>
                         </p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
             </ul>
         </div>
@@ -320,6 +279,46 @@ htmlHead($title);
                         <p>
                             <a href="https://www.youtube.com/watch?v=WawF4jwn9SY">See
                                 Cuillin Sound play</a>
+                        </p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Ruisi String Quartet</h3>
+                        <h4 class="text-info">
+                            Saturday, 25<span class="subscript">th</span> February 2017
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar Academy
+                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a>
+                        </p>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1617/ruisi-2-sm.png"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>
+                            The Ruisi Quartet has quickly established a reputation as one of the leading British
+                            quartets of its generation, delivering performances that are “strikingly immediate,
+                            committed and direct” (Chichester Observer, 2014).
+                        </p>
+                        <p>Winners of numerous awards, the quartet have attracted critical acclaim:</p>
+                        <p>
+                            <span class="fa fa-quote-left"></span>
+                            <cite>
+                                "This performance was a revelation. joy and anguish, tenderness and high spirits, they
+                                were all there in this understated, refined, masterly performance."</cite>
+                            <span class="fa fa-quote-right"></span>
+                        </p>
+                        <p>They come to Dollar as the current Tunnell Trust award winners.</p>
+                        <p>
+                            <a href="/season/1617/Programme-170225-RuisiQuartet.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="http://www.ruisiquartet.com/"
+                               target="_blank">More about Ruisi String Quartet</a>
                         </p>
                     </div>
                 </li>
