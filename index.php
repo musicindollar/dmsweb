@@ -29,10 +29,14 @@ htmlHead($title);
                         <p>We are excited to present the 2017-18 season. With artists of the highest quality
                             and a wide array of styles there is something for everyone.
                         </p>
-                        <p>Although we are often privileged to have performers of international standing,
-                            <em>Tasmin Little</em> is possibly the biggest star we have attracted to Dollar.
+                        <p><span class="fa fa-star" style="color:orange"></span>Although we are often privileged to have performers of international standing,
+                            <span class="lead">Tasmin Little</span> is possibly the
+                            biggest star we have attracted to Dollar.
                             We expect demand for tickets to be high and have introduced advanced ticket sales
                             to help avoid diappointment on the night if we&#39;re sold out.</p>
+                        <p>Please <a href="season/1718/MusicInDollar-Membership-1718.docx">use the booking form</a> to
+                            reserve your seat. Bring along your friends too! If you have any questions then please <a
+                                    href="contact.php">contact us</a>.</p>
                         <p>Look forward to seeing you at the concerts!</p>
                     </div>
                 </div>
@@ -169,8 +173,8 @@ htmlHead($title);
                                 website</a>
                             , and performing in smaller community settings.</p>
                         <p><em>We expect demand to be high for tickets, so reservation is recommended</em>. Please <a
-                                    href="contact.php">contact us</a> to reserve tickets.</p>
-
+                                    href="season/1718/MusicInDollar-Membership-1718.docx">use the booking form</a> to
+                            reserve tickets.</p>
                         <p>
                             <span class="fa fa-quote-left"></span>
                             <cite>Little’s execution was flawless, her tone pure and penetrating</cite>
@@ -266,27 +270,22 @@ htmlHead($title);
                         <p>
                             At the age of 22 Daniel Lebhardt won 1st Prize at the 2014 Young Concert
                             Artists auditions in Paris and New York. A year later, he was selected by Young
-                            Classical Artists Trust in London and in
-                            2016 won the Most Promising Pianist prize
-                            at the Sydney International Piano
-                            Competition.
+                            Classical Artists Trust in London and in 2016 won the Most Promising Pianist prize
+                            at the Sydney International Piano Competition.
                         </p>
-                        <p>Over the last year, Daniel has made his
-                            debut at the Kennedy Center in Washington
-                            DC and the Usedomer Festival in Germany
-                            and recorded for Decca.
+                        <p>Over the last year, Daniel has made his debut at the Kennedy Center in Washington
+                            DC and the Usedomer Festival in Germany and recorded for Decca.
                         </p>
                         <p>
-                            Born in Hungary, Daniel studied at the Franz
-                            Liszt Academy in Budapest and at the Royal
+                            Born in Hungary, Daniel studied at the Franz Liszt Academy in Budapest and at the Royal
                             Academy of Music with Pascal Nemirovski.</p>
-                        <p>BEETHOVEN: Sonata in D minor Op 32 No
-                            2 'Tempest Sonata'
-                            LISZT: Après une lecture du Dante -
-                            Fantasia quasi sonata, S161/7
-                            RAVEL: Gaspard de la nuit
-                            LISZT: Mephisto-Walzer no. 2, S515
-                        </p>
+                        <ul>
+                            <li>BEETHOVEN: Sonata in D minor Op 32 No 2 'Tempest Sonata'</li>
+                            <li>LISZT: Après une lecture du Dante - Fantasia quasi sonata, S161/7</li>
+                            <li>RAVEL: Gaspard de la nuit</li>
+                            <li>LISZT: Mephisto-Walzer no. 2, S515</li>
+                        </ul>
+                        <p></p>
                         <p>
                             <a href="https://en-gb.facebook.com/danielconcertpianist/"
                                target="_blank">More about Daniel Lebhardt</a>
