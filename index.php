@@ -29,13 +29,15 @@ htmlHead($title);
                         <p>We are excited to present the 2017-18 season. With artists of the highest quality
                             and a wide array of styles there is something for everyone.
                         </p>
-                        <p><span class="fa fa-star" style="color:orange"></span>Although we are often privileged to have performers of international standing,
+                        <p><span class="fa fa-star" style="color:orange"></span>Although we are often privileged to have
+                            performers of international standing,
                             <span class="lead">Tasmin Little</span> is possibly the
                             biggest star we have attracted to Dollar.
                             We expect demand for tickets to be high and have introduced advanced ticket sales
                             to help avoid diappointment on the night if we&#39;re sold out.</p>
                         <p>Please <a href="season/1718/MusicInDollar-Membership-1718.docx">use the booking form</a> to
-                            reserve your seat. Bring along your friends too! If you have any questions then please <a
+                            reserve your seat <a href="season/1718/MusicInDollar-Membership-1718.pdf">(or print the PDF
+                                version)</a>. Bring along your friends too! If you have any questions then please <a
                                     href="contact.php">contact us</a>.</p>
                         <p>Look forward to seeing you at the concerts!</p>
                     </div>
