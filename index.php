@@ -150,7 +150,7 @@ htmlHead($title);
                     <div class="col-sm-3">
                         <h3>Tasmin Little</h3>
                         <h4 class="text-info">
-                            Saturday, 8<span class="subscript">th</span> October 2017
+                            Saturday, 14<span class="subscript">th</span> October 2017
                         </h4>
                         <p>7:30pm Gibson Hall, Dollar Academy <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
