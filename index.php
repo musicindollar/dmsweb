@@ -40,6 +40,13 @@ htmlHead($title);
                                 version)</a>. Bring along your friends too! If you have any questions then please <a
                                     href="contact.php">contact us</a>.</p>
                         <p>Look forward to seeing you at the concerts!</p>
+                        <hr/>
+                        <p>Charity Concert - A local charity <span class="italic"><a
+                                        href="https://www.facebook.com/events/1018897761583177/">Opening More Doors</a></span>
+                            is runnning a concert <a
+                                    href="http://my.stirling.gov.uk/events/view/3875">A Matinee of Music</a>, on Sunday
+                            1st October 2017 at Albert Halls, Stirling.
+                            Features The Hart Male Voice Choir and Hillfoots Music for Youth.</p>
                     </div>
                 </div>
             </div>
@@ -49,7 +56,7 @@ htmlHead($title);
                         <h4 class="text-info">Who are we?</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Dollar Music Society is an independent organisation with a
+                        <p>Music in Dollar is an independent organisation with a
                             mission to promote music and the arts around Dollar,
                             Clackmannanshire, Scotland.</p>
                         <a type="button" class="btn btn-default btn-xs" href="about.php">read
@@ -188,15 +195,19 @@ htmlHead($title);
                             <span class="fa fa-quote-right"></span>
                             <span>Bard of Tysoe</span></p>
                         <p>
-                            <!--                        <p>-->
-                            <!--                            <a href="/season/1718/Programme-171008-TasminLittle.pdf"-->
-                            <!--                               target="_blank">Concert programme</a>-->
-                            <!--                        </p>-->
                             <a href="http://www.tasminlittle.org.uk/"
-                               target="_blank">More about Tasmin Little</a>
+                               target="_blank">Mordddddddddde about Tasmin Little</a>
                         </p>
                         <p><a href="https://www.youtube.com/watch?v=Dev2J7ihCJM">See
                                 Tasmin play</a>
+                        <p>charritty</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Charity event</p>
+                        <p>We are privileged to have one of the world's famous musicians playing for us in
+                            Dollar. Tasmin Little is an artist of international standing, recognised as one of
+                            the top violinists. She has performed on every continent in some of the most
+                            prestigious venues.</p>
                     </div>
                 </li>
 
