@@ -26,6 +26,13 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
+                        <p>First concert of the season is a dash of Latin Jazz, courtesy of <a href="#NextConcert">Mario
+                                Caribe</a> and his Jazz
+                            Quartet.
+                            <a href="http://www.fergusmccreadie.co.uk/">Fergus McCreadie</a> will open with a
+                            pre-concert performance on piano, from 7:00pm. Arrive
+                            early to catch it all!</p>
+                        <hr/>
                         <p>We are excited to present the 2017-18 season. With artists of the highest quality
                             and a wide array of styles there is something for everyone.
                         </p>
@@ -69,6 +76,16 @@ htmlHead($title);
                             swamp you with mail and you can unsubscribe at any time
                         </p>
                     </div>
+                    <div class="panel-body">
+                        <p>
+                            <span class="fa fa-hand-o-right"></span> Music in Dollar needs you! Due to retiral and
+                            relocation of some long-serving committee member we&#39;re looking for new helpers. Why not
+                            join in and help to bring live music of the highest quality to Dollar? No particular skills
+                            are required - just enthusiasm and a couple of hours a month. It&#39;s worthwhile, and fun
+                            too. Please <a href="contact.php">get in touch</a> if you would like to chat about what
+                            might be involved.
+                        </p>
+                    </div>
 
                 </div>
             </div>
@@ -109,6 +126,7 @@ htmlHead($title);
                         <p>7:30pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
+                        <p>Pre-concert performance from 7:00pm</p>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1718/mariocaribe-sm.jpg"/>
@@ -126,17 +144,19 @@ htmlHead($title);
                         </p>
                         <p>Blending the melodic and rhythmic influences of his Brazilian homeland with an
                             exploratory contemporary jazz sensibility, Mario’s music ranges from luscious
-                            ballads to sizzling up-tempo burners. He is joined by Martin Kershaw
-                            (saxophone), Kevin MacKenzie (guitar) and Doug Hough (drums)</p>
-                        <!--                        <p>-->
-                        <!--                            <a href="/season/1718/Programme-170923-MarioCaribe.pdf"-->
-                        <!--                               target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
+                            ballads to sizzling up-tempo burners. He is joined by Phil Bancroft
+                            (saxophone), Kevin MacKenzie (guitar) and Tom Gordon (drums)</p>
+                        <p>
+                            <a href="/season/1718/Programme-170923-MarioCaribe.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="https://en-gb.facebook.com/MarioCaribeQuartet/"
                                target="_blank">More about Mario Caribe</a>
                         </p>
                         <p><a href="https://www.youtube.com/watch?v=GDjhalBH3jw">See Mario play</a></p>
+                        <p>Our pre-concert performance is provided by <a href="http://www.fergusmccreadie.co.uk/">Fergus
+                                McCreadie</a>, our own jazz star in the making.</p>
                     </div>
                 </li>
 
@@ -196,18 +216,10 @@ htmlHead($title);
                             <span>Bard of Tysoe</span></p>
                         <p>
                             <a href="http://www.tasminlittle.org.uk/"
-                               target="_blank">Mordddddddddde about Tasmin Little</a>
+                               target="_blank">More about Tasmin Little</a>
                         </p>
                         <p><a href="https://www.youtube.com/watch?v=Dev2J7ihCJM">See
                                 Tasmin play</a>
-                        <p>charritty</p>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Charity event</p>
-                        <p>We are privileged to have one of the world's famous musicians playing for us in
-                            Dollar. Tasmin Little is an artist of international standing, recognised as one of
-                            the top violinists. She has performed on every continent in some of the most
-                            prestigious venues.</p>
                     </div>
                 </li>
 
