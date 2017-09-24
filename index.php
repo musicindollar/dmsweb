@@ -26,16 +26,6 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>First concert of the season is a dash of Latin Jazz, courtesy of <a href="#NextConcert">Mario
-                                Caribe</a> and his Jazz
-                            Quartet.
-                            <a href="http://www.fergusmccreadie.co.uk/">Fergus McCreadie</a> will open with a
-                            pre-concert performance on piano, from 7:00pm. Arrive
-                            early to catch it all!</p>
-                        <hr/>
-                        <p>We are excited to present the 2017-18 season. With artists of the highest quality
-                            and a wide array of styles there is something for everyone.
-                        </p>
                         <p><span class="fa fa-star" style="color:orange"></span>Although we are often privileged to have
                             performers of international standing,
                             <span class="lead">Tasmin Little</span> is possibly the
@@ -46,7 +36,10 @@ htmlHead($title);
                             reserve your seat <a href="season/1718/MusicInDollar-Membership-1718.pdf">(or print the PDF
                                 version)</a>. Bring along your friends too! If you have any questions then please <a
                                     href="contact.php">contact us</a>.</p>
-                        <p>Look forward to seeing you at the concerts!</p>
+                        <hr/>
+                        <p>You can now buy tickets in advance, using the link beside each concert. Otherwise, entry
+                            arrangements are unchanged. Buy tickets on the door, or buy a season ticket for best
+                            value</p>
                         <hr/>
                         <p>Charity Concert - A local charity <span class="italic"><a
                                         href="https://www.facebook.com/events/1018897761583177/">Opening More Doors</a></span>
@@ -119,62 +112,6 @@ htmlHead($title);
 
                 <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
-                        <h3>Mario Caribe Jazz Quartet</h3>
-                        <h4 class="text-info">
-                            Saturday, 23<span class="subscript">rd</span> September 2017
-                        </h4>
-                        <p>7:30pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <p>Pre-concert performance from 7:00pm</p>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1718/mariocaribe-sm.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Jazz with a Latin twist (and shout)!
-                            Born in Sao Paulo, Brazil, Mario moved to Scotland to study,
-                            where was invited to join the Tommy Smith Sextet 'Beasts of Scotland', and the
-                            Scottish National Jazz Orchestra. He has played with many of the leading
-                            jazz musicians in the UK including Tommy Smith, Carol Kidd and Brian Kellock.
-                        </p>
-                        <p>
-                            Mario is extensively involved with Jazz Education, including workshops about
-                            Latin American Music, the NYJO and the Napier Jazz Summer Course.
-                        </p>
-                        <p>Blending the melodic and rhythmic influences of his Brazilian homeland with an
-                            exploratory contemporary jazz sensibility, Mario’s music ranges from luscious
-                            ballads to sizzling up-tempo burners. He is joined by Phil Bancroft
-                            (saxophone), Kevin MacKenzie (guitar) and Tom Gordon (drums)</p>
-                        <p>
-                            <a href="/season/1718/Programme-170923-MarioCaribe.pdf"
-                               target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="https://en-gb.facebook.com/MarioCaribeQuartet/"
-                               target="_blank">More about Mario Caribe</a>
-                        </p>
-                        <p><a href="https://www.youtube.com/watch?v=GDjhalBH3jw">See Mario play</a></p>
-                        <p>Our pre-concert performance is provided by <a href="http://www.fergusmccreadie.co.uk/">Fergus
-                                McCreadie</a>, our own jazz star in the making.</p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item">
-                    <div class="col-sm-3">
                         <h3>Tasmin Little</h3>
                         <h4 class="text-info">
                             Saturday, 14<span class="subscript">th</span> October 2017
@@ -182,6 +119,11 @@ htmlHead($title);
                         <p>7:30pm Gibson Hall, Dollar Academy <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
+                        <!--                        <div>-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks" href="http://www.wegottickets.com/event/xxx"-->
+                        <!--                               target="_blank">-->
+                        <!--                                <span>Buy tickets</span></a>-->
+                        <!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1718/tasminlittle-sm.jpg"/>
@@ -223,6 +165,19 @@ htmlHead($title);
                     </div>
                 </li>
 
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
+
                 <li class="clearfix list-group-item dms-list-item">
                     <div class="col-sm-3">
                         <h3>Joy Dunlop Group</h3>
@@ -237,6 +192,15 @@ htmlHead($title);
                             <span class="fa fa-warning text-danger"></span>
                             <span class="text-warning">Afternoon concert</span>
                         </p>
+                        <!--                        <div class="alert alert-info" role="alert">-->
+                        <!--                            <span class="fa fa-ticket"></span>-->
+                        <!--                            <a href="http://www.wegottickets.com/event/417272" target="_blank">Buy tickets</a>-->
+                        <!--                        </div>-->
+                        <div>
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="http://www.wegottickets.com/event/417272"
+                               target="_blank">Buy tickets</a>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1718/joydunlop-sm.jpg"/>
@@ -287,6 +251,11 @@ htmlHead($title);
                             <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a>
                         </p>
+                        <div>
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="http://www.wegottickets.com/event/417539"
+                               target="_blank">Buy tickets</a>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1718/daniellebhardt-sm.jpg"/>
@@ -334,6 +303,11 @@ htmlHead($title);
                             <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a>
                         </p>
+                        <div>
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="http://www.wegottickets.com/event/417544"
+                               target="_blank">Buy tickets</a>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1718/kosmos-sm.jpg"/>
@@ -376,18 +350,61 @@ htmlHead($title);
         </div>
     </div>
 
-    <!--    <div id="PrevConcert" class="row">-->
-    <!--        <div class="col-sm-12">-->
-    <!--            <h3 class="text-info">Previous concerts</h3>-->
-    <!--        </div>-->
-    <!--    </div>-->
-    <!--    <div class="row">-->
-    <!--        <div class="col-sm-12">-->
-    <!--            <ul class="list-group">-->
-    <!---->
-    <!--            </ul>-->
-    <!--        </div>-->
-    <!--    </div>-->
+    <div id="PrevConcert" class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Previous concerts</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
+
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Mario Caribe Jazz Quartet</h3>
+                        <h4 class="text-info">
+                            Saturday, 23<span class="subscript">rd</span> September 2017
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <p>Pre-concert performance from 7:00pm</p>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1718/mariocaribe-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Jazz with a Latin twist (and shout)!
+                            Born in Sao Paulo, Brazil, Mario moved to Scotland to study,
+                            where was invited to join the Tommy Smith Sextet 'Beasts of Scotland', and the
+                            Scottish National Jazz Orchestra. He has played with many of the leading
+                            jazz musicians in the UK including Tommy Smith, Carol Kidd and Brian Kellock.
+                        </p>
+                        <p>
+                            Mario is extensively involved with Jazz Education, including workshops about
+                            Latin American Music, the NYJO and the Napier Jazz Summer Course.
+                        </p>
+                        <p>Blending the melodic and rhythmic influences of his Brazilian homeland with an
+                            exploratory contemporary jazz sensibility, Mario’s music ranges from luscious
+                            ballads to sizzling up-tempo burners. He is joined by Phil Bancroft
+                            (saxophone), Kevin MacKenzie (guitar) and Tom Gordon (drums)</p>
+                        <p>
+                            <a href="/season/1718/Programme-170923-MarioCaribe.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="https://en-gb.facebook.com/MarioCaribeQuartet/"
+                               target="_blank">More about Mario Caribe</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=GDjhalBH3jw">See Mario play</a></p>
+                        <p>Our pre-concert performance is provided by <a href="http://www.fergusmccreadie.co.uk/">Fergus
+                                McCreadie</a>, our own jazz star in the making.</p>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+    </div>
 
     <?php require "footer.php"; ?>
 
