@@ -32,21 +32,15 @@ htmlHead($title);
                             biggest star we have attracted to Dollar.
                             We expect demand for tickets to be high and have introduced advanced ticket sales
                             to help avoid diappointment on the night if we&#39;re sold out.</p>
-                        <p>Please <a href="season/1718/MusicInDollar-Membership-1718.docx">use the booking form</a> to
+                        <p>Please use the <a href="#buytickettl">Buy tickets</a> link below. Alternatively, <a
+                                    href="season/1718/MusicInDollar-Membership-1718.docx">use this booking form</a> to
                             reserve your seat <a href="season/1718/MusicInDollar-Membership-1718.pdf">(or print the PDF
                                 version)</a>. Bring along your friends too! If you have any questions then please <a
                                     href="contact.php">contact us</a>.</p>
                         <hr/>
                         <p>You can now buy tickets in advance, using the link beside each concert. Otherwise, entry
-                            arrangements are unchanged. Buy tickets on the door, or buy a season ticket for best
-                            value</p>
-                        <hr/>
-                        <p>Charity Concert - A local charity <span class="italic"><a
-                                        href="https://www.facebook.com/events/1018897761583177/">Opening More Doors</a></span>
-                            is runnning a concert <a
-                                    href="http://my.stirling.gov.uk/events/view/3875">A Matinee of Music</a>, on Sunday
-                            1st October 2017 at Albert Halls, Stirling.
-                            Features The Hart Male Voice Choir and Hillfoots Music for Youth.</p>
+                            arrangements are the same as before: buy tickets on the door, or a season ticket for best
+                            value.</p>
                     </div>
                 </div>
             </div>
@@ -119,11 +113,11 @@ htmlHead($title);
                         <p>7:30pm Gibson Hall, Dollar Academy <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <!--                        <div>-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks" href="http://www.wegottickets.com/event/xxx"-->
-                        <!--                               target="_blank">-->
-                        <!--                                <span>Buy tickets</span></a>-->
-                        <!--                        </div>-->
+                        <div id="buytickettl">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="http://www.wegottickets.com/event/417691"
+                               target="_blank">Buy tickets</a>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1718/tasminlittle-sm.jpg"/>
@@ -143,9 +137,7 @@ htmlHead($title);
                             <a href="http://www.tasminlittle.org.uk/free_cd/index.html"> free CD for download on her
                                 website</a>
                             , and performing in smaller community settings.</p>
-                        <p><em>We expect demand to be high for tickets, so reservation is recommended</em>. Please <a
-                                    href="season/1718/MusicInDollar-Membership-1718.docx">use the booking form</a> to
-                            reserve tickets.</p>
+                        <p>We expect demand to be high for tickets, so <em>booking is recommended</em>.</p>
                         <p>
                             <span class="fa fa-quote-left"></span>
                             <cite>Little’s execution was flawless, her tone pure and penetrating</cite>
@@ -156,6 +148,10 @@ htmlHead($title);
                                 clarity</cite>
                             <span class="fa fa-quote-right"></span>
                             <span>Bard of Tysoe</span></p>
+                        <p>
+                            <a href="/season/1718/Programme-171014-TasminLittle.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="http://www.tasminlittle.org.uk/"
                                target="_blank">More about Tasmin Little</a>
