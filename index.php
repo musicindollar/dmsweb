@@ -26,17 +26,10 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p><span class="fa fa-star" style="color:orange"></span>Although we are often privileged to have
-                            performers of international standing,
-                            <span class="lead">Tasmin Little</span> is possibly the
-                            biggest star we have attracted to Dollar.
-                            We expect demand for tickets to be high and have introduced advanced ticket sales
-                            to help avoid diappointment on the night if we&#39;re sold out.</p>
-                        <p>Please use the <a href="#buytickettl">Buy tickets</a> link below. Alternatively, <a
-                                    href="season/1718/MusicInDollar-Membership-1718.docx">use this booking form</a> to
-                            reserve your seat <a href="season/1718/MusicInDollar-Membership-1718.pdf">(or print the PDF
-                                version)</a>. Bring along your friends too! If you have any questions then please <a
-                                    href="contact.php">contact us</a>.</p>
+                        <p>From heady classical virtuosity to celtic song and dance. Our next
+                            concert is Joy Dunlop, the muxh loved and admired singer, dancer
+                            and broadcaster.
+                        </p>
                         <hr/>
                         <p>You can now buy tickets in advance, using the link beside each concert. Otherwise, entry
                             arrangements are the same as before: buy tickets on the door, or a season ticket for best
@@ -106,76 +99,6 @@ htmlHead($title);
 
                 <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
-                        <h3>Tasmin Little</h3>
-                        <h4 class="text-info">
-                            Saturday, 14<span class="subscript">th</span> October 2017
-                        </h4>
-                        <p>7:30pm Gibson Hall, Dollar Academy <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <div id="buytickettl">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="http://www.wegottickets.com/event/417691"
-                               target="_blank">Buy tickets</a>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1718/tasminlittle-sm.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>We are privileged to have one of the world's famous musicians playing for us in
-                            Dollar. Tasmin Little is an artist of international standing, recognised as one of
-                            the top violinists. She has performed on every continent in some of the most
-                            prestigious venues.</p>
-                        <p>Tasmin's recording of the Elgar Violin Concerto with Sir Andrew
-                            Davis and the RSNO garnered outstanding critical acclaim and
-                            was awarded the Critic's Choice Award in the 2011 Classic BRIT Awards.
-                        <p>
-                        </p>
-                        <p>Tasmin is performing her project, 'The Naked Violin', aimed at
-                            breaking down barriers to classical music by releasing a
-                            <a href="http://www.tasminlittle.org.uk/free_cd/index.html"> free CD for download on her
-                                website</a>
-                            , and performing in smaller community settings.</p>
-                        <p>We expect demand to be high for tickets, so <em>booking is recommended</em>.</p>
-                        <p>
-                            <span class="fa fa-quote-left"></span>
-                            <cite>Little’s execution was flawless, her tone pure and penetrating</cite>
-                            <span class="fa fa-quote-right"></span>
-                            <span>Anna Pickard, The Times</span>
-                        <p><span class="fa fa-quote-left"></span>
-                            <cite>What followed was a masterclass in intelligence, unity of belief, inclusion, and
-                                clarity</cite>
-                            <span class="fa fa-quote-right"></span>
-                            <span>Bard of Tysoe</span></p>
-                        <p>
-                            <a href="/season/1718/Programme-171014-TasminLittle.pdf"
-                               target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="http://www.tasminlittle.org.uk/"
-                               target="_blank">More about Tasmin Little</a>
-                        </p>
-                        <p><a href="https://www.youtube.com/watch?v=Dev2J7ihCJM">See
-                                Tasmin play</a>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item">
-                    <div class="col-sm-3">
                         <h3>Joy Dunlop Group</h3>
                         <h4 class="text-info">
                             Sunday, 12<span class="subscript">th</span> November 2017
@@ -236,6 +159,19 @@ htmlHead($title);
                         </p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item">
                     <div class="col-sm-3">
@@ -395,6 +331,63 @@ htmlHead($title);
                         <p><a href="https://www.youtube.com/watch?v=GDjhalBH3jw">See Mario play</a></p>
                         <p>Our pre-concert performance is provided by <a href="http://www.fergusmccreadie.co.uk/">Fergus
                                 McCreadie</a>, our own jazz star in the making.</p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Tasmin Little</h3>
+                        <h4 class="text-info">
+                            Saturday, 14<span class="subscript">th</span> October 2017
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar Academy <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <div id="buytickettl">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="http://www.wegottickets.com/event/417691"
+                               target="_blank">Buy tickets</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1718/tasminlittle-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>We are privileged to have one of the world's famous musicians playing for us in
+                            Dollar. Tasmin Little is an artist of international standing, recognised as one of
+                            the top violinists. She has performed on every continent in some of the most
+                            prestigious venues.</p>
+                        <p>Tasmin's recording of the Elgar Violin Concerto with Sir Andrew
+                            Davis and the RSNO garnered outstanding critical acclaim and
+                            was awarded the Critic's Choice Award in the 2011 Classic BRIT Awards.
+                        <p>
+                        </p>
+                        <p>Tasmin is performing her project, 'The Naked Violin', aimed at
+                            breaking down barriers to classical music by releasing a
+                            <a href="http://www.tasminlittle.org.uk/free_cd/index.html"> free CD for download on her
+                                website</a>
+                            , and performing in smaller community settings.</p>
+                        <p>We expect demand to be high for tickets, so <em>booking is recommended</em>.</p>
+                        <p>
+                            <span class="fa fa-quote-left"></span>
+                            <cite>Little’s execution was flawless, her tone pure and penetrating</cite>
+                            <span class="fa fa-quote-right"></span>
+                            <span>Anna Pickard, The Times</span>
+                        <p><span class="fa fa-quote-left"></span>
+                            <cite>What followed was a masterclass in intelligence, unity of belief, inclusion, and
+                                clarity</cite>
+                            <span class="fa fa-quote-right"></span>
+                            <span>Bard of Tysoe</span></p>
+                        <p>
+                            <a href="/season/1718/Programme-171014-TasminLittle.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="http://www.tasminlittle.org.uk/"
+                               target="_blank">More about Tasmin Little</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=Dev2J7ihCJM">See
+                                Tasmin play</a>
                     </div>
                 </li>
 
