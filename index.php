@@ -31,9 +31,13 @@ htmlHead($title);
                             and broadcaster.
                         </p>
                         <hr/>
-                        <p>You can now buy tickets in advance, using the link beside each concert. Otherwise, entry
-                            arrangements are the same as before: buy tickets on the door, or a season ticket for best
-                            value.</p>
+                        <p>Want to have your say about bringing live music and events to Dollar? We are holding an <b>Open
+                                Evening</b> on Thursday 23rd November in Dollar Golf Club, 7:30-9pm.
+                            Drinks and refreshments are free! Please come along and help us shape the future of Music in
+                            Dollar.
+                        </p>
+                        <p>We need some new volunteers for us to continue with this vibrant part of the community.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -149,10 +153,10 @@ htmlHead($title);
                             <span class="fa fa-quote-right"></span>
                             <span>Newsnet Scotland</span>
                         </p>
-                        <!--                        <p>-->
-                        <!--                            <a href="/season/1718/Programme-171112-JoyDunlop.pdf"-->
-                        <!--                               target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
+                        <p>
+                            <a href="/season/1718/Programme-171112-JoyDunlop.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="http://www.joydunlop.com/"
                                target="_blank">More about Joy Dunlop</a>
