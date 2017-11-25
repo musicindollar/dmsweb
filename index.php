@@ -26,17 +26,19 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>From heady classical virtuosity to celtic song and dance. Our next
-                            concert is Joy Dunlop, the muxh loved and admired singer, dancer
-                            and broadcaster.
+                        <p>Our next outing is to see a live screening of <a
+                                    href="http://www.roh.org.uk/productions/tosca-by-jonathan-kent" target="_blank">Tosca
+                                from the Royal
+                                Opera House</a> in London, on <b>Wednesday 7th February 2018</b>.</p>
+                        <p>Venue is the <a href="http://macrobertartscentre.org/" target="_blank">Macrobert Arts
+                                Centre</a>, with its superb blend of comfort and audio-visual quality.
                         </p>
-                        <hr/>
-                        <p>Want to have your say about bringing live music and events to Dollar? We are holding an <b>Open
-                                Evening</b> on Thursday 23rd November in Dollar Golf Club, 7:30-9pm.
-                            Drinks and refreshments are free! Please come along and help us shape the future of Music in
-                            Dollar.
+                        <p>Tickets cost &#163;15 for members and &#163;20 for non-members. The price includes coach
+                            travel from Dollar to the Macrobert. Bookings are open until <b>20th December</b>.
                         </p>
-                        <p>We need some new volunteers for us to continue with this vibrant part of the community.
+                        <p>You&#39;ll not find top opera cheaper anywhere! Places are limited, so please reserve for
+                            yourself and for any friends or family you wish to bring along. <a href="contact.php">Drop
+                                us a note</a> or <a href="season/1718/ToscaPoster-180207.pdf">contact Bill direct</a>.
                         </p>
                     </div>
                 </div>
@@ -103,82 +105,6 @@ htmlHead($title);
 
                 <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
-                        <h3>Joy Dunlop Group</h3>
-                        <h4 class="text-info">
-                            Sunday, 12<span class="subscript">th</span> November 2017
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar Academy
-                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a>
-                        </p>
-                        <p>
-                            <span class="fa fa-warning text-danger"></span>
-                            <span class="text-warning">Afternoon concert</span>
-                        </p>
-                        <!--                        <div class="alert alert-info" role="alert">-->
-                        <!--                            <span class="fa fa-ticket"></span>-->
-                        <!--                            <a href="http://www.wegottickets.com/event/417272" target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
-                        <div>
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="http://www.wegottickets.com/event/417272"
-                               target="_blank">Buy tickets</a>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1718/joydunlop-sm.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>
-                            Joy Dunlop is a Gaelic singer from Argyll who has performed throughout the
-                            UK, Europe, Japan, Canada and New Zealand, showcasing Gaelic music and
-                            song in a contemporary way that
-                            always remains true to its roots.
-                        </p>
-                        <p>
-                            Nominated as Gaelic Singer of the Year 2016, 2011 and 2010, she has
-                            also won both the coveted Royal National Mòd Gold Medal and the
-                            Oban Times Gold Medal.
-                        </p>
-                        <p>A fluent Gaelic speaker, Joy presents shows on BBC ALBA and Radio nan
-                            Gàidheal. She is also an award winning Scottish step–dancer and is
-                            the only person to have won both the Pan Celtic traditional singing and
-                            dancing competitions.</p>
-                        <p>Joy will be performing a selection of songs in both Scottish Gaelic and
-                            English, in addition to exhilarating step dance dance/music collaborations.</p>
-                        <p>
-                            <span class="fa fa-quote-left"></span>
-                            <cite>Dunlop’s vocals effortlessly cast a spell while the musical arrangements
-                                bring a fresh, modern quality to the traditional songs.</cite>
-                            <span class="fa fa-quote-right"></span>
-                            <span>Newsnet Scotland</span>
-                        </p>
-                        <p>
-                            <a href="/season/1718/Programme-171112-JoyDunlop.pdf"
-                               target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="http://www.joydunlop.com/"
-                               target="_blank">More about Joy Dunlop</a>
-                        </p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item">
-                    <div class="col-sm-3">
                         <h3>Daniel Lebhardt</h3>
                         <h4 class="text-info">
                             Saturday, 10<span class="subscript">th</span> February 2018
@@ -228,6 +154,19 @@ htmlHead($title);
                                 Daniel play</a></p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item">
                     <div class="col-sm-3">
@@ -347,11 +286,11 @@ htmlHead($title);
                         <p>7:30pm Gibson Hall, Dollar Academy <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <div id="buytickettl">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="http://www.wegottickets.com/event/417691"
-                               target="_blank">Buy tickets</a>
-                        </div>
+<!--                        <div id="buytickettl">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="http://www.wegottickets.com/event/417691"-->
+<!--                               target="_blank">Buy tickets</a>-->
+<!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1718/tasminlittle-sm.jpg"/>
@@ -392,6 +331,65 @@ htmlHead($title);
                         </p>
                         <p><a href="https://www.youtube.com/watch?v=Dev2J7ihCJM">See
                                 Tasmin play</a>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Joy Dunlop Group</h3>
+                        <h4 class="text-info">
+                            Sunday, 12<span class="subscript">th</span> November 2017
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar Academy
+                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a>
+                        </p>
+                        <p>
+                            <span class="fa fa-warning text-danger"></span>
+                            <span class="text-warning">Afternoon concert</span>
+                        </p>
+<!--                        <div>-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="http://www.wegottickets.com/event/417272"-->
+<!--                               target="_blank">Buy tickets</a>-->
+<!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1718/joydunlop-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>
+                            Joy Dunlop is a Gaelic singer from Argyll who has performed throughout the
+                            UK, Europe, Japan, Canada and New Zealand, showcasing Gaelic music and
+                            song in a contemporary way that
+                            always remains true to its roots.
+                        </p>
+                        <p>
+                            Nominated as Gaelic Singer of the Year 2016, 2011 and 2010, she has
+                            also won both the coveted Royal National Mòd Gold Medal and the
+                            Oban Times Gold Medal.
+                        </p>
+                        <p>A fluent Gaelic speaker, Joy presents shows on BBC ALBA and Radio nan
+                            Gàidheal. She is also an award winning Scottish step–dancer and is
+                            the only person to have won both the Pan Celtic traditional singing and
+                            dancing competitions.</p>
+                        <p>Joy will be performing a selection of songs in both Scottish Gaelic and
+                            English, in addition to exhilarating step dance dance/music collaborations.</p>
+                        <p>
+                            <span class="fa fa-quote-left"></span>
+                            <cite>Dunlop’s vocals effortlessly cast a spell while the musical arrangements
+                                bring a fresh, modern quality to the traditional songs.</cite>
+                            <span class="fa fa-quote-right"></span>
+                            <span>Newsnet Scotland</span>
+                        </p>
+                        <p>
+                            <a href="/season/1718/Programme-171112-JoyDunlop.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="http://www.joydunlop.com/"
+                               target="_blank">More about Joy Dunlop</a>
+                        </p>
                     </div>
                 </li>
 
