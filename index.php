@@ -34,7 +34,7 @@ htmlHead($title);
                                 Centre</a>, with its superb blend of comfort and audio-visual quality.
                         </p>
                         <p>Tickets cost &#163;15 for members and &#163;20 for non-members. The price includes coach
-                            travel from Dollar to the Macrobert. Bookings are open until <b>20th December</b>.
+                            travel from Dollar to the Macrobert. Bookings are open until <b>8th January</b>.
                         </p>
                         <p>You&#39;ll not find top opera cheaper anywhere! Places are limited, so please reserve for
                             yourself and for any friends or family you wish to bring along. <a href="contact.php">Drop
@@ -142,6 +142,10 @@ htmlHead($title);
                             <li>LISZT: Mephisto-Walzer no. 2, S515</li>
                         </ul>
                         <p></p>
+                        <p>
+                            <a href="/season/1718/Programme-180210-DanielLebhardt.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="https://en-gb.facebook.com/danielconcertpianist/"
                                target="_blank">More about Daniel Lebhardt</a>
