@@ -9,9 +9,9 @@ htmlHead($title);
 <body>
 
 <div class="container-fluid">
-    <?php
-    showHeaderBar("index");
-    ?>
+  <?php
+  showHeaderBar("index");
+  ?>
 
     <div class="navbar navbar-nomargin well clearfix home-subheader">
         <div class="row">
@@ -26,19 +26,14 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Our next outing is to see a live screening of <a
-                                    href="http://www.roh.org.uk/productions/tosca-by-jonathan-kent" target="_blank">Tosca
-                                from the Royal
-                                Opera House</a> in London, on <b>Wednesday 7th February 2018</b>.</p>
-                        <p>Venue is the <a href="http://macrobertartscentre.org/" target="_blank">Macrobert Arts
-                                Centre</a>, with its superb blend of comfort and audio-visual quality.
+                        <p>Our member evening usually follows the <a href="#WhatsOn">last concert of the season</a>.
+                            With the uncertainty about forming next year&#39;s committe, we have not yet arranged the
+                            time, venue and performer.
+                            An email will be sent out, hopefully before the end of March.
                         </p>
-                        <p>Tickets cost &#163;15 for members and &#163;20 for non-members. The price includes coach
-                            travel from Dollar to the Macrobert. Bookings are open until <b>8th January</b>.
-                        </p>
-                        <p>You&#39;ll not find top opera cheaper anywhere! Places are limited, so please reserve for
-                            yourself and for any friends or family you wish to bring along. <a href="contact.php">Drop
-                                us a note</a> or <a href="season/1718/ToscaPoster-180207.pdf">contact Bill direct</a>.
+                        <p>Please make sure that you&#39;ve sent us your current email address and that emails from
+                            musicindollar.org.uk
+                            will not go into spam by mistake!
                         </p>
                     </div>
                 </div>
@@ -103,62 +98,6 @@ htmlHead($title);
         <div class="col-sm-12">
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-next">
-                    <div class="col-sm-3">
-                        <h3>Daniel Lebhardt</h3>
-                        <h4 class="text-info">
-                            Saturday, 10<span class="subscript">th</span> February 2018
-                        </h4>
-                        <p>7:30pm Gibson Hall, Dollar Academy
-                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a>
-                        </p>
-                        <div>
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="http://www.wegottickets.com/event/417539"
-                               target="_blank">Buy tickets</a>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1718/daniellebhardt-sm.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>
-                            At the age of 22 Daniel Lebhardt won 1st Prize at the 2014 Young Concert
-                            Artists auditions in Paris and New York. A year later, he was selected by Young
-                            Classical Artists Trust in London and in 2016 won the Most Promising Pianist prize
-                            at the Sydney International Piano Competition.
-                        </p>
-                        <p>Over the last year, Daniel has made his debut at the Kennedy Center in Washington
-                            DC and the Usedomer Festival in Germany and recorded for Decca.
-                        </p>
-                        <p>
-                            Born in Hungary, Daniel studied at the Franz Liszt Academy in Budapest and at the Royal
-                            Academy of Music with Pascal Nemirovski.</p>
-                        <ul>
-                            <li>BEETHOVEN: Sonata in D minor Op 32 No 2 'Tempest Sonata'</li>
-                            <li>LISZT: Après une lecture du Dante - Fantasia quasi sonata, S161/7</li>
-                            <li>RAVEL: Gaspard de la nuit</li>
-                            <li>LISZT: Mephisto-Walzer no. 2, S515</li>
-                        </ul>
-                        <p></p>
-                        <p>
-                            <a href="/season/1718/Programme-180210-DanielLebhardt.pdf"
-                               target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="https://en-gb.facebook.com/danielconcertpianist/"
-                               target="_blank">More about Daniel Lebhardt</a>
-                        </p>
-                        <!--                        <p>-->
-                        <!--                            <a href="/season/1718/Programme-180210-DanielLebhardt.pdf"-->
-                        <!--                               target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
-                        <p><a href="https://www.youtube.com/watch?v=xgwUsC5iOIU">See
-                                Daniel play</a></p>
-                    </div>
-                </li>
-
             </ul>
         </div>
     </div>
@@ -172,7 +111,7 @@ htmlHead($title);
         <div class="col-sm-12">
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item">
+                <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
                         <h3>Kosmos Ensemble</h3>
                         <h4 class="text-info">
@@ -214,10 +153,10 @@ htmlHead($title);
                             <span class="fa fa-quote-right"></span>
                             <span>Rob Adams, The Herald.</span>
                         </p>
-                        <!--                        <p>-->
-                        <!--                            <a href="/season/1718/Programme-180310-KosmosEnsemble.pdf"-->
-                        <!--                               target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
+                        <p>
+                            <a href="/season/1718/Programme-180310-Kosmos.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="http://www.kosmosensemble.com/"
                                target="_blank">More about Kosmos Ensemble</a>
@@ -290,11 +229,11 @@ htmlHead($title);
                         <p>7:30pm Gibson Hall, Dollar Academy <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-<!--                        <div id="buytickettl">-->
-<!--                            <a type="button" class="btn btn-info btn-blocks"-->
-<!--                               href="http://www.wegottickets.com/event/417691"-->
-<!--                               target="_blank">Buy tickets</a>-->
-<!--                        </div>-->
+                        <!--                        <div id="buytickettl">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="http://www.wegottickets.com/event/417691"-->
+                        <!--                               target="_blank">Buy tickets</a>-->
+                        <!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1718/tasminlittle-sm.jpg"/>
@@ -352,11 +291,11 @@ htmlHead($title);
                             <span class="fa fa-warning text-danger"></span>
                             <span class="text-warning">Afternoon concert</span>
                         </p>
-<!--                        <div>-->
-<!--                            <a type="button" class="btn btn-info btn-blocks"-->
-<!--                               href="http://www.wegottickets.com/event/417272"-->
-<!--                               target="_blank">Buy tickets</a>-->
-<!--                        </div>-->
+                        <!--                        <div>-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="http://www.wegottickets.com/event/417272"-->
+                        <!--                               target="_blank">Buy tickets</a>-->
+                        <!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1718/joydunlop-sm.jpg"/>
@@ -397,11 +336,67 @@ htmlHead($title);
                     </div>
                 </li>
 
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Daniel Lebhardt</h3>
+                        <h4 class="text-info">
+                            Saturday, 10<span class="subscript">th</span> February 2018
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar Academy
+                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a>
+                        </p>
+                        <!--                        <div>-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="http://www.wegottickets.com/event/417539"-->
+                        <!--                               target="_blank">Buy tickets</a>-->
+                        <!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1718/daniellebhardt-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>
+                            At the age of 22 Daniel Lebhardt won 1st Prize at the 2014 Young Concert
+                            Artists auditions in Paris and New York. A year later, he was selected by Young
+                            Classical Artists Trust in London and in 2016 won the Most Promising Pianist prize
+                            at the Sydney International Piano Competition.
+                        </p>
+                        <p>Over the last year, Daniel has made his debut at the Kennedy Center in Washington
+                            DC and the Usedomer Festival in Germany and recorded for Decca.
+                        </p>
+                        <p>
+                            Born in Hungary, Daniel studied at the Franz Liszt Academy in Budapest and at the Royal
+                            Academy of Music with Pascal Nemirovski.</p>
+                        <ul>
+                            <li>BEETHOVEN: Sonata in D minor Op 32 No 2 'Tempest Sonata'</li>
+                            <li>LISZT: Après une lecture du Dante - Fantasia quasi sonata, S161/7</li>
+                            <li>RAVEL: Gaspard de la nuit</li>
+                            <li>LISZT: Mephisto-Walzer no. 2, S515</li>
+                        </ul>
+                        <p></p>
+                        <p>
+                            <a href="/season/1718/Programme-180210-DanielLebhardt.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="https://en-gb.facebook.com/danielconcertpianist/"
+                               target="_blank">More about Daniel Lebhardt</a>
+                        </p>
+                        <!--                        <p>-->
+                        <!--                            <a href="/season/1718/Programme-180210-DanielLebhardt.pdf"-->
+                        <!--                               target="_blank">Concert programme</a>-->
+                        <!--                        </p>-->
+                        <p><a href="https://www.youtube.com/watch?v=xgwUsC5iOIU">See
+                                Daniel play</a></p>
+                    </div>
+                </li>
+
             </ul>
         </div>
     </div>
 
-    <?php require "footer.php"; ?>
+  <?php require "footer.php"; ?>
 
 </div>
 
