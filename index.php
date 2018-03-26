@@ -26,10 +26,8 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Our member evening usually follows the <a href="#WhatsOn">last concert of the season</a>.
-                            With the uncertainty about forming next year&#39;s committe, we have not yet arranged the
-                            time, venue and performer.
-                            An email will be sent out, hopefully before the end of March.
+                        <p>Our <a href="#NextConcert">members evening</a> this year will be on Thursday 31st May @19:00. We&#39;re fortunate to
+                            have <a href="http://www.fergusmccreadie.co.uk/" target="_blank">Fergus McCreadie</a> play for us again.
                         </p>
                         <p>Please make sure that you&#39;ve sent us your current email address and that emails from
                             musicindollar.org.uk
@@ -55,16 +53,6 @@ htmlHead($title);
                             <span class="fa fa-envelope"></span> Want to keep up with music in Dollar? Why not <a
                                     href="contact.php">sign up</a> for our mailing list. We won't
                             swamp you with mail and you can unsubscribe at any time
-                        </p>
-                    </div>
-                    <div class="panel-body">
-                        <p>
-                            <span class="fa fa-hand-o-right"></span> Music in Dollar needs you! Due to retiral and
-                            relocation of some long-serving committee member we&#39;re looking for new helpers. Why not
-                            join in and help to bring live music of the highest quality to Dollar? No particular skills
-                            are required - just enthusiasm and a couple of hours a month. It&#39;s worthwhile, and fun
-                            too. Please <a href="contact.php">get in touch</a> if you would like to chat about what
-                            might be involved.
                         </p>
                     </div>
 
@@ -98,68 +86,31 @@ htmlHead($title);
         <div class="col-sm-12">
             <ul class="list-group">
 
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
                 <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
-                        <h3>Kosmos Ensemble</h3>
+                        <h3>Members Evening</h3>
                         <h4 class="text-info">
-                            Saturday, 10<span class="subscript">th</span> March 2018
+                            Thursday, 31<span class="subscript">st</span> May 2018
                         </h4>
-                        <p>7:30pm Gibson Hall, Dollar Academy
-                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a>
-                        </p>
-                        <div>
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="http://www.wegottickets.com/event/417544"
-                               target="_blank">Buy tickets</a>
-                        </div>
+                        <p>7:00pm Dollar Golf Club <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Golf+Club/@56.1665226,-3.6739075,17z/data=!3m1!4b1!4m5!3m4!1s0x4888801fd42adfa9:0xd6513e294f9d68b0!8m2!3d56.1665226!4d-3.6717188">FK14
+                                7EA</a></p>
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/1718/kosmos-sm.jpg"/>
+                        <img src="/image/1718/fergus240.jpeg"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>Prepare to be intoxicated by entrancing dance rhythms, soulful improvisation
-                            and gypsy passion delivered with inimitable panache and virtuoso technique.</p>
-                        <p>Kosmos Ensemble are Harriet MacKenzie (violin), Meg Hamilton (viola), Milos
-                            Milivojevic (accordion). They perform music with:</p>
-                        <p>
-                            <span class="fa fa-quote-left"></span>
-                            <cite>telepathic rapport, dazzling virtuosity, serious scholarship,
-                                intellectual curiosity and impeccable musicianship</cite>
-                            <span class="fa fa-quote-right"></span>
-                            <span>Richard Morrison, The Times</span>
+                        <p>Fergus McCreadie will play a mix of his own compositions and jazz standards.
+                            He&#29;s a rising star, so make use of this free recital!
                         </p>
-                        <p>An inspirational combination of Tango, Gypsy, Balkan and Japanese music referencing
-                            classical composers, with fearless improvisation and impeccable technique.</p>
-                        <p>All three members of Kosmos are soloists in their own right and have
-                            recorded concertos with the Royal Philharmonic Orchestra, English
-                            Symphony Orchestra and Orchestra Nova to critical acclaim.</p>
+                        <p>Free drink on arrival and snacks on the tables. The format is jazz cabaret style in the
+                            relaxed and informal surroundings of Dollar Golf Club.
+                            Come along and chat with other members, or just the refreshments and music.</p>
                         <p>
-                            <span class="fa fa-quote-left"></span>
-                            <cite>As breath-taking as it is moving... impressive and brilliantly effective.</cite>
-                            <span class="fa fa-quote-right"></span>
-                            <span>Rob Adams, The Herald.</span>
+                            As usual there will be a short (15 minute) AGM.
                         </p>
                         <p>
-                            <a href="/season/1718/Programme-180310-Kosmos.pdf"
-                               target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="http://www.kosmosensemble.com/"
-                               target="_blank">More about Kosmos Ensemble</a>
+                            Members free, non-members &#163;4.
                         </p>
                     </div>
                 </li>
@@ -167,6 +118,19 @@ htmlHead($title);
             </ul>
         </div>
     </div>
+
+<!--    <div class="row">-->
+<!--        <div class="col-sm-12">-->
+<!--            <h3 class="text-info">Still to come</h3>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <div class="row">-->
+<!--        <div class="col-sm-12">-->
+<!--            <ul class="list-group">-->
+<!---->
+<!--            </ul>-->
+<!--        </div>-->
+<!--    </div>-->
 
     <div id="PrevConcert" class="row">
         <div class="col-sm-12">
@@ -389,6 +353,59 @@ htmlHead($title);
                         <!--                        </p>-->
                         <p><a href="https://www.youtube.com/watch?v=xgwUsC5iOIU">See
                                 Daniel play</a></p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Kosmos Ensemble</h3>
+                        <h4 class="text-info">
+                            Saturday, 10<span class="subscript">th</span> March 2018
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar Academy
+                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a>
+                        </p>
+                        <!--                        <div>-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="http://www.wegottickets.com/event/417544"-->
+                        <!--                               target="_blank">Buy tickets</a>-->
+                        <!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1718/kosmos-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Prepare to be intoxicated by entrancing dance rhythms, soulful improvisation
+                            and gypsy passion delivered with inimitable panache and virtuoso technique.</p>
+                        <p>Kosmos Ensemble are Harriet MacKenzie (violin), Meg Hamilton (viola), Milos
+                            Milivojevic (accordion). They perform music with:</p>
+                        <p>
+                            <span class="fa fa-quote-left"></span>
+                            <cite>telepathic rapport, dazzling virtuosity, serious scholarship,
+                                intellectual curiosity and impeccable musicianship</cite>
+                            <span class="fa fa-quote-right"></span>
+                            <span>Richard Morrison, The Times</span>
+                        </p>
+                        <p>An inspirational combination of Tango, Gypsy, Balkan and Japanese music referencing
+                            classical composers, with fearless improvisation and impeccable technique.</p>
+                        <p>All three members of Kosmos are soloists in their own right and have
+                            recorded concertos with the Royal Philharmonic Orchestra, English
+                            Symphony Orchestra and Orchestra Nova to critical acclaim.</p>
+                        <p>
+                            <span class="fa fa-quote-left"></span>
+                            <cite>As breath-taking as it is moving... impressive and brilliantly effective.</cite>
+                            <span class="fa fa-quote-right"></span>
+                            <span>Rob Adams, The Herald.</span>
+                        </p>
+                        <p>
+                            <a href="/season/1718/Programme-180310-Kosmos.pdf"
+                               target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="http://www.kosmosensemble.com/"
+                               target="_blank">More about Kosmos Ensemble</a>
+                        </p>
                     </div>
                 </li>
 
