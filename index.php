@@ -26,7 +26,7 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Our <a href="#NextConcert">members evening</a> this year will be on Thursday 31st May @19:00.
+                        <p>Our <a href="#NextConcert">members evening</a> this year will be on Thursday 31st May @19:30.
                             We&#39;re fortunate to
                             have <a href="http://www.fergusmccreadie.co.uk/" target="_blank">Fergus McCreadie</a> play
                             for us again.
@@ -38,7 +38,7 @@ htmlHead($title);
                             performing At St Marys Monastry, Kinnoul, Perth on Sunday 22nd April. Tickets online.
                         </p>
                         <p>
-                            <b>Opening More Doors</b> is a local raising money for local charities. They are running a
+                            <b>Opening More Doors</b> is a local project raising money for local charities. They are running a
                             <i>Spring Seranade</i> in the Captain&#39;s room, Dollar Academy on Sunday 13th May. The
                             event starts at 18:00 for cheese and wine, followed by a recital by Lynne Hope, Tony Baldwin
                             and guests at 19:00. Come along and have a good time, all in a good cause!
@@ -107,7 +107,7 @@ htmlHead($title);
                         <h4 class="text-info">
                             Thursday, 31<span class="subscript">st</span> May 2018
                         </h4>
-                        <p>7:00pm Dollar Golf Club <a
+                        <p>7:30pm Dollar Golf Club <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Golf+Club/@56.1665226,-3.6739075,17z/data=!3m1!4b1!4m5!3m4!1s0x4888801fd42adfa9:0xd6513e294f9d68b0!8m2!3d56.1665226!4d-3.6717188">FK14
                                 7EA</a></p>
                     </div>
