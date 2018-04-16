@@ -38,7 +38,8 @@ htmlHead($title);
                             performing At St Marys Monastry, Kinnoul, Perth on Sunday 22nd April. Tickets online.
                         </p>
                         <p>
-                            <b>Opening More Doors</b> is a local project raising money for local charities. They are running a
+                            <b>Opening More Doors</b> is a local project raising money for local charities. They are
+                            running a
                             <i>Spring Seranade</i> in the Captain&#39;s room, Dollar Academy on Sunday 13th May. The
                             event starts at 18:00 for cheese and wine, followed by a recital by Lynne Hope, Tony Baldwin
                             and guests at 19:00. Come along and have a good time, all in a good cause!
@@ -118,6 +119,11 @@ htmlHead($title);
                         <p>Fergus McCreadie will play a mix of his own compositions and jazz standards.
                             He&#29;s a rising star, so make use of this free recital!
                         </p>
+                        <p>The Fergus McCreadie Trio have recently <a
+                                    href="https://www.musicglue.com/fergus-mccreadie/">released their first
+                                album</a> - fantastic maturity to build such an evocative soundscape. We might be
+                            hearing
+                            some of it!</p>
                         <p>Free drink on arrival and snacks on the tables. The format is jazz cabaret style in the
                             relaxed and informal surroundings of Dollar Golf Club.
                             Come along and chat with other members, or just the refreshments and music.</p>
