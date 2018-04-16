@@ -97,7 +97,7 @@ htmlHead($title);
                                 7EA</a></p>
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/1718/fergus240.jpeg"/>
+                        <img src="/image/1718/fergusmccreadie-apr18.png"/>
                     </div>
                     <div class="col-sm-6">
                         <p>Fergus McCreadie will play a mix of his own compositions and jazz standards.
