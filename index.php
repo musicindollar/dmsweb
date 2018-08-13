@@ -26,29 +26,15 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Our <a href="#NextConcert">members evening</a> this year will be on Thursday 31st May @19:30.
-                            We&#39;re fortunate to
-                            have <a href="http://www.fergusmccreadie.co.uk/" target="_blank">Fergus McCreadie</a> play
-                            for us again.
-                        </p>
-                        <hr>
-                        <p>A couple of forthcoming events in the area that might be of interest:</p>
-                        <p>
-                            <a href="http://www.chansons.co.uk/next-concert.html">Chansons Chamber Choir</a> are
-                            performing At St Marys Monastry, Kinnoul, Perth on Sunday 22nd April. Tickets online.
-                        </p>
-                        <p>
-                            <b>Opening More Doors</b> is a local project raising money for local charities. They are
-                            running a
-                            <i>Spring Seranade</i> in the Captain&#39;s room, Dollar Academy on Sunday 13th May. The
-                            event starts at 18:00 for cheese and wine, followed by a recital by Lynne Hope, Tony Baldwin
-                            and guests at 19:00. Come along and have a good time, all in a good cause!
-                        </p>
-                        <hr>
-                        <p>Please make sure that you&#39;ve sent us your current email address and that emails from
-                            musicindollar.org.uk
-                            will not go into spam by mistake!
-                        </p>
+                        <p>Our next event is the annual Coffee Morning, held as usual in the Burnside Hall, Dollar
+                            <a href="https://www.google.co.uk/maps/place/E+Burnside,+Dollar,+Clackmannanshire+FK14+7AT/@56.164462,-3.6727511,17z/data=!3m1!4b1!4m2!3m1!1s0x48862aa6dd8e796b:0xdb1e4fb0eecc11d1">FK14
+                                7AT</a></p>
+                        <p>It&#39;s a bit earlier than usual this year - Saturday 8<span class="subscript">th</span>
+                            September 10:00 - 12:00. Please
+                            come along and support us.</p>
+                        <p><span class="fa fa-ticket">&nbsp;</span>Season tickets and memberships are for sale. Buy
+                            early and avoid the rush. The best value
+                            world-class music you&#39;ll find anywhere, and on your doorstep!</p>
                     </div>
                 </div>
             </div>
@@ -79,14 +65,14 @@ htmlHead($title);
 
     <div id="WhatsOn" class="row">
         <div class="col-sm-6">
-            <h2>2017-18 Season</h2>
+            <h2>2018-19 Season</h2>
         </div>
         <div class="col-sm-6 margintop10">
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <a href="season/1718/DMS-Leaflet-2017-18.pdf" target="_blank">View</a>
-                    the full programme for the current season [PDF 7.7MB] <a
-                            href="season/1718/DMS-Leaflet-2017-18.pdf" target="_blank"><img
+                    <a href="season/1819/DMS-Leaflet-2018-19.pdf" target="_blank">View</a>
+                    the full programme for the current season [PDF 2.6MB] <a
+                            href="season/1819/DMS-Leaflet-2018-19.pdf" target="_blank"><img
                                 src="image/pdf.jpeg"/></a>
                 </div>
             </div>
@@ -104,35 +90,46 @@ htmlHead($title);
 
                 <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
-                        <h3>Members Evening</h3>
+                        <h3>Rose Room</h3>
                         <h4 class="text-info">
-                            Thursday, 31<span class="subscript">st</span> May 2018
+                            Saturday, 15<span class="subscript">th</span> September 2018
                         </h4>
-                        <p>7:30pm Dollar Golf Club <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Golf+Club/@56.1665226,-3.6739075,17z/data=!3m1!4b1!4m5!3m4!1s0x4888801fd42adfa9:0xd6513e294f9d68b0!8m2!3d56.1665226!4d-3.6717188">FK14
-                                7EA</a></p>
+                        <p>7:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <p>Pre-concert performance from 7:15pm</p>
+                        <!--                                                <div id="buytickettl">-->
+                        <!--                                                    <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                                                       href="http://www.wegottickets.com/event/417691"-->
+                        <!--                                                       target="_blank">Buy tickets</a>-->
+                        <!--                                                </div>-->
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/1718/fergusmccreadie-apr18.png"/>
+                        <img src="/image/1819/roseroom-1-sm.jpg"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>Fergus McCreadie will play a mix of his own compositions and jazz standards.
-                            He&#29;s a rising star, so make use of this free recital!
+                        <p>According to Jazz Scotland, Rose Room are “the hottest ticket in Scotland right
+                            now”, playing Swing jazz in the gypsy style, following in the footsteps of the
+                            great Django Reinhardt and Stephane Grappelli.
                         </p>
-                        <p>The Fergus McCreadie Trio have recently <a
-                                    href="https://www.musicglue.com/fergus-mccreadie/">released their first
-                                album</a> - fantastic maturity to build such an evocative soundscape. We might be
-                            hearing
-                            some of it!</p>
-                        <p>Free drink on arrival and snacks on the tables. The format is jazz cabaret style in the
-                            relaxed and informal surroundings of Dollar Golf Club.
-                            Come along and chat with other members, or just the refreshments and music.</p>
+                        <p>Led by virtuoso fiddle player and vocalist
+                            Seonaid Aitken (who also plays with Scottish Opera Orchestra), the
+                            band features a star line-up comprising Scotland’s No.1 guitar
+                            maker Jimmy Moon of ‘Moon Guitars’ (double bass), Celtic
+                            Connections’ award-winners ‘Swing Guitars’ Tam Gallagher and
+                            Tom Watson on rhythm.</p>
+                        <p>Don't miss ‘Ensemble of the Year’ in the last <a href="http://www.jazzfest.co.uk/awards/">Scottish
+                                Jazz Awards</a>!</p>
                         <p>
-                            As usual there will be a short (15 minute) AGM.
+                            <a href="http://roseroom.co.uk/"
+                               target="_blank">More about Rose Room</a>
                         </p>
-                        <p>
-                            Members free, non-members &#163;4.
-                        </p>
+                        <p>Dance around the living room <a href="https://www.youtube.com/watch?v=IivIT45086g" target="_blank">to their
+                                sound</a>.</p>
+                        <!--                            </p>-->
+                        <!--                                <a href="/season/1819/Programme-180915-RoseRoom.pdf"-->
+                        <!--                                   target="_blank">Concert programme</a>-->
+                        <!--                            </p>-->
                     </div>
                 </li>
 
@@ -140,9 +137,214 @@ htmlHead($title);
         </div>
     </div>
 
-    <!--    <div class="row">-->
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
+
+                <li class="clearfix list-group-item dms-list-item">
+                    <div class="col-sm-3">
+                        <h3>Daniel Ciobanu</h3>
+                        <h4 class="text-info">
+                            Saturday, 6<span class="subscript">th</span> September 2018
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                        <!--                        <div id="buytickettl">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="http://www.wegottickets.com/event/417691"-->
+                        <!--                               target="_blank">Buy tickets</a>-->
+                        <!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1819/Daniel-Ciobanu-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Originally from Romania, Daniel came to study in Edinburgh under Graeme
+                            McNaught for a school gap year, and has retained close links with Scotland
+                            since. A multiple first prize winner worldwide, a notable highlight was playing
+                            on-stage alongside Lang Lang.
+                        </p>
+                        <p>“Only one word can adequately describe this performance...Sensational!
+                            Particularly exciting was the sense of devilry that permeated the faster
+                            variations, in which the notes glittered and dazzled like
+                            showers of diamonds.”
+                            Michael Traub, UNISA Competition.</p>
+                        <p>“A name to be shouted from the rooftops... a young man
+                            whose staggering virtuoso credentials easily match those
+                            of the young Horowitz, Cziffra and Rosenthal...”
+                            John Humphreys, Chairman Dudley International Piano Competition.</p>
+                        <p>
+                            <!--                            </p>-->
+                            <!--                                <a href="/season/1819/Programme-181006-DanielCiobanu.pdf"-->
+                            <!--                                   target="_blank">Concert programme</a>-->
+                            <!--                            </p>-->
+                        <p>
+                            <a href="http://www.danielpetricaciobanu.com/"
+                               target="_blank">More about Daniel Cionabu</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=n5BXZd8xA14" target="_blank">See Daniel play</a></p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item">
+                    <div class="col-sm-3">
+                        <h3>Ayman Jarjour</h3>
+                        <h4 class="text-info">
+                            Sunday, 20<span class="subscript">th</span> January 2019
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                        <!--                        <div id="buytickettl">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="http://www.wegottickets.com/event/417691"-->
+                        <!--                               target="_blank">Buy tickets</a>-->
+                        <!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1819/AymanJarjour-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Ayman is a Scotland-based classical guitarist with worldwide presence,
+                            performing in the Middle East, USA, Africa and Far East. Originally from
+                            Damascus, he studied in Spain and USA. Notable highlights have
+                            been a concert to standing ovation at NY Carnegie Hall as winner of
+                            Artists International’s Special Presentation Award, and the world
+                            premiere of Olympus (concerto for guitar and orchestra) by Evis
+                            Sammoutis and the Syrian premiere of Rodrigo’s two
+                            masterpieces Concierto de Aranjuez and Concierto Andaluz.
+                        </p>
+                        <p>Ayman is involved with many charities working to help refugees
+                            and people affected by the war in Syria. His repertoire includes
+                            works with Spanish, Latin American, Classical, Middle Eastern and Modern
+                            flavors. He plays an instrument made by Egyptian luthier Jean-Paul Haggar.</p>
+                        <p>
+                            <!--                            </p>-->
+                            <!--                                <a href="/season/1819/Programme-190120-AymanJarjour.pdf"-->
+                            <!--                                   target="_blank">Concert programme</a>-->
+                            <!--                            </p>-->
+                        <p>
+                            <a href="http://aymanjarjour.com/"
+                               target="_blank">More about Ayman Jarjour</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=F3bwYtvvHa8" target="_blank">See Ayman play</a></p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item">
+                    <div class="col-sm-3">
+                        <h3>Emily Mitchell Vocal Ensemble</h3>
+                        <h4 class="text-info">
+                            Sunday, 24<span class="subscript">th</span> February 2019
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                        <!--                        <div id="buytickettl">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="http://www.wegottickets.com/event/417691"-->
+                        <!--                               target="_blank">Buy tickets</a>-->
+                        <!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1819/emilymitchell-2-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>"When the gates of Heaven are thrown open, I’d tears in my eyes. Best of all,
+                            Tomas had engaged a wonderful young soprano, Emily Mitchell, for the all
+                            important solo part in the last movement. If I say that she reminded me of a
+                            young Lucia Popp, I can give no higher praise."
+                            wholeelephant.co.uk
+                        </p>
+                        <p>Born into a musical family, Scottish soprano Emily Mitchell, was
+                            immersed in music from an early age. She began her formal classical
+                            training at the RCS in Glasgow under the tutelage of Margaret Aronson.
+                            She is a Live Music Now! artist with her accompanist Geoffrey Tanti and
+                            is a regular performer with Scottish Opera.</p>
+                        <p>Emily has an extensive concert career ranging from opera to solo
+                            recitals to oratorio. She sings regularly with the Dunedin Consort and is broadcast on
+                            radio.</p>
+                        <p>With another singer and accompanist Emily will take us through some of her
+                            repertoire highlights.</p>
+                        <p>
+                            <!--                            </p>-->
+                            <!--                                <a href="/season/1819/Programme-190120-AymanJarjour.pdf"-->
+                            <!--                                   target="_blank">Concert programme</a>-->
+                            <!--                            </p>-->
+                        <p>
+                            <a href="https://www.emilymitchellsoprano.com/"
+                               target="_blank">More about Emily Mitchell</a>
+                        </p>
+                        <p><a href="https://www.emilymitchellsoprano.com/media" target="_blank">Hear Emily sing</a></p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item">
+                    <div class="col-sm-3">
+                        <h3>Alastair Savage Trio</h3>
+                        <h4 class="text-info">
+                            Saturday, 16<span class="subscript">th</span> March 2019
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                        <!--                        <div id="buytickettl">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="http://www.wegottickets.com/event/417691"-->
+                        <!--                               target="_blank">Buy tickets</a>-->
+                        <!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1819/alastairsavage-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Way back in 2004, one of the violin players in the BBC SSO decided that
+                            a return to his roots was long overdue. A native of Ardrossan, Alastair
+                            Savage had grown up as a folk fiddler, famously winning The Double
+                            (both the Ayrshire and National sections of the Land O' Burns Scots'
+                            Fiddle Competition) in 1986, before going on to study classical playing at
+                            the RSAM in Glasgow and then the Royal Academoy of Music in London.
+                            Alastair heeded the call of the traditional tunes that had
+                            started him off as a musician, and, together with his great friends Euan
+                            Drysdale and Iain Crawford, The Alastair Savage Trio was born.
+                        </p>
+                        <p>As well as playing those written by the fiddle greats of yesteryear, Alastair had
+                            been writing his own tunes for years, inspired by various experiences and the
+                            land and cityscapes around him. <a href="http://alastairsavage.co.uk/music.html">Four albums
+                                have been recorded so far</a>, along with many festival appearances.</p>
+                        <p>"Hearing the raucous and the wistful tunes of Alastair Savage, I’ve never felt so
+                            proud to be Scottish; his music is so invigorating and soulful" – Kate Clarkson</p>
+                        <p>
+                            <!--                            </p>-->
+                            <!--                                <a href="/season/1819/Programme-190120-AymanJarjour.pdf"-->
+                            <!--                                   target="_blank">Concert programme</a>-->
+                            <!--                            </p>-->
+                        <p>
+                            <a href="http://alastairsavage.co.uk/"
+                               target="_blank">More about Alastair Savage</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=B0GUT5uL4BQ" target="_blank">See the Alastair Savage Trio in
+                                action</a></p>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <!--    <div id="PrevConcert" class="row">-->
     <!--        <div class="col-sm-12">-->
-    <!--            <h3 class="text-info">Still to come</h3>-->
+    <!--            <h3 class="text-info">Previous concerts</h3>-->
     <!--        </div>-->
     <!--    </div>-->
     <!--    <div class="row">-->
@@ -152,287 +354,6 @@ htmlHead($title);
     <!--            </ul>-->
     <!--        </div>-->
     <!--    </div>-->
-
-    <div id="PrevConcert" class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Previous concerts</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item-prev">
-                    <div class="col-sm-3">
-                        <h3>Mario Caribe Jazz Quartet</h3>
-                        <h4 class="text-info">
-                            Saturday, 23<span class="subscript">rd</span> September 2017
-                        </h4>
-                        <p>7:30pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <p>Pre-concert performance from 7:00pm</p>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1718/mariocaribe-sm.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Jazz with a Latin twist (and shout)!
-                            Born in Sao Paulo, Brazil, Mario moved to Scotland to study,
-                            where was invited to join the Tommy Smith Sextet 'Beasts of Scotland', and the
-                            Scottish National Jazz Orchestra. He has played with many of the leading
-                            jazz musicians in the UK including Tommy Smith, Carol Kidd and Brian Kellock.
-                        </p>
-                        <p>
-                            Mario is extensively involved with Jazz Education, including workshops about
-                            Latin American Music, the NYJO and the Napier Jazz Summer Course.
-                        </p>
-                        <p>Blending the melodic and rhythmic influences of his Brazilian homeland with an
-                            exploratory contemporary jazz sensibility, Mario’s music ranges from luscious
-                            ballads to sizzling up-tempo burners. He is joined by Phil Bancroft
-                            (saxophone), Kevin MacKenzie (guitar) and Tom Gordon (drums)</p>
-                        <p>
-                            <a href="/season/1718/Programme-170923-MarioCaribe.pdf"
-                               target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="https://en-gb.facebook.com/MarioCaribeQuartet/"
-                               target="_blank">More about Mario Caribe</a>
-                        </p>
-                        <p><a href="https://www.youtube.com/watch?v=GDjhalBH3jw">See Mario play</a></p>
-                        <p>Our pre-concert performance is provided by <a href="http://www.fergusmccreadie.co.uk/">Fergus
-                                McCreadie</a>, our own jazz star in the making.</p>
-                    </div>
-                </li>
-
-                <li class="clearfix list-group-item dms-list-item-prev">
-                    <div class="col-sm-3">
-                        <h3>Tasmin Little</h3>
-                        <h4 class="text-info">
-                            Saturday, 14<span class="subscript">th</span> October 2017
-                        </h4>
-                        <p>7:30pm Gibson Hall, Dollar Academy <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                        <div id="buytickettl">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="http://www.wegottickets.com/event/417691"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1718/tasminlittle-sm.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>We are privileged to have one of the world's famous musicians playing for us in
-                            Dollar. Tasmin Little is an artist of international standing, recognised as one of
-                            the top violinists. She has performed on every continent in some of the most
-                            prestigious venues.</p>
-                        <p>Tasmin's recording of the Elgar Violin Concerto with Sir Andrew
-                            Davis and the RSNO garnered outstanding critical acclaim and
-                            was awarded the Critic's Choice Award in the 2011 Classic BRIT Awards.
-                        <p>
-                        </p>
-                        <p>Tasmin is performing her project, 'The Naked Violin', aimed at
-                            breaking down barriers to classical music by releasing a
-                            <a href="http://www.tasminlittle.org.uk/free_cd/index.html"> free CD for download on her
-                                website</a>
-                            , and performing in smaller community settings.</p>
-                        <p>We expect demand to be high for tickets, so <em>booking is recommended</em>.</p>
-                        <p>
-                            <span class="fa fa-quote-left"></span>
-                            <cite>Little’s execution was flawless, her tone pure and penetrating</cite>
-                            <span class="fa fa-quote-right"></span>
-                            <span>Anna Pickard, The Times</span>
-                        <p><span class="fa fa-quote-left"></span>
-                            <cite>What followed was a masterclass in intelligence, unity of belief, inclusion, and
-                                clarity</cite>
-                            <span class="fa fa-quote-right"></span>
-                            <span>Bard of Tysoe</span></p>
-                        <p>
-                            <a href="/season/1718/Programme-171014-TasminLittle.pdf"
-                               target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="http://www.tasminlittle.org.uk/"
-                               target="_blank">More about Tasmin Little</a>
-                        </p>
-                        <p><a href="https://www.youtube.com/watch?v=Dev2J7ihCJM">See
-                                Tasmin play</a>
-                    </div>
-                </li>
-
-                <li class="clearfix list-group-item dms-list-item-prev">
-                    <div class="col-sm-3">
-                        <h3>Joy Dunlop Group</h3>
-                        <h4 class="text-info">
-                            Sunday, 12<span class="subscript">th</span> November 2017
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar Academy
-                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a>
-                        </p>
-                        <p>
-                            <span class="fa fa-warning text-danger"></span>
-                            <span class="text-warning">Afternoon concert</span>
-                        </p>
-                        <!--                        <div>-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="http://www.wegottickets.com/event/417272"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1718/joydunlop-sm.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>
-                            Joy Dunlop is a Gaelic singer from Argyll who has performed throughout the
-                            UK, Europe, Japan, Canada and New Zealand, showcasing Gaelic music and
-                            song in a contemporary way that
-                            always remains true to its roots.
-                        </p>
-                        <p>
-                            Nominated as Gaelic Singer of the Year 2016, 2011 and 2010, she has
-                            also won both the coveted Royal National Mòd Gold Medal and the
-                            Oban Times Gold Medal.
-                        </p>
-                        <p>A fluent Gaelic speaker, Joy presents shows on BBC ALBA and Radio nan
-                            Gàidheal. She is also an award winning Scottish step–dancer and is
-                            the only person to have won both the Pan Celtic traditional singing and
-                            dancing competitions.</p>
-                        <p>Joy will be performing a selection of songs in both Scottish Gaelic and
-                            English, in addition to exhilarating step dance dance/music collaborations.</p>
-                        <p>
-                            <span class="fa fa-quote-left"></span>
-                            <cite>Dunlop’s vocals effortlessly cast a spell while the musical arrangements
-                                bring a fresh, modern quality to the traditional songs.</cite>
-                            <span class="fa fa-quote-right"></span>
-                            <span>Newsnet Scotland</span>
-                        </p>
-                        <p>
-                            <a href="/season/1718/Programme-171112-JoyDunlop.pdf"
-                               target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="http://www.joydunlop.com/"
-                               target="_blank">More about Joy Dunlop</a>
-                        </p>
-                    </div>
-                </li>
-
-                <li class="clearfix list-group-item dms-list-item-prev">
-                    <div class="col-sm-3">
-                        <h3>Daniel Lebhardt</h3>
-                        <h4 class="text-info">
-                            Saturday, 10<span class="subscript">th</span> February 2018
-                        </h4>
-                        <p>7:30pm Gibson Hall, Dollar Academy
-                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a>
-                        </p>
-                        <!--                        <div>-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="http://www.wegottickets.com/event/417539"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1718/daniellebhardt-sm.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>
-                            At the age of 22 Daniel Lebhardt won 1st Prize at the 2014 Young Concert
-                            Artists auditions in Paris and New York. A year later, he was selected by Young
-                            Classical Artists Trust in London and in 2016 won the Most Promising Pianist prize
-                            at the Sydney International Piano Competition.
-                        </p>
-                        <p>Over the last year, Daniel has made his debut at the Kennedy Center in Washington
-                            DC and the Usedomer Festival in Germany and recorded for Decca.
-                        </p>
-                        <p>
-                            Born in Hungary, Daniel studied at the Franz Liszt Academy in Budapest and at the Royal
-                            Academy of Music with Pascal Nemirovski.</p>
-                        <ul>
-                            <li>BEETHOVEN: Sonata in D minor Op 32 No 2 'Tempest Sonata'</li>
-                            <li>LISZT: Après une lecture du Dante - Fantasia quasi sonata, S161/7</li>
-                            <li>RAVEL: Gaspard de la nuit</li>
-                            <li>LISZT: Mephisto-Walzer no. 2, S515</li>
-                        </ul>
-                        <p></p>
-                        <p>
-                            <a href="/season/1718/Programme-180210-DanielLebhardt.pdf"
-                               target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="https://en-gb.facebook.com/danielconcertpianist/"
-                               target="_blank">More about Daniel Lebhardt</a>
-                        </p>
-                        <!--                        <p>-->
-                        <!--                            <a href="/season/1718/Programme-180210-DanielLebhardt.pdf"-->
-                        <!--                               target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
-                        <p><a href="https://www.youtube.com/watch?v=xgwUsC5iOIU">See
-                                Daniel play</a></p>
-                    </div>
-                </li>
-
-                <li class="clearfix list-group-item dms-list-item-prev">
-                    <div class="col-sm-3">
-                        <h3>Kosmos Ensemble</h3>
-                        <h4 class="text-info">
-                            Saturday, 10<span class="subscript">th</span> March 2018
-                        </h4>
-                        <p>7:30pm Gibson Hall, Dollar Academy
-                            <a href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a>
-                        </p>
-                        <!--                        <div>-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="http://www.wegottickets.com/event/417544"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1718/kosmos-sm.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Prepare to be intoxicated by entrancing dance rhythms, soulful improvisation
-                            and gypsy passion delivered with inimitable panache and virtuoso technique.</p>
-                        <p>Kosmos Ensemble are Harriet MacKenzie (violin), Meg Hamilton (viola), Milos
-                            Milivojevic (accordion). They perform music with:</p>
-                        <p>
-                            <span class="fa fa-quote-left"></span>
-                            <cite>telepathic rapport, dazzling virtuosity, serious scholarship,
-                                intellectual curiosity and impeccable musicianship</cite>
-                            <span class="fa fa-quote-right"></span>
-                            <span>Richard Morrison, The Times</span>
-                        </p>
-                        <p>An inspirational combination of Tango, Gypsy, Balkan and Japanese music referencing
-                            classical composers, with fearless improvisation and impeccable technique.</p>
-                        <p>All three members of Kosmos are soloists in their own right and have
-                            recorded concertos with the Royal Philharmonic Orchestra, English
-                            Symphony Orchestra and Orchestra Nova to critical acclaim.</p>
-                        <p>
-                            <span class="fa fa-quote-left"></span>
-                            <cite>As breath-taking as it is moving... impressive and brilliantly effective.</cite>
-                            <span class="fa fa-quote-right"></span>
-                            <span>Rob Adams, The Herald.</span>
-                        </p>
-                        <p>
-                            <a href="/season/1718/Programme-180310-Kosmos.pdf"
-                               target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="http://www.kosmosensemble.com/"
-                               target="_blank">More about Kosmos Ensemble</a>
-                        </p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
 
   <?php require "footer.php"; ?>
 

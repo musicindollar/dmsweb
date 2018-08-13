@@ -9,9 +9,9 @@ htmlHead($title);
 <body>
 
 <div class="container-fluid">
-    <?php
-    showHeaderBar("archive");
-    ?>
+  <?php
+  showHeaderBar("archive");
+  ?>
 
     <div class="row page-header">
         <div class="col-sm-12">
@@ -22,6 +22,8 @@ htmlHead($title);
         <div class="col-sm-12">
             <h4>Select a season:</h4>
             <ul class="list-group">
+                <li class="row list-group-item"><a
+                            href="/season/1718/season1718.php">2017-18</a></li>
                 <li class="row list-group-item"><a
                             href="/season/1617/season1617.php">2016-17</a></li>
                 <li class="row list-group-item"><a
@@ -36,7 +38,7 @@ htmlHead($title);
         </div>
     </div>
 
-    <?php require "footer.php"; ?>
+  <?php require "footer.php"; ?>
 </div>
 
 </div>
