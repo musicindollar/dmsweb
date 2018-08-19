@@ -97,12 +97,12 @@ htmlHead($title);
                         <p>7:30pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <p>Pre-concert performance from 7:15pm</p>
-                        <!--                                                <div id="buytickettl">-->
-                        <!--                                                    <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                                                       href="http://www.wegottickets.com/event/417691"-->
-                        <!--                                                       target="_blank">Buy tickets</a>-->
-                        <!--                                                </div>-->
+                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
+                        <div id="buyticketroseroom">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/447829"
+                               target="_blank">Buy tickets</a>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1819/roseroom-1-sm.jpg"/>
@@ -124,7 +124,8 @@ htmlHead($title);
                             <a href="http://roseroom.co.uk/"
                                target="_blank">More about Rose Room</a>
                         </p>
-                        <p>Dance around the living room <a href="https://www.youtube.com/watch?v=IivIT45086g" target="_blank">to their
+                        <p>Dance around the living room <a href="https://www.youtube.com/watch?v=IivIT45086g"
+                                                           target="_blank">to their
                                 sound</a>.</p>
                         <!--                            </p>-->
                         <!--                                <a href="/season/1819/Programme-180915-RoseRoom.pdf"-->
@@ -155,12 +156,12 @@ htmlHead($title);
                         <p>7:30pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <!--                        <div id="buytickettl">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="http://www.wegottickets.com/event/417691"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
+                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
+                        <div id="buyticketdanielciobanu">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/447831"
+                               target="_blank">Buy tickets</a>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1819/Daniel-Ciobanu-sm.jpg"/>
@@ -203,11 +204,11 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <!--                        <div id="buytickettl">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="http://www.wegottickets.com/event/417691"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
+                        <div id="buyticketaymanjarjour">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/447833"
+                               target="_blank">Buy tickets</a>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1819/AymanJarjour-sm.jpg"/>
@@ -249,11 +250,11 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <!--                        <div id="buytickettl">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="http://www.wegottickets.com/event/417691"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
+                        <div id="buyticketemilymitchell">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/447835"
+                               target="_blank">Buy tickets</a>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1819/emilymitchell-2-sm.jpg"/>
@@ -298,11 +299,11 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <!--                        <div id="buytickettl">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="http://www.wegottickets.com/event/417691"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
+                        <div id="buytickettl">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/447837"
+                               target="_blank">Buy tickets</a>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1819/alastairsavage-sm.jpg"/>
@@ -333,7 +334,8 @@ htmlHead($title);
                             <a href="http://alastairsavage.co.uk/"
                                target="_blank">More about Alastair Savage</a>
                         </p>
-                        <p><a href="https://www.youtube.com/watch?v=B0GUT5uL4BQ" target="_blank">See the Alastair Savage Trio in
+                        <p><a href="https://www.youtube.com/watch?v=B0GUT5uL4BQ" target="_blank">See the Alastair Savage
+                                Trio in
                                 action</a></p>
                     </div>
                 </li>
