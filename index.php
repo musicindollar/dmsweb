@@ -26,15 +26,14 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Our next event is the annual Coffee Morning, held as usual in the Burnside Hall, Dollar
-                            <a href="https://www.google.co.uk/maps/place/E+Burnside,+Dollar,+Clackmannanshire+FK14+7AT/@56.164462,-3.6727511,17z/data=!3m1!4b1!4m2!3m1!1s0x48862aa6dd8e796b:0xdb1e4fb0eecc11d1">FK14
-                                7AT</a></p>
-                        <p>It&#39;s a bit earlier than usual this year - Saturday 8<span class="subscript">th</span>
-                            September 10:00 - 12:00. Please
-                            come along and support us.</p>
-                        <p><span class="fa fa-ticket">&nbsp;</span>Season tickets and memberships are for sale. Buy
-                            early and avoid the rush. The best value
-                            world-class music you&#39;ll find anywhere, and on your doorstep!</p>
+                        <p>Rose Room swung by on Saturday night and it was a blast! They are fabulous.</p>
+                        <p><span class="fa fa-music">&nbsp;</span>Our next concert is fast approaching, on 6th October.</p>
+                        <p>Daniel Ciobanu is a young Scottish educated pianist with breathtaking style and already a
+                            stack of critical acclaim. Come along and hear a master performance from an artist with a
+                            big future.</p>
+                        <p><span class="fa fa-ticket">&nbsp;</span>It&#39;s not too late to take out a membership and
+                            save on this season&#39;s programme. Basic membership let&#39;s you pick and choose your
+                            concerts, at a cheaper price. And it helps Music in Dollar too.</p>
                     </div>
                 </div>
             </div>
@@ -90,68 +89,9 @@ htmlHead($title);
 
                 <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
-                        <h3>Rose Room</h3>
-                        <h4 class="text-info">
-                            Saturday, 15<span class="subscript">th</span> September 2018
-                        </h4>
-                        <p>7:30pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-                        <div id="buyticketroseroom">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/447829"
-                               target="_blank">Buy tickets</a>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1819/roseroom-1-sm.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>According to Jazz Scotland, Rose Room are “the hottest ticket in Scotland right
-                            now”, playing Swing jazz in the gypsy style, following in the footsteps of the
-                            great Django Reinhardt and Stephane Grappelli.
-                        </p>
-                        <p>Led by virtuoso fiddle player and vocalist
-                            Seonaid Aitken (who also plays with Scottish Opera Orchestra), the
-                            band features a star line-up comprising Scotland’s No.1 guitar
-                            maker Jimmy Moon of ‘Moon Guitars’ (double bass), Celtic
-                            Connections’ award-winners ‘Swing Guitars’ Tam Gallagher and
-                            Tom Watson on rhythm.</p>
-                        <p>Don't miss ‘Ensemble of the Year’ in the last <a href="http://www.jazzfest.co.uk/awards/">Scottish
-                                Jazz Awards</a>!</p>
-                        <p>
-                            <a href="http://roseroom.co.uk/"
-                               target="_blank">More about Rose Room</a>
-                        </p>
-                        <p>Dance around the living room <a href="https://www.youtube.com/watch?v=IivIT45086g"
-                                                           target="_blank">to their
-                                sound</a>.</p>
-                        <!--                            </p>-->
-                        <!--                                <a href="/season/1819/Programme-180915-RoseRoom.pdf"-->
-                        <!--                                   target="_blank">Concert programme</a>-->
-                        <!--                            </p>-->
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item">
-                    <div class="col-sm-3">
                         <h3>Daniel Ciobanu</h3>
                         <h4 class="text-info">
-                            Saturday, 6<span class="subscript">th</span> September 2018
+                            Saturday, 6<span class="subscript">th</span> October 2018
                         </h4>
                         <p>7:30pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
@@ -172,14 +112,14 @@ htmlHead($title);
                             since. A multiple first prize winner worldwide, a notable highlight was playing
                             on-stage alongside Lang Lang.
                         </p>
-                        <p>“Only one word can adequately describe this performance...Sensational!
-                            Particularly exciting was the sense of devilry that permeated the faster
-                            variations, in which the notes glittered and dazzled like
-                            showers of diamonds.”
+                        <p>“<i>Only one word can adequately describe this performance...Sensational!
+                                Particularly exciting was the sense of devilry that permeated the faster
+                                variations, in which the notes glittered and dazzled like
+                                showers of diamonds.</i>”
                             Michael Traub, UNISA Competition.</p>
-                        <p>“A name to be shouted from the rooftops... a young man
-                            whose staggering virtuoso credentials easily match those
-                            of the young Horowitz, Cziffra and Rosenthal...”
+                        <p>“<i>A name to be shouted from the rooftops... a young man
+                                whose staggering virtuoso credentials easily match those
+                                of the young Horowitz, Cziffra and Rosenthal...</i>”
                             John Humphreys, Chairman Dudley International Piano Competition.</p>
                         <p>
                             <!--                            </p>-->
@@ -193,6 +133,19 @@ htmlHead($title);
                         <p><a href="https://www.youtube.com/watch?v=n5BXZd8xA14" target="_blank">See Daniel play</a></p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item">
                     <div class="col-sm-3">
@@ -344,18 +297,64 @@ htmlHead($title);
         </div>
     </div>
 
-    <!--    <div id="PrevConcert" class="row">-->
-    <!--        <div class="col-sm-12">-->
-    <!--            <h3 class="text-info">Previous concerts</h3>-->
-    <!--        </div>-->
-    <!--    </div>-->
-    <!--    <div class="row">-->
-    <!--        <div class="col-sm-12">-->
-    <!--            <ul class="list-group">-->
-    <!---->
-    <!--            </ul>-->
-    <!--        </div>-->
-    <!--    </div>-->
+    <div id="PrevConcert" class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Previous concerts</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
+
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Rose Room</h3>
+                        <h4 class="text-info">
+                            Saturday, 15<span class="subscript">th</span> September 2018
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
+                        <!--                            <div id="buyticketroseroom">-->
+                        <!--                                <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                                   href="https://www.wegottickets.com/event/447829"-->
+                        <!--                                   target="_blank">Buy tickets</a>-->
+                        <!--                            </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1819/roseroom-1-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>According to Jazz Scotland, Rose Room are “the hottest ticket in Scotland right
+                            now”, playing Swing jazz in the gypsy style, following in the footsteps of the
+                            great Django Reinhardt and Stephane Grappelli.
+                        </p>
+                        <p>Led by virtuoso fiddle player and vocalist
+                            Seonaid Aitken (who also plays with Scottish Opera Orchestra), the
+                            band features a star line-up comprising Scotland’s No.1 guitar
+                            maker Jimmy Moon of ‘Moon Guitars’ (double bass), Celtic
+                            Connections’ award-winners ‘Swing Guitars’ Tam Gallagher and
+                            Tom Watson on rhythm.</p>
+                        <p>Don't miss ‘Ensemble of the Year’ in the last <a href="http://www.jazzfest.co.uk/awards/">Scottish
+                                Jazz Awards</a>!</p>
+                        <p>
+                            <a href="http://roseroom.co.uk/"
+                               target="_blank">More about Rose Room</a>
+                        </p>
+                        <p>Dance around the living room <a href="https://www.youtube.com/watch?v=IivIT45086g"
+                                                           target="_blank">to their
+                                sound</a>.</p>
+                        </p>
+                        <a href="/season/1819/Programme-180915-RoseRoom.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+    </div>
 
   <?php require "footer.php"; ?>
 
