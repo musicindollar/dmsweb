@@ -27,7 +27,8 @@ htmlHead($title);
                     </div>
                     <div class="panel-body">
                         <p>Rose Room swung by on Saturday night and it was a blast! They are fabulous.</p>
-                        <p><span class="fa fa-music">&nbsp;</span>Our next concert is fast approaching, on 6th October.</p>
+                        <p><span class="fa fa-music">&nbsp;</span>Our next concert is fast approaching, on 6th October.
+                        </p>
                         <p>Daniel Ciobanu is a young Scottish educated pianist with breathtaking style and already a
                             stack of critical acclaim. Come along and hear a master performance from an artist with a
                             big future.</p>
@@ -122,10 +123,10 @@ htmlHead($title);
                                 of the young Horowitz, Cziffra and Rosenthal...</i>”
                             John Humphreys, Chairman Dudley International Piano Competition.</p>
                         <p>
-                            <!--                            </p>-->
-                            <!--                                <a href="/season/1819/Programme-181006-DanielCiobanu.pdf"-->
-                            <!--                                   target="_blank">Concert programme</a>-->
-                            <!--                            </p>-->
+                        </p>
+                        <a href="/season/1819/Programme-181006-DanielCiobanu.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="http://www.danielpetricaciobanu.com/"
                                target="_blank">More about Daniel Cionabu</a>
