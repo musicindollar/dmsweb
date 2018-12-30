@@ -26,15 +26,17 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Rose Room swung by on Saturday night and it was a blast! They are fabulous.</p>
-                        <p><span class="fa fa-music">&nbsp;</span>Our next concert is fast approaching, on 6th October.
+                        <p>Daniel Ciobanu was a different class. Everyone there was dazzled, moved and awestruck by the
+                            combination of technique, passion and sheer musicality. It will live long in the memory.</p>
+                        <p><span class="fa fa-music">&nbsp;</span>Our next concert is fast approaching, on Sunday 20th
+                            January.
                         </p>
-                        <p>Daniel Ciobanu is a young Scottish educated pianist with breathtaking style and already a
-                            stack of critical acclaim. Come along and hear a master performance from an artist with a
-                            big future.</p>
-                        <p><span class="fa fa-ticket">&nbsp;</span>It&#39;s not too late to take out a membership and
-                            save on this season&#39;s programme. Basic membership let&#39;s you pick and choose your
-                            concerts, at a cheaper price. And it helps Music in Dollar too.</p>
+                        <p>Ayman Jarjour is well known to many of us. Originally from Syria, he has been based in
+                            Scotland for a number of years. His performances are full of style and variety, with many coming back
+                            for more! Don&#39;t miss it.</p>
+                        <!--                        <p><span class="fa fa-ticket">&nbsp;</span>It&#39;s not too late to take out a membership and-->
+                        <!--                            save on this season&#39;s programme. Basic membership let&#39;s you pick and choose your-->
+                        <!--                            concerts, at a cheaper price. And it helps Music in Dollar too.</p>-->
                     </div>
                 </div>
             </div>
@@ -90,66 +92,6 @@ htmlHead($title);
 
                 <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
-                        <h3>Daniel Ciobanu</h3>
-                        <h4 class="text-info">
-                            Saturday, 6<span class="subscript">th</span> October 2018
-                        </h4>
-                        <p>7:30pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-                        <div id="buyticketdanielciobanu">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/447831"
-                               target="_blank">Buy tickets</a>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1819/Daniel-Ciobanu-sm.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Originally from Romania, Daniel came to study in Edinburgh under Graeme
-                            McNaught for a school gap year, and has retained close links with Scotland
-                            since. A multiple first prize winner worldwide, a notable highlight was playing
-                            on-stage alongside Lang Lang.
-                        </p>
-                        <p>“<i>Only one word can adequately describe this performance...Sensational!
-                                Particularly exciting was the sense of devilry that permeated the faster
-                                variations, in which the notes glittered and dazzled like
-                                showers of diamonds.</i>”
-                            Michael Traub, UNISA Competition.</p>
-                        <p>“<i>A name to be shouted from the rooftops... a young man
-                                whose staggering virtuoso credentials easily match those
-                                of the young Horowitz, Cziffra and Rosenthal...</i>”
-                            John Humphreys, Chairman Dudley International Piano Competition.</p>
-                        <p>
-                        </p>
-                        <a href="/season/1819/Programme-181006-DanielCiobanu.pdf"
-                           target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="http://www.danielpetricaciobanu.com/"
-                               target="_blank">More about Daniel Cionabu</a>
-                        </p>
-                        <p><a href="https://www.youtube.com/watch?v=n5BXZd8xA14" target="_blank">See Daniel play</a></p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item">
-                    <div class="col-sm-3">
                         <h3>Ayman Jarjour</h3>
                         <h4 class="text-info">
                             Sunday, 20<span class="subscript">th</span> January 2019
@@ -193,6 +135,19 @@ htmlHead($title);
                         <p><a href="https://www.youtube.com/watch?v=F3bwYtvvHa8" target="_blank">See Ayman play</a></p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item">
                     <div class="col-sm-3">
@@ -350,6 +305,53 @@ htmlHead($title);
                         <a href="/season/1819/Programme-180915-RoseRoom.pdf"
                            target="_blank">Concert programme</a>
                         </p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Daniel Ciobanu</h3>
+                        <h4 class="text-info">
+                            Saturday, 6<span class="subscript">th</span> October 2018
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
+                        <div id="buyticketdanielciobanu">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/447831"
+                               target="_blank">Buy tickets</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1819/Daniel-Ciobanu-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Originally from Romania, Daniel came to study in Edinburgh under Graeme
+                            McNaught for a school gap year, and has retained close links with Scotland
+                            since. A multiple first prize winner worldwide, a notable highlight was playing
+                            on-stage alongside Lang Lang.
+                        </p>
+                        <p>“<i>Only one word can adequately describe this performance...Sensational!
+                                Particularly exciting was the sense of devilry that permeated the faster
+                                variations, in which the notes glittered and dazzled like
+                                showers of diamonds.</i>”
+                            Michael Traub, UNISA Competition.</p>
+                        <p>“<i>A name to be shouted from the rooftops... a young man
+                                whose staggering virtuoso credentials easily match those
+                                of the young Horowitz, Cziffra and Rosenthal...</i>”
+                            John Humphreys, Chairman Dudley International Piano Competition.</p>
+                        <p>
+                        </p>
+                        <a href="/season/1819/Programme-181006-DanielCiobanu.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="http://www.danielpetricaciobanu.com/"
+                               target="_blank">More about Daniel Cionabu</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=n5BXZd8xA14" target="_blank">See Daniel play</a></p>
                     </div>
                 </li>
 
