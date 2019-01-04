@@ -149,7 +149,7 @@ htmlHead($title);
         <div class="col-sm-12">
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item">
+                <li class="clearfix list-group-item dms-list-item" id="EmilyMitchell">
                     <div class="col-sm-3">
                         <h3>Emily Mitchell Vocal Ensemble</h3>
                         <h4 class="text-info">
@@ -198,7 +198,7 @@ htmlHead($title);
                     </div>
                 </li>
 
-                <li class="clearfix list-group-item dms-list-item">
+                <li class="clearfix list-group-item dms-list-item" id="AlastairSavage">
                     <div class="col-sm-3">
                         <h3>Alastair Savage Trio</h3>
                         <h4 class="text-info">
