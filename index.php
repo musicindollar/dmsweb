@@ -32,7 +32,8 @@ htmlHead($title);
                             January.
                         </p>
                         <p>Ayman Jarjour is well known to many of us. Originally from Syria, he has been based in
-                            Scotland for a number of years. His performances are full of style and variety, with many coming back
+                            Scotland for a number of years. His performances are full of style and variety, with many
+                            coming back
                             for more! Don&#39;t miss it.</p>
                         <!--                        <p><span class="fa fa-ticket">&nbsp;</span>It&#39;s not too late to take out a membership and-->
                         <!--                            save on this season&#39;s programme. Basic membership let&#39;s you pick and choose your-->
@@ -124,10 +125,10 @@ htmlHead($title);
                             works with Spanish, Latin American, Classical, Middle Eastern and Modern
                             flavors. He plays an instrument made by Egyptian luthier Jean-Paul Haggar.</p>
                         <p>
-                            <!--                            </p>-->
-                            <!--                                <a href="/season/1819/Programme-190120-AymanJarjour.pdf"-->
-                            <!--                                   target="_blank">Concert programme</a>-->
-                            <!--                            </p>-->
+                        </p>
+                        <a href="/season/1819/Programme-190120-AymanJarjour.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="http://aymanjarjour.com/"
                                target="_blank">More about Ayman Jarjour</a>
