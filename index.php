@@ -126,10 +126,10 @@ htmlHead($title);
                         <p>With another singer and accompanist Emily will take us through some of her
                             repertoire highlights.</p>
                         <p>
-                            <!--                            </p>-->
-                            <!--                                <a href="/season/1819/Programme-190120-AymanJarjour.pdf"-->
-                            <!--                                   target="_blank">Concert programme</a>-->
-                            <!--                            </p>-->
+                        </p>
+                        <a href="/season/1819/Programme-190224-EmilyMitchell.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="https://www.emilymitchellsoprano.com/"
                                target="_blank">More about Emily Mitchell</a>
