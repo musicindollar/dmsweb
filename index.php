@@ -26,13 +26,14 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Ayman charmed and entranced a large audience with an amazing range of styles, sounds and
-                            emotions. A wonderful tour through the world of guitar.</p>
-                        <p><span class="fa fa-music">&nbsp;</span>Our next concert is on Sunday 24th
-                            February (another afternoon event).
+                        <p>Emily Mitchell and friends gave us an enchanted afternoon - music from the heavens
+                            indeed.</p>
+                        <p><span class="fa fa-music">&nbsp;</span>Our next concert is on Saturday 16th
+                            Match (an evening event, now that the darkest nights are behind us).
                         </p>
-                        <p>Emily Mitchell, renowned Scottish soprano, will bring an ensemble of singers accompanied by
-                            piano. We&#39;ll be treated to high opera through to popular songs. Don&#39;t miss it.</p>
+                        <p>The Alastair Savage Trio will treat us to spirited and soulful tunes, both traditional and
+                            contemporary.
+                            A high note on which to end the season! Don&#39;t miss it.</p>
                         <!--                        <p><span class="fa fa-ticket">&nbsp;</span>It&#39;s not too late to take out a membership and-->
                         <!--                            save on this season&#39;s programme. Basic membership let&#39;s you pick and choose your-->
                         <!--                            concerts, at a cheaper price. And it helps Music in Dollar too.</p>-->
@@ -89,69 +90,7 @@ htmlHead($title);
         <div class="col-sm-12">
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-next" id="EmilyMitchell">
-                    <div class="col-sm-3">
-                        <h3>Emily Mitchell Vocal Ensemble</h3>
-                        <h4 class="text-info">
-                            Sunday, 24<span class="subscript">th</span> February 2019
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <div id="buyticketemilymitchell">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/447835"
-                               target="_blank">Buy tickets</a>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1819/emilymitchell-2-sm.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>"When the gates of Heaven are thrown open, I’d tears in my eyes. Best of all,
-                            Tomas had engaged a wonderful young soprano, Emily Mitchell, for the all
-                            important solo part in the last movement. If I say that she reminded me of a
-                            young Lucia Popp, I can give no higher praise."
-                            wholeelephant.co.uk
-                        </p>
-                        <p>Born into a musical family, Scottish soprano Emily Mitchell, was
-                            immersed in music from an early age. She began her formal classical
-                            training at the RCS in Glasgow under the tutelage of Margaret Aronson.
-                            She is a Live Music Now! artist with her accompanist Geoffrey Tanti and
-                            is a regular performer with Scottish Opera.</p>
-                        <p>Emily has an extensive concert career ranging from opera to solo
-                            recitals to oratorio. She sings regularly with the Dunedin Consort and is broadcast on
-                            radio.</p>
-                        <p>With another singer and accompanist Emily will take us through some of her
-                            repertoire highlights.</p>
-                        <p>
-                        </p>
-                        <a href="/season/1819/Programme-190224-EmilyMitchell.pdf"
-                           target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="https://www.emilymitchellsoprano.com/"
-                               target="_blank">More about Emily Mitchell</a>
-                        </p>
-                        <p><a href="https://www.emilymitchellsoprano.com/media" target="_blank">Hear Emily sing</a></p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item" id="AlastairSavage">
+                <li class="clearfix list-group-item dms-list-item-next" id="AlastairSavage">
                     <div class="col-sm-3">
                         <h3>Alastair Savage Trio</h3>
                         <h4 class="text-info">
@@ -205,6 +144,19 @@ htmlHead($title);
             </ul>
         </div>
     </div>
+
+    <!--    <div class="row">-->
+    <!--        <div class="col-sm-12">-->
+    <!--            <h3 class="text-info">Still to come</h3>-->
+    <!--        </div>-->
+    <!--    </div>-->
+    <!--    <div class="row">-->
+    <!--        <div class="col-sm-12">-->
+    <!--            <ul class="list-group">-->
+    <!---->
+    <!--            </ul>-->
+    <!--        </div>-->
+    <!--    </div>-->
 
     <div id="PrevConcert" class="row">
         <div class="col-sm-12">
@@ -351,6 +303,55 @@ htmlHead($title);
                                target="_blank">More about Ayman Jarjour</a>
                         </p>
                         <p><a href="https://www.youtube.com/watch?v=F3bwYtvvHa8" target="_blank">See Ayman play</a></p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="EmilyMitchell">
+                    <div class="col-sm-3">
+                        <h3>Emily Mitchell Vocal Ensemble</h3>
+                        <h4 class="text-info">
+                            Sunday, 24<span class="subscript">th</span> February 2019
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                        <div id="buyticketemilymitchell">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/447835"
+                               target="_blank">Buy tickets</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1819/emilymitchell-2-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>"When the gates of Heaven are thrown open, I’d tears in my eyes. Best of all,
+                            Tomas had engaged a wonderful young soprano, Emily Mitchell, for the all
+                            important solo part in the last movement. If I say that she reminded me of a
+                            young Lucia Popp, I can give no higher praise."
+                            wholeelephant.co.uk
+                        </p>
+                        <p>Born into a musical family, Scottish soprano Emily Mitchell, was
+                            immersed in music from an early age. She began her formal classical
+                            training at the RCS in Glasgow under the tutelage of Margaret Aronson.
+                            She is a Live Music Now! artist with her accompanist Geoffrey Tanti and
+                            is a regular performer with Scottish Opera.</p>
+                        <p>Emily has an extensive concert career ranging from opera to solo
+                            recitals to oratorio. She sings regularly with the Dunedin Consort and is broadcast on
+                            radio.</p>
+                        <p>With another singer and accompanist Emily will take us through some of her
+                            repertoire highlights.</p>
+                        <p>
+                        </p>
+                        <a href="/season/1819/Programme-190224-EmilyMitchell.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="https://www.emilymitchellsoprano.com/"
+                               target="_blank">More about Emily Mitchell</a>
+                        </p>
+                        <p><a href="https://www.emilymitchellsoprano.com/media" target="_blank">Hear Emily sing</a></p>
                     </div>
                 </li>
 
