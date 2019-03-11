@@ -34,6 +34,20 @@ htmlHead($title);
                         <p>The Alastair Savage Trio will treat us to spirited and soulful tunes, both traditional and
                             contemporary.
                             A high note on which to end the season! Don&#39;t miss it.</p>
+                        <hr/>
+                        <p>Another concert you might find interesting - <a
+                                    href="http://www.classicalmusiciansscotland.com/" target="_blank">Classical Musicians Scotland</a>
+                            will be presenting three performances of excerpts of Mildred (née Bowes Lyon) Jessup's opera
+                            Ethelinda - last performed in Florence 125 years ago.
+                            Unfortunately Mildred died young and so her music has been lost for over a century. Had she
+                            lived, she would have been the Queen&#39;s great-aunt. It&#39;s also believed she was the
+                            very first female composer of opera.
+                            Saturday 6 April , 7.30pm - 9.30pm
+                            Sunday 7 April, 2.30pm - 4.30pm and 7.30pm - 9.30pm.
+                        </p>
+                        <p>Venue: the magnificent drawing room in Glamis Castle.
+                            <a href="https://www.glamis-castle.co.uk/event/ethelinda/" target="_blank">More information and how to buy
+                                tickets.</a></p>
                         <!--                        <p><span class="fa fa-ticket">&nbsp;</span>It&#39;s not too late to take out a membership and-->
                         <!--                            save on this season&#39;s programme. Basic membership let&#39;s you pick and choose your-->
                         <!--                            concerts, at a cheaper price. And it helps Music in Dollar too.</p>-->
@@ -127,10 +141,10 @@ htmlHead($title);
                         <p>"Hearing the raucous and the wistful tunes of Alastair Savage, I’ve never felt so
                             proud to be Scottish; his music is so invigorating and soulful" – Kate Clarkson</p>
                         <p>
-                            <!--                            </p>-->
-                            <!--                                <a href="/season/1819/Programme-190120-AymanJarjour.pdf"-->
-                            <!--                                   target="_blank">Concert programme</a>-->
-                            <!--                            </p>-->
+                        </p>
+                        <a href="/season/1819/Programme-190316-AlastairSavage.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="http://alastairsavage.co.uk/"
                                target="_blank">More about Alastair Savage</a>
