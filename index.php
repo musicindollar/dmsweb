@@ -26,28 +26,19 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Emily Mitchell and friends gave us an enchanted afternoon - music from the heavens
-                            indeed.</p>
-                        <p><span class="fa fa-music">&nbsp;</span>Our next concert is on Saturday 16th
-                            Match (an evening event, now that the darkest nights are behind us).
-                        </p>
-                        <p>The Alastair Savage Trio will treat us to spirited and soulful tunes, both traditional and
-                            contemporary.
-                            A high note on which to end the season! Don&#39;t miss it.</p>
+                        <p>The Alastair Savage Trio was a beautiful and inspiring tour through some of Scotland&#39;s
+                            great musical tradition, past and present.</p>
+                        <p><span class="fa fa-music">&nbsp;</span>Our next event is the Members Evening, on Thursday
+                            16th May at 7:30pm.</p>
+                        <p>Following from the acclaim for our final concert, the members evening also features a
+                            traditional
+                            duo, on fiddle and accordion.</p>
                         <hr/>
                         <p>Another concert you might find interesting - <a
-                                    href="http://www.classicalmusiciansscotland.com/" target="_blank">Classical Musicians Scotland</a>
-                            will be presenting three performances of excerpts of Mildred (née Bowes Lyon) Jessup's opera
-                            Ethelinda - last performed in Florence 125 years ago.
-                            Unfortunately Mildred died young and so her music has been lost for over a century. Had she
-                            lived, she would have been the Queen&#39;s great-aunt. It&#39;s also believed she was the
-                            very first female composer of opera.
-                            Saturday 6 April , 7.30pm - 9.30pm
-                            Sunday 7 April, 2.30pm - 4.30pm and 7.30pm - 9.30pm.
+                                    href="http://emgo.org.uk/events/event/emgo-at-alloa-ludgate-church/"
+                                    target="_blank">The Edinburgh Guitar and Mandolin Orchestra</a>
+                            are playing at Alloa Ludgate Church on Sunday 26th May. Tickets &#163;7.50 at the door.
                         </p>
-                        <p>Venue: the magnificent drawing room in Glamis Castle.
-                            <a href="https://www.glamis-castle.co.uk/event/ethelinda/" target="_blank">More information and how to buy
-                                tickets.</a></p>
                         <!--                        <p><span class="fa fa-ticket">&nbsp;</span>It&#39;s not too late to take out a membership and-->
                         <!--                            save on this season&#39;s programme. Basic membership let&#39;s you pick and choose your-->
                         <!--                            concerts, at a cheaper price. And it helps Music in Dollar too.</p>-->
@@ -104,54 +95,32 @@ htmlHead($title);
         <div class="col-sm-12">
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-next" id="AlastairSavage">
+                <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
-                        <h3>Alastair Savage Trio</h3>
+                        <h3>Members Evening</h3>
                         <h4 class="text-info">
-                            Saturday, 16<span class="subscript">th</span> March 2019
+                            Thursday, 16<span class="subscript">th</span> May 2019
                         </h4>
-                        <p>7:30pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <div id="buytickettl">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/447837"
-                               target="_blank">Buy tickets</a>
-                        </div>
+                        <p>7:30pm Dollar Golf Club <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Golf+Club/@56.1665226,-3.6739075,17z/data=!3m1!4b1!4m5!3m4!1s0x4888801fd42adfa9:0xd6513e294f9d68b0!8m2!3d56.1665226!4d-3.6717188">FK14
+                                7EA</a></p>
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/1819/alastairsavage-sm.jpg"/>
+                        <img src="/image/1819/fiddle.png"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>Way back in 2004, one of the violin players in the BBC SSO decided that
-                            a return to his roots was long overdue. A native of Ardrossan, Alastair
-                            Savage had grown up as a folk fiddler, famously winning The Double
-                            (both the Ayrshire and National sections of the Land O' Burns Scots'
-                            Fiddle Competition) in 1986, before going on to study classical playing at
-                            the RSAM in Glasgow and then the Royal Academoy of Music in London.
-                            Alastair heeded the call of the traditional tunes that had
-                            started him off as a musician, and, together with his great friends Euan
-                            Drysdale and Iain Crawford, The Alastair Savage Trio was born.
+                        <p>The traditional duo of Rodger and Laurie will play fiddle and accordian. If you loved the
+                            Alastair Savage Trio then this will be a worthy follow-on from the same tradition.
                         </p>
-                        <p>As well as playing those written by the fiddle greats of yesteryear, Alastair had
-                            been writing his own tunes for years, inspired by various experiences and the
-                            land and cityscapes around him. <a href="http://alastairsavage.co.uk/music.html">Four albums
-                                have been recorded so far</a>, along with many festival appearances.</p>
-                        <p>"Hearing the raucous and the wistful tunes of Alastair Savage, I’ve never felt so
-                            proud to be Scottish; his music is so invigorating and soulful" – Kate Clarkson</p>
+                        <p>Free drink on arrival and snacks on the tables. The format is jazz cabaret style in the
+                            relaxed and informal surroundings of Dollar Golf Club.
+                            Come along and chat with other members, or just the refreshments and music.</p>
                         <p>
-                        </p>
-                        <a href="/season/1819/Programme-190316-AlastairSavage.pdf"
-                           target="_blank">Concert programme</a>
+                            As usual there will be a short (15 minute) AGM.
                         </p>
                         <p>
-                            <a href="http://alastairsavage.co.uk/"
-                               target="_blank">More about Alastair Savage</a>
+                            Members free, non-members &#163;4.
                         </p>
-                        <p><a href="https://www.youtube.com/watch?v=B0GUT5uL4BQ" target="_blank">See the Alastair Savage
-                                Trio in
-                                action</a></p>
                     </div>
                 </li>
 
@@ -366,6 +335,57 @@ htmlHead($title);
                                target="_blank">More about Emily Mitchell</a>
                         </p>
                         <p><a href="https://www.emilymitchellsoprano.com/media" target="_blank">Hear Emily sing</a></p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-next" id="AlastairSavage">
+                    <div class="col-sm-3">
+                        <h3>Alastair Savage Trio</h3>
+                        <h4 class="text-info">
+                            Saturday, 16<span class="subscript">th</span> March 2019
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                        <div id="buytickettl">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/447837"
+                               target="_blank">Buy tickets</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1819/alastairsavage-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Way back in 2004, one of the violin players in the BBC SSO decided that
+                            a return to his roots was long overdue. A native of Ardrossan, Alastair
+                            Savage had grown up as a folk fiddler, famously winning The Double
+                            (both the Ayrshire and National sections of the Land O' Burns Scots'
+                            Fiddle Competition) in 1986, before going on to study classical playing at
+                            the RSAM in Glasgow and then the Royal Academoy of Music in London.
+                            Alastair heeded the call of the traditional tunes that had
+                            started him off as a musician, and, together with his great friends Euan
+                            Drysdale and Iain Crawford, The Alastair Savage Trio was born.
+                        </p>
+                        <p>As well as playing those written by the fiddle greats of yesteryear, Alastair had
+                            been writing his own tunes for years, inspired by various experiences and the
+                            land and cityscapes around him. <a href="http://alastairsavage.co.uk/music.html">Four albums
+                                have been recorded so far</a>, along with many festival appearances.</p>
+                        <p>"Hearing the raucous and the wistful tunes of Alastair Savage, I’ve never felt so
+                            proud to be Scottish; his music is so invigorating and soulful" – Kate Clarkson</p>
+                        <p>
+                        </p>
+                        <a href="/season/1819/Programme-190316-AlastairSavage.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="http://alastairsavage.co.uk/"
+                               target="_blank">More about Alastair Savage</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=B0GUT5uL4BQ" target="_blank">See the Alastair Savage
+                                Trio in
+                                action</a></p>
                     </div>
                 </li>
 
