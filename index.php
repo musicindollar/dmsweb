@@ -26,14 +26,12 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p>The Alastair Savage Trio was a beautiful and inspiring tour through some of Scotland&#39;s
-                            great musical tradition, past and present.</p>
-                        <p><span class="fa fa-music">&nbsp;</span>Our next event is the Members Evening, on Thursday
-                            16th May at 7:30pm.</p>
-                        <p>Following from the acclaim for our final concert, the members evening also features a
-                            traditional
-                            duo, on fiddle and accordion.</p>
-                        <hr/>
+                        <p>If anyone had fallen asleep at the AGM, Rodger and Laurie woke them up with a sparkling and
+                            beautiful set of traditional tunes from Scotland, Ireland and North America. A perfect way
+                            to end the season. Roll on the Music in Dollar ceilidh!</p>
+                        <p><span class="fa fa-music">&nbsp;</span>Next season&#39;s programme will be posted here soon.
+                            Another great lineup of top class live music to look forward to in the heart of our
+                            community.</p>
                         <p>Another concert you might find interesting - <a
                                     href="http://emgo.org.uk/events/event/emgo-at-alloa-ludgate-church/"
                                     target="_blank">The Edinburgh Guitar and Mandolin Orchestra</a>
@@ -93,38 +91,10 @@ htmlHead($title);
     </div>
     <div class="row">
         <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item-next">
-                    <div class="col-sm-3">
-                        <h3>Members Evening</h3>
-                        <h4 class="text-info">
-                            Thursday, 16<span class="subscript">th</span> May 2019
-                        </h4>
-                        <p>7:30pm Dollar Golf Club <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Golf+Club/@56.1665226,-3.6739075,17z/data=!3m1!4b1!4m5!3m4!1s0x4888801fd42adfa9:0xd6513e294f9d68b0!8m2!3d56.1665226!4d-3.6717188">FK14
-                                7EA</a></p>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1819/fiddle.png"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>The traditional duo of Rodger and Laurie will play fiddle and accordian. If you loved the
-                            Alastair Savage Trio then this will be a worthy follow-on from the same tradition.
-                        </p>
-                        <p>Free drink on arrival and snacks on the tables. The format is jazz cabaret style in the
-                            relaxed and informal surroundings of Dollar Golf Club.
-                            Come along and chat with other members, or just the refreshments and music.</p>
-                        <p>
-                            As usual there will be a short (15 minute) AGM.
-                        </p>
-                        <p>
-                            Members free, non-members &#163;4.
-                        </p>
-                    </div>
-                </li>
-
-            </ul>
+<p>Next season&#39;s programme coming soon!</p>
+<!--            <ul class="list-group">-->
+<!---->
+<!--            </ul>-->
         </div>
     </div>
 
@@ -338,7 +308,7 @@ htmlHead($title);
                     </div>
                 </li>
 
-                <li class="clearfix list-group-item dms-list-item-next" id="AlastairSavage">
+                <li class="clearfix list-group-item dms-list-item-prev" id="AlastairSavage">
                     <div class="col-sm-3">
                         <h3>Alastair Savage Trio</h3>
                         <h4 class="text-info">
@@ -386,6 +356,35 @@ htmlHead($title);
                         <p><a href="https://www.youtube.com/watch?v=B0GUT5uL4BQ" target="_blank">See the Alastair Savage
                                 Trio in
                                 action</a></p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Members Evening</h3>
+                        <h4 class="text-info">
+                            Thursday, 16<span class="subscript">th</span> May 2019
+                        </h4>
+                        <p>7:30pm Dollar Golf Club <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Golf+Club/@56.1665226,-3.6739075,17z/data=!3m1!4b1!4m5!3m4!1s0x4888801fd42adfa9:0xd6513e294f9d68b0!8m2!3d56.1665226!4d-3.6717188">FK14
+                                7EA</a></p>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1819/fiddle.png"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>The traditional duo of Rodger and Laurie will play fiddle and accordian. If you loved the
+                            Alastair Savage Trio then this will be a worthy follow-on from the same tradition.
+                        </p>
+                        <p>Free drink on arrival and snacks on the tables. The format is jazz cabaret style in the
+                            relaxed and informal surroundings of Dollar Golf Club.
+                            Come along and chat with other members, or just the refreshments and music.</p>
+                        <p>
+                            As usual there will be a short (15 minute) AGM.
+                        </p>
+                        <p>
+                            Members free, non-members &#163;4.
+                        </p>
                     </div>
                 </li>
 
