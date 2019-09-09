@@ -26,15 +26,18 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p><span class="fa fa-coffee">&nbsp;</span>A new season begins, packed with interest and quality.
+                        <p><span class="fa fa-coffee">&nbsp;</span>A new season begins, packed with interest and
+                            quality.
                             Before the concerts being we have the Coffee Morning, where we will hear music from each
-                            perform in this season&#39;s programme.
+                            performer in this season&#39;s programme.
                             Great coffee, conversation, games, raffle, cake stall... Come along and join us!</p>
-                        <p><span class="fa fa-ticket">&nbsp;</span>Season tickets and memberships will be on sale at the Coffee Morning.
+                        <p><span class="fa fa-ticket">&nbsp;</span>Season tickets and memberships will be on sale at the
+                            Coffee Morning.
                             As a special incentive to beat the rush and buy early, 2 free complimentary tickets will be
                             given out for anyone buying a season ticket before the first concert.
-                            If you can&#39;t make it to the Coffee Morning, then <a href="contact.php">get in touch online</a> or on Facebook.
-                        </p>
+                            If you can&#39;t make it to the Coffee Morning, then <a href="contact.php">get in touch
+                                online</a> or on
+                            <a href="https://www.facebook.com/MusicInDollar" target="_blank">Facebook</a>.</p>
                         <!--                        <p><span class="fa fa-ticket">&nbsp;</span>It&#39;s not too late to take out a membership and-->
                         <!--                            save on this season&#39;s programme. Basic membership let&#39;s you pick and choose your-->
                         <!--                            concerts, at a cheaper price. And it helps Music in Dollar too.</p>-->
@@ -111,18 +114,28 @@ htmlHead($title);
                         <img src="/image/1920/fergus-alone-sm.png"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>xxx.
+                        <p>Labelled as "<i>the most exciting new talent to emerge from Scotland in a
+                                decade</i>" (Jazz Scotland), the Fergus McCreadie Trio are poised to be one of
+                            Jazz's most compelling outfits. Their music is a beguiling blend of
+                            Jazz and Scottish styles. While the compositions are new, fresh and
+                            exciting, they also strike a familiarity reminiscent of songs known since childhood.</p>
+                        <p>2018, the trio released their debut album, 'Turas' (Scottish Gaelic for
+                            Journey) to rave reviews, touring it internationally in 2019.</p>
+                        <p>Featured recently in publications as diverse as Jazz Views and The Economist, Fergus and the
+                            Trio are making their mark.</p>
+                        <p><span class="fa fa-quote-left"></span><i>Precocious talent may abound in circles but it is
+                                rare that they elicit such a
+                                warm and positive feeling... compositions that are impeccably played,
+                                memorable and thought provoking by turns.</i><span class="fa fa-quote-right"></span>
+                            – Jazz Views</p>
+                        <p><span class="fa fa-quote-left"></span><i>Simply outstanding.</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Jazzwise</p>
+                        <a href="http://www.fergusmccreadie.co.uk//"
+                           target="_blank">More about Fergus McCreadie</a>
                         </p>
-                        <p>xxx.</p>
-                        <p>Don't miss ‘Ensemble of the Year’ in the last <a href="http://www.jazzfest.co.uk/awards/">Scottish
-                                Jazz Awards</a>!</p>
-                        <p>
-                            <a href="http://www.fergusmccreadie.co.uk//"
-                               target="_blank">More about Fergus McCreadie</a>
-                        </p>
-                        <p>Tunes that you part know already <a href="https://www.youtube.com/watch?v=IivIT45086g"
-                                                               target="_blank">to their
-                                sound</a>.</p>
+                        <p><a href="https://www.youtube.com/watch?v=IivIT45086g"
+                              target="_blank">Hear Fergus play</a>.</p>
                         </p>
                         <!--                        <a href="/season/1920/Programme-191005-FergusMcCreadie.pdf"-->
                         <!--                           target="_blank">Concert programme</a>-->
@@ -163,13 +176,22 @@ htmlHead($title);
                         <img src="/image/1920/charlotte01-sm.jpg"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>xxx.
+                        <p>From an early age, local lass Rowan (who attended Dollar Academy) has been
+                            captivating audiences with her dazzling virtuosity, commanding stage presence
+                            and imaginative spirit.</p>
+                        <p>Since graduating in 2012 from Peabody Conservatory of Music, USA, she has launched
+                            a career as a solo performer and as a duo with long-established partner Charlotte
+                            Stevenson.</p>
+                        <p>Making a welcome return to Music in Dollar, those of us who hear her play in 2014 had similar
+                            reactions to other audiences:</p>
+                        <p><span class="fa fa-quote-left"></span><i>A breathtaking recital. I was advised to get
+                                my programme signed for posterity, and wish I had.</i><span
+                                    class="fa fa-quote-right"></span></p>
                         </p>
-                        <p>“<i>xxx.</i>”
-                            Michael Traub, UNISA Competition.</p>
-                        <p>“<i>xxx...</i>”
-                            John Humphreys, Chairman Dudley International Piano Competition.</p>
-                        <p>
+                        <p><span class="fa fa-quote-left"></span><i>The sheer virtuosity of her playing - speed, range
+                                of technique, mood - was amazing. You truly gave us a concert to remember. Such an
+                                amazing
+                                performance.</i><span class="fa fa-quote-right"></span></p>
                         </p>
                         <!--                        <a href="/season/1920/Programme-191117-CharlotteRowan.pdf"-->
                         <!--                           target="_blank">Concert programme</a>-->
@@ -178,7 +200,8 @@ htmlHead($title);
                             <a href="http://www.charlotterowan.com"
                                target="_blank">More about Charlotte Rowan</a>
                         </p>
-                        <p><a href="https://www.youtube.com/watch?v=iQMJ8TEa4dY" target="_blank">See Charlotte play</a>
+                        <p><a href="https://www.youtube.com/watch?v=iQMJ8TEa4dY" target="_blank">See Charlotte Rowan
+                                play</a>
                         </p>
                     </div>
                 </li>
@@ -203,16 +226,28 @@ htmlHead($title);
                         <img src="/image/1920/TopFloorTaivers3-sm.png"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>xxx.
+                        <p>Top Floor Taivers are a folk band from Glasgow. Featuring vocalist and ukulele
+                            player Claire Hastings (Young Traditional Musician of the Year 2015), fiddler Gráinne
+                            Brady, Heather Downie on clarsach and Aidan Moodie on guitar, they have
+                            impressed audiences with their unique arrangements and stunning harmonies.
                         </p>
-                        <p>xxx.</p>
+                        <p>Their debut album <i>A Delicate Game</i> showcases a variety of styles. From
+                            traditional ballads to contemporary covers, Top Floor Taivers deftly tell a story
+                            through both words and instrumentation, no matter what its origin.</p>
                         <p>
+                        <p><span class="fa fa-quote-left"></span><i>These four are incredibly talented.</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Folk Radio UK</p>
+                        </p>
+                        <p><span class="fa fa-quote-left"></span><i>A flair for arrangement.</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Northern Sky Magazine</p>
                         </p>
                         <!--                        <a href="/season/1920/Programme-200119-TopFloorTaivers.pdf"-->
                         <!--                           target="_blank">Concert programme</a>-->
                         <!--                        </p>-->
                         <p>
-                            <a href="http://aymanjarjour.com/"
+                            <a href="https://www.facebook.com/TopFloorTaivers/"
                                target="_blank">More about Top Floor Taivers</a>
                         </p>
                         <p><a href="https://www.youtube.com/watch?v=gi7HVQQ0isw" target="_blank">See Top Floor Taivers
@@ -240,9 +275,22 @@ htmlHead($title);
                         <img src="/image/1920/christinalawrie-a3-sm.jpg"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>Christina...</p>
-                        <p>.</p>
-                        <p>
+                        <p>Hailed as a rising star by the magazine International Piano, Scottish pianist
+                            Christina Lawrie made her debut in 2009 with the RSNO in the Caird Hall.</p>
+                        <p>After studying in Glasgow, Chetham's and Trinity College Cambridge, Christina
+                            has been an active concert pianist in the UK and abroad. Winner of many prizes,
+                            her debut at London’s world-renowned Wigmore Hall was praised by Musical
+                            Opinion magazine for its “astute intelligence and warmth of spirit”.</p>
+                        <p><span class="fa fa-quote-left"></span><i>Christina Lawrie is a young pianist of formidable
+                                intellect and boundless
+                                technique...Fantastic playing.</i><span
+                                    class="fa fa-quote-right"></span>
+                            – The Observer</p>
+                        </p>
+                        <p><span class="fa fa-quote-left"></span><i>Christina Lawrie is a wholly natural
+                                musician.</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Classical Source</p>
                         </p>
                         <!--                        <a href="/season/1920/Programme-190223-ChristinaLawrie.pdf"-->
                         <!--                           target="_blank">Concert programme</a>-->
@@ -276,13 +324,20 @@ htmlHead($title);
                         <img src="/image/1920/roxburgh-mg5685-sm.png"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>xxx.
+                        <p>Formed in 2005 and based in Edinburgh, the Roxburgh are quartet in residence
+                            at the city’s beautiful Lauriston Hall. Their core repertoire includes the late
+                            Schubert quartets, the German Romantics, the great French masterworks and,
+                            notably, Bartok’s First Quartet and Tan Dun’s Eight Colours for String Quartet.
                         </p>
-                        <p>.</p>
-                        <p>"" – x</p>
-                        <p>
+                        <p>In recent years the quartet has added earlier music to its repertoire, inspired by
+                            performing Bach’s The Art of Fugue at Edinburgh and St Andrews
+                            Universities, with harpsichordists John Kitchen and Tom Wilkinson.</p>
+                        <p><span class="fa fa-quote-left"></span><i>Inspired music played with complete control,
+                                imagination and deep insight.</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Courier</p>
                         </p>
-                        <!--                        <a href="/season/1819/Programme-190316-AlastairSavage.pdf"-->
+                        <!--                        <a href="/season/1920/Programme-200321-RoxburghQuartet.pdf"-->
                         <!--                           target="_blank">Concert programme</a>-->
                         <!--                        </p>-->
                         <p>
