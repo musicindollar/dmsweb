@@ -76,7 +76,7 @@ htmlHead($title);
         <div class="col-sm-6 margintop10">
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <a href="season/1819/DMS-Leaflet-2019-20.pdf" target="_blank">View</a>
+                    <a href="season/1920/DMS-Leaflet-2019-20.pdf" target="_blank">View</a>
                     the full programme for the current season [PDF 2.6MB] <a
                             href="season/1920/DMS-Leaflet-2019-20.pdf" target="_blank"><img
                                 src="image/pdf.jpeg"/></a>
