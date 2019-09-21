@@ -104,11 +104,11 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-                        <!--                            <div id="buyticketfergusmccreadie">-->
-                        <!--                                <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                                   href="https://www.wegottickets.com/event/000000"-->
-                        <!--                                   target="_blank">Buy tickets</a>-->
-                        <!--                            </div>-->
+                        <div id="buyticketfergusmccreadie">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/483888"
+                               target="_blank">Buy tickets</a>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1920/fergus-alone-sm.png"/>
