@@ -26,17 +26,12 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p><span class="fa fa-coffee">&nbsp;</span>A new season begins, packed with interest and
-                            quality.
-                            Before the concerts being we have the Coffee Morning, where we will hear music from each
-                            performer in this season&#39;s programme.
-                            Great coffee, conversation, games, raffle, cake stall... Come along and join us!</p>
-                        <p><span class="fa fa-ticket">&nbsp;</span>Season tickets and memberships will be on sale at the
-                            Coffee Morning.
-                            As a special incentive to beat the rush and buy early, 2 free complimentary tickets will be
-                            given out for anyone buying a season ticket before the first concert.
-                            If you can&#39;t make it to the Coffee Morning, then <a href="contact.php">get in touch
-                                online</a> or on
+                        <p><span class="fa fa-music">&nbsp;</span>The Fergus McCreadie Trio wove a musical spell, taking
+                            us on a sonic tour of Scotland&#39;s landscapes. They have a unique and magical sound,
+                            blending natural lyricism with amazing arrangements and virtuosity.
+                            it was a privilege to hear them.</p>
+                        <p><span class="fa fa-envelope-o">&nbsp;</span>Like something, got a suggestion? Please <a
+                                    href="contact.php">drop us a note online</a> or on
                             <a href="https://www.facebook.com/MusicInDollar" target="_blank">Facebook</a>.</p>
                         <!--                        <p><span class="fa fa-ticket">&nbsp;</span>It&#39;s not too late to take out a membership and-->
                         <!--                            save on this season&#39;s programme. Basic membership let&#39;s you pick and choose your-->
@@ -96,68 +91,6 @@ htmlHead($title);
 
                 <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
-                        <h3>Fergus McCreadie Trio</h3>
-                        <h4 class="text-info">
-                            Saturday, 5<span class="subscript">th</span> October 2019
-                        </h4>
-                        <p>7:30pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-                        <div id="buyticketfergusmccreadie">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/483888"
-                               target="_blank">Buy tickets</a>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1920/fergus-alone-sm.png"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Labelled as "<i>the most exciting new talent to emerge from Scotland in a
-                                decade</i>" (Jazz Scotland), the Fergus McCreadie Trio are poised to be one of
-                            Jazz's most compelling outfits. Their music is a beguiling blend of
-                            Jazz and Scottish styles. While the compositions are new, fresh and
-                            exciting, they also strike a familiarity reminiscent of songs known since childhood.</p>
-                        <p>2018, the trio released their debut album, 'Turas' (Scottish Gaelic for
-                            Journey) to rave reviews, touring it internationally in 2019.</p>
-                        <p>Featured recently in publications as diverse as Jazz Views and The Economist, Fergus and the
-                            Trio are making their mark.</p>
-                        <p><span class="fa fa-quote-left"></span><i>Precocious talent may abound in circles but it is
-                                rare that they elicit such a
-                                warm and positive feeling... compositions that are impeccably played,
-                                memorable and thought provoking by turns.</i><span class="fa fa-quote-right"></span>
-                            – Jazz Views</p>
-                        <p><span class="fa fa-quote-left"></span><i>Simply outstanding.</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Jazzwise</p>
-                        <a href="http://www.fergusmccreadie.co.uk//"
-                           target="_blank">More about Fergus McCreadie</a>
-                        </p>
-                        <p><a href="https://www.youtube.com/watch?v=IivIT45086g"
-                              target="_blank">Hear Fergus play</a>.</p>
-                        </p>
-                        <!--                        <a href="/season/1920/Programme-191005-FergusMcCreadie.pdf"-->
-                        <!--                           target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item">
-                    <div class="col-sm-3">
                         <h3>Charlotte Rowan</h3>
                         <h4 class="text-info">
                             Sunday, 17<span class="subscript">th</span> November 2019
@@ -205,6 +138,19 @@ htmlHead($title);
                         </p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item">
                     <div class="col-sm-3">
@@ -351,18 +297,67 @@ htmlHead($title);
         </div>
     </div>
 
-    <!--    <div id="PrevConcert" class="row">-->
-    <!--        <div class="col-sm-12">-->
-    <!--            <h3 class="text-info">Previous concerts</h3>-->
-    <!--        </div>-->
-    <!--    </div>-->
-    <!--    <div class="row">-->
-    <!--        <div class="col-sm-12">-->
-    <!--            <ul class="list-group">-->
-    <!---->
-    <!--            </ul>-->
-    <!--        </div>-->
-    <!--    </div>-->
+    <div id="PrevConcert" class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Previous concerts</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
+
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Fergus McCreadie Trio</h3>
+                        <h4 class="text-info">
+                            Saturday, 5<span class="subscript">th</span> October 2019
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <p>Pre-concert performance from 7:15pm features Cloe Burbury on alto sax.</p>
+                        <div id="buyticketfergusmccreadie">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/483888"
+                               target="_blank">Buy tickets</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1920/fergus-alone-sm.png"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Labelled as "<i>the most exciting new talent to emerge from Scotland in a
+                                decade</i>" (Jazz Scotland), the Fergus McCreadie Trio are poised to be one of
+                            Jazz's most compelling outfits. Their music is a beguiling blend of
+                            Jazz and Scottish styles. While the compositions are new, fresh and
+                            exciting, they also strike a familiarity reminiscent of songs known since childhood.</p>
+                        <p>2018, the trio released their debut album, 'Turas' (Scottish Gaelic for
+                            Journey) to rave reviews, touring it internationally in 2019.</p>
+                        <p>Featured recently in publications as diverse as Jazz Views and The Economist, Fergus and the
+                            Trio are making their mark.</p>
+                        <p><span class="fa fa-quote-left"></span><i>Precocious talent may abound in circles but it is
+                                rare that they elicit such a
+                                warm and positive feeling... compositions that are impeccably played,
+                                memorable and thought provoking by turns.</i><span class="fa fa-quote-right"></span>
+                            – Jazz Views</p>
+                        <p><span class="fa fa-quote-left"></span><i>Simply outstanding.</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Jazzwise</p>
+                        <a href="http://www.fergusmccreadie.co.uk//"
+                           target="_blank">More about Fergus McCreadie</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=IivIT45086g"
+                              target="_blank">Hear Fergus play</a>.</p>
+                        </p>
+                        <a href="/season/1920/Programme-191005-FergusMcCreadie.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+    </div>
 
   <?php require "footer.php"; ?>
 
