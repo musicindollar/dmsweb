@@ -98,7 +98,7 @@ htmlHead($title);
                         <p>3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
+                        <p>Pre-concert performance from 2:45pm</p>
                         <div id="buyticketcharlotterowan">
                             <a type="button" class="btn btn-info btn-blocks"
                                href="http://www.wegottickets.com/event/483890"
@@ -126,9 +126,9 @@ htmlHead($title);
                                 amazing
                                 performance.</i><span class="fa fa-quote-right"></span></p>
                         </p>
-                        <!--                        <a href="/season/1920/Programme-191117-CharlotteRowan.pdf"-->
-                        <!--                           target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
+                        <a href="/season/1920/Programme-191117-CharlotteRowan.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="http://www.charlotterowan.com"
                                target="_blank">More about Charlotte Rowan</a>
