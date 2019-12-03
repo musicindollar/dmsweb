@@ -26,10 +26,8 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p><span class="fa fa-music">&nbsp;</span>The Fergus McCreadie Trio wove a musical spell, taking
-                            us on a sonic tour of Scotland&#39;s landscapes. They have a unique and magical sound,
-                            blending natural lyricism with amazing arrangements and virtuosity.
-                            it was a privilege to hear them.</p>
+                        <p><span class="fa fa-music">&nbsp;</span>Charlotte Rowan lived up to her billing - a fantastic,
+                            sparky musical showcase, flowing between lyricism and virtuosity. A wonderful final treat for 2019.</p>
                         <p><span class="fa fa-envelope-o">&nbsp;</span>Like something, got a suggestion? Please <a
                                     href="contact.php">drop us a note online</a> or on
                             <a href="https://www.facebook.com/MusicInDollar" target="_blank">Facebook</a>.</p>
@@ -91,69 +89,6 @@ htmlHead($title);
 
                 <li class="clearfix list-group-item dms-list-item-next">
                     <div class="col-sm-3">
-                        <h3>Charlotte Rowan</h3>
-                        <h4 class="text-info">
-                            Sunday, 17<span class="subscript">th</span> November 2019
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <p>Pre-concert performance from 2:45pm</p>
-                        <div id="buyticketcharlotterowan">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="http://www.wegottickets.com/event/483890"
-                               target="_blank">Buy tickets</a>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1920/charlotte01-sm.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>From an early age, local lass Rowan (who attended Dollar Academy) has been
-                            captivating audiences with her dazzling virtuosity, commanding stage presence
-                            and imaginative spirit.</p>
-                        <p>Since graduating in 2012 from Peabody Conservatory of Music, USA, she has launched
-                            a career as a solo performer and as a duo with long-established partner Charlotte
-                            Stevenson.</p>
-                        <p>Making a welcome return to Music in Dollar, those of us who hear her play in 2014 had similar
-                            reactions to other audiences:</p>
-                        <p><span class="fa fa-quote-left"></span><i>A breathtaking recital. I was advised to get
-                                my programme signed for posterity, and wish I had.</i><span
-                                    class="fa fa-quote-right"></span></p>
-                        </p>
-                        <p><span class="fa fa-quote-left"></span><i>The sheer virtuosity of her playing - speed, range
-                                of technique, mood - was amazing. You truly gave us a concert to remember. Such an
-                                amazing
-                                performance.</i><span class="fa fa-quote-right"></span></p>
-                        </p>
-                        <a href="/season/1920/Programme-191117-CharlotteRowan.pdf"
-                           target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="http://www.charlotterowan.com"
-                               target="_blank">More about Charlotte Rowan</a>
-                        </p>
-                        <p><a href="https://www.youtube.com/watch?v=iQMJ8TEa4dY" target="_blank">See Charlotte Rowan
-                                play</a>
-                        </p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item">
-                    <div class="col-sm-3">
                         <h3>Top Floor Taivers</h3>
                         <h4 class="text-info">
                             Sunday, 19<span class="subscript">th</span> January 2020
@@ -200,6 +135,19 @@ htmlHead($title);
                                 in action</a></p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item" id="ChristinaLawrie">
                     <div class="col-sm-3">
@@ -351,6 +299,56 @@ htmlHead($title);
                         </p>
                         <a href="/season/1920/Programme-191005-FergusMcCreadie.pdf"
                            target="_blank">Concert programme</a>
+                        </p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Charlotte Rowan</h3>
+                        <h4 class="text-info">
+                            Sunday, 17<span class="subscript">th</span> November 2019
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <p>Pre-concert performance from 2:45pm</p>
+                        <div id="buyticketcharlotterowan">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="http://www.wegottickets.com/event/483890"
+                               target="_blank">Buy tickets</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1920/charlotte01-sm.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>From an early age, local lass Rowan (who attended Dollar Academy) has been
+                            captivating audiences with her dazzling virtuosity, commanding stage presence
+                            and imaginative spirit.</p>
+                        <p>Since graduating in 2012 from Peabody Conservatory of Music, USA, she has launched
+                            a career as a solo performer and as a duo with long-established partner Charlotte
+                            Stevenson.</p>
+                        <p>Making a welcome return to Music in Dollar, those of us who hear her play in 2014 had similar
+                            reactions to other audiences:</p>
+                        <p><span class="fa fa-quote-left"></span><i>A breathtaking recital. I was advised to get
+                                my programme signed for posterity, and wish I had.</i><span
+                                    class="fa fa-quote-right"></span></p>
+                        </p>
+                        <p><span class="fa fa-quote-left"></span><i>The sheer virtuosity of her playing - speed, range
+                                of technique, mood - was amazing. You truly gave us a concert to remember. Such an
+                                amazing
+                                performance.</i><span class="fa fa-quote-right"></span></p>
+                        </p>
+                        <a href="/season/1920/Programme-191117-CharlotteRowan.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="http://www.charlotterowan.com"
+                               target="_blank">More about Charlotte Rowan</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=iQMJ8TEa4dY" target="_blank">See Charlotte Rowan
+                                play</a>
                         </p>
                     </div>
                 </li>
