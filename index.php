@@ -27,7 +27,8 @@ htmlHead($title);
                     </div>
                     <div class="panel-body">
                         <p><span class="fa fa-music">&nbsp;</span>Charlotte Rowan lived up to her billing - a fantastic,
-                            sparky musical showcase, flowing between lyricism and virtuosity. A wonderful final treat for 2019.</p>
+                            sparky musical showcase, flowing between lyricism and virtuosity. A wonderful final treat
+                            for 2019.</p>
                         <p><span class="fa fa-envelope-o">&nbsp;</span>Like something, got a suggestion? Please <a
                                     href="contact.php">drop us a note online</a> or on
                             <a href="https://www.facebook.com/MusicInDollar" target="_blank">Facebook</a>.</p>
@@ -124,9 +125,9 @@ htmlHead($title);
                                     class="fa fa-quote-right"></span>
                             – Northern Sky Magazine</p>
                         </p>
-                        <!--                        <a href="/season/1920/Programme-200119-TopFloorTaivers.pdf"-->
-                        <!--                           target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
+                        <a href="/season/1920/Programme-200119-TopFloorTaivers.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="https://www.facebook.com/TopFloorTaivers/"
                                target="_blank">More about Top Floor Taivers</a>
