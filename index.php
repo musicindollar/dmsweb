@@ -26,12 +26,12 @@ htmlHead($title);
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p><span class="fa fa-music">&nbsp;</span>Charlotte Rowan lived up to her billing - a fantastic,
-                            sparky musical showcase, flowing between lyricism and virtuosity. A wonderful final treat
-                            for 2019.</p>
+                        <p><span class="fa fa-music">&nbsp;</span>Top Floor Taivers opened the new decade with great
+                            lyrical and traditional harmonies. Very accessible and a treat for the audience..</p>
                         <p><span class="fa fa-envelope-o">&nbsp;</span>Like something, got a suggestion? Please <a
-                                    href="contact.php">drop us a note online</a> or on
-                            <a href="https://www.facebook.com/MusicInDollar" target="_blank">Facebook</a>.</p>
+                                    href="contact.php">drop us a note online</a>, or on
+                            <a href="https://www.facebook.com/MusicInDollar" target="_blank">Facebook</a> or
+                            <a href="https://twitter.com/MusicInDollar" target="_blank">Twitter</a>.</p>
                         <!--                        <p><span class="fa fa-ticket">&nbsp;</span>It&#39;s not too late to take out a membership and-->
                         <!--                            save on this season&#39;s programme. Basic membership let&#39;s you pick and choose your-->
                         <!--                            concerts, at a cheaper price. And it helps Music in Dollar too.</p>-->
@@ -88,69 +88,7 @@ htmlHead($title);
         <div class="col-sm-12">
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-next">
-                    <div class="col-sm-3">
-                        <h3>Top Floor Taivers</h3>
-                        <h4 class="text-info">
-                            Sunday, 19<span class="subscript">th</span> January 2020
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <div id="buytickettopfloortaivers">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="http://www.wegottickets.com/event/483892"
-                               target="_blank">Buy tickets</a>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/1920/TopFloorTaivers3-sm.png"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Top Floor Taivers are a folk band from Glasgow. Featuring vocalist and ukulele
-                            player Claire Hastings (Young Traditional Musician of the Year 2015), fiddler Gráinne
-                            Brady, Heather Downie on clarsach and Aidan Moodie on guitar, they have
-                            impressed audiences with their unique arrangements and stunning harmonies.
-                        </p>
-                        <p>Their debut album <i>A Delicate Game</i> showcases a variety of styles. From
-                            traditional ballads to contemporary covers, Top Floor Taivers deftly tell a story
-                            through both words and instrumentation, no matter what its origin.</p>
-                        <p>
-                        <p><span class="fa fa-quote-left"></span><i>These four are incredibly talented.</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Folk Radio UK</p>
-                        </p>
-                        <p><span class="fa fa-quote-left"></span><i>A flair for arrangement.</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Northern Sky Magazine</p>
-                        </p>
-                        <a href="/season/1920/Programme-200119-TopFloorTaivers.pdf"
-                           target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="https://www.facebook.com/TopFloorTaivers/"
-                               target="_blank">More about Top Floor Taivers</a>
-                        </p>
-                        <p><a href="https://www.youtube.com/watch?v=gi7HVQQ0isw" target="_blank">See Top Floor Taivers
-                                in action</a></p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item" id="ChristinaLawrie">
+                <li class="clearfix list-group-item dms-list-item-next" id="ChristinaLawrie">
                     <div class="col-sm-3">
                         <h3>Christina Lawrie</h3>
                         <h4 class="text-info">
@@ -187,9 +125,9 @@ htmlHead($title);
                                     class="fa fa-quote-right"></span>
                             – Classical Source</p>
                         </p>
-                        <!--                        <a href="/season/1920/Programme-190223-ChristinaLawrie.pdf"-->
-                        <!--                           target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
+                        <a href="/season/1920/Programme-200223-ChristinaLawrie.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="http://www.christinalawrie.co.uk/"
                                target="_blank">More about Christina Lawrie</a>
@@ -198,6 +136,19 @@ htmlHead($title);
                               target="_blank">Hear Christina play</a></p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item" id="RoxburghQuartet">
                     <div class="col-sm-3">
@@ -351,6 +302,55 @@ htmlHead($title);
                         <p><a href="https://www.youtube.com/watch?v=iQMJ8TEa4dY" target="_blank">See Charlotte Rowan
                                 play</a>
                         </p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev">
+                    <div class="col-sm-3">
+                        <h3>Top Floor Taivers</h3>
+                        <h4 class="text-info">
+                            Sunday, 19<span class="subscript">th</span> January 2020
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                        <div id="buytickettopfloortaivers">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="http://www.wegottickets.com/event/483892"
+                               target="_blank">Buy tickets</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/1920/TopFloorTaivers3-sm.png"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Top Floor Taivers are a folk band from Glasgow. Featuring vocalist and ukulele
+                            player Claire Hastings (Young Traditional Musician of the Year 2015), fiddler Gráinne
+                            Brady, Heather Downie on clarsach and Aidan Moodie on guitar, they have
+                            impressed audiences with their unique arrangements and stunning harmonies.
+                        </p>
+                        <p>Their debut album <i>A Delicate Game</i> showcases a variety of styles. From
+                            traditional ballads to contemporary covers, Top Floor Taivers deftly tell a story
+                            through both words and instrumentation, no matter what its origin.</p>
+                        <p>
+                        <p><span class="fa fa-quote-left"></span><i>These four are incredibly talented.</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Folk Radio UK</p>
+                        </p>
+                        <p><span class="fa fa-quote-left"></span><i>A flair for arrangement.</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Northern Sky Magazine</p>
+                        </p>
+                        <a href="/season/1920/Programme-200119-TopFloorTaivers.pdf"
+                           target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="https://www.facebook.com/TopFloorTaivers/"
+                               target="_blank">More about Top Floor Taivers</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=gi7HVQQ0isw" target="_blank">See Top Floor Taivers
+                                in action</a></p>
                     </div>
                 </li>
 
