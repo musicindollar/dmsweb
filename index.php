@@ -34,12 +34,13 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p><span class="fa fa-power-off">&nbsp;</span>As with all concert promoters, our 2019/20 season
+                        <p><span class="fa fa-power-off">&nbsp;</span>As with all event promoters, our 2019/20 season
                             was cut short in March 20. Since then no public activity has been possible.
                             The Roxburgh Quartet will appear once we can resume, hopefully in the coming 2021/22 season.
                         </p>
                         <p>We hope you are all well and safe, and looking forward to getting back to live music as much
                             as we are!</p>
+                        <p><span class="fa fa-eye">&nbsp;</span>The current state of next season&#39;s programme is shown below. As it takes shape we&#39;ll keep this site updated.
                         <p><span class="fa fa-envelope-o">&nbsp;</span>Like something, got a suggestion? Please <a
                                     href="contact.php">drop us a note online</a>, or on
                             <a href="https://www.facebook.com/MusicInDollar" target="_blank">Facebook</a> or
