@@ -22,7 +22,7 @@ htmlHead($title);
     <div class="row page-header">
         <div class="col-sm-12">
             <a href="DMS-Leaflet-2019-20.pdf" target="_blank">View</a>
-            the full programme for the current season [PDF 2.6Mb] <a
+            the full programme for the 2019-20 season [PDF 2.6Mb] <a
                     href="DMS-Leaflet-2019-20.pdf" target="_blank"><img
                         src="../../image/pdf.jpeg" alt="PDF Season Leaflet"/></a>
         </div>
@@ -42,11 +42,6 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <p>Pre-concert performance from 7:15pm features Cloe Burbury on alto sax.</p>
-                        <div id="buyticketfergusmccreadie">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/483888"
-                               target="_blank">Buy tickets</a>
-                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1920/fergus-alone-sm.png" alt="Fergus McCreadie"/>
@@ -88,11 +83,6 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <p>Pre-concert performance from 2:45pm</p>
-                        <div id="buyticketcharlotterowan">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="http://www.wegottickets.com/event/483890"
-                               target="_blank">Buy tickets</a>
-                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1920/charlotte01-sm.jpg" alt="Charlotte Rowan"/>
@@ -134,11 +124,6 @@ htmlHead($title);
                         <p>3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <div id="buytickettopfloortaivers">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="http://www.wegottickets.com/event/483892"
-                               target="_blank">Buy tickets</a>
-                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1920/TopFloorTaivers3-sm.png" alt="Top Floor Taivers"/>
@@ -179,11 +164,6 @@ htmlHead($title);
                         <p>3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <div id="buyticketchristinalawrie">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="http://www.wegottickets.com/event/483894"
-                               target="_blank">Buy tickets</a>
-                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1920/christinalawrie-a3-sm.jpg" alt="Christina Lawrie"/>
@@ -239,11 +219,6 @@ htmlHead($title);
                         <p>7:30pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <div id="buyticketroxburghquartet">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="http://www.wegottickets.com/event/483896"
-                               target="_blank">Buy tickets</a>
-                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1920/roxburgh-mg5685-sm.png" alt="Roxburgh Quartet"/>
