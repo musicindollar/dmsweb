@@ -9,7 +9,7 @@ htmlHead($title);
 <body>
 
 <!--
-Anna and Mairerad on 23rd October 2021
+Anna and Mairerad on 30th October 2021
 Sirocco Winds 16th Jan 2022
 Clare Hammond 9th April 2022
 Roxburgh sometime in March 2022 depending on their orchestral commitments
