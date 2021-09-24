@@ -34,14 +34,25 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
-                        <p><span class="fa fa-power-off">&nbsp;</span>As with all event promoters, our 2019/20 season
-                            was cut short in March 20. Since then no public activity has been possible.
-                            The Roxburgh Quartet will appear once we can resume, hopefully in the coming 2021/22 season.
+                        <p><span class="fa fa-eye"></span> The 2021-22 programme has now been finalised! See
+                            details below. There are 6 concerts this season, with the delayed <a
+                                    href="#RoxburghQuartet">Roxburgh Quartet</a> concert
+                            rescheduled for February 2022.
+                            Unfortunately with everyone's schedules thrown into chaos by Covid 19, there are concerts on
+                            consecutive weekends in February / March 2022.
+                            While this is not ideal, we are very glad to finally be hearing the Roxburgh and hope many
+                            of you will turn out to enjoy it.
                         </p>
-                        <p>We hope you are all well and safe, and looking forward to getting back to live music as much
-                            as we are!</p>
-                        <p><span class="fa fa-eye">&nbsp;</span>The current state of next season&#39;s programme is shown below. As it takes shape we&#39;ll keep this site updated.
-                        <p><span class="fa fa-envelope-o">&nbsp;</span>Like something, got a suggestion? Please <a
+                        <p>We hope you are all well, and looking forward to getting back to live music as much as we
+                            are!
+                        </p>
+                        <p><span class="fa fa-coffee"></span> Our usual <span
+                                    class="bold specialhilite">Coffee Morning</span> to open the
+                            season will be held on Saturday 25th September at 10:00, in the
+                            Burnside Hall, Dollar.
+                            We're looking for volunteers to help on the day. Please speak to one of the committee or
+                            <a href="contact.php">get in touch online</a> or on Facebook. Hope to see you all there!
+                        <p><span class="fa fa-envelope-o">&nbsp;</span> Like something, got a suggestion? Please <a
                                     href="contact.php">drop us a note online</a>, or on
                             <a href="https://www.facebook.com/MusicInDollar" target="_blank">Facebook</a> or
                             <a href="https://twitter.com/MusicInDollar" target="_blank">Twitter</a>.</p>
@@ -83,12 +94,12 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
         <div class="col-sm-6 margintop10">
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <p>The full season programme will be published once all dates are finalised.</p>
+                    <p>The full season programme is coming soon...</p>
                     <p>Please check this site for the latest information.</p>
-                    <!--                    <a href="season/2122/DMS-Leaflet-2021-22.pdf" target="_blank">View</a>-->
-                    <!--                    the full programme for the current season [PDF 2.6MB] <a-->
-                    <!--                            href="season/2122/DMS-Leaflet-2021-22.pdf" target="_blank"><img-->
-                    <!--                                src="image/pdf.jpeg"/></a>-->
+                    <a href="season/2122/DMS-Leaflet-2021-22.pdf" target="_blank">View</a>
+                    the full programme for the current season [PDF 2.6MB] <a
+                            href="season/2122/DMS-Leaflet-2021-22.pdf" target="_blank"><img
+                                src="image/pdf.jpeg"/></a>
                 </div>
             </div>
         </div>
@@ -168,13 +179,13 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
         <div class="col-sm-12">
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item" id="ClareHammond">
+                <li class="clearfix list-group-item dms-list-item" id="AlisonAffleck">
                     <div class="col-sm-3">
-                        <h3>Artist to be announced</h3>
+                        <h3>Alison Affleck</h3>
                         <h4 class="text-info">
-                            Date TBC
+                            Sunday, 28<span class="subscript">th</span> November 2021
                         </h4>
-                        <p>Time TBD, Gibson Hall, Dollar <a
+                        <p>3:00pm, Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                            <p>Pre-concert performance from 7:15pm</p>-->
@@ -185,22 +196,35 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         <!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2122/headshoulders-240.jpeg"/>
+                        <img src="/image/2122/affleck-1-240.jpeg"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>We hope to bring the recent Tunnell Trust winner to Dollar. Watch this space for more
-                            information.
+                        <p>Perennial winner and nominee of 'Best Jazz Vocalist', Ali Affleck is a trad jazz singer and
+                            swing dancer.
+                            As an American she is uniquely placed to deliver the authentic sound of Prohibition era
+                            music,
+                            breathing new life into the music and bringing it to a 21st century audience.
                         </p>
-                        <!--                        <p><span class="fa fa-quote-left"></span><i>A good quote.</i><span-->
-                        <!--                                    class="fa fa-quote-right"></span>-->
-                        <!--                            – Courier</p>-->
-                        <!--                        <a href="/season/2122/Programme-2111xx-Tunnell.pdf"-->
+                        <p>She is a resident musician at Edinburgh's Famous Jazz bar on Chambers Street
+                            and this is where she hosts her trademark 'Speakeasy Sessions’ - high energy events that
+                            feature the country's finest musicians performing early jazz, swing and blues
+                            - a favourite for the swing dance scene!
+                        </p>
+                        <p><span class="fa fa-quote-left"></span><i>
+                                “Ali Affleck is not a household name yet- but I think she soon will be” […]
+                                “Ali sings with the same kind of élan and swing that is very evident in the recordings
+                                of a certain Billie Holiday.
+                                Now this is high praise indeed but I can assure you that it is entirely accurate. ”
+                            </i><span
+                                    class="fa fa-quote-right"></span>
+                            – BBC Jazzhouse</p>
+                        <!--                        <a href="/season/2122/Programme-211128-AliAffleck.pdf"-->
                         <!--                           target="_blank">Concert programme</a>-->
                         <!--                        </p>-->
-                        <!--                        <p>-->
-                        <!--                            <a href="http://www.xxx.com/"-->
-                        <!--                               target="_blank">More about XXX</a>-->
-                        <!--                        </p>-->
+                        <p>
+                            <a href="https://www.aliaffleck.com/"
+                               target="_blank">More about Ali Affleck</a>
+                        </p>
                     </div>
                 </li>
 
@@ -229,14 +253,14 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         </p>
                         <p>Successes for the group include winning the Governors’ Recital Prize for Chamber Music at the
                             Royal Conservatoire of Scotland, being invited to perform at the Emerging Artists series at
-                            Edinburgh’s Usher Hall and playing live on BBC Radio 3 and BBC Radio Scotland.Although
+                            Edinburgh’s Usher Hall and playing live on BBC Radio 3 and BBC Radio Scotland. Although
                             primarily a wind quintet the group also enjoy exploring chamber music for other instrument
                             combinations and have formed a trio for flute, clarinet and bassoon.</p>
                         <p><span class="fa fa-quote-left"></span><i>... a musical triumph.... two stunning sets with a
                                 huge variety of music ranging across classical, jazz, show tunes – the West Side Story
                                 medley was sublime – folk and contemporary.</i><span
                                     class="fa fa-quote-right"></span>
-                            – St Boswell's LIve!</p>
+                            – St Boswell's Live!</p>
                         <!--                        <a href="/season/2122/Programme-220116-SiroccoWinds.pdf"-->
                         <!--                           target="_blank">Concert programme</a>-->
                         <!--                        </p>-->
@@ -247,54 +271,30 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                     </div>
                 </li>
 
-                <li class="clearfix list-group-item dms-list-item" id="ClareHammond">
+                <li class="clearfix list-group-item dms-list-item" id="PianoDay">
                     <div class="col-sm-3">
-                        <h3>Alison Affleck</h3>
+                        <h3>Piano Day</h3>
+                        <p class="specialhilite italic">Free of charge - all welcome</p>
                         <h4 class="text-info">
-                            Date TBC
+                            Sunday, 30<span class="subscript">th</span> January 2022
                         </h4>
-                        <p>Time TBD, Gibson Hall, Dollar <a
+                        <p>3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <!--                        <div id="buyticketsiroccowinds">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="http://www.wegottickets.com/event/483896"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2122/affleck-1-240.jpeg"/>
+                        <img src="/image/2122/piano-keyboardangle-240.jpg"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>Ali Affleck is a jazz singer specialising in 'early' trad Jazz and prohibition era blues.
-                            As an American and swing dancer, Ali is uniquely placed to deliver this music with cultural
-                            authority!
-                            Representing the Pioneers of early music (particularly the forgotten heroines!) Ali's fresh
-                            interpretations breathe new life into this highly specialized music and this sees her
-                            leading the charge for bringing old school Jazz back to the attention of our modern ears!
-                            She is a resident musician at Edinburgh's Famous Jazz bar on Chambers Street and this is
-                            where she hosts her trademark 'Speakeasy Sessions’ - high energy events that feature the
-                            countries finest musicians performing early jazz, swing and blues - a favourite for the
-                            swing dance scene!
+                        <p>Reintroducing the Music in Dollar Young Musician competition!
                         </p>
-                        <p>‘Best Jazz Vocalist’ in the 2014 Scottish Jazz Awards, and nominated again in 2017 and
-                            2018!</p>
-                        <p><span class="fa fa-quote-left"></span><i>Ali Affleck is not a household name yet- but I think
-                                she soon will be” […] “Ali sings with the same kind of élan and swing that is very
-                                evident in the recordings of a certain Billie Holiday. Now this is high praise indeed
-                                but I can assure you that it is entirely accurate.</i><span
-                                    class="fa fa-quote-right"></span>
-                            – BBC Jazzhouse</p>
+                        <p>Young pianists from several local schools will play a short set. Prizes will be awarded for
+                            the best performances.</p>
+                        <p class="italic">Further details to be confirmed.</p>
                         <!--                        <a href="/season/2122/Programme-220116-SiroccoWinds.pdf"-->
                         <!--                           target="_blank">Concert programme</a>-->
                         <!--                        </p>-->
-                        <p>
-                            <a href="https://www.aliaffleck.com/"
-                               target="_blank">More about Ali Affleck</a>
-                        </p>
-                        <p><a href="https://soundcloud.com/alison-affleck"
-                              target="_blank">Hear her sing</a></p>
                     </div>
                 </li>
 
@@ -302,9 +302,9 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                     <div class="col-sm-3">
                         <h3>Roxburgh Quartet</h3>
                         <h4 class="text-info">
-                            March 2022, date TBC
+                            Sunday, 27<span class="subscript">th</span> February 2022
                         </h4>
-                        <p>Time TBD, Gibson Hall, Dollar <a
+                        <p>3:00pm, Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                            <p>Pre-concert performance from 7:15pm</p>-->
@@ -318,6 +318,8 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         <img src="/image/1920/roxburgh-mg5685-sm.png"/>
                     </div>
                     <div class="col-sm-6">
+                        <p>This is the rescheduled concert from March 2020. Fingers crossed we can hear the Quartet this
+                            time!</p>
                         <p>Formed in 2005 and based in Edinburgh, the Roxburgh are quartet in residence
                             at the city’s beautiful Lauriston Hall. Their core repertoire includes the late
                             Schubert quartets, the German Romantics, the great French masterworks and,
@@ -338,6 +340,63 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                             <a href="http://www.roxburghquartet.com/"
                                target="_blank">More about the Roxburgh Quartet</a>
                         </p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item" id="PRDuo">
+                    <div class="col-sm-3">
+                        <h3>Prodanova - Ritivoiu Duo</h3>
+                        <h4 class="text-info">
+                            Sunday, 6<span class="subscript">th</span> March 2022
+                        </h4>
+                        <p>3:00pm, Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                        <!--                        <div id="buyticketsiroccowinds">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="http://www.wegottickets.com/event/483896"-->
+                        <!--                               target="_blank">Buy tickets</a>-->
+                        <!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2122/prodanova-ritivoiu-duo-240.png"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Yoanna Prodanova (Bulgarian) cello and Mihai Ritivoiu (Romanian) piano are Tunnell Trust
+                            winners from last year.
+                            These two outstanding young musicians bring their unique flair and originality to a varied
+                            programme.
+                            We are delighted to have them perform for us in Dollar.
+                        </p>
+                        <p>A native of Bulgaria, cellist Yoanna Prodanova studied in London and has played with several
+                            UK orchestras.
+                            Her recital career started in Switzerland in 2019.
+                        </p>
+                        <p>Romanian pianist Mihai Ritivoiu is the winner of numerous international competitions.
+                            In addition to his solo recitals and concerto appearances, Mihai has a rich chamber music
+                            activity, most notably as duo partner of the cellist Yoanna Prodanova.
+                            Their duo has performed in the UK, France and The Netherlands, and they have been invited to
+                            festivals
+                        </p>
+                        <p>The duo have recorded their debut album, including works by Janacek, Fauré and Chopin.
+                        </p>
+                        <p><span class="fa fa-quote-left"></span><i>it was refreshing to hear late Beethoven in the
+                                hands of such a distinguished young duo</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Christopher Axworthy</p>
+                        <!--                        <a href="/season/2122/Programme-220116-SiroccoWinds.pdf"-->
+                        <!--                           target="_blank">Concert programme</a>-->
+                        <!--                        </p>-->
+                        <p>
+                            <a href="https://christopheraxworthymusiccommentary.wordpress.com/2020/09/04/yoanna-prodanova-and-mihai-ritivoiu-at-st-marys/"
+                               target="_blank">More about the Prodanova - Ritivoiu Duo</a>
+                        </p>
+                        <p><a href="http://www.yoannaprodanova.com/"
+                              target="_blank">More about Yoanna Prodanova</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=4IFodCmWzK8"
+                              target="_blank">Hear them play</a></p>
                     </div>
                 </li>
 

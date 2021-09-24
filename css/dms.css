@@ -52,7 +52,14 @@ span.subscript {
 	font-size:60%;
 }
 .italic {
-  font-style: italic;
+    font-style: italic;
+}
+.bold {
+	font-weight: bold;
+}
+.specialhilite {
+    color:chocolate;
+    font-size: 120%;
 }
 
 /* lists */

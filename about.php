@@ -67,18 +67,18 @@ htmlHead($title);
             </p>
             <p>
                 The town is dominated by two iconic buildings. <a
-                    href="http://en.wikipedia.org/wiki/Castle_Campbell">Castle
+                    href="https://en.wikipedia.org/wiki/Castle_Campbell">Castle
                     Campbell</a> sits high above the town at the head of Dollar Glen.
-                It was the lowland seat of the <a href="en.wikipedia.org/wiki/Duke_of_Argyll">Duke of Argyll</a>. In
+                It was the lowland seat of the <a href="https://en.wikipedia.org/wiki/Duke_of_Argyll">Duke of Argyll</a>. In
                 recent times
                 Dollar has been closely associated with <a href="http://dollaracademy.org/">Dollar Academy</a>, with its
-                magnificent Greek influenced <a href="http://en.wikipedia.org/wiki/William_Henry_Playfair">Playfair</a>
+                magnificent Greek influenced <a href="https://en.wikipedia.org/wiki/William_Henry_Playfair">Playfair</a>
                 building.
             </p>
             <p>
                 Read more about Dollar on <a
-                    href="http://en.wikipedia.org/wiki/Dollar,_Clackmannanshire">Wikipedia</a>
-                and <a href="http://www.dollarcommunity.org.uk">Dollar Community</a>
+                    href="https://en.wikipedia.org/wiki/Dollar,_Clackmannanshire">Wikipedia</a>
+                and <a href="https://www.dollarcommunity.org.uk/">Dollar Community</a>
             </p>
         </div>
         <div class="col-sm-6">
@@ -89,16 +89,15 @@ htmlHead($title);
     <div id="Sponsors" class="row">
         <div class="col-sm-12">
             <h3>Sponsors</h3>
-            <p>Thanks to our sponsors, who help to bring the best artistes to
-                Dollar:</p>
+            <p>Thanks to our sponsors, who help to bring the best musicians to Dollar:</p>
         </div>
     </div>
     <div class="row">
         <div class="col-sm-4">
             <p>
-                <a href="http://www.enterprisemusicscotland.com"><img
-                        src="image/emslogo-sm.png"/>
-            <p>Enterprise Music Scotland</p></a>
+                <a href="https://www.chambermusicscotland.com/"><img
+                        src="image/chamber-music-scotland-logo.svg"/>
+            <p>Chamber Music Scotland</p></a>
             </p>
         </div>
         <div class="col-sm-4">
