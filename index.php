@@ -94,8 +94,6 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
         <div class="col-sm-6 margintop10">
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <p>The full season programme is coming soon...</p>
-                    <p>Please check this site for the latest information.</p>
                     <a href="season/2122/DMS-Leaflet-2021-22.pdf" target="_blank">View</a>
                     the full programme for the current season [PDF 2.6MB] <a
                             href="season/2122/DMS-Leaflet-2021-22.pdf" target="_blank"><img
