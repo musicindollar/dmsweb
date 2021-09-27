@@ -46,12 +46,12 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         <p>We hope you are all well, and looking forward to getting back to live music as much as we
                             are!
                         </p>
-                        <p><span class="fa fa-coffee"></span> Our usual <span
-                                    class="bold specialhilite">Coffee Morning</span> to open the
-                            season will be held on Saturday 25th September at 10:00, in the
-                            Burnside Hall, Dollar.
-                            We're looking for volunteers to help on the day. Please speak to one of the committee or
-                            <a href="contact.php">get in touch online</a> or on Facebook. Hope to see you all there!
+                        <!--                        <p><span class="fa fa-coffee"></span> Our usual <span-->
+                        <!--                                    class="bold specialhilite">Coffee Morning</span> to open the-->
+                        <!--                            season will be held on Saturday 25th September at 10:00, in the-->
+                        <!--                            Burnside Hall, Dollar.-->
+                        <!--                            We're looking for volunteers to help on the day. Please speak to one of the committee or-->
+                        <!--                            <a href="contact.php">get in touch online</a> or on Facebook. Hope to see you all there!-->
                         <p><span class="fa fa-envelope-o">&nbsp;</span> Like something, got a suggestion? Please <a
                                     href="contact.php">drop us a note online</a>, or on
                             <a href="https://www.facebook.com/MusicInDollar" target="_blank">Facebook</a> or
@@ -95,7 +95,7 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
             <div class="panel panel-default">
                 <div class="panel-body">
                     <a href="season/2122/DMS-Leaflet-2021-22.pdf" target="_blank">View</a>
-                    the full programme for the current season [PDF 2.6MB] <a
+                    the full programme for the current season [PDF 0.7MB] <a
                             href="season/2122/DMS-Leaflet-2021-22.pdf" target="_blank"><img
                                 src="image/pdf.jpeg"/></a>
                 </div>
@@ -103,6 +103,35 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
         </div>
     </div>
 
+    <div id="NextConcert" class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Buying Tickets</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
+                <li class="clearfix list-group-item dms-list-item-prev" id="Tickets">
+                    <div class="col-sm-12">
+                        <p>Tickets for each concert can be bought by clicking the <i>'Buy tickets'</i> button beside the
+                            concert listing below, or at the door.
+                            Cost is &#163;10, students in full-time education admitted free of charge.</p>
+                        <p>Season Tickets provide entry to all concerts in the season. Cost is &#163;35. That's less
+                            than &#163;6 per concert, unbeatable value!</p>
+                        <p>Choose how you'd like to pay: online using the button below, <a href="contact.php">contact
+                                us</a> to
+                            request bank transfer details, or buy at the door.</p>
+                        <div id="buyseasonticket">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/526657"
+                               target="_blank">Buy season tickets</a>
+                        </div>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+    </div>
     <div id="NextConcert" class="row">
         <div class="col-sm-12">
             <h3 class="text-info">Next concert</h3>
@@ -122,11 +151,11 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <!--                        <div id="buyticketannamairerad">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="http://www.wegottickets.com/event/483894"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
+                        <div id="buyticketannamairerad">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/526659/"
+                               target="_blank">Buy tickets</a>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2122/mairearadanna-240.jpeg"/>
