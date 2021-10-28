@@ -34,6 +34,8 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         <h4 class="text-info">News</h4>
                     </div>
                     <div class="panel-body">
+                        <p>
+                        </p>
                         <p><span class="fa fa-eye"></span> The 2021-22 programme has now been finalised! See
                             details below. There are 6 concerts this season, with the delayed <a
                                     href="#RoxburghQuartet">Roxburgh Quartet</a> concert
@@ -43,8 +45,11 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                             While this is not ideal, we are very glad to finally be hearing the Roxburgh and hope many
                             of you will turn out to enjoy it.
                         </p>
-                        <p>We hope you are all well, and looking forward to getting back to live music as much as we
-                            are!
+                        <p><span class="fa fa-medkit"></span> In line with best practice for small public events, we
+                            have introduced <a href="covid19.php">Covid
+                                19 guidelines</a>
+                            for everyone's safety. Please familiarise yourself with these and respect them at the
+                            concerts. Thanks!
                         </p>
                         <!--                        <p><span class="fa fa-coffee"></span> Our usual <span-->
                         <!--                                    class="bold specialhilite">Coffee Morning</span> to open the-->
@@ -155,6 +160,10 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                             <a type="button" class="btn btn-info btn-blocks"
                                href="https://www.wegottickets.com/event/526659/"
                                target="_blank">Buy tickets</a>
+                            <p></p>
+                        </div>
+                        <div>
+                            <p><a href="covid19.php">Covid 19 guidelines</a></p>
                         </div>
                     </div>
                     <div class="col-sm-3">
@@ -215,12 +224,16 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         <p>3:00pm, Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <!--                        <div id="buyticketsiroccowinds">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="http://www.wegottickets.com/event/483896"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
+                        <p>Pre-concert performance from 2:45pm</p>
+                        <div id="buyticketalisonaffleck">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/529096"
+                               target="_blank">Buy tickets</a>
+                            <p></p>
+                        </div>
+                        <div>
+                            <p><a href="covid19.php">Covid 19 guidelines</a></p>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2122/affleck-1-240.jpeg"/>
@@ -229,8 +242,7 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         <p>Perennial winner and nominee of 'Best Jazz Vocalist', Ali Affleck is a trad jazz singer and
                             swing dancer.
                             As an American she is uniquely placed to deliver the authentic sound of Prohibition era
-                            music,
-                            breathing new life into the music and bringing it to a 21st century audience.
+                            music, breathing new life into the music and bringing it to a 21st century audience.
                         </p>
                         <p>She is a resident musician at Edinburgh's Famous Jazz bar on Chambers Street
                             and this is where she hosts her trademark 'Speakeasy Sessions’ - high energy events that
