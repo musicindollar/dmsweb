@@ -36,14 +36,11 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-eye"></span> The 2021-22 programme has now been finalised! See
-                            details below. There are 6 concerts this season, with the delayed <a
-                                    href="#RoxburghQuartet">Roxburgh Quartet</a> concert
-                            rescheduled for February 2022.
-                            Unfortunately with everyone's schedules thrown into chaos by Covid 19, there are concerts on
-                            consecutive weekends in February / March 2022.
-                            While this is not ideal, we are very glad to finally be hearing the Roxburgh and hope many
-                            of you will turn out to enjoy it.
+                        <p><span class="fa fa-times-circle"></span> Regrettably we have postponed the Sirocco Winds concert,
+                            originally scheduled for 16th January.
+                            The surge of Omicron cases meant that many of the committee and audience would not have
+                            attended.
+                            We are trying to reschedule it for late Spring - watch this space!
                         </p>
                         <p><span class="fa fa-medkit"></span> In line with best practice for small public events, we
                             have introduced <a href="covid19.php">Covid
@@ -146,63 +143,7 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
         <div class="col-sm-12">
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-next" id="SiroccoWinds">
-                    <div class="col-sm-3">
-                        <h3>Sirocco Winds</h3>
-                        <h4 class="text-info">
-                            Sunday, 16<span class="subscript">th</span> January 2022
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <p>Pre-concert performance from 2:45pm</p>
-                        <div id="buyticketsiroccowinds">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/533028"
-                               target="_blank">Buy tickets</a>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2122/siroccowinds-240.jpeg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Sirocco Winds are a dynamic and professional wind ensemble, who came together as alumni of
-                            the Glasgow Conservatoire.
-                        </p>
-                        <p>Successes for the group include winning the Governors’ Recital Prize for Chamber Music at the
-                            Royal Conservatoire of Scotland, being invited to perform at the Emerging Artists series at
-                            Edinburgh’s Usher Hall and playing live on BBC Radio 3 and BBC Radio Scotland. Although
-                            primarily a wind quintet the group also enjoy exploring chamber music for other instrument
-                            combinations and have formed a trio for flute, clarinet and bassoon.</p>
-                        <p><span class="fa fa-quote-left"></span><i>... a musical triumph.... two stunning sets with a
-                                huge variety of music ranging across classical, jazz, show tunes – the West Side Story
-                                medley was sublime – folk and contemporary.</i><span
-                                    class="fa fa-quote-right"></span>
-                            – St Boswell's Live!</p>
-                        <!--                        <a href="/season/2122/Programme-220116-SiroccoWinds.pdf"-->
-                        <!--                           target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
-                        <p>
-                            <a href="https://www.classicalmusiciansscotland.com/artists/sirocco-winds/"
-                               target="_blank">More about Sirocco Winds</a>
-                        </p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item" id="PianoDay">
+                <li class="clearfix list-group-item dms-list-item-next" id="PianoDay">
                     <div class="col-sm-3">
                         <h3>Piano Day</h3>
                         <p class="specialhilite italic">Free of charge - all welcome</p>
@@ -228,6 +169,19 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         <!--                        </p>-->
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item" id="RoxburghQuartet">
                     <div class="col-sm-3">
@@ -382,6 +336,49 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         </p>
                         <p><a href="http://clarehammond.com/variations"
                               target="_blank">Hear her play</a></p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item" id="SiroccoWinds">
+                    <div class="col-sm-3">
+                        <h3>Sirocco Winds</h3>
+                        <h4 class="text-info">
+                            Saturday, ??<span class="subscript">th</span> TBC 2022
+                        </h4>
+                        <p>Time TBC Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+<!--                        <p>Pre-concert performance from 2:45pm</p>-->
+                        <!--                        <div id="buyticketsiroccowinds">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="https://www.wegottickets.com/event/533028"-->
+                        <!--                               target="_blank">Buy tickets</a>-->
+                        <!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2122/siroccowinds-240.jpeg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Sirocco Winds are a dynamic and professional wind ensemble, who came together as alumni of
+                            the Glasgow Conservatoire.
+                        </p>
+                        <p>Successes for the group include winning the Governors’ Recital Prize for Chamber Music at the
+                            Royal Conservatoire of Scotland, being invited to perform at the Emerging Artists series at
+                            Edinburgh’s Usher Hall and playing live on BBC Radio 3 and BBC Radio Scotland. Although
+                            primarily a wind quintet the group also enjoy exploring chamber music for other instrument
+                            combinations and have formed a trio for flute, clarinet and bassoon.</p>
+                        <p><span class="fa fa-quote-left"></span><i>... a musical triumph.... two stunning sets with a
+                                huge variety of music ranging across classical, jazz, show tunes – the West Side Story
+                                medley was sublime – folk and contemporary.</i><span
+                                    class="fa fa-quote-right"></span>
+                            – St Boswell's Live!</p>
+                        <!--                        <a href="/season/2122/Programme-220116-SiroccoWinds.pdf"-->
+                        <!--                           target="_blank">Concert programme</a>-->
+                        <!--                        </p>-->
+                        <p>
+                            <a href="https://www.classicalmusiciansscotland.com/artists/sirocco-winds/"
+                               target="_blank">More about Sirocco Winds</a>
+                        </p>
                     </div>
                 </li>
 
