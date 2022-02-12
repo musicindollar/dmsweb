@@ -8,14 +8,6 @@ htmlHead($title);
 
 <body>
 
-<!--
-Anna and Mairerad on 30th October 2021
-Sirocco Winds 16th Jan 2022
-Clare Hammond 9th April 2022
-Roxburgh sometime in March 2022 depending on their orchestral commitments
-and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel Trust one depends on the other Music Socs in the tour.
--->
-
 <div class="container-fluid">
     <?php
     showHeaderBar("index");
@@ -36,11 +28,14 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-times-circle"></span> Regrettably we have postponed the Sirocco Winds concert,
-                            originally scheduled for 16th January.
-                            The surge of Omicron cases meant that many of the committee and audience would not have
-                            attended.
-                            We are trying to reschedule it for late Spring - watch this space!
+                        <p><span class="fa fa-magic"></span> All who came along to the <a href="#PianoDay">Piano
+                                Day</a> felt it was a great success. Looking forward to putting on more of these kind of
+                            event in future.
+                        </p>
+                        <p><span class="fa fa-clock-o"></span>
+                            Note that the new date for the <a
+                                    href="#SiroccoWinds">Sirocco Winds</a> concert is Saturday 7th May (<a
+                                    href="#SiroccoWinds">see below</a> for full details).
                         </p>
                         <p><span class="fa fa-medkit"></span> In line with best practice for small public events, we
                             have introduced <a href="covid19.php">Covid
@@ -123,11 +118,11 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         <p>Choose how you'd like to pay: online using the button below, <a href="contact.php">contact
                                 us</a> to
                             request bank transfer details, or buy at the door.</p>
-                        <div id="buyseasonticket">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/526657"
-                               target="_blank">Buy season tickets</a>
-                        </div>
+                        <!--                        <div id="buyseasonticket">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="https://www.wegottickets.com/event/526657"-->
+                        <!--                               target="_blank">Buy season tickets</a>-->
+                        <!--                        </div>-->
                     </div>
                 </li>
 
@@ -143,47 +138,7 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
         <div class="col-sm-12">
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-next" id="PianoDay">
-                    <div class="col-sm-3">
-                        <h3>Piano Day</h3>
-                        <p class="specialhilite italic">Free of charge - all welcome</p>
-                        <h4 class="text-info">
-                            Sunday, 30<span class="subscript">th</span> January 2022
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2122/piano-keyboardangle-240.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Reintroducing the Music in Dollar Young Musician competition!
-                        </p>
-                        <p>Young pianists from several local schools will play a short set. Prizes will be awarded for
-                            the best performances.</p>
-                        <p class="italic">Further details to be confirmed.</p>
-                        <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
-                        <!--                           target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item" id="RoxburghQuartet">
+                <li class="clearfix list-group-item dms-list-item-next" id="RoxburghQuartet">
                     <div class="col-sm-3">
                         <h3>Roxburgh Quartet</h3>
                         <h4 class="text-info">
@@ -192,7 +147,7 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         <p>3:00pm, Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <p>Pre-concert performance from 7:15pm</p>
+                        <p>Pre-concert performance from 2:45pm</p>
                         <div id="buyticketroxburghquartet">
                             <a type="button" class="btn btn-info btn-blocks"
                                href="https://www.wegottickets.com/event/533030"
@@ -228,6 +183,19 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                     </div>
                 </li>
 
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
+
                 <li class="clearfix list-group-item dms-list-item" id="PRDuo">
                     <div class="col-sm-3">
                         <h3>Prodanova - Ritivoiu Duo</h3>
@@ -237,7 +205,7 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                         <p>3:00pm, Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <p>Pre-concert performance from 7:15pm</p>
+                        <p>Pre-concert performance from 2:45pm</p>
                         <div id="buyticketsprduo">
                             <a type="button" class="btn btn-info btn-blocks"
                                href="https://www.wegottickets.com/event/533032"
@@ -295,7 +263,7 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <p>Pre-concert performance from 7:15pm</p>
-                        <div id="buyticketsiroccowinds">
+                        <div id="buyticketclarehammond">
                             <a type="button" class="btn btn-info btn-blocks"
                                href="https://www.wegottickets.com/event/533034"
                                target="_blank">Buy tickets</a>
@@ -343,17 +311,17 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                     <div class="col-sm-3">
                         <h3>Sirocco Winds</h3>
                         <h4 class="text-info">
-                            Saturday, ??<span class="subscript">th</span> TBC 2022
+                            Saturday, 7<span class="subscript">th</span> May 2022
                         </h4>
-                        <p>Time TBC Gibson Hall, Dollar <a
+                        <p>Time 7:30pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-<!--                        <p>Pre-concert performance from 2:45pm</p>-->
-                        <!--                        <div id="buyticketsiroccowinds">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/533028"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
+                        <p>Pre-concert performance from 7:15pm</p>
+                        <div id="buyticketsiroccowinds">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/533028"
+                               target="_blank">Buy tickets</a>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2122/siroccowinds-240.jpeg"/>
@@ -405,15 +373,12 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <div id="buyticketannamairerad">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/526659/"
-                               target="_blank">Buy tickets</a>
-                            <p></p>
-                        </div>
-                        <div>
-                            <p><a href="covid19.php">Covid 19 guidelines</a></p>
-                        </div>
+<!--                        <div id="buyticketannamairerad">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/526659/"-->
+<!--                               target="_blank">Buy tickets</a>-->
+<!--                            <p></p>-->
+<!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2122/mairearadanna-240.jpeg"/>
@@ -461,15 +426,12 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <p>Pre-concert performance from 2:45pm</p>
-                        <div id="buyticketalisonaffleck">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/529096"
-                               target="_blank">Buy tickets</a>
-                            <p></p>
-                        </div>
-                        <div>
-                            <p><a href="covid19.php">Covid 19 guidelines</a></p>
-                        </div>
+<!--                        <div id="buyticketalisonaffleck">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/529096"-->
+<!--                               target="_blank">Buy tickets</a>-->
+<!--                            <p></p>-->
+<!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2122/affleck-1-240.jpeg"/>
@@ -500,6 +462,35 @@ and Alison Affleck and Tunnell Trust concert dates to be firmed up - the Tunnel 
                             <a href="https://www.aliaffleck.com/"
                                target="_blank">More about Ali Affleck</a>
                         </p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="PianoDay">
+                    <div class="col-sm-3">
+                        <h3>Piano Day</h3>
+                        <p class="specialhilite italic">Free of charge - all welcome</p>
+                        <h4 class="text-info">
+                            Sunday, 30<span class="subscript">th</span> January 2022
+                        </h4>
+                        <p>2:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2122/piano-keyboardangle-240.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Reintroducing the Music in Dollar Young Musician competition!
+                        </p>
+                        <p>Young pianists from several local schools will play a short set. Prizes will be awarded for
+                            the best performances.</p>
+                        <p>Refreshments will be provided.</p>
+                        <p>It's free, so why not come along and hear musicians of the future. Should be a varied and
+                            stimulating afternoon!</p>
+                        <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
+                        <!--                           target="_blank">Concert programme</a>-->
+                        <!--                        </p>-->
                     </div>
                 </li>
 
