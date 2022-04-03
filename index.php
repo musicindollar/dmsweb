@@ -175,9 +175,9 @@ htmlHead($title);
                             original.</i><span
                                 class="fa fa-quote-right"></span>
                         – Michel Dutrieue</p>
-                    <!--                        <a href="/season/2122/Programme-220409-ClareHammond.pdf"-->
-                    <!--                           target="_blank">Concert programme</a>-->
-                    <!--                        </p>-->
+                    <p><a href="/season/2122/Programme-220409-ClareHammond.pdf"
+                          target="_blank">Concert programme</a>
+                    </p>
                     <p>
                         <a href="http://clarehammond.com/"
                            target="_blank">More about Clare Hammond</a>
