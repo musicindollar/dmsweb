@@ -28,8 +28,7 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-music"></span> What a stunning performance by the Prodonova Ritivoiu Duo!
-                            And the tone from that beautiful old cello was sublime.
+                        <p><span class="fa fa-music"></span> Clare Hammond was fantastic - all the power we were expecting, but beautiful tone colour and depth too.
                         </p>
                         <p><span class="fa fa-clock-o"></span>
                             Note that the new date for the <a
@@ -132,128 +131,74 @@ htmlHead($title);
         <div class="col-sm-12">
             <h3 class="text-info">Next concert</h3>
 
-            <li class="clearfix list-group-item dms-list-item-next" id="ClareHammond">
+            <li class="clearfix list-group-item dms-list-item-next" id="SiroccoWinds">
                 <div class="col-sm-3">
-                    <h3>Clare Hammond</h3>
+                    <h3>Sirocco Winds</h3>
                     <h4 class="text-info">
-                        Saturday, 9<span class="subscript">th</span> April 2022
+                        Saturday, 7<span class="subscript">th</span> May 2022
                     </h4>
-                    <p>7:30pm Gibson Hall, Dollar <a
+                    <p>Time 7:30pm Gibson Hall, Dollar <a
                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                             7DU</a></p>
                     <p>Pre-concert performance from 7:15pm</p>
-                    <div id="buyticketclarehammond">
+                    <div id="buyticketsiroccowinds">
                         <a type="button" class="btn btn-info btn-blocks"
-                           href="https://www.wegottickets.com/event/533034"
+                           href="https://www.wegottickets.com/event/533028"
                            target="_blank">Buy tickets</a>
                     </div>
                 </div>
                 <div class="col-sm-3">
-                    <img src="/image/2122/clarehammond-1-240.jpeg"/>
+                    <img src="/image/2122/siroccowinds-240.jpeg"/>
                 </div>
                 <div class="col-sm-6">
-                    <p>We are fortunate to have leading English pianist Clare Hammond playing for us in
-                        Dollar. Widely broadcast and recorded, she has
-                        created a strong reputation as a 'star' interpreter of several areas, including contemporary
-                        music.
-                        Clare’s discs for BIS have been widely praised with <i>The Times</i> commending
-                        her “deliciously unfussy poise and elegance”.
-                        <i>Etude</i> received unanimous critical acclaim for its “unfaltering bravura
-                        and conviction”
-                        <i>(Gramophone)</i>. Her discography includes world premiere recordings of over
-                        twenty
-                        works.
+                    <p>Sirocco Winds are a dynamic and professional wind ensemble, who came together as
+                        alumni of
+                        the Glasgow Conservatoire.
                     </p>
-                    <p>Acclaimed as a pianist of “amazing power and panache” <i>(The Telegraph)</i>,
-                        Clare Hammond is recognised for the virtuosity and authority of her performances and has
-                        developed a “reputation for brilliantly imaginative concert programmes” <i>(BBC Music
-                            Magazine)</i>. In 2016, she won the Royal Philharmonic Society's 'Young Artist Award' in
-                        recognition of
-                        outstanding achievement and in 2020 she was engaged to perform at the International Piano Series
-                        (Southbank Centre) and the Aldeburgh Festival.</p>
-                    <p><span class="fa fa-quote-left"></span><i>A revelation... very special and very
-                            original.</i><span
+                    <p>Successes for the group include winning the Governors’ Recital Prize for Chamber
+                        Music at the
+                        Royal Conservatoire of Scotland, being invited to perform at the Emerging
+                        Artists series at
+                        Edinburgh’s Usher Hall and playing live on BBC Radio 3 and BBC Radio Scotland.
+                        Although
+                        primarily a wind quintet the group also enjoy exploring chamber music for other
+                        instrument
+                        combinations and have formed a trio for flute, clarinet and bassoon.</p>
+                    <p><span class="fa fa-quote-left"></span><i>... a musical triumph.... two stunning
+                            sets with a
+                            huge variety of music ranging across classical, jazz, show tunes – the West
+                            Side Story
+                            medley was sublime – folk and contemporary.</i><span
                                 class="fa fa-quote-right"></span>
-                        – Michel Dutrieue</p>
-                    <p><a href="/season/2122/Programme-220409-ClareHammond.pdf"
-                          target="_blank">Concert programme</a>
-                    </p>
+                        – St Boswell's Live!</p>
+                    <!--                        <a href="/season/2122/Programme-220116-SiroccoWinds.pdf"-->
+                    <!--                           target="_blank">Concert programme</a>-->
+                    <!--                        </p>-->
                     <p>
-                        <a href="http://clarehammond.com/"
-                           target="_blank">More about Clare Hammond</a>
+                        <a href="https://www.classicalmusiciansscotland.com/artists/sirocco-winds/"
+                           target="_blank">More about Sirocco Winds</a>
                     </p>
-                    <p><a href="http://clarehammond.com/variations"
-                          target="_blank">Hear her play</a></p>
                 </div>
             </li>
+
         </div>
     </div>
     <div class="row">
         <div class="col-sm-12">
             <ul class="list-group">
 
-                <div class="row">
-                    <div class="col-sm-12">
-                        <h3 class="text-info">Still to come</h3>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-12">
-                        <ul class="list-group">
-
-                            <li class="clearfix list-group-item dms-list-item" id="SiroccoWinds">
-                                <div class="col-sm-3">
-                                    <h3>Sirocco Winds</h3>
-                                    <h4 class="text-info">
-                                        Saturday, 7<span class="subscript">th</span> May 2022
-                                    </h4>
-                                    <p>Time 7:30pm Gibson Hall, Dollar <a
-                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                            7DU</a></p>
-                                    <p>Pre-concert performance from 7:15pm</p>
-                                    <div id="buyticketsiroccowinds">
-                                        <a type="button" class="btn btn-info btn-blocks"
-                                           href="https://www.wegottickets.com/event/533028"
-                                           target="_blank">Buy tickets</a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <img src="/image/2122/siroccowinds-240.jpeg"/>
-                                </div>
-                                <div class="col-sm-6">
-                                    <p>Sirocco Winds are a dynamic and professional wind ensemble, who came together as
-                                        alumni of
-                                        the Glasgow Conservatoire.
-                                    </p>
-                                    <p>Successes for the group include winning the Governors’ Recital Prize for Chamber
-                                        Music at the
-                                        Royal Conservatoire of Scotland, being invited to perform at the Emerging
-                                        Artists series at
-                                        Edinburgh’s Usher Hall and playing live on BBC Radio 3 and BBC Radio Scotland.
-                                        Although
-                                        primarily a wind quintet the group also enjoy exploring chamber music for other
-                                        instrument
-                                        combinations and have formed a trio for flute, clarinet and bassoon.</p>
-                                    <p><span class="fa fa-quote-left"></span><i>... a musical triumph.... two stunning
-                                            sets with a
-                                            huge variety of music ranging across classical, jazz, show tunes – the West
-                                            Side Story
-                                            medley was sublime – folk and contemporary.</i><span
-                                                class="fa fa-quote-right"></span>
-                                        – St Boswell's Live!</p>
-                                    <!--                        <a href="/season/2122/Programme-220116-SiroccoWinds.pdf"-->
-                                    <!--                           target="_blank">Concert programme</a>-->
-                                    <!--                        </p>-->
-                                    <p>
-                                        <a href="https://www.classicalmusiciansscotland.com/artists/sirocco-winds/"
-                                           target="_blank">More about Sirocco Winds</a>
-                                    </p>
-                                </div>
-                            </li>
-
-                        </ul>
-                    </div>
-                </div>
+<!--                <div class="row">-->
+<!--                    <div class="col-sm-12">-->
+<!--                        <h3 class="text-info">Still to come</h3>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="row">-->
+<!--                    <div class="col-sm-12">-->
+<!--                        <ul class="list-group">-->
+<!---->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                </div>-->
 
                 <div id="PrevConcert" class="row">
                     <div class="col-sm-12">
@@ -528,6 +473,61 @@ htmlHead($title);
                                     </p>
                                     <p><a href="https://www.youtube.com/watch?v=4IFodCmWzK8"
                                           target="_blank">Hear them play</a></p>
+                                </div>
+                            </li>
+
+                            <li class="clearfix list-group-item dms-list-item-prev" id="ClareHammond">
+                                <div class="col-sm-3">
+                                    <h3>Clare Hammond</h3>
+                                    <h4 class="text-info">
+                                        Saturday, 9<span class="subscript">th</span> April 2022
+                                    </h4>
+                                    <p>7:30pm Gibson Hall, Dollar <a
+                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                            7DU</a></p>
+                                    <p>Pre-concert performance from 7:15pm</p>
+                                    <div id="buyticketclarehammond">
+                                        <a type="button" class="btn btn-info btn-blocks"
+                                           href="https://www.wegottickets.com/event/533034"
+                                           target="_blank">Buy tickets</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <img src="/image/2122/clarehammond-1-240.jpeg"/>
+                                </div>
+                                <div class="col-sm-6">
+                                    <p>We are fortunate to have leading English pianist Clare Hammond playing for us in
+                                        Dollar. Widely broadcast and recorded, she has
+                                        created a strong reputation as a 'star' interpreter of several areas, including contemporary
+                                        music.
+                                        Clare’s discs for BIS have been widely praised with <i>The Times</i> commending
+                                        her “deliciously unfussy poise and elegance”.
+                                        <i>Etude</i> received unanimous critical acclaim for its “unfaltering bravura
+                                        and conviction”
+                                        <i>(Gramophone)</i>. Her discography includes world premiere recordings of over
+                                        twenty
+                                        works.
+                                    </p>
+                                    <p>Acclaimed as a pianist of “amazing power and panache” <i>(The Telegraph)</i>,
+                                        Clare Hammond is recognised for the virtuosity and authority of her performances and has
+                                        developed a “reputation for brilliantly imaginative concert programmes” <i>(BBC Music
+                                            Magazine)</i>. In 2016, she won the Royal Philharmonic Society's 'Young Artist Award' in
+                                        recognition of
+                                        outstanding achievement and in 2020 she was engaged to perform at the International Piano Series
+                                        (Southbank Centre) and the Aldeburgh Festival.</p>
+                                    <p><span class="fa fa-quote-left"></span><i>A revelation... very special and very
+                                            original.</i><span
+                                                class="fa fa-quote-right"></span>
+                                        – Michel Dutrieue</p>
+                                    <p><a href="/season/2122/Programme-220409-ClareHammond.pdf"
+                                          target="_blank">Concert programme</a>
+                                    </p>
+                                    <p>
+                                        <a href="http://clarehammond.com/"
+                                           target="_blank">More about Clare Hammond</a>
+                                    </p>
+                                    <p><a href="http://clarehammond.com/variations"
+                                          target="_blank">Hear her play</a></p>
                                 </div>
                             </li>
 
