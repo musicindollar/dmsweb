@@ -28,7 +28,8 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-music"></span> Clare Hammond was fantastic - all the power we were expecting, but beautiful tone colour and depth too.
+                        <p><span class="fa fa-music"></span> Clare Hammond was fantastic - all the power we were
+                            expecting, but beautiful tone colour and depth too.
                         </p>
                         <p><span class="fa fa-clock-o"></span>
                             Note that the new date for the <a
@@ -171,9 +172,9 @@ htmlHead($title);
                             medley was sublime – folk and contemporary.</i><span
                                 class="fa fa-quote-right"></span>
                         – St Boswell's Live!</p>
-                    <!--                        <a href="/season/2122/Programme-220116-SiroccoWinds.pdf"-->
-                    <!--                           target="_blank">Concert programme</a>-->
-                    <!--                        </p>-->
+                    <p><a href="/season/2122/Programme-220507-SiroccoWinds.pdf"
+                       target="_blank">Concert programme</a>
+                    </p>
                     <p>
                         <a href="https://www.classicalmusiciansscotland.com/artists/sirocco-winds/"
                            target="_blank">More about Sirocco Winds</a>
@@ -187,18 +188,18 @@ htmlHead($title);
         <div class="col-sm-12">
             <ul class="list-group">
 
-<!--                <div class="row">-->
-<!--                    <div class="col-sm-12">-->
-<!--                        <h3 class="text-info">Still to come</h3>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--                <div class="row">-->
-<!--                    <div class="col-sm-12">-->
-<!--                        <ul class="list-group">-->
-<!---->
-<!--                        </ul>-->
-<!--                    </div>-->
-<!--                </div>-->
+                <!--                <div class="row">-->
+                <!--                    <div class="col-sm-12">-->
+                <!--                        <h3 class="text-info">Still to come</h3>-->
+                <!--                    </div>-->
+                <!--                </div>-->
+                <!--                <div class="row">-->
+                <!--                    <div class="col-sm-12">-->
+                <!--                        <ul class="list-group">-->
+                <!---->
+                <!--                        </ul>-->
+                <!--                    </div>-->
+                <!--                </div>-->
 
                 <div id="PrevConcert" class="row">
                     <div class="col-sm-12">
@@ -498,7 +499,8 @@ htmlHead($title);
                                 <div class="col-sm-6">
                                     <p>We are fortunate to have leading English pianist Clare Hammond playing for us in
                                         Dollar. Widely broadcast and recorded, she has
-                                        created a strong reputation as a 'star' interpreter of several areas, including contemporary
+                                        created a strong reputation as a 'star' interpreter of several areas, including
+                                        contemporary
                                         music.
                                         Clare’s discs for BIS have been widely praised with <i>The Times</i> commending
                                         her “deliciously unfussy poise and elegance”.
@@ -509,11 +511,15 @@ htmlHead($title);
                                         works.
                                     </p>
                                     <p>Acclaimed as a pianist of “amazing power and panache” <i>(The Telegraph)</i>,
-                                        Clare Hammond is recognised for the virtuosity and authority of her performances and has
-                                        developed a “reputation for brilliantly imaginative concert programmes” <i>(BBC Music
-                                            Magazine)</i>. In 2016, she won the Royal Philharmonic Society's 'Young Artist Award' in
+                                        Clare Hammond is recognised for the virtuosity and authority of her performances
+                                        and has
+                                        developed a “reputation for brilliantly imaginative concert programmes” <i>(BBC
+                                            Music
+                                            Magazine)</i>. In 2016, she won the Royal Philharmonic Society's 'Young
+                                        Artist Award' in
                                         recognition of
-                                        outstanding achievement and in 2020 she was engaged to perform at the International Piano Series
+                                        outstanding achievement and in 2020 she was engaged to perform at the
+                                        International Piano Series
                                         (Southbank Centre) and the Aldeburgh Festival.</p>
                                     <p><span class="fa fa-quote-left"></span><i>A revelation... very special and very
                                             original.</i><span
