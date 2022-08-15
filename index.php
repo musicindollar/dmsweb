@@ -28,9 +28,15 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-music"></span> Clare Hammond was fantastic - all the power we were
-                            expecting, but beautiful tone colour and depth too.
-                        </p>
+                        <p><span class="fa fa-coffee"></span> Our next event is the annual Coffee Morning, where you can
+                            hear a preview of the season's performers. Buy season tickets and memberships, and get 2
+                            complimentary tickets for friends or family! Coffee and scones, plus games, raffle and cake
+                            stall. Hope to see you on <b>Saturday 10th September</b> at
+                            10:00, Burnside Hall Dollar.</p>
+                        <p><span class="fa fa-music"></span> Looking forward to the new season! We have 5 concerts lined
+                            up, plus 2 free community events. With Covid-19 firmly behind us, we hope that the appetite
+                            for music in the heart of our community is stronger than ever. And if joy is indeed song,
+                            then come along to our Open Choir Day and be happy!</p>
                         <p><span class="fa fa-clock-o"></span>
                             Note that the new date for the <a
                                     href="#SiroccoWinds">Sirocco Winds</a> concert is Saturday 7th May (<a
@@ -90,9 +96,9 @@ htmlHead($title);
         <div class="col-sm-6 margintop10">
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <a href="season/2122/DMS-Leaflet-2021-22.pdf" target="_blank">View</a>
+                    <a href="season/2223/MiD-Leaflet-2022-23.pdf" target="_blank">View</a>
                     the full programme for the current season [PDF 0.7MB] <a
-                            href="season/2122/DMS-Leaflet-2021-22.pdf" target="_blank"><img
+                            href="season/2223/MiD-Leaflet-2022-23.pdf" target="_blank"><img
                                 src="image/pdf.jpeg"/></a>
                 </div>
             </div>
@@ -111,17 +117,17 @@ htmlHead($title);
                     <div class="col-sm-12">
                         <p>Tickets for each concert can be bought by clicking the <i>'Buy tickets'</i> button beside the
                             concert listing below, or at the door.
-                            Cost is &#163;10, students in full-time education admitted free of charge.</p>
-                        <p>Season Tickets provide entry to all concerts in the season. Cost is &#163;35. That's less
-                            than &#163;6 per concert, unbeatable value!</p>
+                            Cost is &#163;12, students in full-time education admitted free of charge.</p>
+                        <p>Season Tickets provide entry to all concerts in the season. Cost is &#163;40. That's &#163;8
+                            per concert, unbeatable value!</p>
                         <p>Choose how you'd like to pay: online using the button below, <a href="contact.php">contact
                                 us</a> to
                             request bank transfer details, or buy at the door.</p>
-                        <!--                        <div id="buyseasonticket">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/526657"-->
-                        <!--                               target="_blank">Buy season tickets</a>-->
-                        <!--                        </div>-->
+                        <div id="buyseasonticket">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/554785"
+                               target="_blank">Buy season tickets</a>
+                        </div>
                     </div>
                 </li>
 
@@ -132,53 +138,61 @@ htmlHead($title);
         <div class="col-sm-12">
             <h3 class="text-info">Next concert</h3>
 
-            <li class="clearfix list-group-item dms-list-item-next" id="SiroccoWinds">
+            <li class="clearfix list-group-item dms-list-item-next" id="MartinSimpson">
                 <div class="col-sm-3">
-                    <h3>Sirocco Winds</h3>
+                    <h3>Martin Simpson</h3>
                     <h4 class="text-info">
-                        Saturday, 7<span class="subscript">th</span> May 2022
+                        Saturday, 24<span class="subscript">th</span> September 2022
                     </h4>
                     <p>Time 7:30pm Gibson Hall, Dollar <a
                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                             7DU</a></p>
                     <p>Pre-concert performance from 7:15pm</p>
-                    <div id="buyticketsiroccowinds">
+                    <div id="buyticketmartinsimpson">
                         <a type="button" class="btn btn-info btn-blocks"
-                           href="https://www.wegottickets.com/event/533028"
+                           href="https://www.wegottickets.com/event/554788"
                            target="_blank">Buy tickets</a>
                     </div>
                 </div>
                 <div class="col-sm-3">
-                    <img src="/image/2122/siroccowinds-240.jpeg"/>
+                    <img src="/image/2223/martinsimpson1-240.jpg"/>
                 </div>
                 <div class="col-sm-6">
-                    <p>Sirocco Winds are a dynamic and professional wind ensemble, who came together as
-                        alumni of
-                        the Glasgow Conservatoire.
-                    </p>
-                    <p>Successes for the group include winning the Governors’ Recital Prize for Chamber
-                        Music at the
-                        Royal Conservatoire of Scotland, being invited to perform at the Emerging
-                        Artists series at
-                        Edinburgh’s Usher Hall and playing live on BBC Radio 3 and BBC Radio Scotland.
-                        Although
-                        primarily a wind quintet the group also enjoy exploring chamber music for other
-                        instrument
-                        combinations and have formed a trio for flute, clarinet and bassoon.</p>
-                    <p><span class="fa fa-quote-left"></span><i>... a musical triumph.... two stunning
-                            sets with a
-                            huge variety of music ranging across classical, jazz, show tunes – the West
-                            Side Story
-                            medley was sublime – folk and contemporary.</i><span
-                                class="fa fa-quote-right"></span>
-                        – St Boswell's Live!</p>
-                    <p><a href="/season/2122/Programme-220507-SiroccoWinds.pdf"
-                       target="_blank">Concert programme</a>
+                    <p>Martin Simpson is one of England’s most revered folk performers.
+                        The remarkable intimate solo performances that Martin gives go from strength to strength - every
+                        gig is a masterclass.
+                        He travels the length and breadth of the UK and beyond, giving rapt audiences passion, sorrow,
+                        love, beauty, tragedy and majesty through his playing.
                     </p>
                     <p>
-                        <a href="https://www.classicalmusiciansscotland.com/artists/sirocco-winds/"
-                           target="_blank">More about Sirocco Winds</a>
+                        Widely acknowledged as one of the finest acoustic and slide guitar players in the world,
+                        Martin's interpretations of traditional songs are masterpieces of storytelling.
+                        His solo shows are intense, eclectic, spellbinding and deeply moving.
                     </p>
+                    <p>
+                        Martin has been nominated an astounding 31 times in the 16 years of the BBC Radio 2 Folk Awards
+                        - more than any other performer - and has won numerous awards.
+                    </p>
+                    <p>With a huge guitar and banjo collection, Martin is consistently named as one of the very finest
+                        acoustic, finger-style and slide guitar players in the world.
+                        Watch his <a href="https://www.youtube.com/watch?v=EAoQGSiVsy4"
+                                     target="_blank">finger picking masterclass</a>.</p>
+                    <p><span class="fa fa-quote-left"></span><i>Another guitar master class and great lyrics, just like
+                            a great red wine,smooth, full of flavour and just gets better year on year.</i><span
+                                class="fa fa-quote-right"></span></p>
+                    <p><span class="fa fa-quote-left"></span><i>Beautiful. So humane.</i><span
+                                class="fa fa-quote-right"></span></p>
+                    <!--                    <p><a href="/season/2122/Programme-220924-MartinSimpson.pdf"-->
+                    <!--                          target="_blank">Concert programme</a>-->
+                    <!--                    </p>-->
+                    <p>
+                        <a href="https://martinsimpson.com/"
+                           target="_blank">More about Martin Simpson</a>
+                    </p>
+                    <p>Martin has an extensive <a href="https://www.youtube.com/c/MartinSimpsonOfficial"
+                                                  target="_blank">YouTube channel</a>. A <a
+                                href="https://www.youtube.com/watch?v=sVB2gEHGUZE"
+                                target="_blank">moving song</a>.</p>
                 </div>
             </li>
 
@@ -188,35 +202,22 @@ htmlHead($title);
         <div class="col-sm-12">
             <ul class="list-group">
 
-                <!--                <div class="row">-->
-                <!--                    <div class="col-sm-12">-->
-                <!--                        <h3 class="text-info">Still to come</h3>-->
-                <!--                    </div>-->
-                <!--                </div>-->
-                <!--                <div class="row">-->
-                <!--                    <div class="col-sm-12">-->
-                <!--                        <ul class="list-group">-->
-                <!---->
-                <!--                        </ul>-->
-                <!--                    </div>-->
-                <!--                </div>-->
-
-                <div id="PrevConcert" class="row">
+                <div class="row">
                     <div class="col-sm-12">
-                        <h3 class="text-info">Previous concerts</h3>
+                        <h3 class="text-info">Still to come</h3>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-12">
                         <ul class="list-group">
 
-                            <li class="clearfix list-group-item" id="MairearadAnna">
+                            <li class="clearfix list-group-item dms-list-item" id="LeonMcCawley">
                                 <div class="col-sm-3">
-                                    <h3>Mairearad and Anna</h3>
+                                    <h3>Leon McCawley</h3>
                                     <h4 class="text-info">
-                                        Saturday, 30<span class="subscript">th</span> October 2021
+                                        Sunday, 23<span class="subscript">rd</span> October 2022
                                     </h4>
-                                    <p>7:30pm Gibson Hall, Dollar <a
+                                    <p>3:00pm Gibson Hall, Dollar <a
                                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                             7DU</a></p>
                                     <!--                            <p>Pre-concert performance from 7:15pm</p>-->
@@ -228,112 +229,124 @@ htmlHead($title);
                                     <!--                        </div>-->
                                 </div>
                                 <div class="col-sm-3">
-                                    <img src="/image/2122/mairearadanna-240.jpeg"/>
+                                    <img src="/image/2223/leonmccawley1-240.jpg"/>
                                 </div>
                                 <div class="col-sm-6">
-                                    <p>Two of Scotland’s most revered multi-instrumentalists,
-                                        Mairearad Green (accordion and bagpipes) and Anna Massie (guitar, banjo, fiddle)
-                                        are a truly
-                                        captivating act, providing a highly energetic performance with an instantly warm
-                                        and
-                                        friendly stage presence.</p>
-                                    <p>Having played alongside each other for over ten years, they revel in an intuitive
-                                        approach to
-                                        each other’s musical ideas and interpretations, and an “almost telepathic
-                                        communication” on
-                                        stage (Hi-Arts), effortlessly showcasing the fruits of duo partnership to the
-                                        highest level
-                                        , creating “music more than the sum of just two parts” <i>(The Scotsman)</i>.
-                                        Now based in Glasgow, Mairearad and Anna both grew up in the Scottish Highlands
-                                        amidst very
-                                        similar musical backgrounds (most notably, mandolin playing Dads!), and so share
-                                        an innate
-                                        understanding of Scottish culture and music. As a duo they have enjoyed many
-                                        successes,
-                                        including five stars in The Scotsman and high praise from KT Tunstall, becoming
-                                        a much-loved
-                                        live act.</p>
-                                    <p><span class="fa fa-quote-left"></span><i>the camaraderie and sheer fun of musical
-                                            collaboration is plainly evident and infectious..</i><span
-                                                class="fa fa-quote-right"></span>
-                                        – Songlines</p>
-                                    <p><span class="fa fa-quote-left"></span><i>full of energy and verve….first
-                                            class.</i><span
-                                                class="fa fa-quote-right"></span>
-                                        – R2 Magazine</p>
-                                    <!--                        <a href="/season/2122/Programme-211023-MairearadAnna.pdf"-->
-                                    <!--                           target="_blank">Concert programme</a>-->
-                                    <p><a href="https://www.mairearadandanna.com/"
-                                          target="_blank">More about Mairerad and Anna</a>
+                                    <p>Praised for his unfailingly communicative playing,
+                                        British pianist Leon McCawley has been delighting audiences worldwide since
+                                        winning first prize in the
+                                        1993 International Beethoven Piano Competition in Vienna and second prize at the
+                                        Leeds International
+                                        Piano Competition the same year.</p>
+                                    <p>His many concert performances and extensive discography have established him as a
+                                        pianist of great integrity and variety,
+                                        bringing freshness and vitality to Classical, Romantic and 20th century
+                                        repertoire.
                                     </p>
-                                    <p><a href="https://www.youtube.com/watch?v=pD3lZX7I4go"
-                                          target="_blank">Hear them play</a></p>
-                                    <p><a href="https://www.mairearadandanna.com/video/"
-                                          target="_blank">Samples from their website</a></p>
+                                    <p>Bach, Beethoven, Mozart & Schubert (Sonata D960).</p>
+                                    <p><span class="fa fa-quote-left"></span><i>tOne of today’s most impeccably musical
+                                            pianists</i><span
+                                                class="fa fa-quote-right"></span>
+                                        – International Piano, 2021</p>
+                                    <p><span class="fa fa-quote-left"></span><i>tMcCawley’s sense of proportion and
+                                            architecture was peerless</i><span
+                                                class="fa fa-quote-right"></span>
+                                        – Singapore Straits Times, 2022</p>
+                                    <!--                        <a href="/season/2122/Programme-221023-LeonMcCawley.pdf"-->
+                                    <!--                           target="_blank">Concert programme</a>-->
+                                    <p><a href="https://leonmccawley.com/"
+                                          target="_blank">More about Leon McCawley</a>
+                                    </p>
+                                    <p><a href="https://youtu.be/JQz_Y1f0JOg"
+                                          target="_blank">Hear him play</a></p>
                                 </div>
                             </li>
 
-                            <li class="clearfix list-group-item dms-list-item-prev" id="AlisonAffleck">
+                            <li class="clearfix list-group-item dms-list-item" id="ChoirDay">
                                 <div class="col-sm-3">
-                                    <h3>Alison Affleck</h3>
+                                    <h3>Open Choir Day</h3>
+                                    <p class="specialhilite italic">Free of charge - all welcome</p>
                                     <h4 class="text-info">
-                                        Sunday, 28<span class="subscript">th</span> November 2021
+                                        Sunday, 20<span class="subscript">th</span> November 2022
                                     </h4>
-                                    <p>3:00pm, Gibson Hall, Dollar <a
+                                    <p>1:30pm Gibson Hall, Dollar <a
                                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                             7DU</a></p>
-                                    <p>Pre-concert performance from 2:45pm</p>
-                                    <!--                        <div id="buyticketalisonaffleck">-->
+                                    <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                                </div>
+                                <div class="col-sm-3">
+                                    <img src="/image/2223/choir-cartoon-240.jpeg"/>
+                                </div>
+                                <div class="col-sm-6">
+                                    <p>There's no better way to feel good than to sing! Music in Dollar has organised a
+                                        day where you can do just that – with some expert tuition along the way.
+                                        Singing doesn't require an instrument – it's you! Everyone can do it, so why not
+                                        come along and have some fun.
+                                        No music reading skills are needed.</p>
+                                    <p>he format will be to learn a few popular songs, then have a vocal workshop to
+                                        talk about the voice and how it works then have a ‘performance’ for anyone who
+                                        wants to come along and listen.</p>
+                                    <p>This is a community event, so all are welcome at no cost. Bring along friends and
+                                        family, anyone who is interested to either sing themselves or listen to
+                                        others.</p>
+                                    <p>Refreshments will be provided.</p>
+                                    <p>Those who don't fancy singing can still enjoy the sounds of those that do. Come
+                                        along and listen - it's free!</p>
+                                    <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
+                                    <!--                           target="_blank">Concert programme</a>-->
+                                    <!--                        </p>-->
+                                </div>
+                            </li>
+
+                            <li class="clearfix list-group-item dms-list-item" id="ScottishClarinetChoir">
+                                <div class="col-sm-3">
+                                    <h3>Scottish Clarinet Choir</h3>
+                                    <h4 class="text-info">
+                                        Sunday, 4<span class="subscript">th</span> December 2022
+                                    </h4>
+                                    <p>3:00pm Gibson Hall, Dollar <a
+                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                            7DU</a></p>
+                                    <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                                    <!--                        <div id="buyticketannamairerad">-->
                                     <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                                    <!--                               href="https://www.wegottickets.com/event/529096"-->
+                                    <!--                               href="https://www.wegottickets.com/event/526659/"-->
                                     <!--                               target="_blank">Buy tickets</a>-->
                                     <!--                            <p></p>-->
                                     <!--                        </div>-->
                                 </div>
                                 <div class="col-sm-3">
-                                    <img src="/image/2122/affleck-1-240.jpeg"/>
+                                    <img src="/image/2223/scottishclarinetchoir2-240.png"/>
                                 </div>
                                 <div class="col-sm-6">
-                                    <p>Perennial winner and nominee of 'Best Jazz Vocalist', Ali Affleck is a trad jazz
-                                        singer and
-                                        swing dancer.
-                                        As an American she is uniquely placed to deliver the authentic sound of
-                                        Prohibition era
-                                        music, breathing new life into the music and bringing it to a 21st century
-                                        audience.
-                                    </p>
-                                    <p>She is a resident musician at Edinburgh's Famous Jazz bar on Chambers Street
-                                        and this is where she hosts her trademark 'Speakeasy Sessions’ - high energy
-                                        events that
-                                        feature the country's finest musicians performing early jazz, swing and blues
-                                        - a favourite for the swing dance scene!
-                                    </p>
-                                    <p><span class="fa fa-quote-left"></span><i>
-                                            “Ali Affleck is not a household name yet- but I think she soon will be” […]
-                                            “Ali sings with the same kind of élan and swing that is very evident in the
-                                            recordings
-                                            of a certain Billie Holiday.
-                                            Now this is high praise indeed but I can assure you that it is entirely
-                                            accurate. ”
-                                        </i><span
+                                    <p>Not voices, but massed clarinets, of all shapes, sizes and tones!</p>
+                                    <p>Formed in 2019 by the ex-principal clarinet for RSNO and based in Dunblane,
+                                        the Choir has a mission to bring together professionals, amateurs, teachers and
+                                        students to celebrate
+                                        the glories of the clarinet family of instruments.</p>
+                                    <p>Their wide repertoire covers classics (Mozart), through to 20th century (Ravel,
+                                        Rachmaninov),
+                                        some local / contemporary names (Gordon Jacob, Paul Harvey, Carl Raven, Peter
+                                        Warlock and Eric Hughes),
+                                        including several world premieres.</p>
+                                    <p><span class="fa fa-quote-left"></span><i>Quote about scottish clarinet
+                                            choir</i><span
                                                 class="fa fa-quote-right"></span>
-                                        – BBC Jazzhouse</p>
-                                    <!--                        <a href="/season/2122/Programme-211128-AliAffleck.pdf"-->
+                                        – xxx</p>
+                                    <!--                        <a href="/season/2122/Programme-221023-LeonMcCawley.pdf"-->
                                     <!--                           target="_blank">Concert programme</a>-->
-                                    <!--                        </p>-->
-                                    <p>
-                                        <a href="https://www.aliaffleck.com/"
-                                           target="_blank">More about Ali Affleck</a>
+                                    <p><a href="https://www.scottishclarinetchoir.co.uk/"
+                                          target="_blank">More about Scottish Clarinet Choir</a>
                                     </p>
                                 </div>
                             </li>
 
-                            <li class="clearfix list-group-item dms-list-item-prev" id="PianoDay">
+                            <li class="clearfix list-group-item dms-list-item" id="PianoDay">
                                 <div class="col-sm-3">
                                     <h3>Piano Day</h3>
                                     <p class="specialhilite italic">Free of charge - all welcome</p>
                                     <h4 class="text-info">
-                                        Sunday, 30<span class="subscript">th</span> January 2022
+                                        Sunday, 29<span class="subscript">th</span> January 2023
                                     </h4>
                                     <p>2:00pm Gibson Hall, Dollar <a
                                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
@@ -344,196 +357,119 @@ htmlHead($title);
                                     <img src="/image/2122/piano-keyboardangle-240.jpg"/>
                                 </div>
                                 <div class="col-sm-6">
-                                    <p>Reintroducing the Music in Dollar Young Musician competition!
-                                    </p>
-                                    <p>Young pianists from several local schools will play a short set. Prizes will be
-                                        awarded for
-                                        the best performances.</p>
+                                    <p>fter last year's success we're delighted to run the Music in Dollar Piano Day for
+                                        young
+                                        people again.</p>
+                                    <p>Come and join Juliette Philogene and Christopher Baxter in the wonderful setting
+                                        of Dollar
+                                        Academy,
+                                        for a day devoted to the joy of playing the piano.
+                                        Throughout the day there will be opportunities to perform and learn.
+                                        All abilities and ages from 5-19 are welcome – don't be shy.</p>
+                                    <p>Fresh interpretations, famous and not so famous pieces, and free!
+                                        No charge to enter as player or listener, so what better way to spend a Sunday
+                                        afternoon.</p>
                                     <p>Refreshments will be provided.</p>
-                                    <p>It's free, so why not come along and hear musicians of the future. Should be a
-                                        varied and
-                                        stimulating afternoon!</p>
+                                    <p>For those who are too old to play, why not come along and hear musicians of the
+                                        future? It's
+                                        free, and should be a
+                                        varied and stimulating afternoon!</p>
                                     <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
                                     <!--                           target="_blank">Concert programme</a>-->
                                     <!--                        </p>-->
                                 </div>
                             </li>
 
-                            <li class="clearfix list-group-item dms-list-item-prev" id="RoxburghQuartet">
+                            <li class="clearfix list-group-item dms-list-item" id="ADLibitum">
                                 <div class="col-sm-3">
-                                    <h3>Roxburgh Quartet</h3>
+                                    <h3>ADLibitum</h3>
                                     <h4 class="text-info">
-                                        Sunday, 27<span class="subscript">th</span> February 2022
+                                        Sunday, 19<span class="subscript">th</span> February 2023
                                     </h4>
-                                    <p>3:00pm, Gibson Hall, Dollar <a
+                                    <p>3:00pm Gibson Hall, Dollar <a
                                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                             7DU</a></p>
-                                    <p>Pre-concert performance from 2:45pm</p>
-                                    <!--                        <div id="buyticketroxburghquartet">-->
+                                    <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                                    <!--                        <div id="buyticketannamairerad">-->
                                     <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                                    <!--                               href="https://www.wegottickets.com/event/533030"-->
+                                    <!--                               href="https://www.wegottickets.com/event/526659/"-->
                                     <!--                               target="_blank">Buy tickets</a>-->
+                                    <!--                            <p></p>-->
                                     <!--                        </div>-->
                                 </div>
                                 <div class="col-sm-3">
-                                    <img src="/image/1920/roxburgh-mg5685-sm.png"/>
+                                    <img src="/image/2223/adlibitum1-240.jpeg"/>
                                 </div>
                                 <div class="col-sm-6">
-                                    <p>This is the rescheduled concert from March 2020. Fingers crossed we can hear the
-                                        Quartet this
-                                        time!</p>
-                                    <p>Formed in 2005 and based in Edinburgh, the Roxburgh are quartet in residence
-                                        at the city’s beautiful Lauriston Hall. Their core repertoire includes the late
-                                        Schubert quartets, the German Romantics, the great French masterworks and,
-                                        notably, Bartok’s First Quartet and Tan Dun’s Eight Colours for String Quartet.
-                                    </p>
-                                    <p>In recent years the quartet has added earlier music to its repertoire, inspired
-                                        by
-                                        performing Bach’s The Art of Fugue at Edinburgh and St Andrews
-                                        Universities, with harpsichordists John Kitchen and Tom Wilkinson.</p>
-                                    <p><span class="fa fa-quote-left"></span><i>Inspired music played with complete
-                                            control,
-                                            imagination and deep insight.</i><span
+                                    <p>ADLibitum weave a dazzling and beatiful sound tapestry on violin and
+                                        accordion.</p>
+                                    <p>Andrea and Djordje Gajic are based in Scotland (Andrea is professor at RCS
+                                        Glasgow) and tour
+                                        widely.
+                                        Exploring many styles (eg Brahms, Massenet, Albeniz, Arkhipovsky),
+                                        their performances entrance the audience with precision, passion and
+                                        intensity.</p>
+                                    <p><span class="fa fa-quote-left"></span><i>Two astonishing virtuosi whose playing
+                                            together was
+                                            masterly</i><span
                                                 class="fa fa-quote-right"></span>
-                                        – Courier</p>
-                                    </p>
-                                    <a href="/season/2122/Programme-220227-RoxburghQuartet.pdf"
-                                       target="_blank">Concert programme</a>
-                                    </p>
-                                    <p>
-                                        <a href="http://www.roxburghquartet.com/"
-                                           target="_blank">More about the Roxburgh Quartet</a>
+                                        – Skye Chamber Music</p>
+                                    <p><span class="fa fa-quote-left"></span><i>full of passion, brilliance and supreme
+                                            intelligence</i><span
+                                                class="fa fa-quote-right"></span>
+                                        – Cowal Music Club</p>
+                                    <!--                        <a href="/season/2122/Programme-230219-ADLibitum.pdf"-->
+                                    <!--                           target="_blank">Concert programme</a>-->
+                                    <p><a href="https://www.classicalmusiciansscotland.com/artists/adlibitum/"
+                                          target="_blank">More about ADLibitum</a>
                                     </p>
                                 </div>
                             </li>
 
-                            <li class="clearfix list-group-item dms-list-item-prev" id="PRDuo">
+                            <li class="clearfix list-group-item dms-list-item" id="TheAllSorts">
                                 <div class="col-sm-3">
-                                    <h3>Prodanova - Ritivoiu Duo</h3>
+                                    <h3>The All Sorts</h3>
                                     <h4 class="text-info">
-                                        Sunday, 6<span class="subscript">th</span> March 2022
+                                        Sunday, 19<span class="subscript">th</span> March 2023
                                     </h4>
-                                    <p>3:00pm, Gibson Hall, Dollar <a
+                                    <p>3:00pm Gibson Hall, Dollar <a
                                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                             7DU</a></p>
-                                    <p>Pre-concert performance from 2:45pm</p>
-                                    <!--                                    <div id="buyticketsprduo">-->
-                                    <!--                                        <a type="button" class="btn btn-info btn-blocks"-->
-                                    <!--                                           href="https://www.wegottickets.com/event/533032"-->
-                                    <!--                                           target="_blank">Buy tickets</a>-->
-                                    <!--                                    </div>-->
-                                    <div class="margintop10">
-                                        <a href="covid19.php">Covid
-                                            19 guidelines</a>
-                                    </div>
+                                    <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                                    <!--                        <div id="buyticketannamairerad">-->
+                                    <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                                    <!--                               href="https://www.wegottickets.com/event/526659/"-->
+                                    <!--                               target="_blank">Buy tickets</a>-->
+                                    <!--                            <p></p>-->
+                                    <!--                        </div>-->
                                 </div>
                                 <div class="col-sm-3">
-                                    <img src="/image/2122/prodanova-ritivoiu-duo-240.png"/>
+                                    <img src="/image/2223/allsorts1-240.jpeg"/>
                                 </div>
                                 <div class="col-sm-6">
-                                    <p>Yoanna Prodanova (Bulgarian) cello and Mihai Ritivoiu (Romanian) piano are
-                                        Tunnell Trust
-                                        winners from last year.
-                                        These two outstanding young musicians bring their unique flair and originality
-                                        to a varied
-                                        programme.
-                                        We are delighted to have them perform for us in Dollar.
-                                    </p>
-                                    <p>A native of Bulgaria, cellist Yoanna Prodanova studied in London and has played
-                                        with several
-                                        UK orchestras.
-                                        Her recital career started in Switzerland in 2019.
-                                    </p>
-                                    <p>Romanian pianist Mihai Ritivoiu is the winner of numerous international
-                                        competitions.
-                                        In addition to his solo recitals and concerto appearances, Mihai has a rich
-                                        chamber music
-                                        activity, most notably as duo partner of the cellist Yoanna Prodanova.
-                                        Their duo has performed in the UK, France and The Netherlands, and they have
-                                        been invited to
-                                        festivals
-                                    </p>
-                                    <p>The duo have recorded their debut album, including works by Janacek, Fauré and
-                                        Chopin.
-                                    </p>
-                                    <p><span class="fa fa-quote-left"></span><i>it was refreshing to hear late Beethoven
-                                            in the
-                                            hands of such a distinguished young duo</i><span
+                                    <p>The All Sorts are an all-singing, all-female a-capella singing group,
+                                        drawn from Scottish Opera performers who simply wanted 'an excuse to hang out
+                                        more'.</p>
+                                    <p>Hailing from the UK and North America, they range from opera to Motown and lieder
+                                        to Disney,
+                                        combining classic barbershop and classical arrangements. They began their
+                                        closely
+                                        harmonising adventure in late 2017.</p>
+                                    <p><span class="fa fa-quote-left"></span><i>stylish and talented group coupling
+                                            their wonderful
+                                            voices with a flair for entertainment</i><span
                                                 class="fa fa-quote-right"></span>
-                                        – Christopher Axworthy</p>
-                                    <p>
-                                        <a href="/season/2122/Programme-220306-ProdanovaRitivoiuDuo.pdf"
-                                           target="_blank">Concert programme</a>
-                                    </p>
-                                    <p>
-                                        <a href="https://christopheraxworthymusiccommentary.wordpress.com/2020/09/04/yoanna-prodanova-and-mihai-ritivoiu-at-st-marys/"
-                                           target="_blank">More about the Prodanova - Ritivoiu Duo</a>
-                                    </p>
-                                    <p><a href="http://www.yoannaprodanova.com/"
-                                          target="_blank">More about Yoanna Prodanova</a>
-                                    </p>
-                                    <p><a href="https://www.youtube.com/watch?v=4IFodCmWzK8"
-                                          target="_blank">Hear them play</a></p>
-                                </div>
-                            </li>
-
-                            <li class="clearfix list-group-item dms-list-item-prev" id="ClareHammond">
-                                <div class="col-sm-3">
-                                    <h3>Clare Hammond</h3>
-                                    <h4 class="text-info">
-                                        Saturday, 9<span class="subscript">th</span> April 2022
-                                    </h4>
-                                    <p>7:30pm Gibson Hall, Dollar <a
-                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                            7DU</a></p>
-                                    <p>Pre-concert performance from 7:15pm</p>
-                                    <div id="buyticketclarehammond">
-                                        <a type="button" class="btn btn-info btn-blocks"
-                                           href="https://www.wegottickets.com/event/533034"
-                                           target="_blank">Buy tickets</a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <img src="/image/2122/clarehammond-1-240.jpeg"/>
-                                </div>
-                                <div class="col-sm-6">
-                                    <p>We are fortunate to have leading English pianist Clare Hammond playing for us in
-                                        Dollar. Widely broadcast and recorded, she has
-                                        created a strong reputation as a 'star' interpreter of several areas, including
-                                        contemporary
-                                        music.
-                                        Clare’s discs for BIS have been widely praised with <i>The Times</i> commending
-                                        her “deliciously unfussy poise and elegance”.
-                                        <i>Etude</i> received unanimous critical acclaim for its “unfaltering bravura
-                                        and conviction”
-                                        <i>(Gramophone)</i>. Her discography includes world premiere recordings of over
-                                        twenty
-                                        works.
-                                    </p>
-                                    <p>Acclaimed as a pianist of “amazing power and panache” <i>(The Telegraph)</i>,
-                                        Clare Hammond is recognised for the virtuosity and authority of her performances
-                                        and has
-                                        developed a “reputation for brilliantly imaginative concert programmes” <i>(BBC
-                                            Music
-                                            Magazine)</i>. In 2016, she won the Royal Philharmonic Society's 'Young
-                                        Artist Award' in
-                                        recognition of
-                                        outstanding achievement and in 2020 she was engaged to perform at the
-                                        International Piano Series
-                                        (Southbank Centre) and the Aldeburgh Festival.</p>
-                                    <p><span class="fa fa-quote-left"></span><i>A revelation... very special and very
-                                            original.</i><span
+                                        – Margaret Isaacs, Cove Burgh Hall</p>
+                                    <p><span class="fa fa-quote-left"></span><i>The All Sorts were amazing</i><span
                                                 class="fa fa-quote-right"></span>
-                                        – Michel Dutrieue</p>
-                                    <p><a href="/season/2122/Programme-220409-ClareHammond.pdf"
-                                          target="_blank">Concert programme</a>
+                                        – Alison Gregson, Greyfriars Kirk</p>
+                                    <!--                        <a href="/season/2122/Programme-230219-ADLibitum.pdf"-->
+                                    <!--                           target="_blank">Concert programme</a>-->
+                                    <p><a href="https://www.theallsorts.com/"
+                                          target="_blank">More about The All Sorts</a> and <a
+                                                href="https://www.classicalmusiciansscotland.com/artists/the-all-sorts/">even
+                                            more</a>
                                     </p>
-                                    <p>
-                                        <a href="http://clarehammond.com/"
-                                           target="_blank">More about Clare Hammond</a>
-                                    </p>
-                                    <p><a href="http://clarehammond.com/variations"
-                                          target="_blank">Hear her play</a></p>
                                 </div>
                             </li>
 
@@ -545,7 +481,23 @@ htmlHead($title);
         </div>
     </div>
 
-    <?php require "footer.php"; ?>
+    <!--                <div id="PrevConcert" class="row">-->
+    <!--                    <div class="col-sm-12">-->
+    <!--                        <h3 class="text-info">Previous concerts</h3>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!--                <div class="row">-->
+    <!--                    <div class="col-sm-12">-->
+    <!--                        <ul class="list-group">-->
+    <!--                        </ul>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+
+    </ul>
+</div>
+</div>
+
+<?php require "footer.php"; ?>
 
 </div>
 

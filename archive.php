@@ -23,6 +23,8 @@ htmlHead($title);
             <h4>Select a season:</h4>
             <ul class="list-group">
                 <li class="row list-group-item"><a
+                            href="/season/2122/season2122.php">2021-22</a></li>
+                <li class="row list-group-item"><a
                             href="/season/1920/season1920.php">2019-20</a></li>
                 <li class="row list-group-item"><a
                             href="/season/1819/season1819.php">2018-19</a></li>
