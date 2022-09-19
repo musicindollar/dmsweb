@@ -28,32 +28,16 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-coffee"></span> Our next event is the annual Coffee Morning, where you can
-                            hear a preview of the season's performers. Buy season tickets and memberships, and get 2
-                            complimentary tickets for friends or family! Coffee and scones, plus games, raffle and cake
-                            stall. Hope to see you on <b>Saturday 10th September</b> at
-                            10:00, Burnside Hall Dollar.</p>
-                        <p><span class="fa fa-music"></span> Looking forward to the new season! We have 5 concerts lined
+                        <p><span class="fa fa-music"></span> Martin Simpson will play for us on Saturday. Will be a cracker, don't miss it!</p>
+                        <p><span class="fa fa-calendar"></span> Looking forward to the new season... We have 5 concerts lined
                             up, plus 2 free community events. With Covid-19 firmly behind us, we hope that the appetite
                             for music in the heart of our community is stronger than ever. And if joy is indeed song,
                             then come along to our Open Choir Day and be happy!</p>
-                        <p><span class="fa fa-clock-o"></span>
-                            Note that the new date for the <a
-                                    href="#SiroccoWinds">Sirocco Winds</a> concert is Saturday 7th May (<a
-                                    href="#SiroccoWinds">see below</a> for full details).
-                        </p>
-                        <!--                        <p><span class="fa fa-medkit"></span> In line with best practice for small public events, we-->
-                        <!--                            have introduced <a href="covid19.php">Covid-->
-                        <!--                                19 guidelines</a>-->
-                        <!--                            for everyone's safety. Please familiarise yourself with these and respect them at the-->
-                        <!--                            concerts. Thanks!-->
-                        <!--                        </p>-->
-                        <!--                        <p><span class="fa fa-coffee"></span> Our usual <span-->
-                        <!--                                    class="bold specialhilite">Coffee Morning</span> to open the-->
-                        <!--                            season will be held on Saturday 25th September at 10:00, in the-->
-                        <!--                            Burnside Hall, Dollar.-->
-                        <!--                            We're looking for volunteers to help on the day. Please speak to one of the committee or-->
-                        <!--                            <a href="contact.php">get in touch online</a> or on Facebook. Hope to see you all there!-->
+<!--                        <p><span class="fa fa-clock-o"></span>-->
+<!--                            Note that the new date for the <a-->
+<!--                                    href="#SiroccoWinds">Sirocco Winds</a> concert is Saturday 7th May (<a-->
+<!--                                    href="#SiroccoWinds">see below</a> for full details).-->
+<!--                        </p>-->
                         <p><span class="fa fa-envelope-o">&nbsp;</span> Like something, got a suggestion? Please <a
                                     href="contact.php">drop us a note online</a>, or on
                             <a href="https://www.facebook.com/MusicInDollar" target="_blank">Facebook</a> or
@@ -182,9 +166,9 @@ htmlHead($title);
                                 class="fa fa-quote-right"></span></p>
                     <p><span class="fa fa-quote-left"></span><i>Beautiful. So humane.</i><span
                                 class="fa fa-quote-right"></span></p>
-                    <!--                    <p><a href="/season/2122/Programme-220924-MartinSimpson.pdf"-->
-                    <!--                          target="_blank">Concert programme</a>-->
-                    <!--                    </p>-->
+                                        <p><a href="/season/2223/Programme-220924-MartinSimpson.pdf"
+                                              target="_blank">Concert programme</a>
+                                        </p>
                     <p>
                         <a href="https://martinsimpson.com/"
                            target="_blank">More about Martin Simpson</a>
