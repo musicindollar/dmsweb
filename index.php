@@ -28,16 +28,19 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-music"></span> Martin Simpson will play for us on Saturday. Will be a cracker, don't miss it!</p>
-                        <p><span class="fa fa-calendar"></span> Looking forward to the new season... We have 5 concerts lined
-                            up, plus 2 free community events. With Covid-19 firmly behind us, we hope that the appetite
-                            for music in the heart of our community is stronger than ever. And if joy is indeed song,
-                            then come along to our Open Choir Day and be happy!</p>
-<!--                        <p><span class="fa fa-clock-o"></span>-->
-<!--                            Note that the new date for the <a-->
-<!--                                    href="#SiroccoWinds">Sirocco Winds</a> concert is Saturday 7th May (<a-->
-<!--                                    href="#SiroccoWinds">see below</a> for full details).-->
-<!--                        </p>-->
+                        <p><span class="fa fa-music"></span> Next concert is Leon McCawley, renowned classical pianist.
+                            Following from Clare Hammond a few months ago, it feels like a great privilege for artists
+                            of this calibre to perform for us in our intimate and beautifully proportioned auditorium.
+                        </p>
+                        <p><span class="fa fa-calendar"></span> After Leon McCawley playing some of the great classics
+                            comes a chance for us all to shine. If joy is indeed song,
+                            then come along to our Open Choir Day and be happy! All standards welcome, no need to read
+                            music.</p>
+                        <!--                        <p><span class="fa fa-clock-o"></span>-->
+                        <!--                            Note that the new date for the <a-->
+                        <!--                                    href="#SiroccoWinds">Sirocco Winds</a> concert is Saturday 7th May (<a-->
+                        <!--                                    href="#SiroccoWinds">see below</a> for full details).-->
+                        <!--                        </p>-->
                         <p><span class="fa fa-envelope-o">&nbsp;</span> Like something, got a suggestion? Please <a
                                     href="contact.php">drop us a note online</a>, or on
                             <a href="https://www.facebook.com/MusicInDollar" target="_blank">Facebook</a> or
@@ -122,61 +125,54 @@ htmlHead($title);
         <div class="col-sm-12">
             <h3 class="text-info">Next concert</h3>
 
-            <li class="clearfix list-group-item dms-list-item-next" id="MartinSimpson">
+            <li class="clearfix list-group-item dms-list-item-next" id="LeonMcCawley">
                 <div class="col-sm-3">
-                    <h3>Martin Simpson</h3>
+                    <h3>Leon McCawley</h3>
                     <h4 class="text-info">
-                        Saturday, 24<span class="subscript">th</span> September 2022
+                        Sunday, 23<span class="subscript">rd</span> October 2022
                     </h4>
-                    <p>Time 7:30pm Gibson Hall, Dollar <a
+                    <p>3:00pm Gibson Hall, Dollar <a
                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                             7DU</a></p>
-                    <p>Pre-concert performance from 7:15pm</p>
-                    <div id="buyticketmartinsimpson">
+                    <!--                            <p>Pre-concert performance from 2:45pm</p>-->
+                    <div id="buyticketleonmccawley">
                         <a type="button" class="btn btn-info btn-blocks"
-                           href="https://www.wegottickets.com/event/554788"
+                           href="https://www.wegottickets.com/event/559313/"
                            target="_blank">Buy tickets</a>
+                        <p></p>
                     </div>
                 </div>
                 <div class="col-sm-3">
-                    <img src="/image/2223/martinsimpson1-240.jpg"/>
+                    <img src="/image/2223/leonmccawley1-240.jpg"/>
                 </div>
                 <div class="col-sm-6">
-                    <p>Martin Simpson is one of England’s most revered folk performers.
-                        The remarkable intimate solo performances that Martin gives go from strength to strength - every
-                        gig is a masterclass.
-                        He travels the length and breadth of the UK and beyond, giving rapt audiences passion, sorrow,
-                        love, beauty, tragedy and majesty through his playing.
+                    <p>Praised for his <i>unfailingly communicative playing</i>,
+                        British pianist Leon McCawley has been delighting audiences worldwide since
+                        winning first prize in the
+                        1993 International Beethoven Piano Competition in Vienna and second prize at the
+                        Leeds International
+                        Piano Competition the same year.</p>
+                    <p>His many concert performances and extensive discography have established him as a
+                        pianist of great integrity and variety,
+                        bringing freshness and vitality to Classical, Romantic and 20th century
+                        repertoire.
                     </p>
-                    <p>
-                        Widely acknowledged as one of the finest acoustic and slide guitar players in the world,
-                        Martin's interpretations of traditional songs are masterpieces of storytelling.
-                        His solo shows are intense, eclectic, spellbinding and deeply moving.
+                    <p>Bach, Beethoven, Mozart & Schubert (the late great Sonata D960).</p>
+                    <p><span class="fa fa-quote-left"></span><i>One of today’s most impeccably musical
+                            pianists</i><span
+                                class="fa fa-quote-right"></span>
+                        – International Piano, 2021</p>
+                    <p><span class="fa fa-quote-left"></span><i>tMcCawley’s sense of proportion and
+                            architecture was peerless</i><span
+                                class="fa fa-quote-right"></span>
+                        – Singapore Straits Times, 2022</p>
+                    <p><a href="/season/2122/Programme-221023-LeonMcCawley.pdf"
+                       target="_blank">Concert programme</a></p>
+                    <p><a href="https://leonmccawley.com/"
+                          target="_blank">More about Leon McCawley</a>
                     </p>
-                    <p>
-                        Martin has been nominated an astounding 31 times in the 16 years of the BBC Radio 2 Folk Awards
-                        - more than any other performer - and has won numerous awards.
-                    </p>
-                    <p>With a huge guitar and banjo collection, Martin is consistently named as one of the very finest
-                        acoustic, finger-style and slide guitar players in the world.
-                        Watch his <a href="https://www.youtube.com/watch?v=EAoQGSiVsy4"
-                                     target="_blank">finger picking masterclass</a>.</p>
-                    <p><span class="fa fa-quote-left"></span><i>Another guitar master class and great lyrics, just like
-                            a great red wine,smooth, full of flavour and just gets better year on year.</i><span
-                                class="fa fa-quote-right"></span></p>
-                    <p><span class="fa fa-quote-left"></span><i>Beautiful. So humane.</i><span
-                                class="fa fa-quote-right"></span></p>
-                                        <p><a href="/season/2223/Programme-220924-MartinSimpson.pdf"
-                                              target="_blank">Concert programme</a>
-                                        </p>
-                    <p>
-                        <a href="https://martinsimpson.com/"
-                           target="_blank">More about Martin Simpson</a>
-                    </p>
-                    <p>Martin has an extensive <a href="https://www.youtube.com/c/MartinSimpsonOfficial"
-                                                  target="_blank">YouTube channel</a>. A <a
-                                href="https://www.youtube.com/watch?v=sVB2gEHGUZE"
-                                target="_blank">moving song</a>.</p>
+                    <p><a href="https://youtu.be/JQz_Y1f0JOg"
+                          target="_blank">Hear him play</a></p>
                 </div>
             </li>
 
@@ -195,57 +191,6 @@ htmlHead($title);
                     <div class="col-sm-12">
                         <ul class="list-group">
 
-                            <li class="clearfix list-group-item dms-list-item" id="LeonMcCawley">
-                                <div class="col-sm-3">
-                                    <h3>Leon McCawley</h3>
-                                    <h4 class="text-info">
-                                        Sunday, 23<span class="subscript">rd</span> October 2022
-                                    </h4>
-                                    <p>3:00pm Gibson Hall, Dollar <a
-                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                            7DU</a></p>
-                                    <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                                    <!--                        <div id="buyticketannamairerad">-->
-                                    <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                                    <!--                               href="https://www.wegottickets.com/event/526659/"-->
-                                    <!--                               target="_blank">Buy tickets</a>-->
-                                    <!--                            <p></p>-->
-                                    <!--                        </div>-->
-                                </div>
-                                <div class="col-sm-3">
-                                    <img src="/image/2223/leonmccawley1-240.jpg"/>
-                                </div>
-                                <div class="col-sm-6">
-                                    <p>Praised for his unfailingly communicative playing,
-                                        British pianist Leon McCawley has been delighting audiences worldwide since
-                                        winning first prize in the
-                                        1993 International Beethoven Piano Competition in Vienna and second prize at the
-                                        Leeds International
-                                        Piano Competition the same year.</p>
-                                    <p>His many concert performances and extensive discography have established him as a
-                                        pianist of great integrity and variety,
-                                        bringing freshness and vitality to Classical, Romantic and 20th century
-                                        repertoire.
-                                    </p>
-                                    <p>Bach, Beethoven, Mozart & Schubert (Sonata D960).</p>
-                                    <p><span class="fa fa-quote-left"></span><i>tOne of today’s most impeccably musical
-                                            pianists</i><span
-                                                class="fa fa-quote-right"></span>
-                                        – International Piano, 2021</p>
-                                    <p><span class="fa fa-quote-left"></span><i>tMcCawley’s sense of proportion and
-                                            architecture was peerless</i><span
-                                                class="fa fa-quote-right"></span>
-                                        – Singapore Straits Times, 2022</p>
-                                    <!--                        <a href="/season/2122/Programme-221023-LeonMcCawley.pdf"-->
-                                    <!--                           target="_blank">Concert programme</a>-->
-                                    <p><a href="https://leonmccawley.com/"
-                                          target="_blank">More about Leon McCawley</a>
-                                    </p>
-                                    <p><a href="https://youtu.be/JQz_Y1f0JOg"
-                                          target="_blank">Hear him play</a></p>
-                                </div>
-                            </li>
-
                             <li class="clearfix list-group-item dms-list-item" id="ChoirDay">
                                 <div class="col-sm-3">
                                     <h3>Open Choir Day</h3>
@@ -253,7 +198,7 @@ htmlHead($title);
                                     <h4 class="text-info">
                                         Sunday, 20<span class="subscript">th</span> November 2022
                                     </h4>
-                                    <p>1:30pm Gibson Hall, Dollar <a
+                                    <p>2:00pm (ends 5pm) Gibson Hall, Dollar <a
                                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                             7DU</a></p>
                                     <!--                            <p>Pre-concert performance from 7:15pm</p>-->
@@ -267,9 +212,10 @@ htmlHead($title);
                                         Singing doesn't require an instrument – it's you! Everyone can do it, so why not
                                         come along and have some fun.
                                         No music reading skills are needed.</p>
-                                    <p>he format will be to learn a few popular songs, then have a vocal workshop to
-                                        talk about the voice and how it works then have a ‘performance’ for anyone who
-                                        wants to come along and listen.</p>
+                                    <p>The format will be to learn a few songs (popular, folk, classical), with a vocal
+                                        workshop led by expert tutor Verity Johnson to help bring it all together. At
+                                        the end the 'choir' will perform the songs for anyone who wants to come along
+                                        and listen.</p>
                                     <p>This is a community event, so all are welcome at no cost. Bring along friends and
                                         family, anyone who is interested to either sing themselves or listen to
                                         others.</p>
@@ -465,17 +411,81 @@ htmlHead($title);
         </div>
     </div>
 
-    <!--                <div id="PrevConcert" class="row">-->
-    <!--                    <div class="col-sm-12">-->
-    <!--                        <h3 class="text-info">Previous concerts</h3>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!--                <div class="row">-->
-    <!--                    <div class="col-sm-12">-->
-    <!--                        <ul class="list-group">-->
-    <!--                        </ul>-->
-    <!--                    </div>-->
-    <!--                </div>-->
+    <div id="PrevConcert" class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Previous concerts</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="MartinSimpson">
+                    <div class="col-sm-3">
+                        <h3>Martin Simpson</h3>
+                        <h4 class="text-info">
+                            Saturday, 24<span class="subscript">th</span> September 2022
+                        </h4>
+                        <p>Time 7:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <p>Pre-concert performance from 7:15pm</p>
+                        <div id="buyticketmartinsimpson">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/554788"
+                               target="_blank">Buy tickets</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2223/martinsimpson1-240.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Martin Simpson is one of England’s most revered folk performers.
+                            The remarkable intimate solo performances that Martin gives go from strength to strength -
+                            every
+                            gig is a masterclass.
+                            He travels the length and breadth of the UK and beyond, giving rapt audiences passion,
+                            sorrow,
+                            love, beauty, tragedy and majesty through his playing.
+                        </p>
+                        <p>
+                            Widely acknowledged as one of the finest acoustic and slide guitar players in the world,
+                            Martin's interpretations of traditional songs are masterpieces of storytelling.
+                            His solo shows are intense, eclectic, spellbinding and deeply moving.
+                        </p>
+                        <p>
+                            Martin has been nominated an astounding 31 times in the 16 years of the BBC Radio 2 Folk
+                            Awards
+                            - more than any other performer - and has won numerous awards.
+                        </p>
+                        <p>With a huge guitar and banjo collection, Martin is consistently named as one of the very
+                            finest
+                            acoustic, finger-style and slide guitar players in the world.
+                            Watch his <a href="https://www.youtube.com/watch?v=EAoQGSiVsy4"
+                                         target="_blank">finger picking masterclass</a>.</p>
+                        <p><span class="fa fa-quote-left"></span><i>Another guitar master class and great lyrics, just
+                                like
+                                a great red wine,smooth, full of flavour and just gets better year on year.</i><span
+                                    class="fa fa-quote-right"></span></p>
+                        <p><span class="fa fa-quote-left"></span><i>Beautiful. So humane.</i><span
+                                    class="fa fa-quote-right"></span></p>
+                        <p><a href="/season/2223/Programme-220924-MartinSimpson.pdf"
+                              target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="https://martinsimpson.com/"
+                               target="_blank">More about Martin Simpson</a>
+                        </p>
+                        <p>Martin has an extensive <a href="https://www.youtube.com/c/MartinSimpsonOfficial"
+                                                      target="_blank">YouTube channel</a>. A <a
+                                    href="https://www.youtube.com/watch?v=sVB2gEHGUZE"
+                                    target="_blank">moving song</a>.</p>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+    </div>
 
     </ul>
 </div>
