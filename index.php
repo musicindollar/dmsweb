@@ -167,7 +167,7 @@ htmlHead($title);
                                 class="fa fa-quote-right"></span>
                         – Singapore Straits Times, 2022</p>
                     <p><a href="/season/2223/Programme-221023-LeonMcCawley.pdf"
-                       target="_blank">Concert programme</a></p>
+                          target="_blank">Concert programme</a></p>
                     <p><a href="https://leonmccawley.com/"
                           target="_blank">More about Leon McCawley</a>
                     </p>
@@ -202,6 +202,12 @@ htmlHead($title);
                                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                             7DU</a></p>
                                     <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                                    <div id="registeropenchoirday">
+                                        <a type="button" class="btn btn-info btn-blocks"
+                                           href="https://www.wegottickets.com/event/559347"
+                                           target="_blank">Register</a>
+                                        <p></p>
+                                    </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <img src="/image/2223/choir-cartoon-240.jpeg"/>
@@ -219,7 +225,10 @@ htmlHead($title);
                                     <p>This is a community event, so all are welcome at no cost. Bring along friends and
                                         family, anyone who is interested to either sing themselves or listen to
                                         others.</p>
-                                    <p>Refreshments will be provided.</p>
+                                    <p>Water will be provided. Bring along any other edibles to keep you going. A pencil
+                                        might also be handy for taking notes.</p>
+                                    <p>If you'd like to come along then registering using the button on the left will help us
+                                        to prepare for the right number of people.</p>
                                     <p>Those who don't fancy singing can still enjoy the sounds of those that do. Come
                                         along and listen - it's free!</p>
                                     <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
