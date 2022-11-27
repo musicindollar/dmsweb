@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <?php
 require "header.php";
 $title = "Music in Dollar";
@@ -28,14 +28,12 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-music"></span> Next concert is Leon McCawley, renowned classical pianist.
-                            Following from Clare Hammond a few months ago, it feels like a great privilege for artists
-                            of this calibre to perform for us in our intimate and beautifully proportioned auditorium.
+                        <p><span class="fa fa-music"></span> Next concert is the Scottish Clarinet Choir. Clarinets come in all sizes and tones - a real pleasure in prospect.
                         </p>
-                        <p><span class="fa fa-calendar"></span> After Leon McCawley playing some of the great classics
-                            comes a chance for us all to shine. If joy is indeed song,
-                            then come along to our Open Choir Day and be happy! All standards welcome, no need to read
-                            music.</p>
+                        <p><span class="fa fa-heart"></span> Leon McCawley was outstanding, a top class performer.
+                            And the Open Choir Day was well attended and a great fun way to sing and learn more about how to do it well!
+                        </p>
+                        <!--                        <p><span class="fa fa-calendar"></span> x.</p>-->
                         <!--                        <p><span class="fa fa-clock-o"></span>-->
                         <!--                            Note that the new date for the <a-->
                         <!--                                    href="#SiroccoWinds">Sirocco Winds</a> concert is Saturday 7th May (<a-->
@@ -103,18 +101,18 @@ htmlHead($title);
                 <li class="clearfix list-group-item dms-list-item-prev" id="Tickets">
                     <div class="col-sm-12">
                         <p>Tickets for each concert can be bought by clicking the <i>'Buy tickets'</i> button beside the
-                            concert listing below, or at the door.
+                            concert listing below, or at the door (cash only at present).
                             Cost is &#163;12, students in full-time education admitted free of charge.</p>
                         <p>Season Tickets provide entry to all concerts in the season. Cost is &#163;40. That's &#163;8
                             per concert, unbeatable value!</p>
-                        <p>Choose how you'd like to pay: online using the button below, <a href="contact.php">contact
-                                us</a> to
-                            request bank transfer details, or buy at the door.</p>
-                        <div id="buyseasonticket">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/554785"
-                               target="_blank">Buy season tickets</a>
-                        </div>
+<!--                        <p>Choose how you'd like to pay: online using the button below, <a href="contact.php">contact-->
+<!--                                us</a> to-->
+<!--                            request bank transfer details, or buy at the door.</p>-->
+<!--                        <div id="buyseasonticket">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/554785"-->
+<!--                               target="_blank">Buy season tickets</a>-->
+<!--                        </div>-->
                     </div>
                 </li>
 
@@ -124,58 +122,52 @@ htmlHead($title);
     <div id="NextConcert" class="row">
         <div class="col-sm-12">
             <h3 class="text-info">Next concert</h3>
+            <ul class="list-group">
 
-            <li class="clearfix list-group-item dms-list-item-next" id="LeonMcCawley">
-                <div class="col-sm-3">
-                    <h3>Leon McCawley</h3>
-                    <h4 class="text-info">
-                        Sunday, 23<span class="subscript">rd</span> October 2022
-                    </h4>
-                    <p>3:00pm Gibson Hall, Dollar <a
-                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                            7DU</a></p>
-                    <!--                            <p>Pre-concert performance from 2:45pm</p>-->
-                    <div id="buyticketleonmccawley">
-                        <a type="button" class="btn btn-info btn-blocks"
-                           href="https://www.wegottickets.com/event/559313/"
-                           target="_blank">Buy tickets</a>
-                        <p></p>
+                <li class="clearfix list-group-item dms-list-item-next" id="ScottishClarinetChoir">
+                    <div class="col-sm-3">
+                        <h3>Scottish Clarinet Choir</h3>
+                        <h4 class="text-info">
+                            Sunday, 4<span class="subscript">th</span> December 2022
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <p>Pre-concert performance from 2:45pm</p>
+                        <div id="buyticket-scottishclarinetchoir">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/564640/"
+                               target="_blank">Buy tickets</a>
+                            <p></p>
+                        </div>
                     </div>
-                </div>
-                <div class="col-sm-3">
-                    <img src="/image/2223/leonmccawley1-240.jpg"/>
-                </div>
-                <div class="col-sm-6">
-                    <p>Praised for his <i>unfailingly communicative playing</i>,
-                        British pianist Leon McCawley has been delighting audiences worldwide since
-                        winning first prize in the
-                        1993 International Beethoven Piano Competition in Vienna and second prize at the
-                        Leeds International
-                        Piano Competition the same year.</p>
-                    <p>His many concert performances and extensive discography have established him as a
-                        pianist of great integrity and variety,
-                        bringing freshness and vitality to Classical, Romantic and 20th century
-                        repertoire.
-                    </p>
-                    <p>Bach, Beethoven, Mozart & Schubert (the late great Sonata D960).</p>
-                    <p><span class="fa fa-quote-left"></span><i>One of today’s most impeccably musical
-                            pianists</i><span
-                                class="fa fa-quote-right"></span>
-                        – International Piano, 2021</p>
-                    <p><span class="fa fa-quote-left"></span><i>tMcCawley’s sense of proportion and
-                            architecture was peerless</i><span
-                                class="fa fa-quote-right"></span>
-                        – Singapore Straits Times, 2022</p>
-                    <p><a href="/season/2223/Programme-221023-LeonMcCawley.pdf"
-                          target="_blank">Concert programme</a></p>
-                    <p><a href="https://leonmccawley.com/"
-                          target="_blank">More about Leon McCawley</a>
-                    </p>
-                    <p><a href="https://youtu.be/JQz_Y1f0JOg"
-                          target="_blank">Hear him play</a></p>
-                </div>
-            </li>
+                    <div class="col-sm-3">
+                        <img src="/image/2223/scottishclarinetchoir2-240.png"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Not voices, but massed clarinets, of all shapes, sizes and tones!</p>
+                        <p>Formed in 2019 by the ex-principal clarinet for RSNO and based in Dunblane,
+                            the Choir has a mission to bring together professionals, amateurs, teachers and
+                            students to celebrate
+                            the glories of the clarinet family of instruments.</p>
+                        <p>Their wide repertoire covers classics (Mozart), through to 20th century (Ravel,
+                            Rachmaninov),
+                            some local / contemporary names (Gordon Jacob, Paul Harvey, Carl Raven, Peter
+                            Warlock and Eric Hughes),
+                            including several world premieres.</p>
+                        <!--                                    <p><span class="fa fa-quote-left"></span><i>Quote about scottish clarinet-->
+                        <!--                                            choir</i><span-->
+                        <!--                                                class="fa fa-quote-right"></span>-->
+                        <!--                                        – xxx</p>-->
+                        <!--                        <a href="/season/2223/Programme-221204-ScottishClarinetChoir.pdf"-->
+                        <!--                           target="_blank">Concert programme</a>-->
+                        <p><a href="https://www.scottishclarinetchoir.co.uk/"
+                              target="_blank">More about Scottish Clarinet Choir</a>
+                        </p>
+                    </div>
+                </li>
 
+            </ul>
         </div>
     </div>
     <div class="row">
@@ -190,95 +182,6 @@ htmlHead($title);
                 <div class="row">
                     <div class="col-sm-12">
                         <ul class="list-group">
-
-                            <li class="clearfix list-group-item dms-list-item" id="ChoirDay">
-                                <div class="col-sm-3">
-                                    <h3>Open Choir Day</h3>
-                                    <p class="specialhilite italic">Free of charge - all welcome</p>
-                                    <h4 class="text-info">
-                                        Sunday, 20<span class="subscript">th</span> November 2022
-                                    </h4>
-                                    <p>2:00pm (ends 5pm) Gibson Hall, Dollar <a
-                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                            7DU</a></p>
-                                    <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                                    <div id="registeropenchoirday">
-                                        <a type="button" class="btn btn-info btn-blocks"
-                                           href="https://www.wegottickets.com/event/559347"
-                                           target="_blank">Register</a>
-                                        <p></p>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <img src="/image/2223/choir-cartoon-240.jpeg"/>
-                                </div>
-                                <div class="col-sm-6">
-                                    <p>There's no better way to feel good than to sing! Music in Dollar has organised a
-                                        day where you can do just that – with some expert tuition along the way.
-                                        Singing doesn't require an instrument – it's you! Everyone can do it, so why not
-                                        come along and have some fun.
-                                        No music reading skills are needed.</p>
-                                    <p>The format will be to learn a few songs (popular, folk, classical), with a vocal
-                                        workshop led by expert tutor Verity Johnson to help bring it all together. At
-                                        the end the 'choir' will perform the songs for anyone who wants to come along
-                                        and listen.</p>
-                                    <p>This is a community event, so all are welcome at no cost. Bring along friends and
-                                        family, anyone who is interested to either sing themselves or listen to
-                                        others.</p>
-                                    <p>Water will be provided. Bring along any other edibles to keep you going. A pencil
-                                        might also be handy for taking notes.</p>
-                                    <p>If you'd like to come along then registering using the button on the left will help us
-                                        to prepare for the right number of people.</p>
-                                    <p>Those who don't fancy singing can still enjoy the sounds of those that do. Come
-                                        along and listen - it's free!</p>
-                                    <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
-                                    <!--                           target="_blank">Concert programme</a>-->
-                                    <!--                        </p>-->
-                                </div>
-                            </li>
-
-                            <li class="clearfix list-group-item dms-list-item" id="ScottishClarinetChoir">
-                                <div class="col-sm-3">
-                                    <h3>Scottish Clarinet Choir</h3>
-                                    <h4 class="text-info">
-                                        Sunday, 4<span class="subscript">th</span> December 2022
-                                    </h4>
-                                    <p>3:00pm Gibson Hall, Dollar <a
-                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                            7DU</a></p>
-                                    <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                                    <!--                        <div id="buyticketannamairerad">-->
-                                    <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                                    <!--                               href="https://www.wegottickets.com/event/526659/"-->
-                                    <!--                               target="_blank">Buy tickets</a>-->
-                                    <!--                            <p></p>-->
-                                    <!--                        </div>-->
-                                </div>
-                                <div class="col-sm-3">
-                                    <img src="/image/2223/scottishclarinetchoir2-240.png"/>
-                                </div>
-                                <div class="col-sm-6">
-                                    <p>Not voices, but massed clarinets, of all shapes, sizes and tones!</p>
-                                    <p>Formed in 2019 by the ex-principal clarinet for RSNO and based in Dunblane,
-                                        the Choir has a mission to bring together professionals, amateurs, teachers and
-                                        students to celebrate
-                                        the glories of the clarinet family of instruments.</p>
-                                    <p>Their wide repertoire covers classics (Mozart), through to 20th century (Ravel,
-                                        Rachmaninov),
-                                        some local / contemporary names (Gordon Jacob, Paul Harvey, Carl Raven, Peter
-                                        Warlock and Eric Hughes),
-                                        including several world premieres.</p>
-                                    <p><span class="fa fa-quote-left"></span><i>Quote about scottish clarinet
-                                            choir</i><span
-                                                class="fa fa-quote-right"></span>
-                                        – xxx</p>
-                                    <!--                        <a href="/season/2122/Programme-221023-LeonMcCawley.pdf"-->
-                                    <!--                           target="_blank">Concert programme</a>-->
-                                    <p><a href="https://www.scottishclarinetchoir.co.uk/"
-                                          target="_blank">More about Scottish Clarinet Choir</a>
-                                    </p>
-                                </div>
-                            </li>
 
                             <li class="clearfix list-group-item dms-list-item" id="PianoDay">
                                 <div class="col-sm-3">
@@ -492,17 +395,110 @@ htmlHead($title);
                     </div>
                 </li>
 
+                <li class="clearfix list-group-item dms-list-item-prev" id="LeonMcCawley">
+                    <div class="col-sm-3">
+                        <h3>Leon McCawley</h3>
+                        <h4 class="text-info">
+                            Sunday, 23<span class="subscript">rd</span> October 2022
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                            <p>Pre-concert performance from 2:45pm</p>-->
+                        <div id="buyticketleonmccawley">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/559313/"
+                               target="_blank">Buy tickets</a>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2223/leonmccawley1-240.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Praised for his <i>unfailingly communicative playing</i>,
+                            British pianist Leon McCawley has been delighting audiences worldwide since
+                            winning first prize in the
+                            1993 International Beethoven Piano Competition in Vienna and second prize at the
+                            Leeds International
+                            Piano Competition the same year.</p>
+                        <p>His many concert performances and extensive discography have established him as a
+                            pianist of great integrity and variety,
+                            bringing freshness and vitality to Classical, Romantic and 20th century
+                            repertoire.
+                        </p>
+                        <p>Bach, Beethoven, Mozart & Schubert (the late great Sonata D960).</p>
+                        <p><span class="fa fa-quote-left"></span><i>One of today’s most impeccably musical
+                                pianists</i><span
+                                    class="fa fa-quote-right"></span>
+                            – International Piano, 2021</p>
+                        <p><span class="fa fa-quote-left"></span><i>tMcCawley’s sense of proportion and
+                                architecture was peerless</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Singapore Straits Times, 2022</p>
+                        <p><a href="/season/2223/Programme-221023-LeonMcCawley.pdf"
+                              target="_blank">Concert programme</a></p>
+                        <p><a href="https://leonmccawley.com/"
+                              target="_blank">More about Leon McCawley</a>
+                        </p>
+                        <p><a href="https://youtu.be/JQz_Y1f0JOg"
+                              target="_blank">Hear him play</a></p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="ChoirDay">
+                    <div class="col-sm-3">
+                        <h3>Open Choir Day</h3>
+                        <p class="specialhilite italic">Free of charge - all welcome</p>
+                        <h4 class="text-info">
+                            Sunday, 20<span class="subscript">th</span> November 2022
+                        </h4>
+                        <p>2:00pm (ends 5pm) Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                        <div id="registeropenchoirday">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/559347"
+                               target="_blank">Register</a>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2223/choir-cartoon-240.jpeg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>There's no better way to feel good than to sing! Music in Dollar has organised a
+                            day where you can do just that – with some expert tuition along the way.
+                            Singing doesn't require an instrument – it's you! Everyone can do it, so why not
+                            come along and have some fun.
+                            No music reading skills are needed.</p>
+                        <p>The format will be to learn a few songs (popular, folk, classical), with a vocal
+                            workshop led by expert tutor Verity Johnson to help bring it all together. At
+                            the end the 'choir' will perform the songs for anyone who wants to come along
+                            and listen.</p>
+                        <p>This is a community event, so all are welcome at no cost. Bring along friends and
+                            family, anyone who is interested to either sing themselves or listen to
+                            others.</p>
+                        <p>Water will be provided. Bring along any other edibles to keep you going. A pencil
+                            might also be handy for taking notes.</p>
+                        <p>If you'd like to come along then registering using the button on the left will help us
+                            to prepare for the right number of people.</p>
+                        <p>Those who don't fancy singing can still enjoy the sounds of those that do. Come
+                            along and listen - it's free!</p>
+                        <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
+                        <!--                           target="_blank">Concert programme</a>-->
+                        <!--                        </p>-->
+                    </div>
+                </li>
+
             </ul>
         </div>
     </div>
 
-    </ul>
-</div>
 </div>
 
 <?php require "footer.php"; ?>
-
-</div>
 
 </body>
 </html>
