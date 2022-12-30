@@ -28,10 +28,14 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-music"></span> Next concert is the Scottish Clarinet Choir. Clarinets come in all sizes and tones - a real pleasure in prospect.
+                        <p><span class="fa fa-music"></span> Next event is the Young Persons Piano Day.
+                            It's intended as a fun workshop for young pianists of all age and skill to play a piece or two and receive feedback and encouragement from two expert tutors.
+                            Last year was great fun for everyone who attended.
+                            If you know someone who might be interested, please contact Caroline or <a
+                                    href="contact.php">drop us a note here</a>.
                         </p>
-                        <p><span class="fa fa-heart"></span> Leon McCawley was outstanding, a top class performer.
-                            And the Open Choir Day was well attended and a great fun way to sing and learn more about how to do it well!
+                        <p><span class="fa fa-heart"></span> The Scottish Clarinet Choir's varied and memorable concert was enjoyed by the large audience.
+                            So many musical colours from a single instrument family!
                         </p>
                         <!--                        <p><span class="fa fa-calendar"></span> x.</p>-->
                         <!--                        <p><span class="fa fa-clock-o"></span>-->
@@ -90,7 +94,7 @@ htmlHead($title);
         </div>
     </div>
 
-    <div id="NextConcert" class="row">
+    <div id="BuyingTickets" class="row">
         <div class="col-sm-12">
             <h3 class="text-info">Buying Tickets</h3>
         </div>
@@ -105,14 +109,14 @@ htmlHead($title);
                             Cost is &#163;12, students in full-time education admitted free of charge.</p>
                         <p>Season Tickets provide entry to all concerts in the season. Cost is &#163;40. That's &#163;8
                             per concert, unbeatable value!</p>
-<!--                        <p>Choose how you'd like to pay: online using the button below, <a href="contact.php">contact-->
-<!--                                us</a> to-->
-<!--                            request bank transfer details, or buy at the door.</p>-->
-<!--                        <div id="buyseasonticket">-->
-<!--                            <a type="button" class="btn btn-info btn-blocks"-->
-<!--                               href="https://www.wegottickets.com/event/554785"-->
-<!--                               target="_blank">Buy season tickets</a>-->
-<!--                        </div>-->
+                        <!--                        <p>Choose how you'd like to pay: online using the button below, <a href="contact.php">contact-->
+                        <!--                                us</a> to-->
+                        <!--                            request bank transfer details, or buy at the door.</p>-->
+                        <!--                        <div id="buyseasonticket">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="https://www.wegottickets.com/event/554785"-->
+                        <!--                               target="_blank">Buy season tickets</a>-->
+                        <!--                        </div>-->
                     </div>
                 </li>
 
@@ -124,46 +128,42 @@ htmlHead($title);
             <h3 class="text-info">Next concert</h3>
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-next" id="ScottishClarinetChoir">
+                <li class="clearfix list-group-item dms-list-item-next" id="PianoDay">
                     <div class="col-sm-3">
-                        <h3>Scottish Clarinet Choir</h3>
+                        <h3>Piano Day</h3>
+                        <p class="specialhilite italic">Free of charge - all welcome</p>
                         <h4 class="text-info">
-                            Sunday, 4<span class="subscript">th</span> December 2022
+                            Sunday, 29<span class="subscript">th</span> January 2023
                         </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
+                        <p>2:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <p>Pre-concert performance from 2:45pm</p>
-                        <div id="buyticket-scottishclarinetchoir">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/564640/"
-                               target="_blank">Buy tickets</a>
-                            <p></p>
-                        </div>
+                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2223/scottishclarinetchoir2-240.png"/>
+                        <img src="/image/2122/piano-keyboardangle-240.jpg"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>Not voices, but massed clarinets, of all shapes, sizes and tones!</p>
-                        <p>Formed in 2019 by the ex-principal clarinet for RSNO and based in Dunblane,
-                            the Choir has a mission to bring together professionals, amateurs, teachers and
-                            students to celebrate
-                            the glories of the clarinet family of instruments.</p>
-                        <p>Their wide repertoire covers classics (Mozart), through to 20th century (Ravel,
-                            Rachmaninov),
-                            some local / contemporary names (Gordon Jacob, Paul Harvey, Carl Raven, Peter
-                            Warlock and Eric Hughes),
-                            including several world premieres.</p>
-                        <!--                                    <p><span class="fa fa-quote-left"></span><i>Quote about scottish clarinet-->
-                        <!--                                            choir</i><span-->
-                        <!--                                                class="fa fa-quote-right"></span>-->
-                        <!--                                        – xxx</p>-->
-                        <!--                        <a href="/season/2223/Programme-221204-ScottishClarinetChoir.pdf"-->
+                        <p>fter last year's success we're delighted to run the Music in Dollar Piano Day for
+                            young
+                            people again.</p>
+                        <p>Come and join Juliette Philogene and Christopher Baxter in the wonderful setting
+                            of Dollar
+                            Academy,
+                            for a day devoted to the joy of playing the piano.
+                            Throughout the day there will be opportunities to perform and learn.
+                            All abilities and ages from 5-19 are welcome – don't be shy.</p>
+                        <p>Fresh interpretations, famous and not so famous pieces, and free!
+                            No charge to enter as player or listener, so what better way to spend a Sunday
+                            afternoon.</p>
+                        <p>Refreshments will be provided.</p>
+                        <p>For those who are too old to play, why not come along and hear musicians of the
+                            future? It's
+                            free, and should be a
+                            varied and stimulating afternoon!</p>
+                        <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
                         <!--                           target="_blank">Concert programme</a>-->
-                        <p><a href="https://www.scottishclarinetchoir.co.uk/"
-                              target="_blank">More about Scottish Clarinet Choir</a>
-                        </p>
+                        <!--                        </p>-->
                     </div>
                 </li>
 
@@ -182,45 +182,6 @@ htmlHead($title);
                 <div class="row">
                     <div class="col-sm-12">
                         <ul class="list-group">
-
-                            <li class="clearfix list-group-item dms-list-item" id="PianoDay">
-                                <div class="col-sm-3">
-                                    <h3>Piano Day</h3>
-                                    <p class="specialhilite italic">Free of charge - all welcome</p>
-                                    <h4 class="text-info">
-                                        Sunday, 29<span class="subscript">th</span> January 2023
-                                    </h4>
-                                    <p>2:00pm Gibson Hall, Dollar <a
-                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                            7DU</a></p>
-                                    <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                                </div>
-                                <div class="col-sm-3">
-                                    <img src="/image/2122/piano-keyboardangle-240.jpg"/>
-                                </div>
-                                <div class="col-sm-6">
-                                    <p>fter last year's success we're delighted to run the Music in Dollar Piano Day for
-                                        young
-                                        people again.</p>
-                                    <p>Come and join Juliette Philogene and Christopher Baxter in the wonderful setting
-                                        of Dollar
-                                        Academy,
-                                        for a day devoted to the joy of playing the piano.
-                                        Throughout the day there will be opportunities to perform and learn.
-                                        All abilities and ages from 5-19 are welcome – don't be shy.</p>
-                                    <p>Fresh interpretations, famous and not so famous pieces, and free!
-                                        No charge to enter as player or listener, so what better way to spend a Sunday
-                                        afternoon.</p>
-                                    <p>Refreshments will be provided.</p>
-                                    <p>For those who are too old to play, why not come along and hear musicians of the
-                                        future? It's
-                                        free, and should be a
-                                        varied and stimulating afternoon!</p>
-                                    <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
-                                    <!--                           target="_blank">Concert programme</a>-->
-                                    <!--                        </p>-->
-                                </div>
-                            </li>
 
                             <li class="clearfix list-group-item dms-list-item" id="ADLibitum">
                                 <div class="col-sm-3">
@@ -489,6 +450,49 @@ htmlHead($title);
                         <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
                         <!--                           target="_blank">Concert programme</a>-->
                         <!--                        </p>-->
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="ScottishClarinetChoir">
+                    <div class="col-sm-3">
+                        <h3>Scottish Clarinet Choir</h3>
+                        <h4 class="text-info">
+                            Sunday, 4<span class="subscript">th</span> December 2022
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <p>Pre-concert performance from 2:45pm</p>
+                        <div id="buyticket-scottishclarinetchoir">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/564640/"
+                               target="_blank">Buy tickets</a>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2223/scottishclarinetchoir2-240.png"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Not voices, but massed clarinets, of all shapes, sizes and tones!</p>
+                        <p>Formed in 2019 by the ex-principal clarinet for RSNO and based in Dunblane,
+                            the Choir has a mission to bring together professionals, amateurs, teachers and
+                            students to celebrate
+                            the glories of the clarinet family of instruments.</p>
+                        <p>Their wide repertoire covers classics (Mozart), through to 20th century (Ravel,
+                            Rachmaninov),
+                            some local / contemporary names (Gordon Jacob, Paul Harvey, Carl Raven, Peter
+                            Warlock and Eric Hughes),
+                            including several world premieres.</p>
+                        <!--                                    <p><span class="fa fa-quote-left"></span><i>Quote about scottish clarinet-->
+                        <!--                                            choir</i><span-->
+                        <!--                                                class="fa fa-quote-right"></span>-->
+                        <!--                                        – xxx</p>-->
+                        <!--                        <a href="/season/2223/Programme-221204-ScottishClarinetChoir.pdf"-->
+                        <!--                           target="_blank">Concert programme</a>-->
+                        <p><a href="https://www.scottishclarinetchoir.co.uk/"
+                              target="_blank">More about Scottish Clarinet Choir</a>
+                        </p>
                     </div>
                 </li>
 
