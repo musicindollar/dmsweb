@@ -28,14 +28,9 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-music"></span> Next event is the Young Persons Piano Day.
-                            It's intended as a fun workshop for young pianists of all age and skill to play a piece or two and receive feedback and encouragement from two expert tutors.
-                            Last year was great fun for everyone who attended.
-                            If you know someone who might be interested, please contact Caroline or <a
-                                    href="contact.php">drop us a note here</a>.
+                        <p><span class="fa fa-music"></span> Our first concert of 2023 is ADLibitum, a violin and accordion duo. They really generate some energy, and weave a lovely sound tapestry.
                         </p>
-                        <p><span class="fa fa-heart"></span> The Scottish Clarinet Choir's varied and memorable concert was enjoyed by the large audience.
-                            So many musical colours from a single instrument family!
+                        <p><span class="fa fa-heart"></span> The young persons Piano Day was a great success, with 20 young pianists participating in two parallel workshops, with a final performance to finish.
                         </p>
                         <!--                        <p><span class="fa fa-calendar"></span> x.</p>-->
                         <!--                        <p><span class="fa fa-clock-o"></span>-->
@@ -128,44 +123,51 @@ htmlHead($title);
             <h3 class="text-info">Next concert</h3>
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-next" id="PianoDay">
-                    <div class="col-sm-3">
-                        <h3>Piano Day</h3>
-                        <p class="specialhilite italic">Free of charge - all welcome</p>
-                        <h4 class="text-info">
-                            Sunday, 29<span class="subscript">th</span> January 2023
-                        </h4>
-                        <p>2:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2122/piano-keyboardangle-240.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>fter last year's success we're delighted to run the Music in Dollar Piano Day for
-                            young
-                            people again.</p>
-                        <p>Come and join Juliette Philogene and Christopher Baxter in the wonderful setting
-                            of Dollar
-                            Academy,
-                            for a day devoted to the joy of playing the piano.
-                            Throughout the day there will be opportunities to perform and learn.
-                            All abilities and ages from 5-19 are welcome – don't be shy.</p>
-                        <p>Fresh interpretations, famous and not so famous pieces, and free!
-                            No charge to enter as player or listener, so what better way to spend a Sunday
-                            afternoon.</p>
-                        <p>Refreshments will be provided.</p>
-                        <p>For those who are too old to play, why not come along and hear musicians of the
-                            future? It's
-                            free, and should be a
-                            varied and stimulating afternoon!</p>
-                        <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
-                        <!--                           target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
-                    </div>
-                </li>
+                  <li class="clearfix list-group-item dms-list-item-next" id="ADLibitum">
+                      <div class="col-sm-3">
+                          <h3>ADLibitum</h3>
+                          <h4 class="text-info">
+                              Sunday, 19<span class="subscript">th</span> February 2023
+                          </h4>
+                          <p>3:00pm Gibson Hall, Dollar <a
+                                      href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                  7DU</a></p>
+                          <p>Pre-concert performance from 7:15pm</p>
+                          <div id="buyticketadlibitum">
+                          <a type="button" class="btn btn-info btn-blocks"
+                          href="https://www.wegottickets.com/event/572405/"
+                          target="_blank">Buy tickets</a>
+                          <p></p>
+                          </div>
+                      </div>
+                      <div class="col-sm-3">
+                          <img src="/image/2223/adlibitum1-240.jpeg"/>
+                      </div>
+                      <div class="col-sm-6">
+                          <p>ADLibitum weave a dazzling and beatiful sound tapestry on violin and
+                              accordion.</p>
+                          <p>Andrea and Djordje Gajic are based in Scotland (Andrea is professor at RCS
+                              Glasgow) and tour
+                              widely.
+                              Exploring many styles (eg Brahms, Massenet, Albeniz, Arkhipovsky),
+                              their performances entrance the audience with precision, passion and
+                              intensity.</p>
+                          <p><span class="fa fa-quote-left"></span><i>Two astonishing virtuosi whose playing
+                                  together was
+                                  masterly</i><span
+                                      class="fa fa-quote-right"></span>
+                              – Skye Chamber Music</p>
+                          <p><span class="fa fa-quote-left"></span><i>full of passion, brilliance and supreme
+                                  intelligence</i><span
+                                      class="fa fa-quote-right"></span>
+                              – Cowal Music Club</p>
+                          <!--                        <a href="/season/2122/Programme-230219-ADLibitum.pdf"-->
+                          <!--                           target="_blank">Concert programme</a>-->
+                          <p><a href="https://www.classicalmusiciansscotland.com/artists/adlibitum/"
+                                target="_blank">More about ADLibitum</a>
+                          </p>
+                      </div>
+                  </li>
 
             </ul>
         </div>
@@ -182,52 +184,6 @@ htmlHead($title);
                 <div class="row">
                     <div class="col-sm-12">
                         <ul class="list-group">
-
-                            <li class="clearfix list-group-item dms-list-item" id="ADLibitum">
-                                <div class="col-sm-3">
-                                    <h3>ADLibitum</h3>
-                                    <h4 class="text-info">
-                                        Sunday, 19<span class="subscript">th</span> February 2023
-                                    </h4>
-                                    <p>3:00pm Gibson Hall, Dollar <a
-                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                            7DU</a></p>
-                                    <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                                    <!--                        <div id="buyticketannamairerad">-->
-                                    <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                                    <!--                               href="https://www.wegottickets.com/event/526659/"-->
-                                    <!--                               target="_blank">Buy tickets</a>-->
-                                    <!--                            <p></p>-->
-                                    <!--                        </div>-->
-                                </div>
-                                <div class="col-sm-3">
-                                    <img src="/image/2223/adlibitum1-240.jpeg"/>
-                                </div>
-                                <div class="col-sm-6">
-                                    <p>ADLibitum weave a dazzling and beatiful sound tapestry on violin and
-                                        accordion.</p>
-                                    <p>Andrea and Djordje Gajic are based in Scotland (Andrea is professor at RCS
-                                        Glasgow) and tour
-                                        widely.
-                                        Exploring many styles (eg Brahms, Massenet, Albeniz, Arkhipovsky),
-                                        their performances entrance the audience with precision, passion and
-                                        intensity.</p>
-                                    <p><span class="fa fa-quote-left"></span><i>Two astonishing virtuosi whose playing
-                                            together was
-                                            masterly</i><span
-                                                class="fa fa-quote-right"></span>
-                                        – Skye Chamber Music</p>
-                                    <p><span class="fa fa-quote-left"></span><i>full of passion, brilliance and supreme
-                                            intelligence</i><span
-                                                class="fa fa-quote-right"></span>
-                                        – Cowal Music Club</p>
-                                    <!--                        <a href="/season/2122/Programme-230219-ADLibitum.pdf"-->
-                                    <!--                           target="_blank">Concert programme</a>-->
-                                    <p><a href="https://www.classicalmusiciansscotland.com/artists/adlibitum/"
-                                          target="_blank">More about ADLibitum</a>
-                                    </p>
-                                </div>
-                            </li>
 
                             <li class="clearfix list-group-item dms-list-item" id="TheAllSorts">
                                 <div class="col-sm-3">
@@ -493,6 +449,45 @@ htmlHead($title);
                         <p><a href="https://www.scottishclarinetchoir.co.uk/"
                               target="_blank">More about Scottish Clarinet Choir</a>
                         </p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="PianoDay">
+                    <div class="col-sm-3">
+                        <h3>Piano Day</h3>
+                        <p class="specialhilite italic">Free of charge - all welcome</p>
+                        <h4 class="text-info">
+                            Sunday, 29<span class="subscript">th</span> January 2023
+                        </h4>
+                        <p>2:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2122/piano-keyboardangle-240.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>After last year's success we're delighted to run the Music in Dollar Piano Day for
+                            young
+                            people again.</p>
+                        <p>Come and join Juliette Philogene and Christopher Baxter in the wonderful setting
+                            of Dollar
+                            Academy,
+                            for a day devoted to the joy of playing the piano.
+                            Throughout the day there will be opportunities to perform and learn.
+                            All abilities and ages from 5-19 are welcome – don't be shy.</p>
+                        <p>Fresh interpretations, famous and not so famous pieces, and free!
+                            No charge to enter as player or listener, so what better way to spend a Sunday
+                            afternoon.</p>
+                        <p>Refreshments will be provided.</p>
+                        <p>For those who are too old to play, why not come along and hear musicians of the
+                            future? It's
+                            free, and should be a
+                            varied and stimulating afternoon!</p>
+                        <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
+                        <!--                           target="_blank">Concert programme</a>-->
+                        <!--                        </p>-->
                     </div>
                 </li>
 
