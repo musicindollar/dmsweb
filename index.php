@@ -161,8 +161,7 @@ htmlHead($title);
                                   intelligence</i><span
                                       class="fa fa-quote-right"></span>
                               – Cowal Music Club</p>
-                          <!--                        <a href="/season/2122/Programme-230219-ADLibitum.pdf"-->
-                          <!--                           target="_blank">Concert programme</a>-->
+                          <p><a href="/season/2223/Programme-230219-AdLibitum.pdf" target="_blank">Concert programme</a></p>
                           <p><a href="https://www.classicalmusiciansscotland.com/artists/adlibitum/"
                                 target="_blank">More about ADLibitum</a>
                           </p>
