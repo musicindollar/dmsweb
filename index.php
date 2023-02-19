@@ -193,13 +193,13 @@ htmlHead($title);
                                     <p>3:00pm Gibson Hall, Dollar <a
                                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                             7DU</a></p>
-                                    <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                                    <!--                        <div id="buyticketannamairerad">-->
-                                    <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                                    <!--                               href="https://www.wegottickets.com/event/526659/"-->
-                                    <!--                               target="_blank">Buy tickets</a>-->
-                                    <!--                            <p></p>-->
-                                    <!--                        </div>-->
+                                    <p>Pre-concert performance from 2:45pm</p>
+                                    <div id="buyticketallsorts">
+                                    <p>
+                                      <a type="button" class="btn btn-info btn-blocks" href="https://www.wegottickets.com/event/573216/" target="_blank">Buy tickets</a>
+                                    </p>
+                                    <p></p>
+                                    </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <img src="/image/2223/allsorts1-240.jpeg"/>
@@ -258,11 +258,11 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <p>Pre-concert performance from 7:15pm</p>
-                        <div id="buyticketmartinsimpson">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/554788"
-                               target="_blank">Buy tickets</a>
-                        </div>
+<!--                        <div id="buyticketmartinsimpson">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/554788"-->
+<!--                               target="_blank">Buy tickets</a>-->
+<!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2223/martinsimpson1-240.jpg"/>
@@ -321,12 +321,12 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                            <p>Pre-concert performance from 2:45pm</p>-->
-                        <div id="buyticketleonmccawley">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/559313/"
-                               target="_blank">Buy tickets</a>
-                            <p></p>
-                        </div>
+<!--                        <div id="buyticketleonmccawley">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/559313/"-->
+<!--                               target="_blank">Buy tickets</a>-->
+<!--                            <p></p>-->
+<!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2223/leonmccawley1-240.jpg"/>
@@ -373,12 +373,12 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <div id="registeropenchoirday">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/559347"
-                               target="_blank">Register</a>
-                            <p></p>
-                        </div>
+<!--                        <div id="registeropenchoirday">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/559347"-->
+<!--                               target="_blank">Register</a>-->
+<!--                            <p></p>-->
+<!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2223/choir-cartoon-240.jpeg"/>
@@ -418,12 +418,12 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <p>Pre-concert performance from 2:45pm</p>
-                        <div id="buyticket-scottishclarinetchoir">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/564640/"
-                               target="_blank">Buy tickets</a>
-                            <p></p>
-                        </div>
+<!--                        <div id="buyticket-scottishclarinetchoir">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/564640/"-->
+<!--                               target="_blank">Buy tickets</a>-->
+<!--                            <p></p>-->
+<!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2223/scottishclarinetchoir2-240.png"/>
