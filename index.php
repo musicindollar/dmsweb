@@ -32,9 +32,10 @@ htmlHead($title);
                         </p>
                         <p><span class="fa fa-heart"></span> ADLibitum were fresh, evocative and entrancing. Virtuoso playing with passion and dollops of style.
                         </p>
-                        <p><span class="fa fa-calendar"></span> Renowned violinist <a href="https://en.wikipedia.org/wiki/Rachel_Podger" target="_blank">Rachel Podger</a> <a href="https://www.perththeatreandconcerthall.com/whats-on/rachel-podger-218002" target="_blank">will perform in Perth</a> on Tuesday 28th Feb, 7:30pm, in the beautiful St John's Kirk.
-                            Music in Dollar members get in for reduced rates of &#163;10
-                        </p>
+<!--                        <p><span class="fa fa-calendar"></span> Renowned violinist <a href="https://en.wikipedia.org/wiki/Rachel_Podger" target="_blank">Rachel Podger</a> <a-->
+<!--                                    href="https://www.perththeatreandconcerthall.com/whats-on/rachel-podger-218002" target="_blank">will perform in Perth</a> on Tuesday 28th Feb, 7:30pm, in the beautiful St John's Kirk.-->
+<!--                            Music in Dollar members get in for reduced rates of &#163;10-->
+<!--                        </p>-->
                         <!--                        <p><span class="fa fa-clock-o"></span>-->
                         <!--                            Note that the new date for the <a-->
                         <!--                                    href="#SiroccoWinds">Sirocco Winds</a> concert is Saturday 7th May (<a-->
@@ -162,8 +163,7 @@ htmlHead($title);
                         <p><span class="fa fa-quote-left"></span><i>The All Sorts were amazing</i><span
                                     class="fa fa-quote-right"></span>
                             – Alison Gregson, Greyfriars Kirk</p>
-                        <!--                        <a href="/season/2122/Programme-230219-ADLibitum.pdf"-->
-                        <!--                           target="_blank">Concert programme</a>-->
+                        <p><a href="/season/2223/Programme-230319-AllSorts.pdf" target="_blank">Concert programme</a></p>
                         <p><a href="https://www.theallsorts.com/"
                               target="_blank">More about The All Sorts</a> and <a
                                     href="https://www.classicalmusiciansscotland.com/artists/the-all-sorts/">even
@@ -448,7 +448,7 @@ htmlHead($title);
                     </div>
                 </li>
 
-                <li class="clearfix list-group-item dms-list-item" id="ADLibitum">
+                <li class="clearfix list-group-item dms-list-item-prev" id="ADLibitum">
                     <div class="col-sm-3">
                         <h3>ADLibitum</h3>
                         <h4 class="text-info">
