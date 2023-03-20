@@ -28,14 +28,17 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-music"></span> Last in this season is The All Sorts. Scottish Opera letting its hair down, lots of fun in prospect!
+                        <p><span class="fa fa-music"></span> More beautiful a-capella harmonies coming up in Milnathort.
+                            Scottish group <a href="https://www.omniumchoir.com" target="_blank">Omnium</a> are singing some of the original 'from the chapel' polyphonic music in
+                            <a href="https://www.omniumchoir.com/product/9661083/rebirth-a-european-renaissance-orwell-church-milnathort-concession" target="_blank">Orwell Church, Milnathort,
+                                on 1st April at 7pm</a>. Will be a sumptuous treat!
                         </p>
-                        <p><span class="fa fa-heart"></span> ADLibitum were fresh, evocative and entrancing. Virtuoso playing with passion and dollops of style.
+                        <p><span class="fa fa-cc-discover"></span> We're busy preparing for next season - watch this space for announcements!
                         </p>
-<!--                        <p><span class="fa fa-calendar"></span> Renowned violinist <a href="https://en.wikipedia.org/wiki/Rachel_Podger" target="_blank">Rachel Podger</a> <a-->
-<!--                                    href="https://www.perththeatreandconcerthall.com/whats-on/rachel-podger-218002" target="_blank">will perform in Perth</a> on Tuesday 28th Feb, 7:30pm, in the beautiful St John's Kirk.-->
-<!--                            Music in Dollar members get in for reduced rates of &#163;10-->
-<!--                        </p>-->
+                        <!--                        <p><span class="fa fa-calendar"></span> Renowned violinist <a href="https://en.wikipedia.org/wiki/Rachel_Podger" target="_blank">Rachel Podger</a> <a-->
+                        <!--                                    href="https://www.perththeatreandconcerthall.com/whats-on/rachel-podger-218002" target="_blank">will perform in Perth</a> on Tuesday 28th Feb, 7:30pm, in the beautiful St John's Kirk.-->
+                        <!--                            Music in Dollar members get in for reduced rates of &#163;10-->
+                        <!--                        </p>-->
                         <!--                        <p><span class="fa fa-clock-o"></span>-->
                         <!--                            Note that the new date for the <a-->
                         <!--                                    href="#SiroccoWinds">Sirocco Winds</a> concert is Saturday 7th May (<a-->
@@ -78,7 +81,7 @@ htmlHead($title);
 
     <div id="WhatsOn" class="row">
         <div class="col-sm-6">
-            <h2>2021-22 Season</h2>
+            <h2>2022-23 Season</h2>
         </div>
         <div class="col-sm-6 margintop10">
             <div class="panel panel-default">
@@ -123,52 +126,24 @@ htmlHead($title);
     </div>
     <div id="NextConcert" class="row">
         <div class="col-sm-12">
-            <h3 class="text-info">Next concert</h3>
+            <h3 class="text-info">Next event</h3>
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-next" id="TheAllSorts">
+                <li class="clearfix list-group-item dms-list-item-next" id="OpenEvening">
                     <div class="col-sm-3">
-                        <h3>The All Sorts</h3>
+                        <h3>Open Evening</h3>
                         <h4 class="text-info">
-                            Sunday, 19<span class="subscript">th</span> March 2023
+                            TBA <!-- <span class="subscript">th</span> March 2023 -->
                         </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <p>Pre-concert performance from 2:45pm</p>
-                        <div id="buyticketallsorts">
-                            <p>
-                                <a type="button" class="btn btn-info btn-blocks" href="https://www.wegottickets.com/event/573216/" target="_blank">Buy tickets</a>
-                            </p>
-                            <p></p>
-                        </div>
+                        <!--                        <p>3:00pm Gibson Hall, Dollar <a-->
+                        <!--                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14-->
+                        <!--                                7DU</a></p>-->
                     </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2223/allsorts1-240.jpeg"/>
-                    </div>
+<!--                    <div class="col-sm-3">-->
+<!--                        <img src="/image/2223/allsorts1-240.jpeg"/>-->
+<!--                    </div>-->
                     <div class="col-sm-6">
-                        <p>The All Sorts are an all-singing, all-female a-capella singing group,
-                            drawn from Scottish Opera performers who simply wanted 'an excuse to hang out
-                            more'.</p>
-                        <p>Hailing from the UK and North America, they range from opera to Motown and lieder
-                            to Disney,
-                            combining classic barbershop and classical arrangements. They began their
-                            closely
-                            harmonising adventure in late 2017.</p>
-                        <p><span class="fa fa-quote-left"></span><i>stylish and talented group coupling
-                                their wonderful
-                                voices with a flair for entertainment</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Margaret Isaacs, Cove Burgh Hall</p>
-                        <p><span class="fa fa-quote-left"></span><i>The All Sorts were amazing</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Alison Gregson, Greyfriars Kirk</p>
-                        <p><a href="/season/2223/Programme-230319-AllSorts.pdf" target="_blank">Concert programme</a></p>
-                        <p><a href="https://www.theallsorts.com/"
-                              target="_blank">More about The All Sorts</a> and <a
-                                    href="https://www.classicalmusiciansscotland.com/artists/the-all-sorts/">even
-                                more</a>
-                        </p>
+                        <p>We hope to run an informal Open Evening, with a musical performance and short AGM. What this space for details.</p>
                     </div>
                 </li>
 
@@ -496,6 +471,52 @@ htmlHead($title);
             </ul>
         </div>
     </div>
+
+    <li class="clearfix list-group-item dms-list-item-prev" id="TheAllSorts">
+        <div class="col-sm-3">
+            <h3>The All Sorts</h3>
+            <h4 class="text-info">
+                Sunday, 19<span class="subscript">th</span> March 2023
+            </h4>
+            <p>3:00pm Gibson Hall, Dollar <a
+                        href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                    7DU</a></p>
+            <p>Pre-concert performance from 2:45pm</p>
+<!--            <div id="buyticketallsorts">-->
+<!--                <p>-->
+<!--                    <a type="button" class="btn btn-info btn-blocks" href="https://www.wegottickets.com/event/573216/" target="_blank">Buy tickets</a>-->
+<!--                </p>-->
+<!--                <p></p>-->
+<!--            </div>-->
+        </div>
+        <div class="col-sm-3">
+            <img src="/image/2223/allsorts1-240.jpeg"/>
+        </div>
+        <div class="col-sm-6">
+            <p>The All Sorts are an all-singing, all-female a-capella singing group,
+                drawn from Scottish Opera performers who simply wanted 'an excuse to hang out
+                more'.</p>
+            <p>Hailing from the UK and North America, they range from opera to Motown and lieder
+                to Disney,
+                combining classic barbershop and classical arrangements. They began their
+                closely
+                harmonising adventure in late 2017.</p>
+            <p><span class="fa fa-quote-left"></span><i>stylish and talented group coupling
+                    their wonderful
+                    voices with a flair for entertainment</i><span
+                        class="fa fa-quote-right"></span>
+                – Margaret Isaacs, Cove Burgh Hall</p>
+            <p><span class="fa fa-quote-left"></span><i>The All Sorts were amazing</i><span
+                        class="fa fa-quote-right"></span>
+                – Alison Gregson, Greyfriars Kirk</p>
+            <p><a href="/season/2223/Programme-230319-AllSorts.pdf" target="_blank">Concert programme</a></p>
+            <p><a href="https://www.theallsorts.com/"
+                  target="_blank">More about The All Sorts</a> and <a
+                        href="https://www.classicalmusiciansscotland.com/artists/the-all-sorts/">even
+                    more</a>
+            </p>
+        </div>
+    </li>
 
 </div>
 
