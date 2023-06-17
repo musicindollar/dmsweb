@@ -28,13 +28,9 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-music"></span> More beautiful a-capella harmonies coming up in Milnathort.
-                            Scottish group <a href="https://www.omniumchoir.com" target="_blank">Omnium</a> are singing some of the original 'from the chapel' polyphonic music in
-                            <a href="https://www.omniumchoir.com/product/9661083/rebirth-a-european-renaissance-orwell-church-milnathort-concession" target="_blank">Orwell Church, Milnathort,
-                                on 1st April at 7pm</a>. Will be a sumptuous treat!
-                        </p>
-                        <p><span class="fa fa-cc-discover"></span> We're busy preparing for next season - watch this space for announcements!
-                        </p>
+                        <p><span class="fa fa-music"></span> Next event is the long-awaited Open Evening! Details below.</p>
+<!--                        <p><span class="fa fa-cc-discover"></span> We're busy preparing for next season - watch this space for announcements!-->
+<!--                        </p>-->
                         <!--                        <p><span class="fa fa-calendar"></span> Renowned violinist <a href="https://en.wikipedia.org/wiki/Rachel_Podger" target="_blank">Rachel Podger</a> <a-->
                         <!--                                    href="https://www.perththeatreandconcerthall.com/whats-on/rachel-podger-218002" target="_blank">will perform in Perth</a> on Tuesday 28th Feb, 7:30pm, in the beautiful St John's Kirk.-->
                         <!--                            Music in Dollar members get in for reduced rates of &#163;10-->
@@ -133,17 +129,21 @@ htmlHead($title);
                     <div class="col-sm-3">
                         <h3>Open Evening</h3>
                         <h4 class="text-info">
-                            TBA <!-- <span class="subscript">th</span> March 2023 -->
+                            Thursday, 22<span class="subscript">nd</span> June 2023
                         </h4>
-                        <!--                        <p>3:00pm Gibson Hall, Dollar <a-->
-                        <!--                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14-->
-                        <!--                                7DU</a></p>-->
+                        <p>Time 7:30pm <b>The Forager</b>, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/The+Forager/@56.1627212,-3.6750539,17z/data=!4m14!1m7!3m6!1s0x48862b0a7628354d:0x89ec5d521e6a83e4!2sThe+Forager!8m2!3d56.1627212!4d-3.6724736!16s%2Fg%2F11sbvbmtqg!3m5!1s0x48862b0a7628354d:0x89ec5d521e6a83e4!8m2!3d56.1627212!4d-3.6724736!16s%2Fg%2F11sbvbmtqg?entry=ttu">FK14
+                                7DE</a></p>
                     </div>
-<!--                    <div class="col-sm-3">-->
-<!--                        <img src="/image/2223/allsorts1-240.jpeg"/>-->
-<!--                    </div>-->
+                    <div class="col-sm-3">
+                        <img src="/image/2223/guitar1x.png"/>
+                    </div>
                     <div class="col-sm-6">
-                        <p>We hope to run an informal Open Evening, with a musical performance and short AGM. What this space for details.</p>
+                        <p>We're delighted to run an Open Evening again, with a musical performance, information on next season and short AGM.</p>
+                        <p>Solo guitarist Stuart Williamson will play for us.</p>
+                        <p>Free drink on arrival, with snacks available downstairs at the bar. Venue is upstairs at The Forager on Bridge Street, Dollar. The format is relaxed and informal. Come along and chat with other members, or just the refreshments and music.</p>
+                        <p>As usual there will be a short (15 minute) AGM.</p>
+                        <p>Members free, non-members £4.</p>
                     </div>
                 </li>
 
