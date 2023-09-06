@@ -333,7 +333,7 @@ htmlHead($title);
                                     <h3>Piano Day</h3>
                                     <p class="specialhilite italic">Free of charge - all welcome</p>
                                     <h4 class="text-info">
-                                        Sunday, 28<span class="subscript">th</span> January 2023
+                                        Sunday, 28<span class="subscript">th</span> January 2024
                                     </h4>
                                     <p>2:00pm Gibson Hall, Dollar <a
                                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
@@ -345,11 +345,9 @@ htmlHead($title);
                                 </div>
                                 <div class="col-sm-6">
                                     <p>After last year's success we're delighted to run the Music in Dollar Piano Day for
-                                        young people again. Last year we ran an expanded format with two expert tutors.
-                                        That continues, and we also plan to run a second Piano Day later in the year.</p>
-                                    <p>Come and join Juliette Philogene and Christopher Baxter in the wonderful setting
-                                        of Dollar Academy, for a day devoted to the joy of playing the piano.
-                                        Throughout the day there will be opportunities to perform and learn.
+                                        young people again. This time the focus is on young people performing a favourite
+                                        piece in their own way.</p>
+                                    <p>Mavy Williamson will provide expert tuition and guidance as the pianists rehearse and perform their chosen pieces.
                                         All abilities and ages from 5-19 are welcome – don't be shy.</p>
                                     <p>Fresh interpretations, famous and not so famous pieces, and free!
                                         No charge to enter as player or listener, so what better way to spend a Sunday
@@ -357,6 +355,7 @@ htmlHead($title);
                                     <p>Refreshments will be provided.</p>
                                     <p>For those who are too old to play, why not come along and hear musicians of the
                                         future? It's free, and should be a varied and stimulating afternoon!</p>
+                                    <p>We also plan to run a second Piano Day later in the year.</p>
                                     <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
                                     <!--                           target="_blank">Concert programme</a>-->
                                     <!--                        </p>-->
