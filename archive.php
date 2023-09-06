@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <?php
 require "header.php";
 $title = "Previous Seasons";
@@ -23,6 +23,8 @@ htmlHead($title);
             <h4>Select a season:</h4>
             <ul class="list-group">
                 <li class="row list-group-item"><a
+                            href="/season/2223/season2223.php">2022-23</a></li>
+                <li class="row list-group-item"><a
                             href="/season/2122/season2122.php">2021-22</a></li>
                 <li class="row list-group-item"><a
                             href="/season/1920/season1920.php">2019-20</a></li>
@@ -45,8 +47,6 @@ htmlHead($title);
     </div>
 
     <?php require "footer.php"; ?>
-</div>
-
 </div>
 
 </body>

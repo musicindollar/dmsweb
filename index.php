@@ -28,9 +28,11 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-music"></span> Next event is the long-awaited Open Evening! Details below.</p>
-<!--                        <p><span class="fa fa-cc-discover"></span> We're busy preparing for next season - watch this space for announcements!-->
-<!--                        </p>-->
+                        <p><span class="fa fa-coffee"></span> Next event is our usual season opener Coffee Morning, on Saturday September 16th 10:00 - 12:00.
+                            Come along for great coffee, chat and a preview of this season's performers.
+                        </p>
+                        <!--                        <p><span class="fa fa-cc-discover"></span> We're busy preparing for next season - watch this space for announcements!-->
+                        <!--                        </p>-->
                         <!--                        <p><span class="fa fa-calendar"></span> Renowned violinist <a href="https://en.wikipedia.org/wiki/Rachel_Podger" target="_blank">Rachel Podger</a> <a-->
                         <!--                                    href="https://www.perththeatreandconcerthall.com/whats-on/rachel-podger-218002" target="_blank">will perform in Perth</a> on Tuesday 28th Feb, 7:30pm, in the beautiful St John's Kirk.-->
                         <!--                            Music in Dollar members get in for reduced rates of &#163;10-->
@@ -77,14 +79,14 @@ htmlHead($title);
 
     <div id="WhatsOn" class="row">
         <div class="col-sm-6">
-            <h2>2022-23 Season</h2>
+            <h2>2023-24 Season</h2>
         </div>
         <div class="col-sm-6 margintop10">
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <a href="season/2223/MiD-Leaflet-2022-23.pdf" target="_blank">View</a>
+                    <a href="season/2324/MiD-Leaflet-2023-24.pdf" target="_blank">View</a>
                     the full programme for the current season [PDF 0.7MB] <a
-                            href="season/2223/MiD-Leaflet-2022-23.pdf" target="_blank"><img
+                            href="season/2324/MiD-Leaflet-2023-24.pdf" target="_blank"><img
                                 src="image/pdf.jpeg"/></a>
                 </div>
             </div>
@@ -106,14 +108,14 @@ htmlHead($title);
                             Cost is &#163;12, students in full-time education admitted free of charge.</p>
                         <p>Season Tickets provide entry to all concerts in the season. Cost is &#163;40. That's &#163;8
                             per concert, unbeatable value!</p>
-                        <!--                        <p>Choose how you'd like to pay: online using the button below, <a href="contact.php">contact-->
-                        <!--                                us</a> to-->
-                        <!--                            request bank transfer details, or buy at the door.</p>-->
-                        <!--                        <div id="buyseasonticket">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/554785"-->
-                        <!--                               target="_blank">Buy season tickets</a>-->
-                        <!--                        </div>-->
+                        <p>Choose how you'd like to pay: online using the button below, <a href="contact.php">contact
+                                us</a> to
+                            request bank transfer details, or buy at the door.</p>
+                        <div id="buyseasonticket">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/593008"
+                               target="_blank">Buy season tickets</a>
+                        </div>
                     </div>
                 </li>
 
@@ -125,346 +127,55 @@ htmlHead($title);
             <h3 class="text-info">Next event</h3>
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-next" id="OpenEvening">
+
+                <li class="clearfix list-group-item dms-list-item-next" id="RoseRoom">
                     <div class="col-sm-3">
-                        <h3>Open Evening</h3>
+                        <h3>Rose Room</h3>
                         <h4 class="text-info">
-                            Thursday, 22<span class="subscript">nd</span> June 2023
-                        </h4>
-                        <p>Time 7:30pm <b>The Forager</b>, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/The+Forager/@56.1627212,-3.6750539,17z/data=!4m14!1m7!3m6!1s0x48862b0a7628354d:0x89ec5d521e6a83e4!2sThe+Forager!8m2!3d56.1627212!4d-3.6724736!16s%2Fg%2F11sbvbmtqg!3m5!1s0x48862b0a7628354d:0x89ec5d521e6a83e4!8m2!3d56.1627212!4d-3.6724736!16s%2Fg%2F11sbvbmtqg?entry=ttu">FK14
-                                7DE</a></p>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2223/guitar1x.png"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>We're delighted to run an Open Evening again, with a musical performance, information on next season and short AGM.</p>
-                        <p>Solo guitarist Stuart Williamson will play for us.</p>
-                        <p>Free drink on arrival, with snacks available downstairs at the bar. Venue is upstairs at The Forager on Bridge Street, Dollar. The format is relaxed and informal. Come along and chat with other members, or just the refreshments and music.</p>
-                        <p>As usual there will be a short (15 minute) AGM.</p>
-                        <p>Members free, non-members £4.</p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <!--    <div class="row">-->
-    <!--        <div class="col-sm-12">-->
-    <!--            <ul class="list-group">-->
-    <!---->
-    <!--                <div class="row">-->
-    <!--                    <div class="col-sm-12">-->
-    <!--                        <h3 class="text-info">Still to come</h3>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!--                <div class="row">-->
-    <!--                    <div class="col-sm-12">-->
-    <!--                        <ul class="list-group">-->
-    <!---->
-    <!--                        </ul>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!---->
-    <!--            </ul>-->
-    <!--        </div>-->
-    <!--    </div>-->
-
-    <div id="PrevConcert" class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Previous concerts</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item-prev" id="MartinSimpson">
-                    <div class="col-sm-3">
-                        <h3>Martin Simpson</h3>
-                        <h4 class="text-info">
-                            Saturday, 24<span class="subscript">th</span> September 2022
+                            Saturday, 21<span class="subscript">st</span> October 2023
                         </h4>
                         <p>Time 7:30pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <p>Pre-concert performance from 7:15pm</p>
-                        <!--                        <div id="buyticketmartinsimpson">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/554788"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
+                        <div id="buyticketroseroom">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/593010/"
+                               target="_blank">Buy tickets</a>
+                        </div>
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2223/martinsimpson1-240.jpg"/>
+                        <img src="/image/2324/Rose-Room-095-240.jpg"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>Martin Simpson is one of England’s most revered folk performers.
-                            The remarkable intimate solo performances that Martin gives go from strength to strength -
-                            every
-                            gig is a masterclass.
-                            He travels the length and breadth of the UK and beyond, giving rapt audiences passion,
-                            sorrow,
-                            love, beauty, tragedy and majesty through his playing.
+                        <p>According to Jazz Scotland, Rose Room are “the hottest ticket in Scotland right
+                            now”, playing Swing jazz in the gypsy style, following in the footsteps of the great
+                            Django Reinhardt and Stephane Grappelli.
                         </p>
                         <p>
-                            Widely acknowledged as one of the finest acoustic and slide guitar players in the world,
-                            Martin's interpretations of traditional songs are masterpieces of storytelling.
-                            His solo shows are intense, eclectic, spellbinding and deeply moving.
+                            Led by virtuoso fiddle player and vocalist Seonaid Aitken (who also plays with
+                            Scottish Opera Orchestra), the band features a star line-up comprising
+                            Scotland’s No.1 guitar maker Jimmy Moon of 'Moon Guitars’ (double
+                            bass), Celtic Connections’ award-winners ‘Swing Guitars’ Tam Gallagher
+                            and Tom Watson on rhythm and solo guitars respectively.
                         </p>
-                        <p>
-                            Martin has been nominated an astounding 31 times in the 16 years of the BBC Radio 2 Folk
-                            Awards
-                            - more than any other performer - and has won numerous awards.
-                        </p>
-                        <p>With a huge guitar and banjo collection, Martin is consistently named as one of the very
-                            finest
-                            acoustic, finger-style and slide guitar players in the world.
-                            Watch his <a href="https://www.youtube.com/watch?v=EAoQGSiVsy4"
-                                         target="_blank">finger picking masterclass</a>.</p>
-                        <p><span class="fa fa-quote-left"></span><i>Another guitar master class and great lyrics, just
-                                like
-                                a great red wine,smooth, full of flavour and just gets better year on year.</i><span
-                                    class="fa fa-quote-right"></span></p>
-                        <p><span class="fa fa-quote-left"></span><i>Beautiful. So humane.</i><span
-                                    class="fa fa-quote-right"></span></p>
-                        <p><a href="/season/2223/Programme-220924-MartinSimpson.pdf"
-                              target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="https://martinsimpson.com/"
-                               target="_blank">More about Martin Simpson</a>
-                        </p>
-                        <p>Martin has an extensive <a href="https://www.youtube.com/c/MartinSimpsonOfficial"
-                                                      target="_blank">YouTube channel</a>. A <a
-                                    href="https://www.youtube.com/watch?v=sVB2gEHGUZE"
-                                    target="_blank">moving song</a>.</p>
-                    </div>
-                </li>
+                        <p>Don't miss ‘Ensemble of the Year’ in the several ‘Scottish Jazz Awards’!</p>
+                        <p><span class="fa fa-quote-left"></span><i>Rose Room swing harder than an elm tree in
+                                a force nine English gale…</i><span
+                                    class="fa fa-quote-right"></span> Shetland News</p>
+                        <p><span class="fa fa-quote-left"></span><i>As close to the sound of the great Stephane Grappelli as I think you’re going to
 
-                <li class="clearfix list-group-item dms-list-item-prev" id="LeonMcCawley">
-                    <div class="col-sm-3">
-                        <h3>Leon McCawley</h3>
-                        <h4 class="text-info">
-                            Sunday, 23<span class="subscript">rd</span> October 2022
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                            <p>Pre-concert performance from 2:45pm</p>-->
-                        <!--                        <div id="buyticketleonmccawley">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/559313/"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                            <p></p>-->
-                        <!--                        </div>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2223/leonmccawley1-240.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Praised for his <i>unfailingly communicative playing</i>,
-                            British pianist Leon McCawley has been delighting audiences worldwide since
-                            winning first prize in the
-                            1993 International Beethoven Piano Competition in Vienna and second prize at the
-                            Leeds International
-                            Piano Competition the same year.</p>
-                        <p>His many concert performances and extensive discography have established him as a
-                            pianist of great integrity and variety,
-                            bringing freshness and vitality to Classical, Romantic and 20th century
-                            repertoire.
-                        </p>
-                        <p>Bach, Beethoven, Mozart & Schubert (the late great Sonata D960).</p>
-                        <p><span class="fa fa-quote-left"></span><i>One of today’s most impeccably musical
-                                pianists</i><span
-                                    class="fa fa-quote-right"></span>
-                            – International Piano, 2021</p>
-                        <p><span class="fa fa-quote-left"></span><i>tMcCawley’s sense of proportion and
-                                architecture was peerless</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Singapore Straits Times, 2022</p>
-                        <p><a href="/season/2223/Programme-221023-LeonMcCawley.pdf"
-                              target="_blank">Concert programme</a></p>
-                        <p><a href="https://leonmccawley.com/"
-                              target="_blank">More about Leon McCawley</a>
-                        </p>
-                        <p><a href="https://youtu.be/JQz_Y1f0JOg"
-                              target="_blank">Hear him play</a></p>
-                    </div>
-                </li>
-
-                <li class="clearfix list-group-item dms-list-item-prev" id="ChoirDay">
-                    <div class="col-sm-3">
-                        <h3>Open Choir Day</h3>
-                        <p class="specialhilite italic">Free of charge - all welcome</p>
-                        <h4 class="text-info">
-                            Sunday, 20<span class="subscript">th</span> November 2022
-                        </h4>
-                        <p>2:00pm (ends 5pm) Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <!--                        <div id="registeropenchoirday">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/559347"-->
-                        <!--                               target="_blank">Register</a>-->
-                        <!--                            <p></p>-->
-                        <!--                        </div>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2223/choir-cartoon-240.jpeg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>There's no better way to feel good than to sing! Music in Dollar has organised a
-                            day where you can do just that – with some expert tuition along the way.
-                            Singing doesn't require an instrument – it's you! Everyone can do it, so why not
-                            come along and have some fun.
-                            No music reading skills are needed.</p>
-                        <p>The format will be to learn a few songs (popular, folk, classical), with a vocal
-                            workshop led by expert tutor Verity Johnson to help bring it all together. At
-                            the end the 'choir' will perform the songs for anyone who wants to come along
-                            and listen.</p>
-                        <p>This is a community event, so all are welcome at no cost. Bring along friends and
-                            family, anyone who is interested to either sing themselves or listen to
-                            others.</p>
-                        <p>Water will be provided. Bring along any other edibles to keep you going. A pencil
-                            might also be handy for taking notes.</p>
-                        <p>If you'd like to come along then registering using the button on the left will help us
-                            to prepare for the right number of people.</p>
-                        <p>Those who don't fancy singing can still enjoy the sounds of those that do. Come
-                            along and listen - it's free!</p>
-                        <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
-                        <!--                           target="_blank">Concert programme</a>-->
+                                hear in Scotland</i><span
+                                    class="fa fa-quote-right"></span> BBC Radio Scotland</p>
+                        <!--                        <p><a href="/season/2324/Programme-231021-RoseRoom.pdf"-->
+                        <!--                              target="_blank">Concert programme</a>-->
                         <!--                        </p>-->
-                    </div>
-                </li>
-
-                <li class="clearfix list-group-item dms-list-item-prev" id="ScottishClarinetChoir">
-                    <div class="col-sm-3">
-                        <h3>Scottish Clarinet Choir</h3>
-                        <h4 class="text-info">
-                            Sunday, 4<span class="subscript">th</span> December 2022
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <p>Pre-concert performance from 2:45pm</p>
-                        <!--                        <div id="buyticket-scottishclarinetchoir">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/564640/"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                            <p></p>-->
-                        <!--                        </div>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2223/scottishclarinetchoir2-240.png"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Not voices, but massed clarinets, of all shapes, sizes and tones!</p>
-                        <p>Formed in 2019 by the ex-principal clarinet for RSNO and based in Dunblane,
-                            the Choir has a mission to bring together professionals, amateurs, teachers and
-                            students to celebrate
-                            the glories of the clarinet family of instruments.</p>
-                        <p>Their wide repertoire covers classics (Mozart), through to 20th century (Ravel,
-                            Rachmaninov),
-                            some local / contemporary names (Gordon Jacob, Paul Harvey, Carl Raven, Peter
-                            Warlock and Eric Hughes),
-                            including several world premieres.</p>
-                        <!--                                    <p><span class="fa fa-quote-left"></span><i>Quote about scottish clarinet-->
-                        <!--                                            choir</i><span-->
-                        <!--                                                class="fa fa-quote-right"></span>-->
-                        <!--                                        – xxx</p>-->
-                        <!--                        <a href="/season/2223/Programme-221204-ScottishClarinetChoir.pdf"-->
-                        <!--                           target="_blank">Concert programme</a>-->
-                        <p><a href="https://www.scottishclarinetchoir.co.uk/"
-                              target="_blank">More about Scottish Clarinet Choir</a>
+                        <p>
+                            <a href="http://roseroom.co.uk/"
+                               target="_blank">More about Rose Room</a>
                         </p>
-                    </div>
-                </li>
-
-                <li class="clearfix list-group-item dms-list-item-prev" id="PianoDay">
-                    <div class="col-sm-3">
-                        <h3>Piano Day</h3>
-                        <p class="specialhilite italic">Free of charge - all welcome</p>
-                        <h4 class="text-info">
-                            Sunday, 29<span class="subscript">th</span> January 2023
-                        </h4>
-                        <p>2:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2122/piano-keyboardangle-240.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>After last year's success we're delighted to run the Music in Dollar Piano Day for
-                            young
-                            people again.</p>
-                        <p>Come and join Juliette Philogene and Christopher Baxter in the wonderful setting
-                            of Dollar
-                            Academy,
-                            for a day devoted to the joy of playing the piano.
-                            Throughout the day there will be opportunities to perform and learn.
-                            All abilities and ages from 5-19 are welcome – don't be shy.</p>
-                        <p>Fresh interpretations, famous and not so famous pieces, and free!
-                            No charge to enter as player or listener, so what better way to spend a Sunday
-                            afternoon.</p>
-                        <p>Refreshments will be provided.</p>
-                        <p>For those who are too old to play, why not come along and hear musicians of the
-                            future? It's
-                            free, and should be a
-                            varied and stimulating afternoon!</p>
-                        <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
-                        <!--                           target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
-                    </div>
-                </li>
-
-                <li class="clearfix list-group-item dms-list-item-prev" id="ADLibitum">
-                    <div class="col-sm-3">
-                        <h3>ADLibitum</h3>
-                        <h4 class="text-info">
-                            Sunday, 19<span class="subscript">th</span> February 2023
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                        <p>Pre-concert performance from 2:45pm</p>-->
-                        <!--                        <div id="buyticketadlibitum">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/572405/"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                            <p></p>-->
-                        <!--                        </div>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2223/adlibitum1-240.jpeg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>ADLibitum weave a dazzling and beatiful sound tapestry on violin and
-                            accordion.</p>
-                        <p>Andrea and Djordje Gajic are based in Scotland (Andrea is professor at RCS
-                            Glasgow) and tour
-                            widely.
-                            Exploring many styles (eg Brahms, Massenet, Albeniz, Arkhipovsky),
-                            their performances entrance the audience with precision, passion and
-                            intensity.</p>
-                        <p><span class="fa fa-quote-left"></span><i>Two astonishing virtuosi whose playing
-                                together was
-                                masterly</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Skye Chamber Music</p>
-                        <p><span class="fa fa-quote-left"></span><i>full of passion, brilliance and supreme
-                                intelligence</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Cowal Music Club</p>
-                        <p><a href="/season/2223/Programme-230219-AdLibitum.pdf" target="_blank">Concert programme</a></p>
-                        <p><a href="https://www.classicalmusiciansscotland.com/artists/adlibitum/"
-                              target="_blank">More about ADLibitum</a>
-                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=IivIT45086g"
+                              target="_blank">Listen to Rose Room in concert</a>, what an infectious beat along with the fantastic playing.</p>
                     </div>
                 </li>
 
@@ -472,51 +183,283 @@ htmlHead($title);
         </div>
     </div>
 
-    <li class="clearfix list-group-item dms-list-item-prev" id="TheAllSorts">
-        <div class="col-sm-3">
-            <h3>The All Sorts</h3>
-            <h4 class="text-info">
-                Sunday, 19<span class="subscript">th</span> March 2023
-            </h4>
-            <p>3:00pm Gibson Hall, Dollar <a
-                        href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                    7DU</a></p>
-            <p>Pre-concert performance from 2:45pm</p>
-<!--            <div id="buyticketallsorts">-->
-<!--                <p>-->
-<!--                    <a type="button" class="btn btn-info btn-blocks" href="https://www.wegottickets.com/event/573216/" target="_blank">Buy tickets</a>-->
-<!--                </p>-->
-<!--                <p></p>-->
-<!--            </div>-->
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h3 class="text-info">Still to come</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <ul class="list-group">
+
+                            <li class="clearfix list-group-item dms-list-item" id="MartinSimpson">
+                                <div class="col-sm-3">
+                                    <h3>Rachel Hair</h3>
+                                    <h4 class="text-info">
+                                        Sunday, 12<span class="subscript">th</span> November 2023
+                                    </h4>
+                                    <p>Time 3:00pm Gibson Hall, Dollar <a
+                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                            7DU</a></p>
+                                    <p>Pre-concert performance from 2:45pm</p>
+                                    <div id="buyticketrachelhair">
+                                        <a type="button" class="btn btn-info btn-blocks"
+                                           href="https://www.wegottickets.com/event/593012/"
+                                           target="_blank">Buy tickets</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <img src="/image/2324/rachelhair-240.jpg"/>
+                                </div>
+                                <div class="col-sm-6">
+                                    <p>Widely recognised as one of the world’s finest exponents of Scottish Harp (clarsach),
+                                        Rachel Hair partners with guitarist and fiddler Ron Jappy to showcase both the deep tradition
+                                        and modern vibe of Scottish music.
+                                    </p>
+                                    <p>
+                                        From crisp strathspeys and heartfelt airs, to virtuosic reels and driving jigs, this is not music for taking a nap!
+                                        The Glasgow-based duo tour widely, and Rachel is active throughput the Celtic world and beyond in Europe
+                                        promoting traditional and contemporary harp playing.
+                                    </p>
+                                    <p><span class="fa fa-quote-left"></span><i>sheer perfection... major new talent </i><span
+                                                class="fa fa-quote-right"></span> - Irish Musical Review</p>
+                                    <p><span class="fa fa-quote-left"></span><i>spectacular acoustic musical tour</i><span
+                                                class="fa fa-quote-right"></span> - Folks & Roots</p>
+                                    <!--                                    <p><a href="/season/2324/Programme-231112-RachelHair.pdf"-->
+                                    <!--                                          target="_blank">Concert programme</a>-->
+                                    <!--                                    </p>-->
+                                    <p>
+                                        <a href="https://www.rachelhair.com/"
+                                           target="_blank">More about Rachel Hair</a>
+                                    </p>
+                                    <p><a href="https://www.rachelhair.com/videos/"
+                                          target="_blank">Watch Rachel and Ron play</a>, on a New Zealand beach!</p>
+                                </div>
+                            </li>
+
+                            <li class="clearfix list-group-item dms-list-item-prev" id="ChoirDay">
+                                <div class="col-sm-3">
+                                    <h3>Open Choir Day</h3>
+                                    <p class="specialhilite italic">Free of charge - all welcome</p>
+                                    <h4 class="text-info">
+                                        TBA <!-- <span class="subscript">th</span> 2023/4 -->
+                                    </h4>
+                                    <!--                                    <p>2:00pm (ends 5pm) Gibson Hall, Dollar <a-->
+                                    <p>Gibson Hall, Dollar <a
+                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                            7DU</a></p>
+                                    <!--                        <div id="registeropenchoirday">-->
+                                    <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                                    <!--                               href="https://www.wegottickets.com/event/?????"-->
+                                    <!--                               target="_blank">Register</a>-->
+                                    <!--                            <p></p>-->
+                                    <!--                        </div>-->
+                                </div>
+                                <div class="col-sm-3">
+                                    <img src="/image/2223/choir-cartoon-240.jpeg"/>
+                                </div>
+                                <div class="col-sm-6">
+                                    <p>There's no better way to feel good than to sing! Music in Dollar has organised a
+                                        day where you can do just that – with some expert tuition along the way.
+                                        Singing doesn't require an instrument – it's you! Everyone can do it, so why not
+                                        come along and have some fun.
+                                        No music reading skills are needed.</p>
+                                    <p>The format will be to learn a few songs (popular, folk, classical), with a vocal
+                                        workshop led by expert tutor Verity Johnson to help bring it all together. At
+                                        the end the 'choir' will perform the songs for anyone who wants to come along
+                                        and listen.</p>
+                                    <p>This is a community event, so all are welcome at no cost. Bring along friends and
+                                        family, anyone who is interested to either sing themselves or listen to
+                                        others.</p>
+                                    <p>Water will be provided. Bring along any other edibles to keep you going. A pencil
+                                        might also be handy for taking notes.</p>
+                                    <p>If you'd like to come along then registering using the button on the left will help us
+                                        to prepare for the right number of people.</p>
+                                    <p>Those who don't fancy singing can still enjoy the sounds of those that do. Come
+                                        along and listen - it's free!</p>
+                                    <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
+                                    <!--                           target="_blank">Concert programme</a>-->
+                                    <!--                        </p>-->
+                                </div>
+                            </li>
+
+                            <li class="clearfix list-group-item dms-list-item" id="DuoBizart">
+                                <div class="col-sm-3">
+                                    <h3>duo b!z'art</h3>
+                                    <h4 class="text-info">
+                                        Sunday, 14<span class="subscript">th</span> January 2024
+                                    </h4>
+                                    <p>3:00pm Gibson Hall, Dollar <a
+                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                            7DU</a></p>
+                                    <p>Pre-concert performance from 2:45pm</p>
+                                    <div id="buyticketduobizart">
+                                        <a type="button" class="btn btn-info btn-blocks"
+                                           href="https://www.wegottickets.com/event/593014/"
+                                           target="_blank">Buy tickets</a>
+                                        <p></p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <img src="/image/2324/Duobizart6-240.jpg"/>
+                                </div>
+                                <div class="col-sm-6">
+                                    <p>One piano, four hands. Since 2004 Belgian pianists Geoffrey Baptiste and André Roe have been developing a unique approach to performance, with concerts a “complete lived experience”.
+                                        Combining great musical works for piano duo, strong themes (Aboard the Orient Express, Tales and Legends, etc), with theatre and projection</p>
+                                    <p>Their repertoire has similar themes, ranging from the romantic to 20th century with a subtle mix of undisputed masterpieces and unjustly neglected works.
+                                    </p>
+                                    <p><span class="fa fa-quote-left"></span><i>unusual and pretty original... so precise as a team that one could imagine it was just one player</i><span
+                                                class="fa fa-quote-right"></span>
+                                        – Fylde Music Circle</p>
+                                    <p><span class="fa fa-quote-left"></span><i>played with real energy and so perfectly co-ordinated</i><span
+                                                class="fa fa-quote-right"></span>
+                                        – Maidenhead Music</p>
+                                    <!--                                    <p><a href="/season/2324/Programme-240114-DuoBizart.pdf"-->
+                                    <!--                                          target="_blank">Concert programme</a></p>-->
+                                    <p><a href="https://www.duobizart.be/"
+                                          target="_blank">More about duo b!z'art</a>
+                                    </p>
+                                    <p><a href="https://www.youtube.com/watch?v=efRT7-r8MSU"
+                                          target="_blank">Listen to them play</a> Mendelssohn</p>
+                                </div>
+                            </li>
+
+                            <li class="clearfix list-group-item dms-list-item-prev" id="PianoDay">
+                                <div class="col-sm-3">
+                                    <h3>Piano Day</h3>
+                                    <p class="specialhilite italic">Free of charge - all welcome</p>
+                                    <h4 class="text-info">
+                                        Sunday, 28<span class="subscript">th</span> January 2023
+                                    </h4>
+                                    <p>2:00pm Gibson Hall, Dollar <a
+                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                            7DU</a></p>
+                                    <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                                </div>
+                                <div class="col-sm-3">
+                                    <img src="/image/2122/piano-keyboardangle-240.jpg"/>
+                                </div>
+                                <div class="col-sm-6">
+                                    <p>After last year's success we're delighted to run the Music in Dollar Piano Day for
+                                        young people again. Last year we ran an expanded format with two expert tutors.
+                                        That continues, and we also plan to run a second Piano Day later in the year.</p>
+                                    <p>Come and join Juliette Philogene and Christopher Baxter in the wonderful setting
+                                        of Dollar Academy, for a day devoted to the joy of playing the piano.
+                                        Throughout the day there will be opportunities to perform and learn.
+                                        All abilities and ages from 5-19 are welcome – don't be shy.</p>
+                                    <p>Fresh interpretations, famous and not so famous pieces, and free!
+                                        No charge to enter as player or listener, so what better way to spend a Sunday
+                                        afternoon.</p>
+                                    <p>Refreshments will be provided.</p>
+                                    <p>For those who are too old to play, why not come along and hear musicians of the
+                                        future? It's free, and should be a varied and stimulating afternoon!</p>
+                                    <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
+                                    <!--                           target="_blank">Concert programme</a>-->
+                                    <!--                        </p>-->
+                                </div>
+                            </li>
+
+                            <li class="clearfix list-group-item dms-list-item-prev" id="ScottishClarinetChoir">
+                                <div class="col-sm-3">
+                                    <h3>Trio Ecossaise</h3>
+                                    <h4 class="text-info">
+                                        Sunday, 4<span class="subscript">th</span> February 2024
+                                    </h4>
+                                    <p>3:00pm Gibson Hall, Dollar <a
+                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                            7DU</a></p>
+                                    <p>Pre-concert performance from 2:45pm</p>
+                                    <div id="buyticket-trioecossaise">
+                                        <a type="button" class="btn btn-info btn-blocks"
+                                           href="https://www.wegottickets.com/event/593016/"
+                                           target="_blank">Buy tickets</a>
+                                        <p></p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <img src="/image/2324/trioecossaise1-240.jpeg"/>
+                                </div>
+                                <div class="col-sm-6">
+                                    <p>For 15 years, Jennifer Brown (clarinet), Harriet Davidson (cello) and Claire Haslin (piano) have been performing
+                                        across concert hall, schools and social settings. Their repertoire ranges from the classics (Beethoven, Brahms),
+                                        to hidden gems (Ireland, Glinka), and all-female composer programmes (Schumann, Farrenc, Tailleferre & Walker)</p>
+                                    <p><span class="fa fa-quote-left"></span><i>Holy Trinity Church was filled with wonderful music
+                                            performed by the hugely talented Trio Ecossaise...
+                                            the combination was sublime... a superb performance</i><span
+                                                class="fa fa-quote-right"></span> – Crail Festival</p>
+                                    <p><span class="fa fa-quote-left"></span><i>Trio Ecossaise brought a ray of sunshine</i><span
+                                                class="fa fa-quote-right"></span> – Campbelltown Courier</p>
+                                    <!--                        <a href="/season/2324/Programme-240204-TrioEcossaisepdf"-->
+                                    <!--                           target="_blank">Concert programme</a>-->
+                                    <p><a href="https://www.trioecossaise.com/"
+                                          target="_blank">More about Trio Ecossaise</a>
+                                    </p>
+                                </div>
+                            </li>
+
+                            <li class="clearfix list-group-item dms-list-item-prev" id="AlbaChallah">
+                                <div class="col-sm-3">
+                                    <h3>Alba Challah</h3>
+                                    <h4 class="text-info">
+                                        Saturday, 16<span class="subscript">th</span> March 2024
+                                    </h4>
+                                    <p>7:30pm Gibson Hall, Dollar <a
+                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                            7DU</a></p>
+                                    <p>Pre-concert performance from 7:15pm</p>
+                                    <div id="buyticket-albachallah">
+                                        <a type="button" class="btn btn-info btn-blocks"
+                                           href="https://www.wegottickets.com/event/593018/"
+                                           target="_blank">Buy tickets</a>
+                                        <p></p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <img src="/image/2324/albachallah-240.jpeg"/>
+                                </div>
+                                <div class="col-sm-6">
+                                    <p>Alba Challah are a diverse group of Scottish and international musicians, playing an intoxicating fusion of Klezmer, classical and World music styles.
+                                        Featuring clarinet, viola, cello, accordion, bass and percussion, they explore a vibrant and uplifting sonic landscape.</p>
+                                    <p>Klezmer is a European Jewish instrumental musical tradition characterised by dance tunes, ritual melodies, and virtuosic improvisations.
+                                        In recent times Klezmer is often a fusion with other styles.</p>
+                                    <p><span class="fa fa-quote-left"></span><i>excellent and entertaining performance... clearly a group of very talented musicians</i><span
+                                                class="fa fa-quote-right"></span>
+                                        – Ann Napier, The Osprey Music Society</p>
+                                    <p><span class="fa fa-quote-left"></span><i>full of passion, brilliance and supreme
+                                            intelligence</i><span
+                                                class="fa fa-quote-right"></span>
+                                        – Cowal Music Club</p>
+                                    <!--                                    <p><a href="/season/2223/Programme-240316-AlbaChallah.pdf" target="_blank">Concert programme</a></p>-->
+                                    <p><a href="https://www.classicalmusiciansscotland.com/artists/alba-challah/"
+                                          target="_blank">More about Alba Challah</a>
+                                    </p>
+                                </div>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+
+            </ul>
         </div>
-        <div class="col-sm-3">
-            <img src="/image/2223/allsorts1-240.jpeg"/>
-        </div>
-        <div class="col-sm-6">
-            <p>The All Sorts are an all-singing, all-female a-capella singing group,
-                drawn from Scottish Opera performers who simply wanted 'an excuse to hang out
-                more'.</p>
-            <p>Hailing from the UK and North America, they range from opera to Motown and lieder
-                to Disney,
-                combining classic barbershop and classical arrangements. They began their
-                closely
-                harmonising adventure in late 2017.</p>
-            <p><span class="fa fa-quote-left"></span><i>stylish and talented group coupling
-                    their wonderful
-                    voices with a flair for entertainment</i><span
-                        class="fa fa-quote-right"></span>
-                – Margaret Isaacs, Cove Burgh Hall</p>
-            <p><span class="fa fa-quote-left"></span><i>The All Sorts were amazing</i><span
-                        class="fa fa-quote-right"></span>
-                – Alison Gregson, Greyfriars Kirk</p>
-            <p><a href="/season/2223/Programme-230319-AllSorts.pdf" target="_blank">Concert programme</a></p>
-            <p><a href="https://www.theallsorts.com/"
-                  target="_blank">More about The All Sorts</a> and <a
-                        href="https://www.classicalmusiciansscotland.com/artists/the-all-sorts/">even
-                    more</a>
-            </p>
-        </div>
-    </li>
+    </div>
+
+    <!--    <div id="PrevConcert" class="row">-->
+    <!--        <div class="col-sm-12">-->
+    <!--            <h3 class="text-info">Previous concerts</h3>-->
+    <!--        </div>-->
+    <!--    </div>-->
+    <!--    <div class="row">-->
+    <!--        <div class="col-sm-12">-->
+    <!--            <ul class="list-group">-->
+    <!---->
+    <!--            </ul>-->
+    <!--        </div>-->
+    <!--    </div>-->
 
 </div>
 

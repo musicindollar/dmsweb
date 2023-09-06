@@ -2,7 +2,7 @@
 <html lang="en">
 <?php
 require "../../header.php";
-$title = "Previous season archive: 2021-22";
+$title = "Previous season archive: 2022-23";
 htmlHead($title);
 ?>
 
@@ -21,9 +21,9 @@ htmlHead($title);
 
     <div class="row page-header">
         <div class="col-sm-12">
-            <a href="DMS-Leaflet-2021-22.pdf" target="_blank">View</a>
-            the full programme for the 2021-22 season [PDF 2.6Mb] <a
-                    href="DMS-Leaflet-2021-22.pdf" target="_blank"><img
+            <a href="MiD-Leaflet-2022-23.pdf" target="_blank">View</a>
+            the full programme for the 2022-23 season [PDF 2.6Mb] <a
+                    href="MiD-Leaflet-2022-23.pdf" target="_blank"><img
                         src="../../image/pdf.jpeg" alt="PDF Season Leaflet"/></a>
         </div>
     </div>
@@ -31,51 +31,6 @@ htmlHead($title);
     <div class="row">
         <div class="col-sm-12">
             <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item-prev" id="SiroccoWinds">
-                    <div class="col-sm-3">
-                        <h3>Sirocco Winds</h3>
-                        <h4 class="text-info">
-                            Saturday, 7<span class="subscript">th</span> May 2022
-                        </h4>
-                        <p>Time 7:30pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <p>Pre-concert performance from 7:15pm</p>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2122/siroccowinds-240.jpeg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Sirocco Winds are a dynamic and professional wind ensemble, who came together as
-                            alumni of
-                            the Glasgow Conservatoire.
-                        </p>
-                        <p>Successes for the group include winning the Governors’ Recital Prize for Chamber
-                            Music at the
-                            Royal Conservatoire of Scotland, being invited to perform at the Emerging
-                            Artists series at
-                            Edinburgh’s Usher Hall and playing live on BBC Radio 3 and BBC Radio Scotland.
-                            Although
-                            primarily a wind quintet the group also enjoy exploring chamber music for other
-                            instrument
-                            combinations and have formed a trio for flute, clarinet and bassoon.</p>
-                        <p><span class="fa fa-quote-left"></span><i>... a musical triumph.... two stunning
-                                sets with a
-                                huge variety of music ranging across classical, jazz, show tunes – the West
-                                Side Story
-                                medley was sublime – folk and contemporary.</i><span
-                                    class="fa fa-quote-right"></span>
-                            – St Boswell's Live!</p>
-                        <p><a href="/season/2122/Programme-220507-SiroccoWinds.pdf"
-                              target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="https://www.classicalmusiciansscotland.com/artists/sirocco-winds/"
-                               target="_blank">More about Sirocco Winds</a>
-                        </p>
-                    </div>
-                </li>
 
                 <li class="clearfix list-group-item dms-list-item-prev" id="MairearadAnna">
                     <div class="col-sm-3">
@@ -364,6 +319,51 @@ htmlHead($title);
                         </p>
                         <p><a href="http://clarehammond.com/variations"
                               target="_blank">Hear her play</a></p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="SiroccoWinds">
+                    <div class="col-sm-3">
+                        <h3>Sirocco Winds</h3>
+                        <h4 class="text-info">
+                            Saturday, 7<span class="subscript">th</span> May 2022
+                        </h4>
+                        <p>Time 7:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <p>Pre-concert performance from 7:15pm</p>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2122/siroccowinds-240.jpeg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Sirocco Winds are a dynamic and professional wind ensemble, who came together as
+                            alumni of
+                            the Glasgow Conservatoire.
+                        </p>
+                        <p>Successes for the group include winning the Governors’ Recital Prize for Chamber
+                            Music at the
+                            Royal Conservatoire of Scotland, being invited to perform at the Emerging
+                            Artists series at
+                            Edinburgh’s Usher Hall and playing live on BBC Radio 3 and BBC Radio Scotland.
+                            Although
+                            primarily a wind quintet the group also enjoy exploring chamber music for other
+                            instrument
+                            combinations and have formed a trio for flute, clarinet and bassoon.</p>
+                        <p><span class="fa fa-quote-left"></span><i>... a musical triumph.... two stunning
+                                sets with a
+                                huge variety of music ranging across classical, jazz, show tunes – the West
+                                Side Story
+                                medley was sublime – folk and contemporary.</i><span
+                                    class="fa fa-quote-right"></span>
+                            – St Boswell's Live!</p>
+                        <p><a href="/season/2122/Programme-220507-SiroccoWinds.pdf"
+                              target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="https://www.classicalmusiciansscotland.com/artists/sirocco-winds/"
+                               target="_blank">More about Sirocco Winds</a>
+                        </p>
                     </div>
                 </li>
 
