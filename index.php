@@ -246,18 +246,18 @@ htmlHead($title);
                                     <h3>Open Choir Day</h3>
                                     <p class="specialhilite italic">Free of charge - all welcome</p>
                                     <h4 class="text-info">
-                                        TBA <!-- <span class="subscript">th</span> 2023/4 -->
+                                        Sunday 19<span class="subscript">th</span> November 2023
                                     </h4>
                                     <!--                                    <p>2:00pm (ends 5pm) Gibson Hall, Dollar <a-->
-                                    <p>Gibson Hall, Dollar <a
+                                    <p>Time 1:30pm Gibson Hall, Dollar <a
                                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                             7DU</a></p>
-                                    <!--                        <div id="registeropenchoirday">-->
-                                    <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                                    <!--                               href="https://www.wegottickets.com/event/?????"-->
-                                    <!--                               target="_blank">Register</a>-->
-                                    <!--                            <p></p>-->
-                                    <!--                        </div>-->
+                                    <div id="registeropenchoirday">
+                                        <a type="button" class="btn btn-info btn-blocks"
+                                           href="https://www.wegottickets.com/event/594703/"
+                                           target="_blank">Register</a>
+                                        <p></p>
+                                    </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <img src="/image/2223/choir-cartoon-240.jpeg"/>
@@ -269,7 +269,7 @@ htmlHead($title);
                                         come along and have some fun.
                                         No music reading skills are needed.</p>
                                     <p>The format will be to learn a few songs (popular, folk, classical), with a vocal
-                                        workshop led by expert tutor Verity Johnson to help bring it all together. At
+                                        workshop led by expert tutor Brian McBride to help bring it all together. The theme this time is 'Musical Theatre'. At
                                         the end the 'choir' will perform the songs for anyone who wants to come along
                                         and listen.</p>
                                     <p>This is a community event, so all are welcome at no cost. Bring along friends and
