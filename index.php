@@ -28,8 +28,10 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-coffee"></span> Next event is our usual season opener Coffee Morning, on Saturday September 16th 10:00 - 12:00.
-                            Come along for great coffee, chat and a preview of this season's performers.
+                        <p><span class="fa fa-music"></span> The first concert is a perennial favourite - Rose Room! Don't miss the infectious rhythm, virtuoso playing and feel-good vibe.
+                        </p>
+                        <p><span class="fa fa-coffee"></span> The Coffee Morning was rather quiet. Where was everyone? Despite that, those who came along were treated to
+                            a fantastic batch of scones, along with the usual raffle, quiz and preview of this season's musicians.
                         </p>
                         <!--                        <p><span class="fa fa-cc-discover"></span> We're busy preparing for next season - watch this space for announcements!-->
                         <!--                        </p>-->
@@ -281,9 +283,6 @@ htmlHead($title);
                                         to prepare for the right number of people.</p>
                                     <p>Those who don't fancy singing can still enjoy the sounds of those that do. Come
                                         along and listen - it's free!</p>
-                                    <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
-                                    <!--                           target="_blank">Concert programme</a>-->
-                                    <!--                        </p>-->
                                 </div>
                             </li>
 
@@ -338,7 +337,12 @@ htmlHead($title);
                                     <p>2:00pm Gibson Hall, Dollar <a
                                                 href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                             7DU</a></p>
-                                    <!--                            <p>Pre-concert performance from 7:15pm</p>-->
+                                    <div id="registerpianoday">
+                                        <a type="button" class="btn btn-info btn-blocks"
+                                           href="https://www.wegottickets.com/event/595107/"
+                                           target="_blank">Register</a>
+                                        <p></p>
+                                    </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <img src="/image/2122/piano-keyboardangle-240.jpg"/>
