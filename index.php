@@ -28,7 +28,9 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-                        <p><span class="fa fa-music"></span> The first concert is a perennial favourite - Rose Room! Don't miss the infectious rhythm, virtuoso playing and feel-good vibe.
+<!--                        <p><img src="image/2324/harvest-sm.png"></img> Tony Baldwin <a href="season/2324/Harvest 1_10_23.pdf" target="_blank">will perform an organ recital in Dollar Parish Church</a> on Sunday 1st October, as part of the Celebration of Harvest.-->
+<!--                        </p>-->
+                        <p><span class="fa fa-music"></span> Opening concert of the season is a perennial favourite - Rose Room! Don't miss the infectious rhythm, virtuoso playing and feel-good vibe.
                         </p>
                         <p><span class="fa fa-coffee"></span> The Coffee Morning was rather quiet. Where was everyone? Despite that, those who came along were treated to
                             a fantastic batch of scones, along with the usual raffle, quiz and preview of this season's musicians.
@@ -169,9 +171,9 @@ htmlHead($title);
 
                                 hear in Scotland</i><span
                                     class="fa fa-quote-right"></span> BBC Radio Scotland</p>
-                        <!--                        <p><a href="/season/2324/Programme-231021-RoseRoom.pdf"-->
-                        <!--                              target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
+                        <p><a href="/season/2324/Programme-231021-RoseRoom.pdf"
+                              target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="http://roseroom.co.uk/"
                                target="_blank">More about Rose Room</a>
