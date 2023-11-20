@@ -28,13 +28,18 @@ htmlHead($title);
                     <div class="panel-body">
                         <p>
                         </p>
-<!--                        <p><img src="image/2324/harvest-sm.png"></img> Tony Baldwin <a href="season/2324/Harvest 1_10_23.pdf" target="_blank">will perform an organ recital in Dollar Parish Church</a> on Sunday 1st October, as part of the Celebration of Harvest.-->
-<!--                        </p>-->
-                        <p><span class="fa fa-music"></span> Opening concert of the season is a perennial favourite - Rose Room! Don't miss the infectious rhythm, virtuoso playing and feel-good vibe.
+                        <!--                        <p><img src="image/2324/harvest-sm.png"></img> Tony Baldwin <a href="season/2324/Harvest 1_10_23.pdf" target="_blank">will perform an organ recital in Dollar Parish Church</a> on Sunday 1st October, as part of the Celebration of Harvest.-->
+                        <!--                        </p>-->
+                        <p><span class="fa fa-music"></span> Let's Play Music's <a href="season/2324/LetsPlayMusic-Dec23.png.pdf" target="_blank">next community music making event</a> is in Dollar Parish Church on 10th December 3pm.
+                            Previous events have been well attended and attracted rave reviews. Why not come along and hear why? Free entry and a big welcome for all.
                         </p>
-                        <p><span class="fa fa-coffee"></span> The Coffee Morning was rather quiet. Where was everyone? Despite that, those who came along were treated to
-                            a fantastic batch of scones, along with the usual raffle, quiz and preview of this season's musicians.
+                        <p><span class="fa fa-user"></span> Come and Sing was great fun!
+                            Led by the warm, engaging and amazing voice of expert tutor Brian McBride, we learned to sing a couple of musical theatre songs:
+                            Age of Aquarius and Good Morning Baltimore.
                         </p>
+                        <!--                        <p><span class="fa fa-coffee"></span> The Coffee Morning was rather quiet. Where was everyone? Despite that, those who came along were treated to-->
+                        <!--                            a fantastic batch of scones, along with the usual raffle, quiz and preview of this season's musicians.-->
+                        <!--                        </p>-->
                         <!--                        <p><span class="fa fa-cc-discover"></span> We're busy preparing for next season - watch this space for announcements!-->
                         <!--                        </p>-->
                         <!--                        <p><span class="fa fa-calendar"></span> Renowned violinist <a href="https://en.wikipedia.org/wiki/Rachel_Podger" target="_blank">Rachel Podger</a> <a-->
@@ -112,14 +117,13 @@ htmlHead($title);
                             Cost is &#163;12, students in full-time education admitted free of charge.</p>
                         <p>Season Tickets provide entry to all concerts in the season. Cost is &#163;40. That's &#163;8
                             per concert, unbeatable value!</p>
-                        <p>Choose how you'd like to pay: online using the button below, <a href="contact.php">contact
-                                us</a> to
-                            request bank transfer details, or buy at the door.</p>
-                        <div id="buyseasonticket">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/593008"
-                               target="_blank">Buy season tickets</a>
-                        </div>
+                        <p>Choose how you'd like to pay: online using the button below, buy at the door (card or cash),
+                            or <a href="contact.php">contact us</a> to request bank transfer details.</p>
+                        <!--                        <div id="buyseasonticket">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="https://www.wegottickets.com/event/593008"-->
+                        <!--                               target="_blank">Buy season tickets</a>-->
+                        <!--                        </div>-->
                     </div>
                 </li>
 
@@ -130,56 +134,44 @@ htmlHead($title);
         <div class="col-sm-12">
             <h3 class="text-info">Next event</h3>
             <ul class="list-group">
-
-
-                <li class="clearfix list-group-item dms-list-item-next" id="RoseRoom">
+                <li class="clearfix list-group-item dms-list-item-next" id="DuoBizart">
                     <div class="col-sm-3">
-                        <h3>Rose Room</h3>
+                        <h3>duo b!z'art</h3>
                         <h4 class="text-info">
-                            Saturday, 21<span class="subscript">st</span> October 2023
+                            Sunday, 14<span class="subscript">th</span> January 2024
                         </h4>
-                        <p>Time 7:30pm Gibson Hall, Dollar <a
+                        <p>3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <p>Pre-concert performance from 7:15pm</p>
-                        <div id="buyticketroseroom">
+                        <p>Pre-concert performance from 2:45pm</p>
+                        <div id="buyticketduobizart">
                             <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/593010/"
+                               href="https://www.wegottickets.com/event/593014/"
                                target="_blank">Buy tickets</a>
+                            <p></p>
                         </div>
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2324/Rose-Room-095-240.jpg"/>
+                        <img src="/image/2324/Duobizart6-240.jpg"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>According to Jazz Scotland, Rose Room are “the hottest ticket in Scotland right
-                            now”, playing Swing jazz in the gypsy style, following in the footsteps of the great
-                            Django Reinhardt and Stephane Grappelli.
+                        <p>One piano, four hands. Since 2004 Belgian pianists Geoffrey Baptiste and André Roe have been developing a unique approach to performance, with concerts a “complete lived experience”.
+                            Combining great musical works for piano duo, strong themes (Aboard the Orient Express, Tales and Legends, etc), with theatre and projection</p>
+                        <p>Their repertoire has similar themes, ranging from the romantic to 20th century with a subtle mix of undisputed masterpieces and unjustly neglected works.
                         </p>
-                        <p>
-                            Led by virtuoso fiddle player and vocalist Seonaid Aitken (who also plays with
-                            Scottish Opera Orchestra), the band features a star line-up comprising
-                            Scotland’s No.1 guitar maker Jimmy Moon of 'Moon Guitars’ (double
-                            bass), Celtic Connections’ award-winners ‘Swing Guitars’ Tam Gallagher
-                            and Tom Watson on rhythm and solo guitars respectively.
+                        <p><span class="fa fa-quote-left"></span><i>unusual and pretty original... so precise as a team that one could imagine it was just one player</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Fylde Music Circle</p>
+                        <p><span class="fa fa-quote-left"></span><i>played with real energy and so perfectly co-ordinated</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Maidenhead Music</p>
+                        <!--                                    <p><a href="/season/2324/Programme-240114-DuoBizart.pdf"-->
+                        <!--                                          target="_blank">Concert programme</a></p>-->
+                        <p><a href="https://www.duobizart.be/"
+                              target="_blank">More about duo b!z'art</a>
                         </p>
-                        <p>Don't miss ‘Ensemble of the Year’ in the several ‘Scottish Jazz Awards’!</p>
-                        <p><span class="fa fa-quote-left"></span><i>Rose Room swing harder than an elm tree in
-                                a force nine English gale…</i><span
-                                    class="fa fa-quote-right"></span> Shetland News</p>
-                        <p><span class="fa fa-quote-left"></span><i>As close to the sound of the great Stephane Grappelli as I think you’re going to
-
-                                hear in Scotland</i><span
-                                    class="fa fa-quote-right"></span> BBC Radio Scotland</p>
-                        <p><a href="/season/2324/Programme-231021-RoseRoom.pdf"
-                              target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="http://roseroom.co.uk/"
-                               target="_blank">More about Rose Room</a>
-                        </p>
-                        <p><a href="https://www.youtube.com/watch?v=IivIT45086g"
-                              target="_blank">Listen to Rose Room in concert</a>, what an infectious beat along with the fantastic playing.</p>
+                        <p><a href="https://www.youtube.com/watch?v=efRT7-r8MSU"
+                              target="_blank">Listen to them play</a> Mendelssohn</p>
                     </div>
                 </li>
 
@@ -199,135 +191,6 @@ htmlHead($title);
                 <div class="row">
                     <div class="col-sm-12">
                         <ul class="list-group">
-
-                            <li class="clearfix list-group-item dms-list-item" id="MartinSimpson">
-                                <div class="col-sm-3">
-                                    <h3>Rachel Hair</h3>
-                                    <h4 class="text-info">
-                                        Sunday, 12<span class="subscript">th</span> November 2023
-                                    </h4>
-                                    <p>Time 3:00pm Gibson Hall, Dollar <a
-                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                            7DU</a></p>
-                                    <p>Pre-concert performance from 2:45pm</p>
-                                    <div id="buyticketrachelhair">
-                                        <a type="button" class="btn btn-info btn-blocks"
-                                           href="https://www.wegottickets.com/event/593012/"
-                                           target="_blank">Buy tickets</a>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <img src="/image/2324/rachelhair-240.jpg"/>
-                                </div>
-                                <div class="col-sm-6">
-                                    <p>Widely recognised as one of the world’s finest exponents of Scottish Harp (clarsach),
-                                        Rachel Hair partners with guitarist and fiddler Ron Jappy to showcase both the deep tradition
-                                        and modern vibe of Scottish music.
-                                    </p>
-                                    <p>
-                                        From crisp strathspeys and heartfelt airs, to virtuosic reels and driving jigs, this is not music for taking a nap!
-                                        The Glasgow-based duo tour widely, and Rachel is active throughput the Celtic world and beyond in Europe
-                                        promoting traditional and contemporary harp playing.
-                                    </p>
-                                    <p><span class="fa fa-quote-left"></span><i>sheer perfection... major new talent </i><span
-                                                class="fa fa-quote-right"></span> - Irish Musical Review</p>
-                                    <p><span class="fa fa-quote-left"></span><i>spectacular acoustic musical tour</i><span
-                                                class="fa fa-quote-right"></span> - Folks & Roots</p>
-                                    <!--                                    <p><a href="/season/2324/Programme-231112-RachelHair.pdf"-->
-                                    <!--                                          target="_blank">Concert programme</a>-->
-                                    <!--                                    </p>-->
-                                    <p>
-                                        <a href="https://www.rachelhair.com/"
-                                           target="_blank">More about Rachel Hair</a>
-                                    </p>
-                                    <p><a href="https://www.rachelhair.com/videos/"
-                                          target="_blank">Watch Rachel and Ron play</a>, on a New Zealand beach!</p>
-                                </div>
-                            </li>
-
-                            <li class="clearfix list-group-item dms-list-item-prev" id="ChoirDay">
-                                <div class="col-sm-3">
-                                    <h3>Open Choir Day</h3>
-                                    <p class="specialhilite italic">Free of charge - all welcome</p>
-                                    <h4 class="text-info">
-                                        Sunday 19<span class="subscript">th</span> November 2023
-                                    </h4>
-                                    <!--                                    <p>2:00pm (ends 5pm) Gibson Hall, Dollar <a-->
-                                    <p>Time 1:30pm Gibson Hall, Dollar <a
-                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                            7DU</a></p>
-                                    <div id="registeropenchoirday">
-                                        <a type="button" class="btn btn-info btn-blocks"
-                                           href="https://www.wegottickets.com/event/594703/"
-                                           target="_blank">Register</a>
-                                        <p></p>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <img src="/image/2223/choir-cartoon-240.jpeg"/>
-                                </div>
-                                <div class="col-sm-6">
-                                    <p>There's no better way to feel good than to sing! Music in Dollar has organised a
-                                        day where you can do just that – with some expert tuition along the way.
-                                        Singing doesn't require an instrument – it's you! Everyone can do it, so why not
-                                        come along and have some fun.
-                                        No music reading skills are needed.</p>
-                                    <p>The format will be to learn a few songs (popular, folk, classical), with a vocal
-                                        workshop led by expert tutor Brian McBride to help bring it all together. The theme this time is 'Musical Theatre'. At
-                                        the end the 'choir' will perform the songs for anyone who wants to come along
-                                        and listen.</p>
-                                    <p>This is a community event, so all are welcome at no cost. Bring along friends and
-                                        family, anyone who is interested to either sing themselves or listen to
-                                        others.</p>
-                                    <p>Water will be provided. Bring along any other edibles to keep you going. A pencil
-                                        might also be handy for taking notes.</p>
-                                    <p>If you'd like to come along then registering using the button on the left will help us
-                                        to prepare for the right number of people.</p>
-                                    <p>Those who don't fancy singing can still enjoy the sounds of those that do. Come
-                                        along and listen - it's free!</p>
-                                </div>
-                            </li>
-
-                            <li class="clearfix list-group-item dms-list-item" id="DuoBizart">
-                                <div class="col-sm-3">
-                                    <h3>duo b!z'art</h3>
-                                    <h4 class="text-info">
-                                        Sunday, 14<span class="subscript">th</span> January 2024
-                                    </h4>
-                                    <p>3:00pm Gibson Hall, Dollar <a
-                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                            7DU</a></p>
-                                    <p>Pre-concert performance from 2:45pm</p>
-                                    <div id="buyticketduobizart">
-                                        <a type="button" class="btn btn-info btn-blocks"
-                                           href="https://www.wegottickets.com/event/593014/"
-                                           target="_blank">Buy tickets</a>
-                                        <p></p>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <img src="/image/2324/Duobizart6-240.jpg"/>
-                                </div>
-                                <div class="col-sm-6">
-                                    <p>One piano, four hands. Since 2004 Belgian pianists Geoffrey Baptiste and André Roe have been developing a unique approach to performance, with concerts a “complete lived experience”.
-                                        Combining great musical works for piano duo, strong themes (Aboard the Orient Express, Tales and Legends, etc), with theatre and projection</p>
-                                    <p>Their repertoire has similar themes, ranging from the romantic to 20th century with a subtle mix of undisputed masterpieces and unjustly neglected works.
-                                    </p>
-                                    <p><span class="fa fa-quote-left"></span><i>unusual and pretty original... so precise as a team that one could imagine it was just one player</i><span
-                                                class="fa fa-quote-right"></span>
-                                        – Fylde Music Circle</p>
-                                    <p><span class="fa fa-quote-left"></span><i>played with real energy and so perfectly co-ordinated</i><span
-                                                class="fa fa-quote-right"></span>
-                                        – Maidenhead Music</p>
-                                    <!--                                    <p><a href="/season/2324/Programme-240114-DuoBizart.pdf"-->
-                                    <!--                                          target="_blank">Concert programme</a></p>-->
-                                    <p><a href="https://www.duobizart.be/"
-                                          target="_blank">More about duo b!z'art</a>
-                                    </p>
-                                    <p><a href="https://www.youtube.com/watch?v=efRT7-r8MSU"
-                                          target="_blank">Listen to them play</a> Mendelssohn</p>
-                                </div>
-                            </li>
 
                             <li class="clearfix list-group-item dms-list-item-prev" id="PianoDay">
                                 <div class="col-sm-3">
@@ -352,7 +215,8 @@ htmlHead($title);
                                 <div class="col-sm-6">
                                     <p>After last year's success we're delighted to run the Music in Dollar Piano Day for
                                         young people again. This time the focus is on young people performing a favourite
-                                        piece in their own way.</p>
+                                        piece in their own way. See the <a href="season/2324/weplay-piano-poster.png.pdf" target="_blank">poster</a>
+                                        and <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.</p>
                                     <p>Mavy Williamson will provide expert tuition and guidance as the pianists rehearse and perform their chosen pieces.
                                         All abilities and ages from 5-19 are welcome – don't be shy.</p>
                                     <p>Fresh interpretations, famous and not so famous pieces, and free!
@@ -453,18 +317,157 @@ htmlHead($title);
         </div>
     </div>
 
-    <!--    <div id="PrevConcert" class="row">-->
-    <!--        <div class="col-sm-12">-->
-    <!--            <h3 class="text-info">Previous concerts</h3>-->
-    <!--        </div>-->
-    <!--    </div>-->
-    <!--    <div class="row">-->
-    <!--        <div class="col-sm-12">-->
-    <!--            <ul class="list-group">-->
-    <!---->
-    <!--            </ul>-->
-    <!--        </div>-->
-    <!--    </div>-->
+    <div id="PrevConcert" class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Previous concerts</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="RoseRoom">
+                    <div class="col-sm-3">
+                        <h3>Rose Room</h3>
+                        <h4 class="text-info">
+                            Saturday, 21<span class="subscript">st</span> October 2023
+                        </h4>
+                        <p>Time 7:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <p>Pre-concert performance from 7:15pm</p>
+<!--                        <div id="buyticketroseroom">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/593010/"-->
+<!--                               target="_blank">Buy tickets</a>-->
+<!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2324/Rose-Room-095-240.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>According to Jazz Scotland, Rose Room are “the hottest ticket in Scotland right
+                            now”, playing Swing jazz in the gypsy style, following in the footsteps of the great
+                            Django Reinhardt and Stephane Grappelli.
+                        </p>
+                        <p>
+                            Led by virtuoso fiddle player and vocalist Seonaid Aitken (who also plays with
+                            Scottish Opera Orchestra), the band features a star line-up comprising
+                            Scotland’s No.1 guitar maker Jimmy Moon of 'Moon Guitars’ (double
+                            bass), Celtic Connections’ award-winners ‘Swing Guitars’ Tam Gallagher
+                            and Tom Watson on rhythm and solo guitars respectively.
+                        </p>
+                        <p>Don't miss ‘Ensemble of the Year’ in the several ‘Scottish Jazz Awards’!</p>
+                        <p><span class="fa fa-quote-left"></span><i>Rose Room swing harder than an elm tree in
+                                a force nine English gale…</i><span
+                                    class="fa fa-quote-right"></span> Shetland News</p>
+                        <p><span class="fa fa-quote-left"></span><i>As close to the sound of the great Stephane Grappelli as I think you’re going to
+
+                                hear in Scotland</i><span
+                                    class="fa fa-quote-right"></span> BBC Radio Scotland</p>
+                        <p><a href="/season/2324/Programme-231021-RoseRoom.pdf"
+                              target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="http://roseroom.co.uk/"
+                               target="_blank">More about Rose Room</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=IivIT45086g"
+                              target="_blank">Listen to Rose Room in concert</a>, what an infectious beat along with the fantastic playing.</p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="RachelHair">
+                    <div class="col-sm-3">
+                        <h3>Rachel Hair</h3>
+                        <h4 class="text-info">
+                            Sunday, 12<span class="subscript">th</span> November 2023
+                        </h4>
+                        <p>Time 3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <p>Pre-concert performance from 2:45pm</p>
+<!--                        <div id="buyticketrachelhair">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/593012/"-->
+<!--                               target="_blank">Buy tickets</a>-->
+<!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2324/rachelhair-240.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Widely recognised as one of the world’s finest exponents of Scottish Harp (clarsach),
+                            Rachel Hair partners with guitarist and fiddler Ron Jappy to showcase both the deep tradition
+                            and modern vibe of Scottish music.
+                        </p>
+                        <p>
+                            From crisp strathspeys and heartfelt airs, to virtuosic reels and driving jigs, this is not music for taking a nap!
+                            The Glasgow-based duo tour widely, and Rachel is active throughput the Celtic world and beyond in Europe
+                            promoting traditional and contemporary harp playing.
+                        </p>
+                        <p><span class="fa fa-quote-left"></span><i>sheer perfection... major new talent </i><span
+                                    class="fa fa-quote-right"></span> - Irish Musical Review</p>
+                        <p><span class="fa fa-quote-left"></span><i>spectacular acoustic musical tour</i><span
+                                    class="fa fa-quote-right"></span> - Folks & Roots</p>
+                        <!--                                    <p><a href="/season/2324/Programme-231112-RachelHair.pdf"-->
+                        <!--                                          target="_blank">Concert programme</a>-->
+                        <!--                                    </p>-->
+                        <p>
+                            <a href="https://www.rachelhair.com/"
+                               target="_blank">More about Rachel Hair</a>
+                        </p>
+                        <p><a href="https://www.rachelhair.com/videos/"
+                              target="_blank">Watch Rachel and Ron play</a>, on a New Zealand beach!</p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="ChoirDay">
+                    <div class="col-sm-3">
+                        <h3>Open Choir Day - Come and Sing!</h3>
+                        <p class="specialhilite italic">Free of charge - all welcome</p>
+                        <h4 class="text-info">
+                            Sunday 19<span class="subscript">th</span> November 2023
+                        </h4>
+                        <!--                                    <p>2:00pm (ends 5pm) Gibson Hall, Dollar <a-->
+                        <p>Time 1:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+<!--                        <div id="registeropenchoirday">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/594703/"-->
+<!--                               target="_blank">Register</a>-->
+<!--                            <p></p>-->
+<!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2223/choir-cartoon-240.jpeg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>There's no better way to feel good than to sing! Music in Dollar has organised a
+                            day where you can do just that – with some expert tuition along the way.
+                            Singing doesn't require an instrument – it's you! Everyone can do it, so why not
+                            come along and have some fun.
+                            No music reading skills are needed.</p>
+                        <p>The format will be to learn a few songs (popular, folk, classical), with a vocal
+                            workshop led by expert tutor Brian McBride to help bring it all together. The theme this time is 'Musical Theatre'. At
+                            the end the 'choir' will perform the songs for anyone who wants to come along
+                            and listen.</p>
+                        <p>This is a community event, so all are welcome at no cost. Bring along friends and
+                            family, anyone who is interested to either sing themselves or listen to
+                            others.</p>
+                        <p>Water will be provided. Bring along any other edibles to keep you going. A pencil
+                            might also be handy for taking notes.</p>
+                        <p>If you'd like to come along then registering using the button on the left will help us
+                            to prepare for the right number of people.</p>
+                        <p>Those who don't fancy singing can still enjoy the sounds of those that do. Come
+                            along and listen - it's free!</p>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+    </div>
 
 </div>
 
