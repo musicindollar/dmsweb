@@ -30,13 +30,12 @@ htmlHead($title);
                         </p>
                         <!--                        <p><img src="image/2324/harvest-sm.png"></img> Tony Baldwin <a href="season/2324/Harvest 1_10_23.pdf" target="_blank">will perform an organ recital in Dollar Parish Church</a> on Sunday 1st October, as part of the Celebration of Harvest.-->
                         <!--                        </p>-->
-                        <p><span class="fa fa-music"></span> Let's Play Music's <a href="season/2324/LetsPlayMusic-Dec23.png.pdf" target="_blank">next community music making event</a> is in Dollar Parish Church on 10th December 3pm.
-                            Previous events have been well attended and attracted rave reviews. Why not come along and hear why? Free entry and a big welcome for all.
+                        <p><span class="fa fa-music"></span> Duo Bizart were fabulous! Lyrical, powerful and spookily well synchronised.
                         </p>
-                        <p><span class="fa fa-user"></span> Come and Sing was great fun!
-                            Led by the warm, engaging and amazing voice of expert tutor Brian McBride, we learned to sing a couple of musical theatre songs:
-                            Age of Aquarius and Good Morning Baltimore.
-                        </p>
+<!--                        <p><span class="fa fa-user"></span> Come and Sing was great fun!-->
+<!--                            Led by the warm, engaging and amazing voice of expert tutor Brian McBride, we learned to sing a couple of musical theatre songs:-->
+<!--                            Age of Aquarius and Good Morning Baltimore.-->
+<!--                        </p>-->
                         <!--                        <p><span class="fa fa-coffee"></span> The Coffee Morning was rather quiet. Where was everyone? Despite that, those who came along were treated to-->
                         <!--                            a fantastic batch of scones, along with the usual raffle, quiz and preview of this season's musicians.-->
                         <!--                        </p>-->
@@ -134,44 +133,42 @@ htmlHead($title);
         <div class="col-sm-12">
             <h3 class="text-info">Next event</h3>
             <ul class="list-group">
-                <li class="clearfix list-group-item dms-list-item-next" id="DuoBizart">
+
+                <li class="clearfix list-group-item dms-list-item-next" id="ScottishClarinetChoir">
                     <div class="col-sm-3">
-                        <h3>duo b!z'art</h3>
+                        <h3>Trio Ecossaise</h3>
                         <h4 class="text-info">
-                            Sunday, 14<span class="subscript">th</span> January 2024
+                            Sunday, 4<span class="subscript">th</span> February 2024
                         </h4>
                         <p>3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <p>Pre-concert performance from 2:45pm</p>
-                        <div id="buyticketduobizart">
+                        <div id="buyticket-trioecossaise">
                             <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/593014/"
+                               href="https://www.wegottickets.com/event/593016/"
                                target="_blank">Buy tickets</a>
                             <p></p>
                         </div>
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2324/Duobizart6-240.jpg"/>
+                        <img src="/image/2324/trioecossaise1-240.jpeg"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>One piano, four hands. Since 2004 Belgian pianists Geoffrey Baptiste and André Roe have been developing a unique approach to performance, with concerts a “complete lived experience”.
-                            Combining great musical works for piano duo, strong themes (Aboard the Orient Express, Tales and Legends, etc), with theatre and projection</p>
-                        <p>Their repertoire has similar themes, ranging from the romantic to 20th century with a subtle mix of undisputed masterpieces and unjustly neglected works.
+                        <p>For 15 years, Jennifer Brown (clarinet), Harriet Davidson (cello) and Claire Haslin (piano) have been performing
+                            across concert hall, schools and social settings. Their repertoire ranges from the classics (Beethoven, Brahms),
+                            to hidden gems (Ireland, Glinka), and all-female composer programmes (Schumann, Farrenc, Tailleferre & Walker)</p>
+                        <p><span class="fa fa-quote-left"></span><i>Holy Trinity Church was filled with wonderful music
+                                performed by the hugely talented Trio Ecossaise...
+                                the combination was sublime... a superb performance</i><span
+                                    class="fa fa-quote-right"></span> – Crail Festival</p>
+                        <p><span class="fa fa-quote-left"></span><i>Trio Ecossaise brought a ray of sunshine</i><span
+                                    class="fa fa-quote-right"></span> – Campbelltown Courier</p>
+                        <!--                        <a href="/season/2324/Programme-240204-TrioEcossaisepdf"-->
+                        <!--                           target="_blank">Concert programme</a>-->
+                        <p><a href="https://www.trioecossaise.com/"
+                              target="_blank">More about Trio Ecossaise</a>
                         </p>
-                        <p><span class="fa fa-quote-left"></span><i>unusual and pretty original... so precise as a team that one could imagine it was just one player</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Fylde Music Circle</p>
-                        <p><span class="fa fa-quote-left"></span><i>played with real energy and so perfectly co-ordinated</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Maidenhead Music</p>
-                        <!--                                    <p><a href="/season/2324/Programme-240114-DuoBizart.pdf"-->
-                        <!--                                          target="_blank">Concert programme</a></p>-->
-                        <p><a href="https://www.duobizart.be/"
-                              target="_blank">More about duo b!z'art</a>
-                        </p>
-                        <p><a href="https://www.youtube.com/watch?v=efRT7-r8MSU"
-                              target="_blank">Listen to them play</a> Mendelssohn</p>
                     </div>
                 </li>
 
@@ -192,85 +189,7 @@ htmlHead($title);
                     <div class="col-sm-12">
                         <ul class="list-group">
 
-                            <li class="clearfix list-group-item dms-list-item-prev" id="PianoDay">
-                                <div class="col-sm-3">
-                                    <h3>Piano Day</h3>
-                                    <p class="specialhilite italic">Free of charge - all welcome</p>
-                                    <h4 class="text-info">
-                                        Sunday, 28<span class="subscript">th</span> January 2024
-                                    </h4>
-                                    <p>2:00pm Gibson Hall, Dollar <a
-                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                            7DU</a></p>
-                                    <div id="registerpianoday">
-                                        <a type="button" class="btn btn-info btn-blocks"
-                                           href="https://www.wegottickets.com/event/595107/"
-                                           target="_blank">Register</a>
-                                        <p></p>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <img src="/image/2122/piano-keyboardangle-240.jpg"/>
-                                </div>
-                                <div class="col-sm-6">
-                                    <p>After last year's success we're delighted to run the Music in Dollar Piano Day for
-                                        young people again. This time the focus is on young people performing a favourite
-                                        piece in their own way. See the <a href="season/2324/weplay-piano-poster.png.pdf" target="_blank">poster</a>
-                                        and <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.</p>
-                                    <p>Mavy Williamson will provide expert tuition and guidance as the pianists rehearse and perform their chosen pieces.
-                                        All abilities and ages from 5-19 are welcome – don't be shy.</p>
-                                    <p>Fresh interpretations, famous and not so famous pieces, and free!
-                                        No charge to enter as player or listener, so what better way to spend a Sunday
-                                        afternoon.</p>
-                                    <p>Refreshments will be provided.</p>
-                                    <p>For those who are too old to play, why not come along and hear musicians of the
-                                        future? It's free, and should be a varied and stimulating afternoon!</p>
-                                    <p>We also plan to run a second Piano Day later in the year.</p>
-                                    <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
-                                    <!--                           target="_blank">Concert programme</a>-->
-                                    <!--                        </p>-->
-                                </div>
-                            </li>
-
-                            <li class="clearfix list-group-item dms-list-item-prev" id="ScottishClarinetChoir">
-                                <div class="col-sm-3">
-                                    <h3>Trio Ecossaise</h3>
-                                    <h4 class="text-info">
-                                        Sunday, 4<span class="subscript">th</span> February 2024
-                                    </h4>
-                                    <p>3:00pm Gibson Hall, Dollar <a
-                                                href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                            7DU</a></p>
-                                    <p>Pre-concert performance from 2:45pm</p>
-                                    <div id="buyticket-trioecossaise">
-                                        <a type="button" class="btn btn-info btn-blocks"
-                                           href="https://www.wegottickets.com/event/593016/"
-                                           target="_blank">Buy tickets</a>
-                                        <p></p>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <img src="/image/2324/trioecossaise1-240.jpeg"/>
-                                </div>
-                                <div class="col-sm-6">
-                                    <p>For 15 years, Jennifer Brown (clarinet), Harriet Davidson (cello) and Claire Haslin (piano) have been performing
-                                        across concert hall, schools and social settings. Their repertoire ranges from the classics (Beethoven, Brahms),
-                                        to hidden gems (Ireland, Glinka), and all-female composer programmes (Schumann, Farrenc, Tailleferre & Walker)</p>
-                                    <p><span class="fa fa-quote-left"></span><i>Holy Trinity Church was filled with wonderful music
-                                            performed by the hugely talented Trio Ecossaise...
-                                            the combination was sublime... a superb performance</i><span
-                                                class="fa fa-quote-right"></span> – Crail Festival</p>
-                                    <p><span class="fa fa-quote-left"></span><i>Trio Ecossaise brought a ray of sunshine</i><span
-                                                class="fa fa-quote-right"></span> – Campbelltown Courier</p>
-                                    <!--                        <a href="/season/2324/Programme-240204-TrioEcossaisepdf"-->
-                                    <!--                           target="_blank">Concert programme</a>-->
-                                    <p><a href="https://www.trioecossaise.com/"
-                                          target="_blank">More about Trio Ecossaise</a>
-                                    </p>
-                                </div>
-                            </li>
-
-                            <li class="clearfix list-group-item dms-list-item-prev" id="AlbaChallah">
+                            <li class="clearfix list-group-item dms-list-item" id="AlbaChallah">
                                 <div class="col-sm-3">
                                     <h3>Alba Challah</h3>
                                     <h4 class="text-info">
@@ -462,6 +381,87 @@ htmlHead($title);
                             to prepare for the right number of people.</p>
                         <p>Those who don't fancy singing can still enjoy the sounds of those that do. Come
                             along and listen - it's free!</p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="DuoBizart">
+                    <div class="col-sm-3">
+                        <h3>duo b!z'art</h3>
+                        <h4 class="text-info">
+                            Sunday, 14<span class="subscript">th</span> January 2024
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <p>Pre-concert performance from 2:45pm</p>
+                        <div id="buyticketduobizart">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/593014/"
+                               target="_blank">Buy tickets</a>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2324/Duobizart6-240.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>One piano, four hands. Since 2004 Belgian pianists Geoffrey Baptiste and André Roe have been developing a unique approach to performance, with concerts a “complete lived experience”.
+                            Combining great musical works for piano duo, strong themes (Aboard the Orient Express, Tales and Legends, etc), with theatre and projection</p>
+                        <p>Their repertoire has similar themes, ranging from the romantic to 20th century with a subtle mix of undisputed masterpieces and unjustly neglected works.
+                        </p>
+                        <p><span class="fa fa-quote-left"></span><i>unusual and pretty original... so precise as a team that one could imagine it was just one player</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Fylde Music Circle</p>
+                        <p><span class="fa fa-quote-left"></span><i>played with real energy and so perfectly co-ordinated</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Maidenhead Music</p>
+                        <!--                                    <p><a href="/season/2324/Programme-240114-DuoBizart.pdf"-->
+                        <!--                                          target="_blank">Concert programme</a></p>-->
+                        <p><a href="https://www.duobizart.be/"
+                              target="_blank">More about duo b!z'art</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=efRT7-r8MSU"
+                              target="_blank">Listen to them play</a> Mendelssohn</p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="PianoDay">
+                    <div class="col-sm-3">
+                        <h3>Piano Day</h3>
+                        <p class="specialhilite italic">Free of charge - all welcome</p>
+                        <h4 class="text-info">
+                            Sunday, 28<span class="subscript">th</span> January 2024
+                        </h4>
+                        <p>2:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <div id="registerpianoday">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/595107/"
+                               target="_blank">Register</a>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2122/piano-keyboardangle-240.jpg"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>After last year's success we're delighted to run the Music in Dollar Piano Day for
+                            young people again. This time the focus is on young people performing a favourite
+                            piece in their own way. See the <a href="season/2324/weplay-piano-poster.png.pdf" target="_blank">poster</a>
+                            and <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.</p>
+                        <p>Mavy Williamson will provide expert tuition and guidance as the pianists rehearse and perform their chosen pieces.
+                            All abilities and ages from 5-19 are welcome – don't be shy.</p>
+                        <p>Fresh interpretations, famous and not so famous pieces, and free!
+                            No charge to enter as player or listener, so what better way to spend a Sunday
+                            afternoon.</p>
+                        <p>Refreshments will be provided.</p>
+                        <p>For those who are too old to play, why not come along and hear musicians of the
+                            future? It's free, and should be a varied and stimulating afternoon!</p>
+                        <p>We also plan to run a second Piano Day later in the year.</p>
+                        <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
+                        <!--                           target="_blank">Concert programme</a>-->
+                        <!--                        </p>-->
                     </div>
                 </li>
 
