@@ -30,12 +30,14 @@ htmlHead($title);
                         </p>
                         <!--                        <p><img src="image/2324/harvest-sm.png"></img> Tony Baldwin <a href="season/2324/Harvest 1_10_23.pdf" target="_blank">will perform an organ recital in Dollar Parish Church</a> on Sunday 1st October, as part of the Celebration of Harvest.-->
                         <!--                        </p>-->
+                        <p><span class="fa fa-thumbs-o-up"></span> Well done to all students who took part in the Piano Day! A great variety of pieces and styles, and very enjoyable afternoon.
+                        </p>
                         <p><span class="fa fa-music"></span> Duo Bizart were fabulous! Lyrical, powerful and spookily well synchronised.
                         </p>
-<!--                        <p><span class="fa fa-user"></span> Come and Sing was great fun!-->
-<!--                            Led by the warm, engaging and amazing voice of expert tutor Brian McBride, we learned to sing a couple of musical theatre songs:-->
-<!--                            Age of Aquarius and Good Morning Baltimore.-->
-<!--                        </p>-->
+                        <!--                        <p><span class="fa fa-user"></span> Come and Sing was great fun!-->
+                        <!--                            Led by the warm, engaging and amazing voice of expert tutor Brian McBride, we learned to sing a couple of musical theatre songs:-->
+                        <!--                            Age of Aquarius and Good Morning Baltimore.-->
+                        <!--                        </p>-->
                         <!--                        <p><span class="fa fa-coffee"></span> The Coffee Morning was rather quiet. Where was everyone? Despite that, those who came along were treated to-->
                         <!--                            a fantastic batch of scones, along with the usual raffle, quiz and preview of this season's musicians.-->
                         <!--                        </p>-->
@@ -164,8 +166,8 @@ htmlHead($title);
                                     class="fa fa-quote-right"></span> – Crail Festival</p>
                         <p><span class="fa fa-quote-left"></span><i>Trio Ecossaise brought a ray of sunshine</i><span
                                     class="fa fa-quote-right"></span> – Campbelltown Courier</p>
-                        <!--                        <a href="/season/2324/Programme-240204-TrioEcossaisepdf"-->
-                        <!--                           target="_blank">Concert programme</a>-->
+                        <p><a href="/season/2324/Programme-240204-TrioEcossaise.pdf"
+                           target="_blank">Concert programme</a></p>
                         <p><a href="https://www.trioecossaise.com/"
                               target="_blank">More about Trio Ecossaise</a>
                         </p>
@@ -255,11 +257,11 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <p>Pre-concert performance from 7:15pm</p>
-<!--                        <div id="buyticketroseroom">-->
-<!--                            <a type="button" class="btn btn-info btn-blocks"-->
-<!--                               href="https://www.wegottickets.com/event/593010/"-->
-<!--                               target="_blank">Buy tickets</a>-->
-<!--                        </div>-->
+                        <!--                        <div id="buyticketroseroom">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="https://www.wegottickets.com/event/593010/"-->
+                        <!--                               target="_blank">Buy tickets</a>-->
+                        <!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2324/Rose-Room-095-240.jpg"/>
@@ -306,11 +308,11 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <p>Pre-concert performance from 2:45pm</p>
-<!--                        <div id="buyticketrachelhair">-->
-<!--                            <a type="button" class="btn btn-info btn-blocks"-->
-<!--                               href="https://www.wegottickets.com/event/593012/"-->
-<!--                               target="_blank">Buy tickets</a>-->
-<!--                        </div>-->
+                        <!--                        <div id="buyticketrachelhair">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="https://www.wegottickets.com/event/593012/"-->
+                        <!--                               target="_blank">Buy tickets</a>-->
+                        <!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2324/rachelhair-240.jpg"/>
@@ -352,12 +354,12 @@ htmlHead($title);
                         <p>Time 1:30pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-<!--                        <div id="registeropenchoirday">-->
-<!--                            <a type="button" class="btn btn-info btn-blocks"-->
-<!--                               href="https://www.wegottickets.com/event/594703/"-->
-<!--                               target="_blank">Register</a>-->
-<!--                            <p></p>-->
-<!--                        </div>-->
+                        <!--                        <div id="registeropenchoirday">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="https://www.wegottickets.com/event/594703/"-->
+                        <!--                               target="_blank">Register</a>-->
+                        <!--                            <p></p>-->
+                        <!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2223/choir-cartoon-240.jpeg"/>
