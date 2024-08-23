@@ -12,7 +12,7 @@ function showHeaderBar($tag)
                         class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="/index.php"><img
-                        src="/image/dmslogo-oval-trans-48.png" style="padding-right: 5px;"/>
+                        src="/image/dmslogo-oval-trans-48.png" style="padding-right: 5px;" alt="logo"/>
                 Music in Dollar </a>
         </div>
         <div class="navbar-collapse collapse navbar-inverse-collapse">
@@ -26,6 +26,8 @@ function showHeaderBar($tag)
                         <b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu">
+                        <li class="<?php if ($tag == "archive2324") echo "active"; ?>"><a
+                                    href="/season/2324/season2324.php">Season 2023-24</a></li>
                         <li class="<?php if ($tag == "archive2223") echo "active"; ?>"><a
                                     href="/season/2223/season2223.php">Season 2022-23</a></li>
                         <li class="<?php if ($tag == "archive2122") echo "active"; ?>"><a

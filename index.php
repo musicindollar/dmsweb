@@ -16,7 +16,7 @@ htmlHead($title);
     <div class="navbar navbar-nomargin well clearfix home-subheader">
         <div class="row">
             <div class="col-sm-12" style="">
-                <img src="image/dollarthumbs2.jpeg" class="widthfull"/>
+                <img src="image/dollarthumbs2.jpeg" class="widthfull" alt="collage"/>
             </div>
         </div>
         <div class="row">
@@ -33,20 +33,24 @@ htmlHead($title);
                         <!--                        <p><span class="fa fa-star"></span> The next <a href="image/2324/LetsPlayMusic-240310.jpg" target="_blank">Let's Play Music</a>-->
                         <!--                            event will be in Dollar Parish Church on 10th March Always a great event, showcasing local musical talent!-->
                         <!--                        </p>-->
-                        <p><span class="fa fa-music"></span> Trio Ecossaise played a well-balanced programme
-                            beautifully.
-                            The Gwyneth Walker piece was a particular treat, with its quirky slides, lovely tone
-                            textures and witty arrangements.
-                        </p>
                         <!--                        <p><span class="fa fa-thumbs-o-up"></span> Well done to all students who took part in the Piano Day! A great variety of pieces and styles, and very enjoyable afternoon.-->
                         <!--                        </p>-->
                         <!--                        <p><span class="fa fa-user"></span> Come and Sing was great fun!-->
                         <!--                            Led by the warm, engaging and amazing voice of expert tutor Brian McBride, we learned to sing a couple of musical theatre songs:-->
                         <!--                            Age of Aquarius and Good Morning Baltimore.-->
                         <!--                        </p>-->
-                        <!--                        <p><span class="fa fa-coffee"></span> The Coffee Morning was rather quiet. Where was everyone? Despite that, those who came along were treated to-->
-                        <!--                            a fantastic batch of scones, along with the usual raffle, quiz and preview of this season's musicians.-->
-                        <!--                        </p>-->
+                        <p><span class="fa fa-coffee"></span> The annual Coffee Morning is planned for Saturday 21st
+                            September @10:00, in the Burnside Hall as usual.
+                            This is our usual season opener and a great way to sample sounds from the season's artists
+                            alongside home baking, games and chat.
+                            Come along and see what's upcoming!
+                            Free complimentary tickets given for all Season Tickets bought before the opening concert,
+                            so treat friends and family to a free concert.
+                        </p>
+                        <p><span class="fa fa-ticket"></span> Ticket prices have been held the same as last season.
+                            You won't find the highest quality professional music cheaper anywhere!
+                        </p>
+
                         <!--                        <p><span class="fa fa-cc-discover"></span> We're busy preparing for next season - watch this space for announcements!-->
                         <!--                        </p>-->
                         <!--                        <p><span class="fa fa-calendar"></span> Renowned violinist <a href="https://en.wikipedia.org/wiki/Rachel_Podger" target="_blank">Rachel Podger</a> <a-->
@@ -93,17 +97,17 @@ htmlHead($title);
         </div>
     </div>
 
-    <div id="WhatsOn" class="row">
+    <div id="WhatsOnWrapper" class="row">
         <div class="col-sm-6">
-            <h2>2023-24 Season</h2>
+            <h2 id="WhatsOn">2024-25 Season</h2>
         </div>
         <div class="col-sm-6 margintop10">
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <a href="season/2324/MiD-Leaflet-2023-24.pdf" target="_blank">View</a>
+                    <a href="javascript:alert('Coming soon')" disabled tabindex="-1">View</a>
                     the full programme for the current season [PDF 0.7MB] <a
-                            href="season/2324/MiD-Leaflet-2023-24.pdf" target="_blank"><img
-                                src="image/pdf.jpeg"/></a>
+                            href="javascript:alert('TBD')"><img
+                                src="image/pdf.jpeg" alt="PDF icon"/></a>
                 </div>
             </div>
         </div>
@@ -126,11 +130,11 @@ htmlHead($title);
                             per concert, unbeatable value!</p>
                         <p>Choose how you'd like to pay: online using the button below, buy at the door (card or cash),
                             or <a href="contact.php">contact us</a> to request bank transfer details.</p>
-                        <!--                        <div id="buyseasonticket">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/593008"-->
-                        <!--                               target="_blank">Buy season tickets</a>-->
-                        <!--                        </div>-->
+                        <div id="buyseasonticket">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/631170"
+                               target="_blank">Buy season tickets</a>
+                        </div>
                     </div>
                 </li>
 
@@ -144,45 +148,46 @@ htmlHead($title);
 
                 <li class="clearfix list-group-item dms-list-item-next" id="AlbaChallah">
                     <div class="col-sm-3">
-                        <h3>Alba Challah</h3>
+                        <h3>Eilidh Grant Trio</h3>
                         <h4 class="text-info">
-                            Saturday, 16<span class="subscript">th</span> March 2024
+                            Sunday, 27<span class="subscript">th</span> October 2024
                         </h4>
-                        <p>7:30pm Gibson Hall, Dollar <a
+                        <p>3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <p>Pre-concert performance from 7:15pm</p>
-                        <div id="buyticket-albachallah">
+                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
+                        <div id="buyticket-eilishgrant">
                             <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/593018/"
+                               href="https://www.wegottickets.com/event/631320/"
                                target="_blank">Buy tickets</a>
                             <p></p>
                         </div>
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2324/albachallah-240.jpeg" alt="Alba Challah picture"/>
+                        <img src="/image/2425/EilidhGrantTrio-2-240.png" alt="Eilidh Grant Trio picture"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>Alba Challah are a diverse group of Scottish and international musicians, playing an
-                            intoxicating fusion of Klezmer, classical and World music styles.
-                            Featuring clarinet, viola, cello, accordion, bass and percussion, they explore a vibrant and
-                            uplifting sonic landscape.</p>
-                        <p>Klezmer is a European Jewish instrumental musical tradition characterised by dance tunes,
-                            ritual melodies, and virtuosic improvisations.
-                            In recent times Klezmer is often a fusion with other styles.</p>
-                        <p><span class="fa fa-quote-left"></span><i>excellent and entertaining performance... clearly a
-                                group of very talented musicians</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Ann Napier, The Osprey Music Society</p>
-                        <p><span class="fa fa-quote-left"></span><i>full of passion, brilliance and supreme
-                                intelligence</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Cowal Music Club</p>
-                        <p><a href="/season/2324/Programme-240316-AlbaChallah.pdf" target="_blank">Concert programme</a>
+                        <p>Eilidh Grant is a renowned and popular Scottish traditional and folk singer.</p>
+                        <p>The Trio featuring vocalist Eilidh Grant, Fiona Cuthill on fiddle and Stevie Lawrence on
+                            acoustic guitar and bouzouki,
+                            brings a wide range of musical influences to create a unique sound.
+                            With a love for traditional and contemporary folk alike, underpinned by a passion for the
+                            works of Robert Burns,
+                            Eilidh’s stunning voice beautifully renders both classic folk songs and original material
+                            and has made a considerable
+                            impression on the British and European folk scenes.
                         </p>
-                        <p><a href="https://www.classicalmusiciansscotland.com/artists/alba-challah/"
-                              target="_blank">More about Alba Challah</a>
+                        <!--                        <p><span class="fa fa-quote-left"></span><i>excellent and entertaining performance... clearly a-->
+                        <!--                                group of very talented musicians</i><span-->
+                        <!--                                    class="fa fa-quote-right"></span>-->
+                        <!--                            – Ann Napier, The Osprey Music Society</p>-->
+                        <!--                        <p><a href="/season/2425/Programme-241027-EilidhGrant.pdf" target="_blank">Concert programme</a>-->
+                        <!--                        </p>-->
+                        <p><a href="https://www.facebook.com/theeilidhgrant/"
+                              target="_blank">More about Eilidh Grant Trio</a>
                         </p>
+                        <p><a href="https://www.youtube.com/watch?v=G5sfPuT26lk"
+                              target="_blank">Listen to some samples of the Trio's tunes</a></p>
                     </div>
                 </li>
 
@@ -190,135 +195,21 @@ htmlHead($title);
         </div>
     </div>
 
-    <!--    <div class="row">-->
-    <!--        <div class="col-sm-12">-->
-    <!--            <h3 class="text-info">Still to come</h3>-->
-    <!--        </div>-->
-    <!--    </div>-->
-    <!--    <div class="row">-->
-    <!--        <div class="col-sm-12">-->
-    <!--            <ul class="list-group">-->
-    <!---->
-    <!--            </ul>-->
-    <!--        </div>-->
-    <!--    </div>-->
-
-    <div id="PrevConcert" class="row">
+    <div class="row">
         <div class="col-sm-12">
-            <h3 class="text-info">Previous concerts</h3>
+            <h3 class="text-info">Still to come</h3>
         </div>
     </div>
     <div class="row">
         <div class="col-sm-12">
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-prev" id="RoseRoom">
-                    <div class="col-sm-3">
-                        <h3>Rose Room</h3>
-                        <h4 class="text-info">
-                            Saturday, 21<span class="subscript">st</span> October 2023
-                        </h4>
-                        <p>Time 7:30pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <p>Pre-concert performance from 7:15pm</p>
-                        <!--                        <div id="buyticketroseroom">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/593010/"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2324/Rose-Room-095-240.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>According to Jazz Scotland, Rose Room are “the hottest ticket in Scotland right
-                            now”, playing Swing jazz in the gypsy style, following in the footsteps of the great
-                            Django Reinhardt and Stephane Grappelli.
-                        </p>
-                        <p>
-                            Led by virtuoso fiddle player and vocalist Seonaid Aitken (who also plays with
-                            Scottish Opera Orchestra), the band features a star line-up comprising
-                            Scotland’s No.1 guitar maker Jimmy Moon of 'Moon Guitars’ (double
-                            bass), Celtic Connections’ award-winners ‘Swing Guitars’ Tam Gallagher
-                            and Tom Watson on rhythm and solo guitars respectively.
-                        </p>
-                        <p>Don't miss ‘Ensemble of the Year’ in the several ‘Scottish Jazz Awards’!</p>
-                        <p><span class="fa fa-quote-left"></span><i>Rose Room swing harder than an elm tree in
-                                a force nine English gale…</i><span
-                                    class="fa fa-quote-right"></span> Shetland News</p>
-                        <p><span class="fa fa-quote-left"></span><i>As close to the sound of the great Stephane
-                                Grappelli as I think you’re going to
-
-                                hear in Scotland</i><span
-                                    class="fa fa-quote-right"></span> BBC Radio Scotland</p>
-                        <p><a href="/season/2324/Programme-231021-RoseRoom.pdf"
-                              target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="http://roseroom.co.uk/"
-                               target="_blank">More about Rose Room</a>
-                        </p>
-                        <p><a href="https://www.youtube.com/watch?v=IivIT45086g"
-                              target="_blank">Listen to Rose Room in concert</a>, what an infectious beat along with the
-                            fantastic playing.</p>
-                    </div>
-                </li>
-
-                <li class="clearfix list-group-item dms-list-item-prev" id="RachelHair">
-                    <div class="col-sm-3">
-                        <h3>Rachel Hair</h3>
-                        <h4 class="text-info">
-                            Sunday, 12<span class="subscript">th</span> November 2023
-                        </h4>
-                        <p>Time 3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <p>Pre-concert performance from 2:45pm</p>
-                        <!--                        <div id="buyticketrachelhair">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/593012/"-->
-                        <!--                               target="_blank">Buy tickets</a>-->
-                        <!--                        </div>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2324/rachelhair-240.jpg"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Widely recognised as one of the world’s finest exponents of Scottish Harp (clarsach),
-                            Rachel Hair partners with guitarist and fiddler Ron Jappy to showcase both the deep
-                            tradition
-                            and modern vibe of Scottish music.
-                        </p>
-                        <p>
-                            From crisp strathspeys and heartfelt airs, to virtuosic reels and driving jigs, this is not
-                            music for taking a nap!
-                            The Glasgow-based duo tour widely, and Rachel is active throughput the Celtic world and
-                            beyond in Europe
-                            promoting traditional and contemporary harp playing.
-                        </p>
-                        <p><span class="fa fa-quote-left"></span><i>sheer perfection... major new talent </i><span
-                                    class="fa fa-quote-right"></span> - Irish Musical Review</p>
-                        <p><span class="fa fa-quote-left"></span><i>spectacular acoustic musical tour</i><span
-                                    class="fa fa-quote-right"></span> - Folks & Roots</p>
-                        <!--                                    <p><a href="/season/2324/Programme-231112-RachelHair.pdf"-->
-                        <!--                                          target="_blank">Concert programme</a>-->
-                        <!--                                    </p>-->
-                        <p>
-                            <a href="https://www.rachelhair.com/"
-                               target="_blank">More about Rachel Hair</a>
-                        </p>
-                        <p><a href="https://www.rachelhair.com/videos/"
-                              target="_blank">Watch Rachel and Ron play</a>, on a New Zealand beach!</p>
-                    </div>
-                </li>
-
                 <li class="clearfix list-group-item dms-list-item-prev" id="ChoirDay">
                     <div class="col-sm-3">
-                        <h3>Open Choir Day - Come and Sing!</h3>
+                        <h3>Come and Sing!</h3>
                         <p class="specialhilite italic">Free of charge - all welcome</p>
                         <h4 class="text-info">
-                            Sunday 19<span class="subscript">th</span> November 2023
+                            Sunday xx<span class="subscript">th</span> November 2024 TBC
                         </h4>
                         <!--                                    <p>2:00pm (ends 5pm) Gibson Hall, Dollar <a-->
                         <p>Time 1:30pm Gibson Hall, Dollar <a
@@ -332,7 +223,7 @@ htmlHead($title);
                         <!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2223/choir-cartoon-240.jpeg"/>
+                        <img src="/image/2223/choir-cartoon-240.jpeg" alt="Choir image"/>
                     </div>
                     <div class="col-sm-6">
                         <p>There's no better way to feel good than to sing! Music in Dollar has organised a
@@ -357,49 +248,105 @@ htmlHead($title);
                     </div>
                 </li>
 
-                <li class="clearfix list-group-item dms-list-item-prev" id="DuoBizart">
+                <li class="clearfix list-group-item dms-list-item-prev" id="DickLeeBrianKellock">
                     <div class="col-sm-3">
-                        <h3>duo b!z'art</h3>
+                        <h3>Dick Lee & Brian Kellock - The Story of Jazz</h3>
                         <h4 class="text-info">
-                            Sunday, 14<span class="subscript">th</span> January 2024
+                            Saunday, 17<span class="subscript">th</span> November 2024
                         </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
+                        <p>Time 3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <p>Pre-concert performance from 2:45pm</p>
-                        <div id="buyticketduobizart">
+                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
+                        <div id="buyticketleekellock">
                             <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/593014/"
+                               href="https://www.wegottickets.com/event/631322/"
                                target="_blank">Buy tickets</a>
-                            <p></p>
                         </div>
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2324/Duobizart6-240.jpg"/>
+                        <img src="/image/2425/lee-kellock-1-240.png" alt="Image of Dick Lee and Brian Kellock"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>One piano, four hands. Since 2004 Belgian pianists Geoffrey Baptiste and André Roe have been
-                            developing a unique approach to performance, with concerts a “complete lived experience”.
-                            Combining great musical works for piano duo, strong themes (Aboard the Orient Express, Tales
-                            and Legends, etc), with theatre and projection</p>
-                        <p>Their repertoire has similar themes, ranging from the romantic to 20th century with a subtle
-                            mix of undisputed masterpieces and unjustly neglected works.
+                        <p>Dick Lee and Briak Kellock are amongst the foremost contemporary Jazz musicians, in Scotland and worldwide.
+                            They have teamed up to showcase The Story of Jazz, featuring a tour through the highlights of that great and vibrant genre.
+                            While they are both virtuoso performers and improvisers, they span a wide range of musical styles and moods.
                         </p>
-                        <p><span class="fa fa-quote-left"></span><i>unusual and pretty original... so precise as a team
-                                that one could imagine it was just one player</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Fylde Music Circle</p>
-                        <p><span class="fa fa-quote-left"></span><i>played with real energy and so perfectly
-                                co-ordinated</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Maidenhead Music</p>
-                        <!--                                    <p><a href="/season/2324/Programme-240114-DuoBizart.pdf"-->
-                        <!--                                          target="_blank">Concert programme</a></p>-->
-                        <p><a href="https://www.duobizart.be/"
-                              target="_blank">More about duo b!z'art</a>
+                        <p>Over the last 50 years Dick has played and recorded with many artists and groups including Swing,
+                            The Psychiatrists, John Renbourn, Hebrides Ensemble, Scottish Chamber Orchestra, Michael Marra Band,
+                            Chita Rivera and Ken Mathieson's Classic Jazz Orchestra.
+                            He is a supreme entertainer and familiar performer here in Dollar, latterly with Ali Affleck,
+                            and several times with Swing.
                         </p>
-                        <p><a href="https://www.youtube.com/watch?v=efRT7-r8MSU"
-                              target="_blank">Listen to them play</a> Mendelssohn</p>
+                        <p>Brian is a leading jazz pianist in the UK, and has played with many of the greatest names in jazz
+                            over the past 30 years. Essentially a swing-based pianist, Brian loves to entertain and make the audience
+                            feel happy! He has played in Dollar many times in different ensembles, such as with saxophonist Tommy Smith.
+                        </p>
+                        <p><span class="fa fa-quote-left"></span><i>Dick Lee's an entertainer...
+                                also a brilliantly inventive musician, composer and bandleader...
+                                it may be an unorthodox prescription, but take two sets nightly and you'll need
+                                the resulting smile surgically removed</i><span
+                                    class="fa fa-quote-right"></span> Herald</p>
+                        <!--                        <p><a href="/season/2425/Programme-241117-LeeKellock.pdf"-->
+                        <!--                              target="_blank">Concert programme</a>-->
+                        <!--                        </p>-->
+                        <p>
+                            <a href="https://dicklee.org.uk/wp/"
+                               target="_blank">Brian's website.</a>
+                        </p>
+                        <p>
+                            <a href="https://dicklee.org.uk/wp/"
+                               target="_blank">Dick's website with some tunes composed during Covid lockdowns.</a>
+                        </p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="AntonineTrio">
+                    <div class="col-sm-3">
+                        <h3>Antonine Trio</h3>
+                        <h4 class="text-info">
+                            Sunday, 19<span class="subscript">th</span> January 2025
+                        </h4>
+                        <p>Time 3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                        <p>Pre-concert performance from 2:45pm</p>-->
+                        <div id="buyticketantoninetrio">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/631326/"
+                               target="_blank">Buy tickets</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2425/AntonineTrio-1-245.jpeg" alt="Image of Antonine Trio"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>The Antonine Trio is an innovative group featuring a blend of voice, French horn and piano.
+                        </p>
+                        <p>They perform a wide variety of musical styles, ranging from Mozart and Strauss
+                            through to new contemporary commissions, to theatre pieces, traditional folk melodies (eg Burns),
+                            and even Flanders and Swann!
+                            They love to get to know their audience, introducing their music with historical and
+                            musical detail and fascinating anecdotes.
+                        </p>
+                        <p>Steven Faughey (baritone) is a regular performer for Scottish Opera and other operatic ensembles.
+                            He is also closely involved with other areas of the Scottish Opera education department, visiting schools around Scotland.
+                        </p>
+                        <p>Sue Baxendale (horn) plays in the Scottish Opera orchestra, along with many other orchestras, and some solo concerto performances.
+                        </p>
+                        <p>Derek Clark (piano) started as an orchestral conductor and gues music coach, and was appointed Head of Music at Scottish Opera in 1997.
+                            He is a composed and arranger, inluding reduced orchestrations for touring opera performances.
+                            As an accompanist he plays with soloists and touring opera groups.
+                        </p>
+                        <p><span class="fa fa-quote-left"></span><i>sheer perfection... major new talent </i><span
+                                    class="fa fa-quote-right"></span> - Irish Musical Review</p>
+                        <!--                                    <p><a href="/season/2425/Programme-250119-AntonineTrio.pdf"-->
+                        <!--                                          target="_blank">Concert programme</a>-->
+                        <!--                                    </p>-->
+                        <p>
+                            <a href="https://www.classicalmusiciansscotland.com/artists/antonine-trio/"
+                               target="_blank">More about the Antonine Trio</a>
+                        </p>
                     </div>
                 </li>
 
@@ -408,24 +355,24 @@ htmlHead($title);
                         <h3>Piano Day</h3>
                         <p class="specialhilite italic">Free of charge - all welcome</p>
                         <h4 class="text-info">
-                            Sunday, 28<span class="subscript">th</span> January 2024
+                            Sunday, xx<span class="subscript">th</span> January 2025 TBC
                         </h4>
                         <p>2:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <div id="registerpianoday">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/595107/"
-                               target="_blank">Register</a>
-                            <p></p>
-                        </div>
+<!--                        <div id="registerpianoday">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/595107/"-->
+<!--                               target="_blank">Register</a>-->
+<!--                            <p></p>-->
+<!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2122/piano-keyboardangle-240.jpg"/>
+                        <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>After last year's success we're delighted to run the Music in Dollar Piano Day for
-                            young people again. This time the focus is on young people performing a favourite
+                        <p>We are delighted to run the Music in Dollar Piano Day for
+                            young people again. The focus is on young people performing a favourite
                             piece in their own way. See the <a href="season/2324/weplay-piano-poster.png.pdf"
                                                                target="_blank">poster</a>
                             and <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
@@ -446,43 +393,87 @@ htmlHead($title);
                     </div>
                 </li>
 
-                <li class="clearfix list-group-item dms-list-item-prev" id="TrioEcossaise">
+                <li class="clearfix list-group-item dms-list-item-prev" id="AsakaQuartet">
                     <div class="col-sm-3">
-                        <h3>Trio Ecossaise</h3>
+                        <h3>Asaka String Quartet</h3>
                         <h4 class="text-info">
-                            Sunday, 4<span class="subscript">th</span> February 2024
+                            Saturday, 22<span class="subscript">nd</span> February 2025
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                        <p>Pre-concert performance from 2:45pm</p>-->
+                        <div id="buyticketasakaQuartet">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/631328/"
+                               target="_blank">Buy tickets</a>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2425/AsakaQuartet-1-240.webp" alt="Image of Asaka Quartet"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>The Asaka String Quartet was formed in 2021 with members from Scotland, China and Hong Kong.
+                            Although quite new, they have already won multiple awards and come to Dollar as Tunnel Trust prize winners.
+                        </p>
+                        <p>As close friends, growing up on opposite sides of the world to the most contrasting of cultures,
+                            they have a keen interest in learning and experiencing new things,
+                            which lead them to enjoy discovering and sharing underrepresented music.
+                            Through presenting creative and innovative programmes, they invite their audiences to discover
+                            new repertoire from a fresh and exciting perspective.</p>
+                        <p><span class="fa fa-quote-left"></span><i>unusual and pretty original... so precise as a team
+                                that one could imagine it was just one player</i><span
+                                    class="fa fa-quote-right"></span>
+                            – Fylde Music Circle</p>
+                        <!--                                    <p><a href="/season/2324/Programme-240114-DuoBizart.pdf"-->
+                        <!--                                          target="_blank">Concert programme</a></p>-->
+                        <p><a href="https://www.asakaquartet.com/"
+                              target="_blank">More about the Asaka String Quartet</a>
+                        </p>
+                        <p><a href="https://www.asakaquartet.com/media"
+                              target="_blank">Listen to them play</a></p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="JiaNingNg">
+                    <div class="col-sm-3">
+                        <h3>Jia Ning Ng</h3>
+                        <h4 class="text-info">
+                            Sunday, 2<span class="subscript">nd</span> March 2025
                         </h4>
                         <p>3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <p>Pre-concert performance from 2:45pm</p>
-                        <div id="buyticket-trioecossaise">
-                            <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                            <!--                               href="https://www.wegottickets.com/event/593016/"-->
-                            <!--                               target="_blank">Buy tickets</a>-->
-                            <!--                            <p></p>-->
+                        <!--                        <p>Pre-concert performance from 2:45pm</p>-->
+                        <div id="buyticket-jianingng">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/631334/"
+                               target="_blank">Buy tickets</a>
+                            <p></p>
                         </div>
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2324/trioecossaise1-240.jpeg"/>
+                        <img src="/image/2425/JiaNingNg-1-240.jpg" alt="Image of Jia Ning Ng"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>For 15 years, Jennifer Brown (clarinet), Harriet Davidson (cello) and Claire Haslin (piano)
-                            have been performing
-                            across concert hall, schools and social settings. Their repertoire ranges from the classics
-                            (Beethoven, Brahms),
-                            to hidden gems (Ireland, Glinka), and all-female composer programmes (Schumann, Farrenc,
-                            Tailleferre & Walker)</p>
-                        <p><span class="fa fa-quote-left"></span><i>Holy Trinity Church was filled with wonderful music
-                                performed by the hugely talented Trio Ecossaise...
-                                the combination was sublime... a superb performance</i><span
-                                    class="fa fa-quote-right"></span> – Crail Festival</p>
-                        <p><span class="fa fa-quote-left"></span><i>Trio Ecossaise brought a ray of sunshine</i><span
-                                    class="fa fa-quote-right"></span> – Campbelltown Courier</p>
-                        <p><a href="/season/2324/Programme-240204-TrioEcossaise.pdf"
-                              target="_blank">Concert programme</a></p>
-                        <p><a href="https://www.trioecossaise.com/"
-                              target="_blank">More about Trio Ecossaise</a>
+                        <p>Singaporean pianist Jia Ning Ng has recently graduated from the Royal Conservatoire of Scotland where,
+                            in addition to gaining B.Mus., M.Mus. and Artist Diploma, she won many prestigious awards.
+                            In April 2022, she made her debut with the RSNO, for which she was awarded First Prize in the
+                            RCS Concerto Competition. Jia Ning is also an active chamber musician, being particularly
+                            drawn to Lieder, and has also collaborated with the Resol String Quartet</p>
+                        <p>Since graduating Jia has played throughput Scotland to rave reviews (and standing ovations).
+                            We are delighted that she will play for us in Dollar.</p>
+                        <p><span class="fa fa-quote-left"></span><i>From the imposing opening solo piano passage through the technical middle sections,
+                                Ng played with an admirable blend of sensitivity and musical understanding</i><span
+                                    class="fa fa-quote-right"></span> – Straits Times</p>
+                        <p><span class="fa fa-quote-left"></span><i>Ng was clearly alive to all the nuances of Schubert’s famously illustrative accompaniments
+                                whether turning the great Steinway into a gently plucked lute or rippling seamlessly
+                                as the flowers swayed in the breeze</i><span class="fa fa-quote-right"></span> – Oxford Lieder Festival</p>
+                        <!--                        <p><a href="/season/2425/Programme-250302-JiaNingNg"-->
+                        <!--                              target="_blank">Concert programme</a></p>-->
+                        <p><a href="https://oxfordsong.org/artist/jia-ning-ng"
+                              target="_blank">More about Jia Ning Ng</a>
                         </p>
                     </div>
                 </li>
@@ -490,6 +481,19 @@ htmlHead($title);
             </ul>
         </div>
     </div>
+
+    <!--    <div id="PrevConcert" class="row">-->
+    <!--        <div class="col-sm-12">-->
+    <!--            <h3 class="text-info">Previous concerts</h3>-->
+    <!--        </div>-->
+    <!--    </div>-->
+    <!--    <div class="row">-->
+    <!--        <div class="col-sm-12">-->
+    <!--            <ul class="list-group">-->
+    <!---->
+    <!--            </ul>-->
+    <!--        </div>-->
+    <!--    </div>-->
 
 </div>
 
