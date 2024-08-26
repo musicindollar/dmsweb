@@ -2,7 +2,7 @@
 <html>
 <?php
 require "header.php";
-$title = "About Dollar Music Society";
+$title = "About Music in Dollar";
 htmlHead($title);
 ?>
 
@@ -20,14 +20,16 @@ htmlHead($title);
     </div>
     <div class="row">
         <div class="col-sm-12">
-            <p>Dollar Music Society has been promoting music and the arts around
+            <p>Music in Dollar (formerly known as Dollar Music Society) has been promoting music and the arts around
                 Dollar, Clackmannanshire, Scotland, since 1965.</p>
             <p>We organise an annual series of concerts, featuring professional
-                musicians and a wide range of musical styles. We also organise
-                events such as excursions, one-off concerts and music competitions.</p>
+                musicians and a wide range of musical styles. We also run
+                community events such as singing and piano performance by young people.
+                Other event like music excursions, one-off concerts and music competitions are organised from time to
+                time.</p>
             <p>For example, in 2013 we put on a concert for children, which was
-                a huge sell-out hit. In 2015 we will pass the half century mark, so
-                will be celebrating with some events - watch the news section!</p>
+                a huge sell-out hit. Before most concerts we provide a platform for a student to perform.
+                And our community events are always popular.</p>
             <p>All events are open to anyone, so if a concert or other event
                 appeals to you then please just turn up. If you like what we do
                 then why not become a member? It only costs &#163;5 per year, and
@@ -38,15 +40,15 @@ htmlHead($title);
 
     <div id="Membership" class="row">
         <div class="col-sm-12">
-            <h3>New membership scheme</h3>
+            <h3>Membership scheme</h3>
             <p>We have a simple flat-rate membership.
                 For only &#163;5 per year you get all of the benefits of being a
                 member, including:
             <p>
             <ul>
-                <li>Discount of 30&#37; on all concerts</li>
+                <li>Discount of 33&#37; on all concerts</li>
                 <li>Priority booking for other events</li>
-                <li>Free entry to the AGM concert</li>
+                <li>Free entry to the Open Evening concert</li>
                 <li>Satisfaction of supporting us to bring the best music to Dollar</li>
             </ul>
         </div>
@@ -62,49 +64,77 @@ htmlHead($title);
                 The name Dollar has nothing to do with <a href="http://en.wikipedia.org/wiki/Dollar">money or silver</a>!
                 It is
                 probably derived from the <a
-                    href="http://en.wikipedia.org/wiki/Picts">Pictish</a> word <cite>dol</cite>,
+                        href="http://en.wikipedia.org/wiki/Picts">Pictish</a> word <cite>dol</cite>,
                 meaning <i>field</i>.
             </p>
             <p>
-                The town is dominated by two iconic buildings. <a
-                    href="https://en.wikipedia.org/wiki/Castle_Campbell">Castle
-                    Campbell</a> sits high above the town at the head of Dollar Glen.
-                It was the lowland seat of the <a href="https://en.wikipedia.org/wiki/Duke_of_Argyll">Duke of Argyll</a>. In
-                recent times
-                Dollar has been closely associated with <a href="http://dollaracademy.org/">Dollar Academy</a>, with its
+                The town is dominated by two iconic buildings.
+                <a href="https://en.wikipedia.org/wiki/Castle_Campbell">Castle Campbell</a>
+                sits high above the town at the head of Dollar Glen.
+                It was the lowland seat of the <a href="https://en.wikipedia.org/wiki/Duke_of_Argyll">Duke of Argyll</a>.
+                In recent times Dollar has been closely associated with
+                <a href="http://dollaracademy.org/">Dollar Academy</a>, with its
                 magnificent Greek influenced <a href="https://en.wikipedia.org/wiki/William_Henry_Playfair">Playfair</a>
                 building.
             </p>
             <p>
-                Read more about Dollar on <a
-                    href="https://en.wikipedia.org/wiki/Dollar,_Clackmannanshire">Wikipedia</a>
+                Read more about Dollar on
+                <a href="https://en.wikipedia.org/wiki/Dollar,_Clackmannanshire">Wikipedia</a>
                 and <a href="https://www.dollarcommunity.org.uk/">Dollar Community</a>
             </p>
         </div>
         <div class="col-sm-6">
-            <img src="image/dollarthumbs1-300.jpeg"/>
+            <img src="image/dollarthumbs1-300.jpeg" alt="Images of Dollar"/>
         </div>
     </div>
 
     <div id="Sponsors" class="row">
         <div class="col-sm-12">
             <h3>Sponsors</h3>
-            <p>Thanks to our sponsors, who help to bring the best musicians to Dollar:</p>
+            <p>Grateful thanks to our sponsors, who help to bring the best musicians to Dollar:</p>
         </div>
     </div>
     <div class="row">
         <div class="col-sm-4">
             <p>
-                <a href="https://www.chambermusicscotland.com/"><img
-                        src="image/chamber-music-scotland-logo.svg"/>
-            <p>Chamber Music Scotland</p></a>
+                <a href="https://www.chambermusicscotland.com/" target="_blank"><img
+                            src="image/logo/chamber-music-scotland-logo.svg" alt="Chamber Music Scotland logo"/>
+                    <p>Chamber Music Scotland</p></a>
             </p>
         </div>
         <div class="col-sm-4">
             <p>
-                <a href="http://www.creativescotland.com"><img
-                        src="image/Creative_Scotland_bw-sm.png"/>
-            <p>Creative Scotland</p></a>
+                <a href="http://www.creativescotland.com" target="_blank"><img
+                            src="image/logo/Creative_Scotland_bw-sm.png" alt="Creative Scotland logo"/>
+                    <p>Creative Scotland</p></a>
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            <hr/>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            <p>
+                <a href="https://jtrfitting.co.uk/" target="_blank"><img
+                            src="image/logo/jtrlogo.png" alt="JTR Fitting logo" width="240"/>
+                    <p>JTR Fitting - Kitchens and Bathrooms</p></a>
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            <hr/>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            <p>
+                <a href="https://www.movingstillarchitecture.com/" target="_blank"><img
+                            src="image/logo/MovingStillArchitecture--logo.png" alt="Moving Still Architecture logo" width="240"/>
+                    <p>Moving Still Architecture</p></a>
             </p>
         </div>
     </div>

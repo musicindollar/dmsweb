@@ -12,7 +12,7 @@ function showHeaderBar($tag)
                         class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="/index.php"><img
-                        src="/image/dmslogo-oval-trans-48.png" style="padding-right: 5px;" alt="logo"/>
+                        src="/image/logo/dmslogo-oval-trans-48.png" style="padding-right: 5px;" alt="logo"/>
                 Music in Dollar </a>
         </div>
         <div class="navbar-collapse collapse navbar-inverse-collapse">

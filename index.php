@@ -73,7 +73,7 @@ htmlHead($title);
                         <h4 class="text-info">Who are we?</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Music in Dollar is an independent organisation with a
+                        <p>Music in Dollar is an <a href="about.php">independent organisation</a> with a
                             mission to promote music and the arts around Dollar,
                             Clackmannanshire, Scotland.</p>
                         <a type="button" class="btn btn-default btn-xs" href="about.php">read
@@ -99,10 +99,11 @@ htmlHead($title);
         <div class="col-sm-6 margintop10">
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <a href="javascript:alert('Coming soon')" disabled tabindex="-1">View</a>
-                    the full programme for the current season [PDF 0.7MB] <a
-                            href="javascript:alert('TBD')"><img
+                    <a href="season/2425/MiD-Leaflet-2024-25.pdf" target="_blank">View</a>
+                    the full programme for the current season [PDF 1.5MB] <a
+                            href="season/2425/MiD-Leaflet-2024-25.pdf" target="_blank"><img
                                 src="image/pdf.jpeg" alt="PDF icon"/></a>
+                    <!-- href="javascript:alert('Coming soon')" -->
                 </div>
             </div>
         </div>
@@ -119,7 +120,8 @@ htmlHead($title);
                 <li class="clearfix list-group-item dms-list-item-prev" id="Tickets">
                     <div class="col-sm-12">
                         <p>Tickets for each concert can be bought by clicking the <i>'Buy tickets'</i> button beside the
-                            concert listing below, or at the door (cash only at present).
+                            concert listing below, or at the door
+                            (we have a card machine, but it doesn't always work so best to have some cash as backup).
                             Cost is &#163;12, students in full-time education admitted free of charge.</p>
                         <p>Season Tickets provide entry to all concerts in the season. Cost is &#163;40. That's &#163;8
                             per concert, unbeatable value!</p>
@@ -163,7 +165,7 @@ htmlHead($title);
                     </div>
                     <div class="col-sm-6">
                         <p>Eilidh Grant is a renowned and popular Scottish traditional and folk singer.</p>
-                        <p>The Trio featuring vocalist Eilidh Grant, Fiona Cuthill on fiddle and Stevie Lawrence on
+                        <p>The Trio, featuring vocalist Eilidh Grant, Fiona Cuthill on fiddle and Stevie Lawrence on
                             acoustic guitar and bouzouki,
                             brings a wide range of musical influences to create a unique sound.
                             With a love for traditional and contemporary folk alike, underpinned by a passion for the
@@ -172,6 +174,12 @@ htmlHead($title);
                             and has made a considerable
                             impression on the British and European folk scenes.
                         </p>
+                        <p>Fiona was classically trained on the violin, but switched to more traditional styles of playing.
+                            She is a prolific composer and tutor.
+                        </p>
+                        <p>
+                            Stevie has played with bands Iron Horse and Red Hot Chilli Pipers,
+                            alongside a career as session musician, arranger and producer.</p>
                         <!--                        <p><span class="fa fa-quote-left"></span><i>excellent and entertaining performance... clearly a-->
                         <!--                                group of very talented musicians</i><span-->
                         <!--                                    class="fa fa-quote-right"></span>-->
@@ -201,10 +209,10 @@ htmlHead($title);
 
                 <li class="clearfix list-group-item dms-list-item-prev" id="PianoDay">
                     <div class="col-sm-3">
-                        <h3>Piano Day</h3>
+                        <h3>We Play Piano</h3>
                         <p class="specialhilite italic">Free of charge - all welcome</p>
                         <h4 class="text-info">
-                            Sunday, 3<span class="subscript">rd</span> October 2024
+                            Sunday, 3<span class="subscript">rd</span> November 2024
                         </h4>
                         <p>3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
@@ -220,22 +228,17 @@ htmlHead($title);
                         <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>We are delighted to run the Music in Dollar Piano Day for
-                            young people again. The focus is on young people performing a favourite
-                            piece in their own way. See the <!-- <a href="season/2324/weplay-piano-poster.png.pdf"
+                        <p>Music in Dollar are hosting another piano performance afternoon, <b>We Play Piano</b>,
+                            following on the success of our first one at the start of this 2024.
+                            See the <!-- <a href="season/2324/weplay-piano-poster.png.pdf"
                                                                target="_blank">poster</a>
                             and --> <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
                         </p>
-                        <p>Mavy Williamson will provide expert tuition and guidance as the pianists rehearse and perform
-                            their chosen pieces.
-                            All abilities and ages from 5-19 are welcome – don't be shy.</p>
-                        <p>Fresh interpretations, famous and not so famous pieces, and free!
-                            No charge to enter as player or listener, so what better way to spend a Sunday
-                            afternoon.</p>
+                        <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
+                            to play for family and friends, with a supportive and encouraging audience.</p>
+                        <p>This is a free event showcasing young courageous  pianists who are dedicated to performance.
+                            Come and join us for what will be an inspirational afternoon of young talent!</p>
                         <p>Refreshments will be provided.</p>
-                        <p>For those who are too old to play, why not come along and hear musicians of the
-                            future? It's free, and should be a varied and stimulating afternoon!</p>
-                        <p>We also plan to run a second Piano Day later in the year.</p>
                         <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
                         <!--                           target="_blank">Concert programme</a>-->
                         <!--                        </p>-->
@@ -329,7 +332,7 @@ htmlHead($title);
                         <!--                              target="_blank">Concert programme</a>-->
                         <!--                        </p>-->
                         <p>
-                            <a href="https://dicklee.org.uk/wp/"
+                            <a href="https://briankellock.com/"
                                target="_blank">Brian's website.</a>
                         </p>
                         <p>
@@ -372,12 +375,13 @@ htmlHead($title);
                         </p>
                         <p>Sue Baxendale (horn) plays in the Scottish Opera orchestra, along with many other orchestras, and some solo concerto performances.
                         </p>
-                        <p>Derek Clark (piano) started as an orchestral conductor and gues music coach, and was appointed Head of Music at Scottish Opera in 1997.
-                            He is a composed and arranger, inluding reduced orchestrations for touring opera performances.
+                        <p>Derek Clark (piano) started as an orchestral conductor and guest music coach, and was appointed Head of Music at Scottish Opera in 1997.
+                            He is a composer and arranger, including reduced orchestrations for touring opera performances.
                             As an accompanist he plays with soloists and touring opera groups.
                         </p>
-                        <p><span class="fa fa-quote-left"></span><i>sheer perfection... major new talent </i><span
-                                    class="fa fa-quote-right"></span> - Irish Musical Review</p>
+                        <p><span class="fa fa-quote-left"></span><i>"The balance and dynamics were spot-on, with Sue Baxendale's
+                                sweet-toned horn playing a compelling clear voice.</i><span
+                                    class="fa fa-quote-right"></span> - The Herald</p>
                         <!--                                    <p><a href="/season/2425/Programme-250119-AntonineTrio.pdf"-->
                         <!--                                          target="_blank">Concert programme</a>-->
                         <!--                                    </p>-->
@@ -410,17 +414,17 @@ htmlHead($title);
                     </div>
                     <div class="col-sm-6">
                         <p>The Asaka String Quartet was formed in 2021 with members from Scotland, China and Hong Kong.
-                            Although quite new, they have already won multiple awards and come to Dollar as Tunnel Trust prize winners.
+                            Although quite new, they have already won multiple awards and come to Dollar as Tunnell Trust prize winners.
                         </p>
-                        <p>As close friends, growing up on opposite sides of the world to the most contrasting of cultures,
+                        <p>As close friends, growing up on opposite sides of the world in the most contrasting of cultures,
                             they have a keen interest in learning and experiencing new things,
-                            which lead them to enjoy discovering and sharing underrepresented music.
+                            which lead them to enjoy discovering and sharing under-represented music.
                             Through presenting creative and innovative programmes, they invite their audiences to discover
                             new repertoire from a fresh and exciting perspective.</p>
-                        <p><span class="fa fa-quote-left"></span><i>unusual and pretty original... so precise as a team
-                                that one could imagine it was just one player</i><span
-                                    class="fa fa-quote-right"></span>
-                            – Fylde Music Circle</p>
+<!--                        <p><span class="fa fa-quote-left"></span><i>unusual and pretty original... so precise as a team-->
+<!--                                that one could imagine it was just one player</i><span-->
+<!--                                    class="fa fa-quote-right"></span>-->
+<!--                            – Fylde Music Circle</p>-->
                         <!--                                    <p><a href="/season/2324/Programme-240114-DuoBizart.pdf"-->
                         <!--                                          target="_blank">Concert programme</a></p>-->
                         <p><a href="https://www.asakaquartet.com/"
@@ -457,7 +461,7 @@ htmlHead($title);
                             In April 2022, she made her debut with the RSNO, for which she was awarded First Prize in the
                             RCS Concerto Competition. Jia Ning is also an active chamber musician, being particularly
                             drawn to Lieder, and has also collaborated with the Resol String Quartet</p>
-                        <p>Since graduating Jia has played throughput Scotland to rave reviews (and standing ovations).
+                        <p>Since graduating Jia has played throughout Scotland to rave reviews (and standing ovations).
                             We are delighted that she will play for us in Dollar.</p>
                         <p><span class="fa fa-quote-left"></span><i>From the imposing opening solo piano passage through the technical middle sections,
                                 Ng played with an admirable blend of sensitivity and musical understanding</i><span
