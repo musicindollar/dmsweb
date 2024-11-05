@@ -27,7 +27,7 @@ htmlHead($title);
                 community events such as singing and piano performance by young people.
                 Other event like music excursions, one-off concerts and music competitions are organised from time to
                 time.</p>
-            <p>For example, in 2013 we put on a concert for children, which was
+            <p>For example, we put on a concert for children, which was
                 a huge sell-out hit. Before most concerts we provide a platform for a student to perform.
                 And our community events are always popular.</p>
             <p>All events are open to anyone, so if a concert or other event
@@ -62,8 +62,7 @@ htmlHead($title);
             </p>
             <p>
                 The name Dollar has nothing to do with <a href="http://en.wikipedia.org/wiki/Dollar">money or silver</a>!
-                It is
-                probably derived from the <a
+                It is probably derived from the <a
                         href="http://en.wikipedia.org/wiki/Picts">Pictish</a> word <cite>dol</cite>,
                 meaning <i>field</i>.
             </p>
@@ -118,9 +117,9 @@ htmlHead($title);
     <div class="row">
         <div class="col-sm-4">
             <p>
-                <a href="https://jtrfitting.co.uk/" target="_blank"><img
-                            src="image/logo/jtrlogo.png" alt="JTR Fitting logo" width="240"/>
-                    <p>JTR Fitting - Kitchens and Bathrooms</p></a>
+                <a href="https://www.harperstone.co.uk/" target="_blank"><img
+                            src="image/logo/harper-stone.png" alt="Harper Stone logo" width="382"/>
+                    <p>Harper & Stone Estate & Letting Agents</p></a>
             </p>
         </div>
     </div>
@@ -133,8 +132,22 @@ htmlHead($title);
         <div class="col-sm-4">
             <p>
                 <a href="https://www.movingstillarchitecture.com/" target="_blank"><img
-                            src="image/logo/MovingStillArchitecture--logo.png" alt="Moving Still Architecture logo" width="240"/>
+                            src="image/logo/MovingStillArchitecture--logo.png" alt="Moving Still Architecture logo" width="257"/>
                     <p>Moving Still Architecture</p></a>
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            <hr/>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            <p>
+                <a href="https://jtrfitting.co.uk/" target="_blank"><img
+                            src="image/logo/jtrlogo.png" alt="JTR Fitting logo" width="240"/>
+                    <p>JTR Fitting - Kitchens and Bathrooms</p></a>
             </p>
         </div>
     </div>

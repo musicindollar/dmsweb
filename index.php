@@ -36,20 +36,26 @@ htmlHead($title);
                         <!--                            Led by the warm, engaging and amazing voice of expert tutor Brian McBride, we learned to sing a couple of musical theatre songs:-->
                         <!--                            Age of Aquarius and Good Morning Baltimore.-->
                         <!--                        </p>-->
-                        <p><span class="fa fa-coffee"></span> The annual Coffee Morning is planned for Saturday 21st
-                            September @10:00, in the Burnside Hall as usual.
-                            This is our usual season opener and a great way to sample sounds from the season's artists
-                            alongside home baking, games and chat.
-                            Come along and hear what's upcoming!
-                            Free complimentary tickets given for all Season Tickets bought before the opening concert,
-                            so treat friends and family to a free concert.
+<!--                        <p><span class="fa fa-coffee"></span> The annual Coffee Morning is planned for Saturday 21st-->
+<!--                            September @10:00, in the Burnside Hall as usual.-->
+<!--                            This is our usual season opener and a great way to sample sounds from the season's artists-->
+<!--                            alongside home baking, games and chat.-->
+<!--                            Come along and hear what's upcoming!-->
+<!--                            Free complimentary tickets given for all Season Tickets bought before the opening concert,-->
+<!--                            so treat friends and family to a free concert.-->
+<!--                        </p>-->
+                        <p><span class="fa fa-thumbs-up"></span> <a href="#WePlayPiano">We Play Piano</a> was indeed inspiring, with so many great performance and pieces.
+                            Well done to all who performed - an amazing high standard - and also those who came along to hear it!
+                        </p>
+                        <p><span class="fa fa-heart"></span> The Eilidh Grant Trio were a treat.
+                            Eilidh was in fine voice and those reels really rocked, with heavy-metal bouzouki!
                         </p>
                         <p><span class="fa fa-ticket"></span> Ticket prices have been held the same as last season.
                             You won't find the highest quality professional music cheaper anywhere!
                         </p>
-                        <p><span class="fa fa-star"></span> The next <a href="image/2425/LetsPlayMusic-Sep24.jpg" target="_blank">Let's Play Music</a>
-                            event will be in Dollar Parish Church on 8th September @ 3pm. Always a great event, showcasing local musical talent!
-                        </p>
+<!--                        <p><span class="fa fa-star"></span> The next <a href="image/2425/LetsPlayMusic-Sep24.jpg" target="_blank">Let's Play Music</a>-->
+<!--                            event will be in Dollar Parish Church on 8th September @ 3pm. Always a great event, showcasing local musical talent!-->
+<!--                        </p>-->
 
                         <!--                        <p><span class="fa fa-cc-discover"></span> We're busy preparing for next season - watch this space for announcements!-->
                         <!--                        </p>-->
@@ -100,7 +106,7 @@ htmlHead($title);
             <div class="panel panel-default">
                 <div class="panel-body">
                     <a href="season/2425/MiD-Leaflet-2024-25.pdf" target="_blank">View</a>
-                    the full programme for the current season [PDF 1.5MB] <a
+                    the full programme for the current season [PDF 0.5MB] <a
                             href="season/2425/MiD-Leaflet-2024-25.pdf" target="_blank"><img
                                 src="image/pdf.jpeg" alt="PDF icon"/></a>
                     <!-- href="javascript:alert('Coming soon')" -->
@@ -143,109 +149,7 @@ htmlHead($title);
             <h3 class="text-info">Next event</h3>
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-next" id="AlbaChallah">
-                    <div class="col-sm-3">
-                        <h3>Eilidh Grant Trio</h3>
-                        <h4 class="text-info">
-                            Sunday, 27<span class="subscript">th</span> October 2024
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-                        <div id="buyticket-eilishgrant">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/631320/"
-                               target="_blank">Buy tickets</a>
-                            <p></p>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2425/EilidhGrantTrio-2-240.png" alt="Eilidh Grant Trio picture"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Eilidh Grant is a renowned and popular Scottish traditional and folk singer.</p>
-                        <p>The Trio, featuring vocalist Eilidh Grant, Fiona Cuthill on fiddle and Stevie Lawrence on
-                            acoustic guitar and bouzouki,
-                            brings a wide range of musical influences to create a unique sound.
-                            With a love for traditional and contemporary folk alike, underpinned by a passion for the
-                            works of Robert Burns,
-                            Eilidh’s stunning voice beautifully renders both classic folk songs and original material
-                            and has made a considerable
-                            impression on the British and European folk scenes.
-                        </p>
-                        <p>Fiona was classically trained on the violin, but switched to more traditional styles of playing.
-                            She is a prolific composer and tutor.
-                        </p>
-                        <p>
-                            Stevie has played with bands Iron Horse and Red Hot Chilli Pipers,
-                            alongside a career as session musician, arranger and producer.</p>
-                        <!--                        <p><span class="fa fa-quote-left"></span><i>excellent and entertaining performance... clearly a-->
-                        <!--                                group of very talented musicians</i><span-->
-                        <!--                                    class="fa fa-quote-right"></span>-->
-                        <!--                            – Ann Napier, The Osprey Music Society</p>-->
-                        <!--                        <p><a href="/season/2425/Programme-241027-EilidhGrant.pdf" target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
-                        <p><a href="https://www.facebook.com/theeilidhgrant/"
-                              target="_blank">More about Eilidh Grant Trio</a>
-                        </p>
-                        <p><a href="https://www.youtube.com/watch?v=G5sfPuT26lk"
-                              target="_blank">Listen to some samples of the Trio's tunes</a></p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item-prev" id="PianoDay">
-                    <div class="col-sm-3">
-                        <h3>We Play Piano</h3>
-                        <p class="specialhilite italic">Free of charge - all welcome</p>
-                        <h4 class="text-info">
-                            Sunday, 3<span class="subscript">rd</span> November 2024
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-<!--                        <div id="registerpianoday">-->
-<!--                            <a type="button" class="btn btn-info btn-blocks"-->
-<!--                               href="https://www.wegottickets.com/event/595107/"-->
-<!--                               target="_blank">Register</a>-->
-<!--                            <p></p>-->
-<!--                        </div>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Music in Dollar are hosting another piano performance afternoon, <b>We Play Piano</b>,
-                            following on the success of our first one at the start of this 2024.
-                            See the <!-- <a href="season/2324/weplay-piano-poster.png.pdf"
-                                                               target="_blank">poster</a>
-                            and --> <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
-                        </p>
-                        <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
-                            to play for family and friends, with a supportive and encouraging audience.</p>
-                        <p>This is a free event showcasing young courageous  pianists who are dedicated to performance.
-                            Come and join us for what will be an inspirational afternoon of young talent!</p>
-                        <p>Refreshments will be provided.</p>
-                        <!--                        <a href="/season/2122/Programme-220130-PianoDay.pdf"-->
-                        <!--                           target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
-                    </div>
-                </li>
-
-                <li class="clearfix list-group-item dms-list-item-prev" id="ChoirDay">
+                <li class="clearfix list-group-item dms-list-item-next" id="ChoirDay">
                     <div class="col-sm-3">
                         <h3>Come and Sing!</h3>
                         <p class="specialhilite italic">Free of charge - all welcome</p>
@@ -253,15 +157,15 @@ htmlHead($title);
                             Sunday 10<span class="subscript">th</span> November 2024
                         </h4>
                         <!--                                    <p>2:00pm (ends 5pm) Gibson Hall, Dollar <a-->
-                        <p>Time 1:30pm Gibson Hall, Dollar <a
+                        <p>Time 2:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <!--                        <div id="registeropenchoirday">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/594703/"-->
-                        <!--                               target="_blank">Register</a>-->
-                        <!--                            <p></p>-->
-                        <!--                        </div>-->
+                        <div id="registeropenchoirday">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://wegottickets.com/event/635380/"
+                               target="_blank">Register</a>
+                            <p></p>
+                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2223/choir-cartoon-240.jpeg" alt="Choir image"/>
@@ -289,7 +193,20 @@ htmlHead($title);
                     </div>
                 </li>
 
-                <li class="clearfix list-group-item dms-list-item-prev" id="DickLeeBrianKellock">
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
+
+                <li class="clearfix list-group-item dms-list-item" id="DickLeeBrianKellock">
                     <div class="col-sm-3">
                         <h3>Dick Lee & Brian Kellock - The Story of Jazz</h3>
                         <h4 class="text-info">
@@ -342,7 +259,7 @@ htmlHead($title);
                     </div>
                 </li>
 
-                <li class="clearfix list-group-item dms-list-item-prev" id="AntonineTrio">
+                <li class="clearfix list-group-item dms-list-item" id="AntonineTrio">
                     <div class="col-sm-3">
                         <h3>Antonine Trio</h3>
                         <h4 class="text-info">
@@ -392,7 +309,7 @@ htmlHead($title);
                     </div>
                 </li>
 
-                <li class="clearfix list-group-item dms-list-item-prev" id="AsakaQuartet">
+                <li class="clearfix list-group-item dms-list-item" id="AsakaQuartet">
                     <div class="col-sm-3">
                         <h3>Asaka String Quartet</h3>
                         <h4 class="text-info">
@@ -435,7 +352,7 @@ htmlHead($title);
                     </div>
                 </li>
 
-                <li class="clearfix list-group-item dms-list-item-prev" id="JiaNingNg">
+                <li class="clearfix list-group-item dms-list-item" id="JiaNingNg">
                     <div class="col-sm-3">
                         <h3>Jia Ning Ng</h3>
                         <h4 class="text-info">
@@ -481,18 +398,104 @@ htmlHead($title);
         </div>
     </div>
 
-    <!--    <div id="PrevConcert" class="row">-->
-    <!--        <div class="col-sm-12">-->
-    <!--            <h3 class="text-info">Previous concerts</h3>-->
-    <!--        </div>-->
-    <!--    </div>-->
-    <!--    <div class="row">-->
-    <!--        <div class="col-sm-12">-->
-    <!--            <ul class="list-group">-->
-    <!---->
-    <!--            </ul>-->
-    <!--        </div>-->
-    <!--    </div>-->
+        <div id="PrevConcert" class="row">
+            <div class="col-sm-12">
+                <h3 class="text-info">Previous concerts</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <ul class="list-group">
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="AlbaChallah">
+                    <div class="col-sm-3">
+                        <h3>Eilidh Grant Trio</h3>
+                        <h4 class="text-info">
+                            Sunday, 27<span class="subscript">th</span> October 2024
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
+<!--                        <div id="buyticket-eilishgrant">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/631320/"-->
+<!--                               target="_blank">Buy tickets</a>-->
+<!--                            <p></p>-->
+<!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2425/EilidhGrantTrio-2-240.png" alt="Eilidh Grant Trio picture"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Eilidh Grant is a renowned and popular Scottish traditional and folk singer.</p>
+                        <p>The Trio, featuring vocalist Eilidh Grant, Fiona Cuthill on fiddle and Stevie Lawrence on
+                            acoustic guitar and bouzouki,
+                            brings a wide range of musical influences to create a unique sound.
+                            With a love for traditional and contemporary folk alike, underpinned by a passion for the
+                            works of Robert Burns,
+                            Eilidh’s stunning voice beautifully renders both classic folk songs and original material
+                            and has made a considerable
+                            impression on the British and European folk scenes.
+                        </p>
+                        <p>Fiona was classically trained on the violin, but switched to more traditional styles of playing.
+                            She is a prolific composer and tutor.
+                        </p>
+                        <p>
+                            Stevie has played with bands Iron Horse and Red Hot Chilli Pipers,
+                            alongside a career as session musician, arranger and producer.</p>
+                        <!--                        <p><span class="fa fa-quote-left"></span><i>excellent and entertaining performance... clearly a-->
+                        <!--                                group of very talented musicians</i><span-->
+                        <!--                                    class="fa fa-quote-right"></span>-->
+                        <!--                            – Ann Napier, The Osprey Music Society</p>-->
+                        <p><a href="/season/2425/Programme-241027-EilidhGrant.pdf" target="_blank">Concert programme</a>
+                        </p>
+                        <p><a href="https://www.facebook.com/theeilidhgrant/"
+                              target="_blank">More about Eilidh Grant Trio</a>
+                        </p>
+                        <p><a href="https://www.youtube.com/watch?v=G5sfPuT26lk"
+                              target="_blank">Listen to some samples of the Trio's tunes</a></p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="WePlayPiano">
+                    <div class="col-sm-3">
+                        <h3>We Play Piano</h3>
+                        <p class="specialhilite italic">Free of charge - all welcome</p>
+                        <h4 class="text-info">
+                            Sunday, 3<span class="subscript">rd</span> November 2024
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+<!--                        <div id="registerpianoday">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/595107/"-->
+<!--                               target="_blank">Register</a>-->
+<!--                            <p></p>-->
+<!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Music in Dollar are hosting another piano performance afternoon, <b>We Play Piano</b>,
+                            following on the success of our first one at the start of 2024.
+                            See the <!-- <a href="season/2324/weplay-piano-poster.png.pdf"
+                                                               target="_blank">poster</a>
+                            and --> <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
+                        </p>
+                        <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
+                            to play for family and friends, with a supportive and encouraging audience.</p>
+                        <p>This is a free event showcasing young courageous  pianists who are dedicated to performance.
+                            Come and join us for what will be an inspirational afternoon of young talent!</p>
+                        <p>Refreshments will be provided.</p>
+                    </div>
+                </li>
+
+                </ul>
+            </div>
+        </div>
 
 </div>
 
