@@ -44,12 +44,12 @@ htmlHead($title);
 <!--                            Free complimentary tickets given for all Season Tickets bought before the opening concert,-->
 <!--                            so treat friends and family to a free concert.-->
 <!--                        </p>-->
-                        <p><span class="fa fa-thumbs-up"></span> <a href="#WePlayPiano">We Play Piano</a> was indeed inspiring, with so many great performance and pieces.
-                            Well done to all who performed - an amazing high standard - and also those who came along to hear it!
+                        <p><span class="fa fa-heart"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun, with Brian McBride irrepressible as ever.
+                            This time the focus was on pop songs, about hope and love! What better message for today's world.
                         </p>
-                        <p><span class="fa fa-heart"></span> The Eilidh Grant Trio were a treat.
-                            Eilidh was in fine voice and those reels really rocked, with heavy-metal bouzouki!
-                        </p>
+<!--                        <p><span class="fa fa-heart"></span> The Eilidh Grant Trio were a treat.-->
+<!--                            Eilidh was in fine voice and those reels really rocked, with heavy-metal bouzouki!-->
+<!--                        </p>-->
                         <p><span class="fa fa-ticket"></span> Ticket prices have been held the same as last season.
                             You won't find the highest quality professional music cheaper anywhere!
                         </p>
@@ -149,64 +149,7 @@ htmlHead($title);
             <h3 class="text-info">Next event</h3>
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-next" id="ChoirDay">
-                    <div class="col-sm-3">
-                        <h3>Come and Sing!</h3>
-                        <p class="specialhilite italic">Free of charge - all welcome</p>
-                        <h4 class="text-info">
-                            Sunday 10<span class="subscript">th</span> November 2024
-                        </h4>
-                        <!--                                    <p>2:00pm (ends 5pm) Gibson Hall, Dollar <a-->
-                        <p>Time 2:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <div id="registeropenchoirday">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://wegottickets.com/event/635380/"
-                               target="_blank">Register</a>
-                            <p></p>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2223/choir-cartoon-240.jpeg" alt="Choir image"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>There's no better way to feel good than to sing! Music in Dollar has organised a
-                            day when you can do just that – with some expert tuition along the way.
-                            Singing doesn't require an instrument – it's you! Everyone can do it, so why not
-                            come along and have some fun.
-                            No music reading skills are needed.</p>
-                        <p>The format will be to learn a few songs (popular, folk, classical), with a vocal
-                            workshop led by expert tutor Brian McBride to help bring it all together. The theme this
-                            time is 'Musical Theatre'. At
-                            the end the 'choir' will perform the songs for anyone who wants to come along
-                            and listen.</p>
-                        <p>This is a community event, so all are welcome at no cost. Bring along friends and
-                            family, anyone who is interested to either sing themselves or listen to
-                            others.</p>
-                        <p>Water will be provided. Bring along any other edibles to keep you going. A pencil
-                            might also be handy for taking notes.</p>
-                        <p>If you'd like to come along then registering using the button on the left will help us
-                            to prepare for the right number of people.</p>
-                        <p>Those who don't fancy singing can still enjoy the sounds of those that do. Come
-                            along and listen - it's free!</p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item" id="DickLeeBrianKellock">
+                <li class="clearfix list-group-item dms-list-item-next" id="DickLeeBrianKellock">
                     <div class="col-sm-3">
                         <h3>Dick Lee & Brian Kellock - The Story of Jazz</h3>
                         <h4 class="text-info">
@@ -215,7 +158,7 @@ htmlHead($title);
                         <p>Time 3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
+                        <p>Pre-concert performance from 2:45pm</p>
                         <div id="buyticketleekellock">
                             <a type="button" class="btn btn-info btn-blocks"
                                href="https://www.wegottickets.com/event/631322/"
@@ -245,9 +188,9 @@ htmlHead($title);
                                 it may be an unorthodox prescription, but take two sets nightly and you'll need
                                 the resulting smile surgically removed</i><span
                                     class="fa fa-quote-right"></span> Herald</p>
-                        <!--                        <p><a href="/season/2425/Programme-241117-LeeKellock.pdf"-->
-                        <!--                              target="_blank">Concert programme</a>-->
-                        <!--                        </p>-->
+                        <p><a href="/season/2425/Programme-241117-LeeKellock.pdf"
+                              target="_blank">Concert programme</a>
+                        </p>
                         <p>
                             <a href="https://briankellock.com/"
                                target="_blank">Brian's website.</a>
@@ -258,6 +201,19 @@ htmlHead($title);
                         </p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item" id="AntonineTrio">
                     <div class="col-sm-3">
@@ -490,6 +446,50 @@ htmlHead($title);
                         <p>This is a free event showcasing young courageous  pianists who are dedicated to performance.
                             Come and join us for what will be an inspirational afternoon of young talent!</p>
                         <p>Refreshments will be provided.</p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="ComeAndSing">
+                    <div class="col-sm-3">
+                        <h3>Come and Sing!</h3>
+                        <p class="specialhilite italic">Free of charge - all welcome</p>
+                        <h4 class="text-info">
+                            Sunday 10<span class="subscript">th</span> November 2024
+                        </h4>
+                        <!--                                    <p>2:00pm (ends 5pm) Gibson Hall, Dollar <a-->
+                        <p>Time 2:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <div id="registeropenchoirday">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://wegottickets.com/event/635380/"
+                               target="_blank">Register</a>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2223/choir-cartoon-240.jpeg" alt="Choir image"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>There's no better way to feel good than to sing! Music in Dollar has organised a
+                            day when you can do just that – with some expert tuition along the way.
+                            Singing doesn't require an instrument – it's you! Everyone can do it, so why not
+                            come along and have some fun.
+                            No music reading skills are needed.</p>
+                        <p>The format will be to learn a few songs (popular, folk, classical), with a vocal
+                            workshop led by expert tutor Brian McBride to help bring it all together. The theme this
+                            time is 'Musical Theatre'. At
+                            the end the 'choir' will perform the songs for anyone who wants to come along
+                            and listen.</p>
+                        <p>This is a community event, so all are welcome at no cost. Bring along friends and
+                            family, anyone who is interested to either sing themselves or listen to
+                            others.</p>
+                        <p>Water will be provided. Bring along any other edibles to keep you going. A pencil
+                            might also be handy for taking notes.</p>
+                        <p>If you'd like to come along then registering using the button on the left will help us
+                            to prepare for the right number of people.</p>
+                        <p>Those who don't fancy singing can still enjoy the sounds of those that do. Come
+                            along and listen - it's free!</p>
                     </div>
                 </li>
 
