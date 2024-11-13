@@ -36,26 +36,32 @@ htmlHead($title);
                         <!--                            Led by the warm, engaging and amazing voice of expert tutor Brian McBride, we learned to sing a couple of musical theatre songs:-->
                         <!--                            Age of Aquarius and Good Morning Baltimore.-->
                         <!--                        </p>-->
-<!--                        <p><span class="fa fa-coffee"></span> The annual Coffee Morning is planned for Saturday 21st-->
-<!--                            September @10:00, in the Burnside Hall as usual.-->
-<!--                            This is our usual season opener and a great way to sample sounds from the season's artists-->
-<!--                            alongside home baking, games and chat.-->
-<!--                            Come along and hear what's upcoming!-->
-<!--                            Free complimentary tickets given for all Season Tickets bought before the opening concert,-->
-<!--                            so treat friends and family to a free concert.-->
-<!--                        </p>-->
-                        <p><span class="fa fa-heart"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun, with Brian McBride irrepressible as ever.
-                            This time the focus was on pop songs, about hope and love! What better message for today's world.
+                        <!--                        <p><span class="fa fa-coffee"></span> The annual Coffee Morning is planned for Saturday 21st-->
+                        <!--                            September @10:00, in the Burnside Hall as usual.-->
+                        <!--                            This is our usual season opener and a great way to sample sounds from the season's artists-->
+                        <!--                            alongside home baking, games and chat.-->
+                        <!--                            Come along and hear what's upcoming!-->
+                        <!--                            Free complimentary tickets given for all Season Tickets bought before the opening concert,-->
+                        <!--                            so treat friends and family to a free concert.-->
+                        <!--                        </p>-->
+                        <p><span class="fa fa-calendar-o"></span> By popular demand Mavy has organised another <a
+                                    href="#WePlayPiano2">We Play Piano</a> afternoon for young people, next April.
+                            The November 24 event was inspirational, so make a note in your diary for this next one!
                         </p>
-<!--                        <p><span class="fa fa-heart"></span> The Eilidh Grant Trio were a treat.-->
-<!--                            Eilidh was in fine voice and those reels really rocked, with heavy-metal bouzouki!-->
-<!--                        </p>-->
+                        <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,
+                            with Brian McBride irrepressible as ever.
+                            This time the focus was on pop songs, about hope and love! What better message for today's
+                            world.
+                        </p>
+                        <!--                        <p><span class="fa fa-heart"></span> The Eilidh Grant Trio were a treat.-->
+                        <!--                            Eilidh was in fine voice and those reels really rocked, with heavy-metal bouzouki!-->
+                        <!--                        </p>-->
                         <p><span class="fa fa-ticket"></span> Ticket prices have been held the same as last season.
                             You won't find the highest quality professional music cheaper anywhere!
                         </p>
-<!--                        <p><span class="fa fa-star"></span> The next <a href="image/2425/LetsPlayMusic-Sep24.jpg" target="_blank">Let's Play Music</a>-->
-<!--                            event will be in Dollar Parish Church on 8th September @ 3pm. Always a great event, showcasing local musical talent!-->
-<!--                        </p>-->
+                        <!--                        <p><span class="fa fa-star"></span> The next <a href="image/2425/LetsPlayMusic-Sep24.jpg" target="_blank">Let's Play Music</a>-->
+                        <!--                            event will be in Dollar Parish Church on 8th September @ 3pm. Always a great event, showcasing local musical talent!-->
+                        <!--                        </p>-->
 
                         <!--                        <p><span class="fa fa-cc-discover"></span> We're busy preparing for next season - watch this space for announcements!-->
                         <!--                        </p>-->
@@ -169,19 +175,28 @@ htmlHead($title);
                         <img src="/image/2425/lee-kellock-1-240.png" alt="Image of Dick Lee and Brian Kellock"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>Dick Lee and Briak Kellock are amongst the foremost contemporary Jazz musicians, in Scotland and worldwide.
-                            They have teamed up to showcase The Story of Jazz, featuring a tour through the highlights of that great and vibrant genre.
-                            While they are both virtuoso performers and improvisers, they span a wide range of musical styles and moods.
+                        <p>Dick Lee and Briak Kellock are amongst the foremost contemporary Jazz musicians, in Scotland
+                            and worldwide.
+                            They have teamed up to showcase The Story of Jazz, featuring a tour through the highlights
+                            of that great and vibrant genre.
+                            While they are both virtuoso performers and improvisers, they span a wide range of musical
+                            styles and moods.
                         </p>
-                        <p>Over the last 50 years Dick has played and recorded with many artists and groups including Swing,
-                            The Psychiatrists, John Renbourn, Hebrides Ensemble, Scottish Chamber Orchestra, Michael Marra Band,
+                        <p>Over the last 50 years Dick has played and recorded with many artists and groups including
+                            Swing,
+                            The Psychiatrists, John Renbourn, Hebrides Ensemble, Scottish Chamber Orchestra, Michael
+                            Marra Band,
                             Chita Rivera and Ken Mathieson's Classic Jazz Orchestra.
-                            He is a supreme entertainer and familiar performer here in Dollar, latterly with Ali Affleck,
+                            He is a supreme entertainer and familiar performer here in Dollar, latterly with Ali
+                            Affleck,
                             and several times with Swing.
                         </p>
-                        <p>Brian is a leading jazz pianist in the UK, and has played with many of the greatest names in jazz
-                            over the past 30 years. Essentially a swing-based pianist, Brian loves to entertain and make the audience
-                            feel happy! He has played in Dollar many times in different ensembles, such as with saxophonist Tommy Smith.
+                        <p>Brian is a leading jazz pianist in the UK, and has played with many of the greatest names in
+                            jazz
+                            over the past 30 years. Essentially a swing-based pianist, Brian loves to entertain and make
+                            the audience
+                            feel happy! He has played in Dollar many times in different ensembles, such as with
+                            saxophonist Tommy Smith.
                         </p>
                         <p><span class="fa fa-quote-left"></span><i>Dick Lee's an entertainer...
                                 also a brilliantly inventive musician, composer and bandleader...
@@ -238,21 +253,28 @@ htmlHead($title);
                         <p>The Antonine Trio is an innovative group featuring a blend of voice, French horn and piano.
                         </p>
                         <p>They perform a wide variety of musical styles, ranging from Mozart and Strauss
-                            through to new contemporary commissions, to theatre pieces, traditional folk melodies (eg Burns),
+                            through to new contemporary commissions, to theatre pieces, traditional folk melodies (eg
+                            Burns),
                             and even Flanders and Swann!
                             They love to get to know their audience, introducing their music with historical and
                             musical detail and fascinating anecdotes.
                         </p>
-                        <p>Steven Faughey (baritone) is a regular performer for Scottish Opera and other operatic ensembles.
-                            He is also closely involved with other areas of the Scottish Opera education department, visiting schools around Scotland.
+                        <p>Steven Faughey (baritone) is a regular performer for Scottish Opera and other operatic
+                            ensembles.
+                            He is also closely involved with other areas of the Scottish Opera education department,
+                            visiting schools around Scotland.
                         </p>
-                        <p>Sue Baxendale (horn) plays in the Scottish Opera orchestra, along with many other orchestras, and some solo concerto performances.
+                        <p>Sue Baxendale (horn) plays in the Scottish Opera orchestra, along with many other orchestras,
+                            and some solo concerto performances.
                         </p>
-                        <p>Derek Clark (piano) started as an orchestral conductor and guest music coach, and was appointed Head of Music at Scottish Opera in 1997.
-                            He is a composer and arranger, including reduced orchestrations for touring opera performances.
+                        <p>Derek Clark (piano) started as an orchestral conductor and guest music coach, and was
+                            appointed Head of Music at Scottish Opera in 1997.
+                            He is a composer and arranger, including reduced orchestrations for touring opera
+                            performances.
                             As an accompanist he plays with soloists and touring opera groups.
                         </p>
-                        <p><span class="fa fa-quote-left"></span><i>"The balance and dynamics were spot-on, with Sue Baxendale's
+                        <p><span class="fa fa-quote-left"></span><i>"The balance and dynamics were spot-on, with Sue
+                                Baxendale's
                                 sweet-toned horn playing a compelling clear voice.</i><span
                                     class="fa fa-quote-right"></span> - The Herald</p>
                         <!--                                    <p><a href="/season/2425/Programme-250119-AntonineTrio.pdf"-->
@@ -287,17 +309,20 @@ htmlHead($title);
                     </div>
                     <div class="col-sm-6">
                         <p>The Asaka String Quartet was formed in 2021 with members from Scotland, China and Hong Kong.
-                            Although quite new, they have already won multiple awards and come to Dollar as Tunnell Trust prize winners.
+                            Although quite new, they have already won multiple awards and come to Dollar as Tunnell
+                            Trust prize winners.
                         </p>
-                        <p>As close friends, growing up on opposite sides of the world in the most contrasting of cultures,
+                        <p>As close friends, growing up on opposite sides of the world in the most contrasting of
+                            cultures,
                             they have a keen interest in learning and experiencing new things,
                             which lead them to enjoy discovering and sharing under-represented music.
-                            Through presenting creative and innovative programmes, they invite their audiences to discover
+                            Through presenting creative and innovative programmes, they invite their audiences to
+                            discover
                             new repertoire from a fresh and exciting perspective.</p>
-<!--                        <p><span class="fa fa-quote-left"></span><i>unusual and pretty original... so precise as a team-->
-<!--                                that one could imagine it was just one player</i><span-->
-<!--                                    class="fa fa-quote-right"></span>-->
-<!--                            – Fylde Music Circle</p>-->
+                        <!--                        <p><span class="fa fa-quote-left"></span><i>unusual and pretty original... so precise as a team-->
+                        <!--                                that one could imagine it was just one player</i><span-->
+                        <!--                                    class="fa fa-quote-right"></span>-->
+                        <!--                            – Fylde Music Circle</p>-->
                         <!--                                    <p><a href="/season/2324/Programme-240114-DuoBizart.pdf"-->
                         <!--                                          target="_blank">Concert programme</a></p>-->
                         <p><a href="https://www.asakaquartet.com/"
@@ -329,19 +354,24 @@ htmlHead($title);
                         <img src="/image/2425/JiaNingNg-1-240.jpg" alt="Image of Jia Ning Ng"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>Singaporean pianist Jia Ning Ng has recently graduated from the Royal Conservatoire of Scotland where,
+                        <p>Singaporean pianist Jia Ning Ng has recently graduated from the Royal Conservatoire of
+                            Scotland where,
                             in addition to gaining B.Mus., M.Mus. and Artist Diploma, she won many prestigious awards.
-                            In April 2022, she made her debut with the RSNO, for which she was awarded First Prize in the
+                            In April 2022, she made her debut with the RSNO, for which she was awarded First Prize in
+                            the
                             RCS Concerto Competition. Jia Ning is also an active chamber musician, being particularly
                             drawn to Lieder, and has also collaborated with the Resol String Quartet</p>
                         <p>Since graduating Jia has played throughout Scotland to rave reviews (and standing ovations).
                             We are delighted that she will play for us in Dollar.</p>
-                        <p><span class="fa fa-quote-left"></span><i>From the imposing opening solo piano passage through the technical middle sections,
+                        <p><span class="fa fa-quote-left"></span><i>From the imposing opening solo piano passage through
+                                the technical middle sections,
                                 Ng played with an admirable blend of sensitivity and musical understanding</i><span
                                     class="fa fa-quote-right"></span> – Straits Times</p>
-                        <p><span class="fa fa-quote-left"></span><i>Ng was clearly alive to all the nuances of Schubert’s famously illustrative accompaniments
+                        <p><span class="fa fa-quote-left"></span><i>Ng was clearly alive to all the nuances of
+                                Schubert’s famously illustrative accompaniments
                                 whether turning the great Steinway into a gently plucked lute or rippling seamlessly
-                                as the flowers swayed in the breeze</i><span class="fa fa-quote-right"></span> – Oxford Lieder Festival</p>
+                                as the flowers swayed in the breeze</i><span class="fa fa-quote-right"></span> – Oxford
+                            Lieder Festival</p>
                         <!--                        <p><a href="/season/2425/Programme-250302-JiaNingNg"-->
                         <!--                              target="_blank">Concert programme</a></p>-->
                         <p><a href="https://oxfordsong.org/artist/jia-ning-ng"
@@ -350,18 +380,55 @@ htmlHead($title);
                     </div>
                 </li>
 
+                <li class="clearfix list-group-item dms-list-item" id="WePlayPiano2">
+                    <div class="col-sm-3">
+                        <h3>We Play Piano 2</h3>
+                        <p class="specialhilite italic">Free of charge - all welcome</p>
+                        <h4 class="text-info">
+                            Sunday, 6<span class="subscript">th</span> April 2025
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                        <div id="registerpianoday">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="https://www.wegottickets.com/event/595107/"-->
+                        <!--                               target="_blank">Register</a>-->
+                        <!--                            <p></p>-->
+                        <!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>After the hugely successful and acclaimed <a href="#WePlayPiano1">We Play Piano</a> in
+                            November 2024,
+                            Music in Dollar are hosting another piano performance afternoon in April 2025.
+                            See the <!-- <a href="season/2324/weplay-piano-poster.png.pdf"
+                                                               target="_blank">poster</a>
+                            and --> <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying
+                                information</a>.
+                        </p>
+                        <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
+                            to play for family and friends, with a supportive and encouraging audience.</p>
+                        <p>This is a free event showcasing young courageous pianists who are dedicated to performance.
+                            Come and join us for what will be an inspirational afternoon of young talent!</p>
+                        <p>Refreshments will be provided.</p>
+                    </div>
+                </li>
+
             </ul>
         </div>
     </div>
 
-        <div id="PrevConcert" class="row">
-            <div class="col-sm-12">
-                <h3 class="text-info">Previous concerts</h3>
-            </div>
+    <div id="PrevConcert" class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Previous concerts</h3>
         </div>
-        <div class="row">
-            <div class="col-sm-12">
-                <ul class="list-group">
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item-prev" id="AlbaChallah">
                     <div class="col-sm-3">
@@ -373,12 +440,12 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-<!--                        <div id="buyticket-eilishgrant">-->
-<!--                            <a type="button" class="btn btn-info btn-blocks"-->
-<!--                               href="https://www.wegottickets.com/event/631320/"-->
-<!--                               target="_blank">Buy tickets</a>-->
-<!--                            <p></p>-->
-<!--                        </div>-->
+                        <!--                        <div id="buyticket-eilishgrant">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="https://www.wegottickets.com/event/631320/"-->
+                        <!--                               target="_blank">Buy tickets</a>-->
+                        <!--                            <p></p>-->
+                        <!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2425/EilidhGrantTrio-2-240.png" alt="Eilidh Grant Trio picture"/>
@@ -394,7 +461,8 @@ htmlHead($title);
                             and has made a considerable
                             impression on the British and European folk scenes.
                         </p>
-                        <p>Fiona was classically trained on the violin, but switched to more traditional styles of playing.
+                        <p>Fiona was classically trained on the violin, but switched to more traditional styles of
+                            playing.
                             She is a prolific composer and tutor.
                         </p>
                         <p>
@@ -414,9 +482,9 @@ htmlHead($title);
                     </div>
                 </li>
 
-                <li class="clearfix list-group-item dms-list-item-prev" id="WePlayPiano">
+                <li class="clearfix list-group-item dms-list-item-prev" id="WePlayPiano1">
                     <div class="col-sm-3">
-                        <h3>We Play Piano</h3>
+                        <h3>We Play Piano 1</h3>
                         <p class="specialhilite italic">Free of charge - all welcome</p>
                         <h4 class="text-info">
                             Sunday, 3<span class="subscript">rd</span> November 2024
@@ -424,12 +492,12 @@ htmlHead($title);
                         <p>3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-<!--                        <div id="registerpianoday">-->
-<!--                            <a type="button" class="btn btn-info btn-blocks"-->
-<!--                               href="https://www.wegottickets.com/event/595107/"-->
-<!--                               target="_blank">Register</a>-->
-<!--                            <p></p>-->
-<!--                        </div>-->
+                        <!--                        <div id="registerpianoday">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="https://www.wegottickets.com/event/595107/"-->
+                        <!--                               target="_blank">Register</a>-->
+                        <!--                            <p></p>-->
+                        <!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
@@ -438,12 +506,12 @@ htmlHead($title);
                         <p>Music in Dollar are hosting another piano performance afternoon, <b>We Play Piano</b>,
                             following on the success of our first one at the start of 2024.
                             See the <!-- <a href="season/2324/weplay-piano-poster.png.pdf"
-                                                               target="_blank">poster</a>
-                            and --> <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
+                                                           target="_blank">poster</a>
+                        and --> <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
                         </p>
                         <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
                             to play for family and friends, with a supportive and encouraging audience.</p>
-                        <p>This is a free event showcasing young courageous  pianists who are dedicated to performance.
+                        <p>This is a free event showcasing young courageous pianists who are dedicated to performance.
                             Come and join us for what will be an inspirational afternoon of young talent!</p>
                         <p>Refreshments will be provided.</p>
                     </div>
@@ -493,9 +561,9 @@ htmlHead($title);
                     </div>
                 </li>
 
-                </ul>
-            </div>
+            </ul>
         </div>
+    </div>
 
 </div>
 
