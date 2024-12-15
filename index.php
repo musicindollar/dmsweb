@@ -45,7 +45,7 @@ htmlHead($title);
                         <!--                            so treat friends and family to a free concert.-->
                         <!--                        </p>-->
                         <p><span class="fa fa-calendar-o"></span> By popular demand Mavy has organised another <a
-                                    href="#WePlayPiano2">We Play Piano</a> afternoon for young people, next April.
+                                    href="#WePlayPiano2">We Play Piano</a> afternoon for young people, next March.
                             The November 24 event was inspirational, so make a note in your diary for this next one!
                         </p>
                         <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,
@@ -333,9 +333,56 @@ htmlHead($title);
                     </div>
                 </li>
 
+<!--                <li class="clearfix list-group-item dms-list-item" id="JiaNingNg">-->
+<!--                    <div class="col-sm-3">-->
+<!--                        <h3>Jia Ning Ng</h3>-->
+<!--                        <h4 class="text-info">-->
+<!--                            Sunday, 2<span class="subscript">nd</span> March 2025-->
+<!--                        </h4>-->
+<!--                        <p>3:00pm Gibson Hall, Dollar <a-->
+<!--                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14-->
+<!--                                7DU</a></p>-->
+<!--                        <p>Pre-concert performance from 2:45pm</p>-->
+<!--                        <div id="buyticket-jianingng">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/631334/"-->
+<!--                               target="_blank">Buy tickets</a>-->
+<!--                            <p></p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="col-sm-3">-->
+<!--                        <img src="/image/2425/JiaNingNg-1-240.jpg" alt="Image of Jia Ning Ng"/>-->
+<!--                    </div>-->
+<!--                    <div class="col-sm-6">-->
+<!--                        <p>Singaporean pianist Jia Ning Ng has recently graduated from the Royal Conservatoire of-->
+<!--                            Scotland where,-->
+<!--                            in addition to gaining B.Mus., M.Mus. and Artist Diploma, she won many prestigious awards.-->
+<!--                            In April 2022, she made her debut with the RSNO, for which she was awarded First Prize in-->
+<!--                            the-->
+<!--                            RCS Concerto Competition. Jia Ning is also an active chamber musician, being particularly-->
+<!--                            drawn to Lieder, and has also collaborated with the Resol String Quartet</p>-->
+<!--                        <p>Since graduating Jia has played throughout Scotland to rave reviews (and standing ovations).-->
+<!--                            We are delighted that she will play for us in Dollar.</p>-->
+<!--                        <p><span class="fa fa-quote-left"></span><i>From the imposing opening solo piano passage through-->
+<!--                                the technical middle sections,-->
+<!--                                Ng played with an admirable blend of sensitivity and musical understanding</i><span-->
+<!--                                    class="fa fa-quote-right"></span> – Straits Times</p>-->
+<!--                        <p><span class="fa fa-quote-left"></span><i>Ng was clearly alive to all the nuances of-->
+<!--                                Schubert’s famously illustrative accompaniments-->
+<!--                                whether turning the great Steinway into a gently plucked lute or rippling seamlessly-->
+<!--                                as the flowers swayed in the breeze</i><span class="fa fa-quote-right"></span> – Oxford-->
+<!--                            Lieder Festival</p>-->
+<!--                                                <p><a href="/season/2425/Programme-250302-JiaNingNg"-->
+<!--                                                      target="_blank">Concert programme</a></p>-->
+<!--                        <p><a href="https://oxfordsong.org/artist/jia-ning-ng"-->
+<!--                              target="_blank">More about Jia Ning Ng</a>-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                </li>-->
+
                 <li class="clearfix list-group-item dms-list-item" id="JiaNingNg">
                     <div class="col-sm-3">
-                        <h3>Jia Ning Ng</h3>
+                        <h3>Anna Michels</h3>
                         <h4 class="text-info">
                             Sunday, 2<span class="subscript">nd</span> March 2025
                         </h4>
@@ -343,7 +390,7 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                        <p>Pre-concert performance from 2:45pm</p>-->
-                        <div id="buyticket-jianingng">
+                        <div id="buyticket-annamichels">
                             <a type="button" class="btn btn-info btn-blocks"
                                href="https://www.wegottickets.com/event/631334/"
                                target="_blank">Buy tickets</a>
@@ -351,31 +398,26 @@ htmlHead($title);
                         </div>
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2425/JiaNingNg-1-240.jpg" alt="Image of Jia Ning Ng"/>
+                        <img src="/image/2425/annamichels1-240.jpeg" alt="Image of Anna Michels"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>Singaporean pianist Jia Ning Ng has recently graduated from the Royal Conservatoire of
-                            Scotland where,
-                            in addition to gaining B.Mus., M.Mus. and Artist Diploma, she won many prestigious awards.
-                            In April 2022, she made her debut with the RSNO, for which she was awarded First Prize in
-                            the
-                            RCS Concerto Competition. Jia Ning is also an active chamber musician, being particularly
-                            drawn to Lieder, and has also collaborated with the Resol String Quartet</p>
-                        <p>Since graduating Jia has played throughout Scotland to rave reviews (and standing ovations).
-                            We are delighted that she will play for us in Dollar.</p>
-                        <p><span class="fa fa-quote-left"></span><i>From the imposing opening solo piano passage through
-                                the technical middle sections,
-                                Ng played with an admirable blend of sensitivity and musical understanding</i><span
-                                    class="fa fa-quote-right"></span> – Straits Times</p>
-                        <p><span class="fa fa-quote-left"></span><i>Ng was clearly alive to all the nuances of
-                                Schubert’s famously illustrative accompaniments
-                                whether turning the great Steinway into a gently plucked lute or rippling seamlessly
-                                as the flowers swayed in the breeze</i><span class="fa fa-quote-right"></span> – Oxford
-                            Lieder Festival</p>
+                        <p><i>In a change to the original programme, pianist Jia Ning Ng is indisposed for family reasons.
+                                We hope to reschedule her concert for next season.
+                                Meanwhile, fantasitic Scottish-Dutch pianist Anna Michels has kindly agreed to step in.
+                                We are lucky to have such talent in Scotland!</i></p>
+                        <p>Multiple prize-winning Scottish-Dutch pianist Anna Michels performs internationally as a soloist,
+                            with orchestras and in chamber groups (including the Lark Piano Trio and Live Music Now Scotland).</p>
+                        <p>Since studying in Scotland and Netherlands, she has been active in unearthing hidden treasures of the classical repertoire,
+                            alongside more established works. In particular Scottish composer Ronald Center.</p>
+                        <p>As well as music performance, Anna also delivers lecture tours, founded the ‘Ad Libitum Collective’
+                            exploring free improvisation and dance, and teaches at St Mary’s Music school in Edinburgh.</p>
+                        <p>Anna will play a dedicated solo piano programme for us.</p>
+                        <p><span class="fa fa-quote-left"></span><i>Michels relishing the bold bass lines, dancing across the keys with spirit.</i><span
+                                    class="fa fa-quote-right"></span> – David Smythe</p>
                         <!--                        <p><a href="/season/2425/Programme-250302-JiaNingNg"-->
                         <!--                              target="_blank">Concert programme</a></p>-->
-                        <p><a href="https://oxfordsong.org/artist/jia-ning-ng"
-                              target="_blank">More about Jia Ning Ng</a>
+                        <p><a href="https://www.annamichelspiano.com/"
+                              target="_blank">More about Anna Michels</a>
                         </p>
                     </div>
                 </li>
@@ -385,7 +427,7 @@ htmlHead($title);
                         <h3>We Play Piano 2</h3>
                         <p class="specialhilite italic">Free of charge - all welcome</p>
                         <h4 class="text-info">
-                            Sunday, 6<span class="subscript">th</span> April 2025
+                            Sunday, 23<span class="subscript">rd</span> March 2025
                         </h4>
                         <p>3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
@@ -403,7 +445,7 @@ htmlHead($title);
                     <div class="col-sm-6">
                         <p>After the hugely successful and acclaimed <a href="#WePlayPiano1">We Play Piano</a> in
                             November 2024,
-                            Music in Dollar are hosting another piano performance afternoon in April 2025.
+                            Music in Dollar are hosting another piano performance afternoon in March 2025.
                             See the <!-- <a href="season/2324/weplay-piano-poster.png.pdf"
                                                                target="_blank">poster</a>
                             and --> <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying
