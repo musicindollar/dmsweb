@@ -111,9 +111,9 @@ htmlHead($title);
         <div class="col-sm-6 margintop10">
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <a href="season/2425/MiD-Leaflet-2024-25.pdf" target="_blank">View</a>
+                    <a href="season/2425/MiD-Leaflet-2024-25-v2.pdf" target="_blank">View</a>
                     the full programme for the current season [PDF 0.5MB] <a
-                            href="season/2425/MiD-Leaflet-2024-25.pdf" target="_blank"><img
+                            href="season/2425/MiD-Leaflet-2024-25-v2.pdf" target="_blank"><img
                                 src="image/pdf.jpeg" alt="PDF icon"/></a>
                     <!-- href="javascript:alert('Coming soon')" -->
                 </div>
