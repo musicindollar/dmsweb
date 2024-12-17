@@ -48,6 +48,8 @@ htmlHead($title);
                                     href="#WePlayPiano2">We Play Piano</a> afternoon for young people, next March.
                             The November 24 event was inspirational, so make a note in your diary for this next one!
                         </p>
+                        <p><span class="fa fa-newspaper-o"></span> In a change to the published programme, <a href="#JiaNingNg">pianist Anna Michels</a> replaces the indisposed Jia Ning Ng on 2nd March 2025.
+                        </p>
                         <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,
                             with Brian McBride irrepressible as ever.
                             This time the focus was on pop songs, about hope and love! What better message for today's
@@ -139,11 +141,11 @@ htmlHead($title);
                             per concert, unbeatable value!</p>
                         <p>Choose how you'd like to pay: online using the button below, buy at the door (card or cash),
                             or <a href="contact.php">contact us</a> to request bank transfer details.</p>
-                        <div id="buyseasonticket">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/631170"
-                               target="_blank">Buy season tickets</a>
-                        </div>
+<!--                        <div id="buyseasonticket">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/631170"-->
+<!--                               target="_blank">Buy season tickets</a>-->
+<!--                        </div>-->
                     </div>
                 </li>
 
@@ -155,82 +157,7 @@ htmlHead($title);
             <h3 class="text-info">Next event</h3>
             <ul class="list-group">
 
-                <li class="clearfix list-group-item dms-list-item-next" id="DickLeeBrianKellock">
-                    <div class="col-sm-3">
-                        <h3>Dick Lee & Brian Kellock - The Story of Jazz</h3>
-                        <h4 class="text-info">
-                            Saunday, 17<span class="subscript">th</span> November 2024
-                        </h4>
-                        <p>Time 3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <p>Pre-concert performance from 2:45pm</p>
-                        <div id="buyticketleekellock">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/631322/"
-                               target="_blank">Buy tickets</a>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2425/lee-kellock-1-240.png" alt="Image of Dick Lee and Brian Kellock"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>Dick Lee and Briak Kellock are amongst the foremost contemporary Jazz musicians, in Scotland
-                            and worldwide.
-                            They have teamed up to showcase The Story of Jazz, featuring a tour through the highlights
-                            of that great and vibrant genre.
-                            While they are both virtuoso performers and improvisers, they span a wide range of musical
-                            styles and moods.
-                        </p>
-                        <p>Over the last 50 years Dick has played and recorded with many artists and groups including
-                            Swing,
-                            The Psychiatrists, John Renbourn, Hebrides Ensemble, Scottish Chamber Orchestra, Michael
-                            Marra Band,
-                            Chita Rivera and Ken Mathieson's Classic Jazz Orchestra.
-                            He is a supreme entertainer and familiar performer here in Dollar, latterly with Ali
-                            Affleck,
-                            and several times with Swing.
-                        </p>
-                        <p>Brian is a leading jazz pianist in the UK, and has played with many of the greatest names in
-                            jazz
-                            over the past 30 years. Essentially a swing-based pianist, Brian loves to entertain and make
-                            the audience
-                            feel happy! He has played in Dollar many times in different ensembles, such as with
-                            saxophonist Tommy Smith.
-                        </p>
-                        <p><span class="fa fa-quote-left"></span><i>Dick Lee's an entertainer...
-                                also a brilliantly inventive musician, composer and bandleader...
-                                it may be an unorthodox prescription, but take two sets nightly and you'll need
-                                the resulting smile surgically removed</i><span
-                                    class="fa fa-quote-right"></span> Herald</p>
-                        <p><a href="/season/2425/Programme-241117-LeeKellock.pdf"
-                              target="_blank">Concert programme</a>
-                        </p>
-                        <p>
-                            <a href="https://briankellock.com/"
-                               target="_blank">Brian's website.</a>
-                        </p>
-                        <p>
-                            <a href="https://dicklee.org.uk/wp/"
-                               target="_blank">Dick's website with some tunes composed during Covid lockdowns.</a>
-                        </p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item" id="AntonineTrio">
+                <li class="clearfix list-group-item dms-list-item-next" id="AntonineTrio">
                     <div class="col-sm-3">
                         <h3>Antonine Trio</h3>
                         <h4 class="text-info">
@@ -286,6 +213,19 @@ htmlHead($title);
                         </p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
                 <li class="clearfix list-group-item dms-list-item" id="AsakaQuartet">
                     <div class="col-sm-3">
@@ -570,12 +510,12 @@ htmlHead($title);
                         <p>Time 2:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <div id="registeropenchoirday">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://wegottickets.com/event/635380/"
-                               target="_blank">Register</a>
-                            <p></p>
-                        </div>
+<!--                        <div id="registeropenchoirday">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://wegottickets.com/event/635380/"-->
+<!--                               target="_blank">Register</a>-->
+<!--                            <p></p>-->
+<!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/2223/choir-cartoon-240.jpeg" alt="Choir image"/>
@@ -600,6 +540,68 @@ htmlHead($title);
                             to prepare for the right number of people.</p>
                         <p>Those who don't fancy singing can still enjoy the sounds of those that do. Come
                             along and listen - it's free!</p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="DickLeeBrianKellock">
+                    <div class="col-sm-3">
+                        <h3>Dick Lee & Brian Kellock - The Story of Jazz</h3>
+                        <h4 class="text-info">
+                            Saunday, 17<span class="subscript">th</span> November 2024
+                        </h4>
+                        <p>Time 3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <p>Pre-concert performance from 2:45pm</p>
+<!--                        <div id="buyticketleekellock">-->
+<!--                            <a type="button" class="btn btn-info btn-blocks"-->
+<!--                               href="https://www.wegottickets.com/event/631322/"-->
+<!--                               target="_blank">Buy tickets</a>-->
+<!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2425/lee-kellock-1-240.png" alt="Image of Dick Lee and Brian Kellock"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>Dick Lee and Briak Kellock are amongst the foremost contemporary Jazz musicians, in Scotland
+                            and worldwide.
+                            They have teamed up to showcase The Story of Jazz, featuring a tour through the highlights
+                            of that great and vibrant genre.
+                            While they are both virtuoso performers and improvisers, they span a wide range of musical
+                            styles and moods.
+                        </p>
+                        <p>Over the last 50 years Dick has played and recorded with many artists and groups including
+                            Swing,
+                            The Psychiatrists, John Renbourn, Hebrides Ensemble, Scottish Chamber Orchestra, Michael
+                            Marra Band,
+                            Chita Rivera and Ken Mathieson's Classic Jazz Orchestra.
+                            He is a supreme entertainer and familiar performer here in Dollar, latterly with Ali
+                            Affleck,
+                            and several times with Swing.
+                        </p>
+                        <p>Brian is a leading jazz pianist in the UK, and has played with many of the greatest names in
+                            jazz
+                            over the past 30 years. Essentially a swing-based pianist, Brian loves to entertain and make
+                            the audience
+                            feel happy! He has played in Dollar many times in different ensembles, such as with
+                            saxophonist Tommy Smith.
+                        </p>
+                        <p><span class="fa fa-quote-left"></span><i>Dick Lee's an entertainer...
+                                also a brilliantly inventive musician, composer and bandleader...
+                                it may be an unorthodox prescription, but take two sets nightly and you'll need
+                                the resulting smile surgically removed</i><span
+                                    class="fa fa-quote-right"></span> Herald</p>
+                        <p><a href="/season/2425/Programme-241117-LeeKellock.pdf"
+                              target="_blank">Concert programme</a>
+                        </p>
+                        <p>
+                            <a href="https://briankellock.com/"
+                               target="_blank">Brian's website.</a>
+                        </p>
+                        <p>
+                            <a href="https://dicklee.org.uk/wp/"
+                               target="_blank">Dick's website with some tunes composed during Covid lockdowns.</a>
+                        </p>
                     </div>
                 </li>
 
