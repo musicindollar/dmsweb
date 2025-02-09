@@ -178,7 +178,7 @@ htmlHead($title);
                     </div>
                     <div class="col-sm-6">
                         <p>The Asaka String Quartet was formed in 2021 with members from Scotland, China and Hong Kong.
-                            Although quite new, they have already won multiple awards and come to Dollar as Tunnell
+                            They have already won multiple awards and come to Dollar as Tunnell
                             Trust prize winners.
                         </p>
                         <p>As close friends, growing up on opposite sides of the world in the most contrasting of
@@ -188,12 +188,10 @@ htmlHead($title);
                             Through presenting creative and innovative programmes, they invite their audiences to
                             discover
                             new repertoire from a fresh and exciting perspective.</p>
-                        <!--                        <p><span class="fa fa-quote-left"></span><i>unusual and pretty original... so precise as a team-->
-                        <!--                                that one could imagine it was just one player</i><span-->
-                        <!--                                    class="fa fa-quote-right"></span>-->
-                        <!--                            – Fylde Music Circle</p>-->
-                        <!--                                    <p><a href="/season/2324/Programme-240114-DuoBizart.pdf"-->
-                        <!--                                          target="_blank">Concert programme</a></p>-->
+                            <p><span class="fa fa-quote-left"></span><i>vibrant energy and commitment</i><span
+                                        class="fa fa-quote-right"></span> – RCS</p>
+                            <p><a href="/season/2425/Programme-250222-AsakaQuartet.pdf"
+                                  target="_blank">Concert programme</a></p>
                         <p><a href="https://www.asakaquartet.com/"
                               target="_blank">More about the Asaka String Quartet</a>
                         </p>
