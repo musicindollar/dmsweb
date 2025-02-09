@@ -50,11 +50,11 @@ htmlHead($title);
                         </p>
                         <p><span class="fa fa-newspaper-o"></span> In a change to the published programme, <a href="#JiaNingNg">pianist Anna Michels</a> replaces the indisposed Jia Ning Ng on 2nd March 2025.
                         </p>
-                        <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,
-                            with Brian McBride irrepressible as ever.
-                            This time the focus was on pop songs, about hope and love! What better message for today's
-                            world.
-                        </p>
+<!--                        <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,-->
+<!--                            with Brian McBride irrepressible as ever.-->
+<!--                            This time the focus was on pop songs, about hope and love! What better message for today's-->
+<!--                            world.-->
+<!--                        </p>-->
                         <!--                        <p><span class="fa fa-heart"></span> The Eilidh Grant Trio were a treat.-->
                         <!--                            Eilidh was in fine voice and those reels really rocked, with heavy-metal bouzouki!-->
                         <!--                        </p>-->
@@ -156,78 +156,7 @@ htmlHead($title);
         <div class="col-sm-12">
             <h3 class="text-info">Next event</h3>
             <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item-next" id="AntonineTrio">
-                    <div class="col-sm-3">
-                        <h3>Antonine Trio</h3>
-                        <h4 class="text-info">
-                            Sunday, 19<span class="subscript">th</span> January 2025
-                        </h4>
-                        <p>Time 3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                        <p>Pre-concert performance from 2:45pm</p>-->
-                        <div id="buyticketantoninetrio">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/631326/"
-                               target="_blank">Buy tickets</a>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2425/AntonineTrio-1-245.jpeg" alt="Image of Antonine Trio"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>The Antonine Trio is an innovative group featuring a blend of voice, French horn and piano.
-                        </p>
-                        <p>They perform a wide variety of musical styles, ranging from Mozart and Strauss
-                            through to new contemporary commissions, to theatre pieces, traditional folk melodies (eg
-                            Burns),
-                            and even Flanders and Swann!
-                            They love to get to know their audience, introducing their music with historical and
-                            musical detail and fascinating anecdotes.
-                        </p>
-                        <p>Steven Faughey (baritone) is a regular performer for Scottish Opera and other operatic
-                            ensembles.
-                            He is also closely involved with other areas of the Scottish Opera education department,
-                            visiting schools around Scotland.
-                        </p>
-                        <p>Sue Baxendale (horn) plays in the Scottish Opera orchestra, along with many other orchestras,
-                            and some solo concerto performances.
-                        </p>
-                        <p>Derek Clark (piano) started as an orchestral conductor and guest music coach, and was
-                            appointed Head of Music at Scottish Opera in 1997.
-                            He is a composer and arranger, including reduced orchestrations for touring opera
-                            performances.
-                            As an accompanist he plays with soloists and touring opera groups.
-                        </p>
-                        <p><span class="fa fa-quote-left"></span><i>"The balance and dynamics were spot-on, with Sue
-                                Baxendale's
-                                sweet-toned horn playing a compelling clear voice.</i><span
-                                    class="fa fa-quote-right"></span> - The Herald</p>
-                        <!--                                    <p><a href="/season/2425/Programme-250119-AntonineTrio.pdf"-->
-                        <!--                                          target="_blank">Concert programme</a>-->
-                        <!--                                    </p>-->
-                        <p>
-                            <a href="https://www.classicalmusiciansscotland.com/artists/antonine-trio/"
-                               target="_blank">More about the Antonine Trio</a>
-                        </p>
-                    </div>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item" id="AsakaQuartet">
+                <li class="clearfix list-group-item dms-list-item-next" id="AsakaQuartet">
                     <div class="col-sm-3">
                         <h3>Asaka String Quartet</h3>
                         <h4 class="text-info">
@@ -272,6 +201,19 @@ htmlHead($title);
                               target="_blank">Listen to them play</a></p>
                     </div>
                 </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="text-info">Still to come</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <ul class="list-group">
 
 <!--                <li class="clearfix list-group-item dms-list-item" id="JiaNingNg">-->
 <!--                    <div class="col-sm-3">-->
@@ -602,6 +544,60 @@ htmlHead($title);
                             <a href="https://dicklee.org.uk/wp/"
                                target="_blank">Dick's website with some tunes composed during Covid lockdowns.</a>
                         </p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="AntonineTrio">
+                    <div class="col-sm-3">
+                        <h3>Antonine Trio</h3>
+                        <h4 class="text-info">
+                            Sunday, 19<span class="subscript">th</span> January 2025
+                        </h4>
+                        <p>Time 3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                        <p>Pre-concert performance from 2:45pm</p>-->
+                        <div id="buyticketantoninetrio">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/631326/"
+                               target="_blank">Buy tickets</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2425/AntonineTrio-1-245.jpeg" alt="Image of Antonine Trio"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>The Antonine Trio is an innovative group featuring a blend of voice, French horn and piano.
+                        </p>
+                        <p>They perform a wide variety of musical styles, ranging from Mozart and Strauss
+                            through to new contemporary commissions, to theatre pieces, traditional folk melodies (eg
+                            Burns),
+                            and even Flanders and Swann!
+                            They love to get to know their audience, introducing their music with historical and
+                            musical detail and fascinating anecdotes.
+                        </p>
+                        <p>Steven Faughey (baritone) is a regular performer for Scottish Opera and other operatic
+                            ensembles.
+                            He is also closely involved with other areas of the Scottish Opera education department,
+                            visiting schools around Scotland.
+                        </p>
+                        <p>Sue Baxendale (horn) plays in the Scottish Opera orchestra, along with many other orchestras,
+                            and some solo concerto performances.
+                        </p>
+                        <p>Derek Clark (piano) started as an orchestral conductor and guest music coach, and was
+                            appointed Head of Music at Scottish Opera in 1997.
+                            He is a composer and arranger, including reduced orchestrations for touring opera
+                            performances.
+                            As an accompanist he plays with soloists and touring opera groups.
+                        </p>
+                        <p><span class="fa fa-quote-left"></span><i>"The balance and dynamics were spot-on, with Sue
+                                Baxendale's
+                                sweet-toned horn playing a compelling clear voice.</i><span
+                                    class="fa fa-quote-right"></span> - The Herald</p>
+                            <p><a href="/season/2425/Programme-250119-AntonineTrio.pdf"
+                                  target="_blank">Concert programme</a></p>
+                        <p><a href="https://www.classicalmusiciansscotland.com/artists/antonine-trio/"
+                               target="_blank">More about the Antonine Trio</a></p>
                     </div>
                 </li>
 
