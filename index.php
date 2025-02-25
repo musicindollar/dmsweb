@@ -156,47 +156,46 @@ htmlHead($title);
         <div class="col-sm-12">
             <h3 class="text-info">Next event</h3>
             <ul class="list-group">
-                <li class="clearfix list-group-item dms-list-item-next" id="AsakaQuartet">
+
+                 <li class="clearfix list-group-item dms-list-item-next" id="JiaNingNg">
                     <div class="col-sm-3">
-                        <h3>Asaka String Quartet</h3>
+                        <h3>Anna Michels</h3>
                         <h4 class="text-info">
-                            Saturday, 22<span class="subscript">nd</span> February 2025
+                            Sunday, 2<span class="subscript">nd</span> March 2025
                         </h4>
-                        <p>7:30pm Gibson Hall, Dollar <a
+                        <p>3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <!--                        <p>Pre-concert performance from 2:45pm</p>-->
-                        <div id="buyticketasakaQuartet">
+                        <p>Pre-concert performance from 2:45pm</p>
+                        <div id="buyticket-annamichels">
                             <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/631328/"
+                               href="https://www.wegottickets.com/event/631334/"
                                target="_blank">Buy tickets</a>
                             <p></p>
                         </div>
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2425/AsakaQuartet-1-240.webp" alt="Image of Asaka Quartet"/>
+                        <img src="/image/2425/annamichels1-240.jpeg" alt="Image of Anna Michels"/>
                     </div>
                     <div class="col-sm-6">
-                        <p>The Asaka String Quartet was formed in 2021 with members from Scotland, China and Hong Kong.
-                            They have already won multiple awards and come to Dollar as Tunnell
-                            Trust prize winners.
+                        <p><i>In a change to the original programme, pianist Jia Ning Ng is indisposed for family reasons.
+                                We hope to reschedule her concert for next season.
+                                Meanwhile, fantasitic Scottish-Dutch pianist Anna Michels has kindly agreed to step in.
+                                We are lucky to have such talent in Scotland!</i></p>
+                        <p>Multiple prize-winning Scottish-Dutch pianist Anna Michels performs internationally as a soloist,
+                            with orchestras and in chamber groups (including the Lark Piano Trio and Live Music Now Scotland).</p>
+                        <p>Since studying in Scotland and Netherlands, she has been active in unearthing hidden treasures of the classical repertoire,
+                            alongside more established works. In particular Scottish composer Ronald Center.</p>
+                        <p>As well as music performance, Anna also delivers lecture tours, founded the ‘Ad Libitum Collective’
+                            exploring free improvisation and dance, and teaches at St Mary’s Music school in Edinburgh.</p>
+                        <p>Anna will play a dedicated solo piano programme for us.</p>
+                        <p><span class="fa fa-quote-left"></span><i>Michels relishing the bold bass lines, dancing across the keys with spirit.</i><span
+                                    class="fa fa-quote-right"></span> – David Smythe</p>
+                        <p><a href="/season/2425/Programme-250302-AnnaMichels.pdf"
+                              target="_blank">Concert programme</a></p>
+                        <p><a href="https://www.annamichelspiano.com/"
+                              target="_blank">More about Anna Michels</a>
                         </p>
-                        <p>As close friends, growing up on opposite sides of the world in the most contrasting of
-                            cultures,
-                            they have a keen interest in learning and experiencing new things,
-                            which lead them to enjoy discovering and sharing under-represented music.
-                            Through presenting creative and innovative programmes, they invite their audiences to
-                            discover
-                            new repertoire from a fresh and exciting perspective.</p>
-                            <p><span class="fa fa-quote-left"></span><i>vibrant energy and commitment</i><span
-                                        class="fa fa-quote-right"></span> – RCS</p>
-                            <p><a href="/season/2425/Programme-250222-AsakaQuartet.pdf"
-                                  target="_blank">Concert programme</a></p>
-                        <p><a href="https://www.asakaquartet.com/"
-                              target="_blank">More about the Asaka String Quartet</a>
-                        </p>
-                        <p><a href="https://www.asakaquartet.com/media"
-                              target="_blank">Listen to them play</a></p>
                     </div>
                 </li>
 
@@ -259,48 +258,6 @@ htmlHead($title);
 <!--                        </p>-->
 <!--                    </div>-->
 <!--                </li>-->
-
-                <li class="clearfix list-group-item dms-list-item" id="JiaNingNg">
-                    <div class="col-sm-3">
-                        <h3>Anna Michels</h3>
-                        <h4 class="text-info">
-                            Sunday, 2<span class="subscript">nd</span> March 2025
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                        <p>Pre-concert performance from 2:45pm</p>-->
-                        <div id="buyticket-annamichels">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/631334/"
-                               target="_blank">Buy tickets</a>
-                            <p></p>
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2425/annamichels1-240.jpeg" alt="Image of Anna Michels"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p><i>In a change to the original programme, pianist Jia Ning Ng is indisposed for family reasons.
-                                We hope to reschedule her concert for next season.
-                                Meanwhile, fantasitic Scottish-Dutch pianist Anna Michels has kindly agreed to step in.
-                                We are lucky to have such talent in Scotland!</i></p>
-                        <p>Multiple prize-winning Scottish-Dutch pianist Anna Michels performs internationally as a soloist,
-                            with orchestras and in chamber groups (including the Lark Piano Trio and Live Music Now Scotland).</p>
-                        <p>Since studying in Scotland and Netherlands, she has been active in unearthing hidden treasures of the classical repertoire,
-                            alongside more established works. In particular Scottish composer Ronald Center.</p>
-                        <p>As well as music performance, Anna also delivers lecture tours, founded the ‘Ad Libitum Collective’
-                            exploring free improvisation and dance, and teaches at St Mary’s Music school in Edinburgh.</p>
-                        <p>Anna will play a dedicated solo piano programme for us.</p>
-                        <p><span class="fa fa-quote-left"></span><i>Michels relishing the bold bass lines, dancing across the keys with spirit.</i><span
-                                    class="fa fa-quote-right"></span> – David Smythe</p>
-                        <!--                        <p><a href="/season/2425/Programme-250302-JiaNingNg"-->
-                        <!--                              target="_blank">Concert programme</a></p>-->
-                        <p><a href="https://www.annamichelspiano.com/"
-                              target="_blank">More about Anna Michels</a>
-                        </p>
-                    </div>
-                </li>
 
                 <li class="clearfix list-group-item dms-list-item" id="WePlayPiano2">
                     <div class="col-sm-3">
@@ -596,6 +553,50 @@ htmlHead($title);
                                   target="_blank">Concert programme</a></p>
                         <p><a href="https://www.classicalmusiciansscotland.com/artists/antonine-trio/"
                                target="_blank">More about the Antonine Trio</a></p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="AsakaQuartet">
+                    <div class="col-sm-3">
+                        <h3>Asaka String Quartet</h3>
+                        <h4 class="text-info">
+                            Saturday, 22<span class="subscript">nd</span> February 2025
+                        </h4>
+                        <p>7:30pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                        <p>Pre-concert performance from 2:45pm</p>-->
+                        <div id="buyticketasakaQuartet">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/631328/"
+                               target="_blank">Buy tickets</a>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2425/AsakaQuartet-1-240.webp" alt="Image of Asaka Quartet"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>The Asaka String Quartet was formed in 2021 with members from Scotland, China and Hong Kong.
+                            They have already won multiple awards and come to Dollar as Tunnell
+                            Trust prize winners.
+                        </p>
+                        <p>As close friends, growing up on opposite sides of the world in the most contrasting of
+                            cultures,
+                            they have a keen interest in learning and experiencing new things,
+                            which lead them to enjoy discovering and sharing under-represented music.
+                            Through presenting creative and innovative programmes, they invite their audiences to
+                            discover
+                            new repertoire from a fresh and exciting perspective.</p>
+                            <p><span class="fa fa-quote-left"></span><i>vibrant energy and commitment</i><span
+                                        class="fa fa-quote-right"></span> – RCS</p>
+                            <p><a href="/season/2425/Programme-250222-AsakaQuartet.pdf"
+                                  target="_blank">Concert programme</a></p>
+                        <p><a href="https://www.asakaquartet.com/"
+                              target="_blank">More about the Asaka String Quartet</a>
+                        </p>
+                        <p><a href="https://www.asakaquartet.com/media"
+                              target="_blank">Listen to them play</a></p>
                     </div>
                 </li>
 
