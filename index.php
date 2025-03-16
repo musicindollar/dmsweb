@@ -44,11 +44,9 @@ htmlHead($title);
                         <!--                            Free complimentary tickets given for all Season Tickets bought before the opening concert,-->
                         <!--                            so treat friends and family to a free concert.-->
                         <!--                        </p>-->
-                        <p><span class="fa fa-calendar-o"></span> By popular demand Mavy has organised another <a
-                                    href="#WePlayPiano2">We Play Piano</a> afternoon for young people, next March.
+                        <p><span class="fa fa-calendar-o"></span> By popular demand Mavy has organised another
+                            <a href="season/2425/WePlayPiano-250323.jpg" target="_blank">We Play Piano</a> afternoon for young people.
                             The November 24 event was inspirational, so make a note in your diary for this next one!
-                        </p>
-                        <p><span class="fa fa-newspaper-o"></span> In a change to the published programme, <a href="#JiaNingNg">pianist Anna Michels</a> replaces the indisposed Jia Ning Ng on 2nd March 2025.
                         </p>
 <!--                        <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,-->
 <!--                            with Brian McBride irrepressible as ever.-->
@@ -157,45 +155,40 @@ htmlHead($title);
             <h3 class="text-info">Next event</h3>
             <ul class="list-group">
 
-                 <li class="clearfix list-group-item dms-list-item-next" id="JiaNingNg">
+                <li class="clearfix list-group-item dms-list-item-next" id="WePlayPiano2">
                     <div class="col-sm-3">
-                        <h3>Anna Michels</h3>
+                        <h3>We Play Piano 2</h3>
+                        <p class="specialhilite italic">Free of charge - all welcome</p>
                         <h4 class="text-info">
-                            Sunday, 2<span class="subscript">nd</span> March 2025
+                            Sunday, 23<span class="subscript">rd</span> March 2025
                         </h4>
                         <p>3:00pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <p>Pre-concert performance from 2:45pm</p>
-                        <div id="buyticket-annamichels">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/631334/"
-                               target="_blank">Buy tickets</a>
-                            <p></p>
-                        </div>
+                        <!--                        <div id="registerpianoday">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="https://www.wegottickets.com/event/595107/"-->
+                        <!--                               target="_blank">Register</a>-->
+                        <!--                            <p></p>-->
+                        <!--                        </div>-->
                     </div>
                     <div class="col-sm-3">
-                        <img src="/image/2425/annamichels1-240.jpeg" alt="Image of Anna Michels"/>
+                        <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
                     </div>
                     <div class="col-sm-6">
-                        <p><i>In a change to the original programme, pianist Jia Ning Ng is indisposed for family reasons.
-                                We hope to reschedule her concert for next season.
-                                Meanwhile, fantasitic Scottish-Dutch pianist Anna Michels has kindly agreed to step in.
-                                We are lucky to have such talent in Scotland!</i></p>
-                        <p>Multiple prize-winning Scottish-Dutch pianist Anna Michels performs internationally as a soloist,
-                            with orchestras and in chamber groups (including the Lark Piano Trio and Live Music Now Scotland).</p>
-                        <p>Since studying in Scotland and Netherlands, she has been active in unearthing hidden treasures of the classical repertoire,
-                            alongside more established works. In particular Scottish composer Ronald Center.</p>
-                        <p>As well as music performance, Anna also delivers lecture tours, founded the ‘Ad Libitum Collective’
-                            exploring free improvisation and dance, and teaches at St Mary’s Music school in Edinburgh.</p>
-                        <p>Anna will play a dedicated solo piano programme for us.</p>
-                        <p><span class="fa fa-quote-left"></span><i>Michels relishing the bold bass lines, dancing across the keys with spirit.</i><span
-                                    class="fa fa-quote-right"></span> – David Smythe</p>
-                        <p><a href="/season/2425/Programme-250302-AnnaMichels.pdf"
-                              target="_blank">Concert programme</a></p>
-                        <p><a href="https://www.annamichelspiano.com/"
-                              target="_blank">More about Anna Michels</a>
+                        <p>After the hugely successful and acclaimed <a href="#WePlayPiano1">We Play Piano</a> in
+                            November 2024,
+                            Music in Dollar are hosting another piano performance afternoon in March 2025.
+                            See the <!-- <a href="season/2324/weplay-piano-poster.png.pdf"
+                                                               target="_blank">poster</a>
+                            and --> <a href="season/2425/WePlayPiano-250323.jpg" target="_blank">accompanying
+                                information</a>.
                         </p>
+                        <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
+                            to play for family and friends, with a supportive and encouraging audience.</p>
+                        <p>This is a free event showcasing young courageous pianists who are dedicated to performance.
+                            Come and join us for what will be an inspirational afternoon of young talent!</p>
+                        <p>Refreshments will be provided.</p>
                     </div>
                 </li>
 
@@ -205,7 +198,7 @@ htmlHead($title);
 
     <div class="row">
         <div class="col-sm-12">
-            <h3 class="text-info">Still to come</h3>
+<!--            <h3 class="text-info">Still to come</h3>-->
         </div>
     </div>
     <div class="row">
@@ -258,43 +251,6 @@ htmlHead($title);
 <!--                        </p>-->
 <!--                    </div>-->
 <!--                </li>-->
-
-                <li class="clearfix list-group-item dms-list-item" id="WePlayPiano2">
-                    <div class="col-sm-3">
-                        <h3>We Play Piano 2</h3>
-                        <p class="specialhilite italic">Free of charge - all welcome</p>
-                        <h4 class="text-info">
-                            Sunday, 23<span class="subscript">rd</span> March 2025
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                        <div id="registerpianoday">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/595107/"-->
-                        <!--                               target="_blank">Register</a>-->
-                        <!--                            <p></p>-->
-                        <!--                        </div>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>After the hugely successful and acclaimed <a href="#WePlayPiano1">We Play Piano</a> in
-                            November 2024,
-                            Music in Dollar are hosting another piano performance afternoon in March 2025.
-                            See the <!-- <a href="season/2324/weplay-piano-poster.png.pdf"
-                                                               target="_blank">poster</a>
-                            and --> <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying
-                                information</a>.
-                        </p>
-                        <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
-                            to play for family and friends, with a supportive and encouraging audience.</p>
-                        <p>This is a free event showcasing young courageous pianists who are dedicated to performance.
-                            Come and join us for what will be an inspirational afternoon of young talent!</p>
-                        <p>Refreshments will be provided.</p>
-                    </div>
-                </li>
 
             </ul>
         </div>
@@ -597,6 +553,48 @@ htmlHead($title);
                         </p>
                         <p><a href="https://www.asakaquartet.com/media"
                               target="_blank">Listen to them play</a></p>
+                    </div>
+                </li>
+
+                 <li class="clearfix list-group-item dms-list-item-prev" id="JiaNingNg">
+                    <div class="col-sm-3">
+                        <h3>Anna Michels</h3>
+                        <h4 class="text-info">
+                            Sunday, 2<span class="subscript">nd</span> March 2025
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <p>Pre-concert performance from 2:45pm</p>
+                        <div id="buyticket-annamichels">
+                            <a type="button" class="btn btn-info btn-blocks"
+                               href="https://www.wegottickets.com/event/631334/"
+                               target="_blank">Buy tickets</a>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2425/annamichels1-240.jpeg" alt="Image of Anna Michels"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p><i>In a change to the original programme, pianist Jia Ning Ng is indisposed for family reasons.
+                                We hope to reschedule her concert for next season.
+                                Meanwhile, fantasitic Scottish-Dutch pianist Anna Michels has kindly agreed to step in.
+                                We are lucky to have such talent in Scotland!</i></p>
+                        <p>Multiple prize-winning Scottish-Dutch pianist Anna Michels performs internationally as a soloist,
+                            with orchestras and in chamber groups (including the Lark Piano Trio and Live Music Now Scotland).</p>
+                        <p>Since studying in Scotland and Netherlands, she has been active in unearthing hidden treasures of the classical repertoire,
+                            alongside more established works. In particular Scottish composer Ronald Center.</p>
+                        <p>As well as music performance, Anna also delivers lecture tours, founded the ‘Ad Libitum Collective’
+                            exploring free improvisation and dance, and teaches at St Mary’s Music school in Edinburgh.</p>
+                        <p>Anna will play a dedicated solo piano programme for us.</p>
+                        <p><span class="fa fa-quote-left"></span><i>Michels relishing the bold bass lines, dancing across the keys with spirit.</i><span
+                                    class="fa fa-quote-right"></span> – David Smythe</p>
+                        <p><a href="/season/2425/Programme-250302-AnnaMichels.pdf"
+                              target="_blank">Concert programme</a></p>
+                        <p><a href="https://www.annamichelspiano.com/"
+                              target="_blank">More about Anna Michels</a>
+                        </p>
                     </div>
                 </li>
 
