@@ -44,9 +44,12 @@ htmlHead($title);
                         <!--                            Free complimentary tickets given for all Season Tickets bought before the opening concert,-->
                         <!--                            so treat friends and family to a free concert.-->
                         <!--                        </p>-->
-                        <p><span class="fa fa-calendar-o"></span> By popular demand Mavy has organised another
-                            <a href="season/2425/WePlayPiano-250323.jpg" target="_blank">We Play Piano</a> afternoon for young people.
-                            The November 24 event was inspirational, so make a note in your diary for this next one!
+                        <p><span class="fa fa-music"></span> Classical guitarist Stewart Kelly is playing in <a href="season/2425/StewartKelly-Dollar-250509.pdf" target="_blank">
+                            Dollar Parish Church on Friday 9th May 2025 7:30pm</a>.
+                            He'll take us on a "journey around the world as you listen to the beauty of the Classical Guitar repertoire".
+                            Another top-class event in Dollar, very much worth attending!
+                            You can <a href="https://www.eventbrite.co.uk/e/an-evening-with-the-classical-guitar-dollar-tickets-1251112694749?aff=oddtdtcreator" target="_blank">
+                                buy tickets in advance</a>, or at the door.
                         </p>
 <!--                        <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,-->
 <!--                            with Brian McBride irrepressible as ever.-->
@@ -154,44 +157,8 @@ htmlHead($title);
         <div class="col-sm-12">
             <h3 class="text-info">Next event</h3>
             <ul class="list-group">
-
-                <li class="clearfix list-group-item dms-list-item-next" id="WePlayPiano2">
-                    <div class="col-sm-3">
-                        <h3>We Play Piano 2</h3>
-                        <p class="specialhilite italic">Free of charge - all welcome</p>
-                        <h4 class="text-info">
-                            Sunday, 23<span class="subscript">rd</span> March 2025
-                        </h4>
-                        <p>3:00pm Gibson Hall, Dollar <a
-                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
-                                7DU</a></p>
-                        <!--                        <div id="registerpianoday">-->
-                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                               href="https://www.wegottickets.com/event/595107/"-->
-                        <!--                               target="_blank">Register</a>-->
-                        <!--                            <p></p>-->
-                        <!--                        </div>-->
-                    </div>
-                    <div class="col-sm-3">
-                        <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
-                    </div>
-                    <div class="col-sm-6">
-                        <p>After the hugely successful and acclaimed <a href="#WePlayPiano1">We Play Piano</a> in
-                            November 2024,
-                            Music in Dollar are hosting another piano performance afternoon in March 2025.
-                            See the <!-- <a href="season/2324/weplay-piano-poster.png.pdf"
-                                                               target="_blank">poster</a>
-                            and --> <a href="season/2425/WePlayPiano-250323.jpg" target="_blank">accompanying
-                                information</a>.
-                        </p>
-                        <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
-                            to play for family and friends, with a supportive and encouraging audience.</p>
-                        <p>This is a free event showcasing young courageous pianists who are dedicated to performance.
-                            Come and join us for what will be an inspirational afternoon of young talent!</p>
-                        <p>Refreshments will be provided.</p>
-                    </div>
-                </li>
-
+                <p>Next season's programme (Autumn 25 - Spring 26) is being prepared and will be published when finalised.</p>
+                <p>It's shaping up to be another fantastic season in Dollar!</p>
             </ul>
         </div>
     </div>
@@ -595,6 +562,43 @@ htmlHead($title);
                         <p><a href="https://www.annamichelspiano.com/"
                               target="_blank">More about Anna Michels</a>
                         </p>
+                    </div>
+                </li>
+
+                <li class="clearfix list-group-item dms-list-item-prev" id="WePlayPiano2">
+                    <div class="col-sm-3">
+                        <h3>We Play Piano 2</h3>
+                        <p class="specialhilite italic">Free of charge - all welcome</p>
+                        <h4 class="text-info">
+                            Sunday, 23<span class="subscript">rd</span> March 2025
+                        </h4>
+                        <p>3:00pm Gibson Hall, Dollar <a
+                                    href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
+                                7DU</a></p>
+                        <!--                        <div id="registerpianoday">-->
+                        <!--                            <a type="button" class="btn btn-info btn-blocks"-->
+                        <!--                               href="https://www.wegottickets.com/event/595107/"-->
+                        <!--                               target="_blank">Register</a>-->
+                        <!--                            <p></p>-->
+                        <!--                        </div>-->
+                    </div>
+                    <div class="col-sm-3">
+                        <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>After the hugely successful and acclaimed <a href="#WePlayPiano1">We Play Piano</a> in
+                            November 2024,
+                            Music in Dollar are hosting another piano performance afternoon in March 2025.
+                            See the <!-- <a href="season/2324/weplay-piano-poster.png.pdf"
+                                                               target="_blank">poster</a>
+                            and --> <a href="season/2425/WePlayPiano-250323.jpg" target="_blank">accompanying
+                                information</a>.
+                        </p>
+                        <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
+                            to play for family and friends, with a supportive and encouraging audience.</p>
+                        <p>This is a free event showcasing young courageous pianists who are dedicated to performance.
+                            Come and join us for what will be an inspirational afternoon of young talent!</p>
+                        <p>Refreshments will be provided.</p>
                     </div>
                 </li>
 
