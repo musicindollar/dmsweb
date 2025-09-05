@@ -136,11 +136,11 @@ htmlHead($title);
                 per concert, unbeatable value!</p>
               <p>Choose how you'd like to pay: online using the button below, buy at the door (card or cash),
                 or <a href="contact.php">contact us</a> to request bank transfer details.</p>
-              <!--                        <div id="buyseasonticket">-->
-              <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-              <!--                               href="https://www.wegottickets.com/event/631170"-->
-              <!--                               target="_blank">Buy season tickets</a>-->
-              <!--                        </div>-->
+              <div id="buyseasonticket">
+                <a type="button" class="btn btn-info btn-blocks"
+                  href="https://wegottickets.com/event/675529/" target="_blank">Buy season tickets
+                </a>
+              </div>
             </div>
           </li>
 
@@ -195,13 +195,13 @@ htmlHead($title);
               <h3>A Night At The Opera</h3>
               <h4 class="text-info">Saturday, 18<span class="subscript">th</span> October 2025</h4>
               <p>7:30pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-              <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-              <!--                        <div id="buyticket-nightattheopera">-->
-              <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-              <!--                               href="https://www.wegottickets.com/event/xxx/"-->
-              <!--                               target="_blank">Buy tickets</a>-->
-              <!--                            <p></p>-->
-              <!--                        </div>-->
+<!--              <p>Pre-concert performance from 7:15pm</p>-->
+              <div id="buyticket-nightattheopera">
+                <a type="button" class="btn btn-info btn-blocks"
+                   href="https://wegottickets.com/event/675530/" target="_blank">Buy tickets
+                </a>
+                <p></p>
+              </div>
             </div>
             <div class="col-sm-3">
               <img src="/image/2526/NightAtTheOpera-1-240.jpg" alt="Night at the Opera picture"/>
@@ -236,13 +236,13 @@ htmlHead($title);
                 Sunday, 2<span class="subscript">nd</span> November 2025
               </h4>
               <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-              <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-              <!--                        <div id="buyticket-chineseorchestra">-->
-              <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-              <!--                               href="https://www.wegottickets.com/event/xxx/"-->
-              <!--                               target="_blank">Buy tickets</a>-->
-              <!--                            <p></p>-->
-              <!--                        </div>-->
+<!--              <p>Pre-concert performance from 2:45pm</p>-->
+              <div id="buyticket-chineseorchestra">
+                <a type="button" class="btn btn-info btn-blocks"
+                  href="https://wegottickets.com/event/675532/" target="_blank">Buy tickets
+                </a>
+                <p></p>
+              </div>
             </div>
             <div class="col-sm-3">
               <img src="/image/2526/ChineseOrchestra-Pipa2-240.jpg" alt="Night at the Opera picture"/>
@@ -291,13 +291,13 @@ htmlHead($title);
               <h3>Tim Kliphuis Trio</h3>
               <h4 class="text-info">Sunday, 23<span class="subscript">rd</span> November 2025</h4>
               <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-              <!--                        <p>Pre-concert performance from 2:45pm</p>-->
-              <!--                        <div id="buyticket-timkliphuis">-->
-              <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-              <!--                               href="https://www.wegottickets.com/event/631334/"-->
-              <!--                               target="_blank">Buy tickets</a>-->
-              <!--                            <p></p>-->
-              <!--                        </div>-->
+<!--              <p>Pre-concert performance from 2:45pm</p>-->
+              <div id="buyticket-timkliphuis">
+                <a type="button" class="btn btn-info btn-blocks"
+                  href="https://wegottickets.com/event/675534/" target="_blank">Buy tickets
+                </a>
+                <p></p>
+              </div>
             </div>
             <div class="col-sm-3">
               <img src="/image/2526/TimKliphuis-Silhouette-240.jpg" alt="Image of Tim Kliphuis"/>
@@ -312,7 +312,9 @@ htmlHead($title);
                 Clark, guitar and Roy Percy, double bass) whose mission is a ‘total music’ without stylistic barriers.
                 They performed at the Amsterdam Canal Concert, curated the world fiddle night at Celtic Connections
                 Glasgow, celebrated Stéphane Grappelli at the Django Reinhardt Festival in Samois-sur-Seine.
-                Many collaborations and tours later, we are thrilled that they will play for us in Dollar.
+              </p>
+              <p>Many collaborations and tours later, we are thrilled that artists of this international stature will play for us
+                in Dollar.
               </p>
               <p><span class="fa fa-quote-left"></span><i>Superb ... a thoughtful, provocative meeting of minds</i>
                 <span class="fa fa-quote-right"></span> – The Sunday Times</p>
