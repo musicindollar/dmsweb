@@ -26,6 +26,8 @@ function showHeaderBar($tag)
                         <b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu">
+                        <li class="<?php if ($tag == "archive2425") echo "active"; ?>"><a
+                                    href="/season/2425/season2425.php">Season 2024-25</a></li>
                         <li class="<?php if ($tag == "archive2324") echo "active"; ?>"><a
                                     href="/season/2324/season2324.php">Season 2023-24</a></li>
                         <li class="<?php if ($tag == "archive2223") echo "active"; ?>"><a
