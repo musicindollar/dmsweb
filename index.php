@@ -44,9 +44,8 @@ htmlHead($title);
                 <!--                            so treat friends and family to a free concert.-->
                 <!--                        </p>-->
                 <p><span class="fa fa-music"></span> Summer is drawing to a close and a new season is starting for Music in Dollar!
-                  This year we're trying out a new format to open the season, snappily titled <i>Season Opener - Music on a Sunday Afternoon</i>.
-                  There will be plenty of live music, plus raffle and a range of drinks.
-                  Season tickets and memberships can be purchased, with free complimentary tickets for friends and family.
+                  This year we're trying out a new format to open the season, snappily titled <a href="#OpenAfternoon">Music on a Sunday Afternoon</a> (see below).
+                  There will be plenty of live music in an informal settings.
                   Looking forward to seeing many of you there.
                 </p>
                 <!--                        <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,-->
