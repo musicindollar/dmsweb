@@ -44,8 +44,8 @@ htmlHead($title);
             <!--                            so treat friends and family to a free concert.-->
             <!--                        </p>-->
             <p><span class="fa fa-music"></span> Out first concert of the season approaches. <a href="#NightAtTheOpera">A Night At The
-                Opera</a>
-              promises to be an extraveganza of music. With an 11 piece orchestra and 4 singers, it will be an evening to remember"
+                Opera</a> promises to be an extraveganza of music. With an 11-piece orchestra and 4 singers,
+              it will be an evening to remember!
             </p>
             <!--                        <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,-->
             <!--                            with Brian McBride irrepressible as ever.-->
@@ -306,12 +306,12 @@ htmlHead($title);
             <h4 class="text-info">Saturday, 24<span class="subscript">th</span> January 2026</h4>
             <p>7:30pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
             <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-            <!--                        <div id="buyticket-chloepianotrio">-->
-            <!--                            <a type="button" class="btn btn-info btn-blocks"-->
-            <!--                               href="https://www.wegottickets.com/event/xxx/"-->
-            <!--                               target="_blank">Buy tickets</a>-->
-            <!--                            <p></p>-->
-            <!--                        </div>-->
+            <div id="buyticket-chloepianotrio">
+              <a type="button" class="btn btn-info btn-blocks"
+                 href="https://wegottickets.com/event/678365/"
+                 target="_blank">Buy tickets</a>
+              <p></p>
+            </div>
           </div>
           <div class="col-sm-3">
             <img src="/image/2526/Chloe%20Piano%20Trio-240.jpg" alt="Chloe Piano Trio picture"/>
@@ -329,7 +329,7 @@ htmlHead($title);
                 standard of playing, bringing together three top-rate instrumentalists and equally sensitive,
                 intelligent and dedicated musicians ...probing interpretations of not only mainstream repertoire,
                 but also of lesser known works which deserve more recognition</i>
-              <span class="fa fa-quote-right"></span> – Keith Bruce, Vox Carnyx
+              <span class="fa fa-quote-right"></span> – Ulrich Koella, Ticino Musica Festival
             </p>
             <!-- <p><a href="/season/2526/Programme-260124-ChloePianoTrio.pdf" target="_blank">Concert programme</a></p>-->
             <p><a href="https://chloepianotrio.com/" target="_blank">More about the Chloe Piano Trio</a></p>
@@ -381,13 +381,13 @@ htmlHead($title);
             <h3>Jia Ning Ng</h3>
             <h4 class="text-info">Sunday, 1<span class="subscript">st</span> March 2026</h4>
             <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-            <p>Pre-concert performance from 2:45pm</p>
-            <!--              <div id="buyticket-jianingng">-->
-            <!--                <a type="button" class="btn btn-info btn-blocks" href="https://www.wegottickets.com/event/xxx/" -->
-            <!--                   target="_blank">Buy tickets-->
-            <!--                </a>-->
-            <!--                <p></p>-->
-            <!--              </div>-->
+            <!--            <p>Pre-concert performance from 2:45pm</p>-->
+            <div id="buyticket-jianingng">
+              <a type="button" class="btn btn-info btn-blocks" href="https://wegottickets.com/event/678367/"
+                 target="_blank">Buy tickets
+              </a>
+              <p></p>
+            </div>
           </div>
           <div class="col-sm-3">
             <img src="/image/2425/JiaNingNg-1-240.jpg" alt="Image of Jia Ning Ng"/>
@@ -425,11 +425,11 @@ htmlHead($title);
             <h4 class="text-info">Sunday, 15<span class="subscript">th</span> March 2026</h4>
             <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
             <!--              <p>Pre-concert performance from 2:45pm</p>-->
-            <!--              <div id="buyticket-charlotterowan">-->
-            <!--                <a type="button" class="btn btn-info btn-blocks"-->
-            <!--                 href="https://www.wegottickets.com/event/xxx/" target="_blank">Buy tickets</a>-->
-            <!--                <p></p>-->
-            <!--              </div>-->
+            <div id="buyticket-charlotterowan">
+              <a type="button" class="btn btn-info btn-blocks"
+                 href="https://wegottickets.com/event/678373/" target="_blank">Buy tickets</a>
+              <p></p>
+            </div>
           </div>
           <div class="col-sm-3">
             <img src="/image/2526/charlotte01-sm.jpg" alt="Charlotte Rowan picture"/>
