@@ -43,9 +43,14 @@ htmlHead($title);
             <!--                            Free complimentary tickets given for all Season Tickets bought before the opening concert,-->
             <!--                            so treat friends and family to a free concert.-->
             <!--                        </p>-->
-            <p><span class="fa fa-music"></span> Out first concert of the season approaches. <a href="#NightAtTheOpera">A Night At The
-                Opera</a> promises to be an extraveganza of music. With an 11-piece orchestra and 4 singers,
-              it will be an evening to remember!
+            <p><span class="fa fa-heart"></span> <a href="#NightAtTheOpera">A Night At The
+                Opera</a> was a fantastic event, as expected. The large audience was transfixed by the beautiful, sometime heart-rending performance.
+              With a dash of humour too!
+            </p>
+            <p><span class="fa fa-music"></span> Our next event is the <a href="#ChineseOrchestra">Chinese Ensemble</a>.
+              Reports from previous performances have been very positive, with accessible, enjoyable music and
+              expert musicianship.
+              To encourage everyone to come along any enjoy this, we have made it free to all!
             </p>
             <!--                        <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,-->
             <!--                            with Brian McBride irrepressible as ever.-->
@@ -150,72 +155,21 @@ htmlHead($title);
       <h3 class="text-info">Next event</h3>
       <ul class="list-group">
 
-        <li class="clearfix list-group-item dms-list-item-next" id="NightAtTheOpera">
-          <div class="col-sm-3">
-            <h3>A Night At The Opera</h3>
-            <h4 class="text-info">Saturday, 18<span class="subscript">th</span> October 2025</h4>
-            <p>7:30pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-            <!--              <p>Pre-concert performance from 7:15pm</p>-->
-            <div id="buyticket-nightattheopera">
-              <a type="button" class="btn btn-info btn-blocks"
-                 href="https://wegottickets.com/event/675530/" target="_blank">Buy tickets
-              </a>
-              <p></p>
-            </div>
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2526/NightAtTheOpera-1-240.jpg" alt="Night at the Opera picture"/>
-          </div>
-          <div class="col-sm-6">
-            <p>Defying conventional beliefs that the opera can only be played in huge city
-              venues, we’re bringing it to Dollar! Cut-down in size but not in quality, A Night at
-              the Opera comprises four singers, eleven instruments, conductor and compère!
-            </p>
-            <p>Programmes are packed with favourite operatic melodies, including pieces to
-              delight both the musical connoisseur and the less operatically minded. Homage is
-              paid to giants of the genre such as Bizet, Delibes, Donizetti, Mozart, Offenbach,
-              Puccini, Saint-Saens, J Strauss and Verdi, sometimes with a nod to Lehar and Gilbert and
-              Sullivan. Each item is introduced with full musical and character explanation.
-            </p>
-            <p>A surprise or two may also be in store!</p>
-            <p><span class="fa fa-quote-left"></span><i>"Fabulous performance! What a wonderful evening! Sublime singing, all accompanied
-                by a magnificent orchestra. An absolute joy from start to finish!"</i>
-              <span class="fa fa-quote-right"></span> – Lanark Music
-            </p>
-            <!-- <p><a href="/season/2526/Programme-251018-NightAtTheOpera.pdf" target="_blank">Concert programme</a></p>-->
-            <p><a href="https://www.classicalmusiciansscotland.com/artists/opera-gala/" target="_blank">
-                More about A Night at the Opera</a>
-            </p>
-          </div>
-        </li>
-
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-sm-12">
-      <h3 class="text-info">Still to come</h3>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-12">
-      <ul class="list-group">
-
-        <li class="clearfix list-group-item dms-list-item" id="ChineseOrchestra">
+        <li class="clearfix list-group-item dms-list-item-next" id="ChineseOrchestra">
           <div class="col-sm-3">
             <h3>Chinese Ensemble</h3>
+            <p class="specialhilite italic">Free of charge - all welcome</p>
             <h4 class="text-info">
               Sunday, 2<span class="subscript">nd</span> November 2025
             </h4>
             <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
             <!--              <p>Pre-concert performance from 2:45pm</p>-->
-            <div id="buyticket-chineseorchestra">
-              <a type="button" class="btn btn-info btn-blocks"
-                 href="https://wegottickets.com/event/675532/" target="_blank">Buy tickets
-              </a>
-              <p></p>
-            </div>
+<!--            <div id="buyticket-chineseorchestra">-->
+<!--              <a type="button" class="btn btn-info btn-blocks"-->
+<!--                 href="https://wegottickets.com/event/675532/" target="_blank">Buy tickets-->
+<!--              </a>-->
+<!--              <p></p>-->
+<!--            </div>-->
           </div>
           <div class="col-sm-3">
             <img src="/image/2526/ChineseOrchestra-Pipa2-240.jpg" alt="Night at the Opera picture"/>
@@ -232,10 +186,23 @@ htmlHead($title);
               and a prominent composer) who introduces the pieces. They have lined up a magical programme of Chinese music
               in various styles.</p>
             <p>This is an informal event, where the audience are invited to touch and play the instruments and chat
-              to the performers!
+              to the performers.
             </p>
           </div>
         </li>
+
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h3 class="text-info">Still to come</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <ul class="list-group">
 
         <li class="clearfix list-group-item dms-list-item" id="WePlayPiano1">
           <div class="col-sm-3">
@@ -493,6 +460,45 @@ htmlHead($title);
                 It is a magnificent modern building (2005) in the grounds of Dollar Academy,
                 around 200 yards from the main school building (<a href="https://maps.app.goo.gl/qYBJHMSLHWBZufWM9">link to
                   map</a>), and close to the sports pavilion. Signs directing you to it will be in place.</i></p>
+          </div>
+        </li>
+
+        <li class="clearfix list-group-item dms-list-item-prev" id="NightAtTheOpera">
+          <div class="col-sm-3">
+            <h3>A Night At The Opera</h3>
+            <h4 class="text-info">Saturday, 18<span class="subscript">th</span> October 2025</h4>
+            <p>7:30pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+            <!--              <p>Pre-concert performance from 7:15pm</p>-->
+            <div id="buyticket-nightattheopera">
+              <a type="button" class="btn btn-info btn-blocks"
+                 href="https://wegottickets.com/event/675530/" target="_blank">Buy tickets
+              </a>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/2526/NightAtTheOpera-1-240.jpg" alt="Night at the Opera picture"/>
+          </div>
+          <div class="col-sm-6">
+            <p>Defying conventional beliefs that the opera can only be played in huge city
+              venues, we’re bringing it to Dollar! Cut-down in size but not in quality, A Night at
+              the Opera comprises four singers, eleven instruments, conductor and compère!
+            </p>
+            <p>Programmes are packed with favourite operatic melodies, including pieces to
+              delight both the musical connoisseur and the less operatically minded. Homage is
+              paid to giants of the genre such as Bizet, Delibes, Donizetti, Mozart, Offenbach,
+              Puccini, Saint-Saens, J Strauss and Verdi, sometimes with a nod to Lehar and Gilbert and
+              Sullivan. Each item is introduced with full musical and character explanation.
+            </p>
+            <p>A surprise or two may also be in store!</p>
+            <p><span class="fa fa-quote-left"></span><i>"Fabulous performance! What a wonderful evening! Sublime singing, all accompanied
+                by a magnificent orchestra. An absolute joy from start to finish!"</i>
+              <span class="fa fa-quote-right"></span> – Lanark Music
+            </p>
+            <!-- <p><a href="/season/2526/Programme-251018-NightAtTheOpera.pdf" target="_blank">Concert programme</a></p>-->
+            <p><a href="https://www.classicalmusiciansscotland.com/artists/opera-gala/" target="_blank">
+                More about A Night at the Opera</a>
+            </p>
           </div>
         </li>
 
