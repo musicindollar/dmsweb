@@ -469,12 +469,12 @@ htmlHead($title);
             <h4 class="text-info">Saturday, 18<span class="subscript">th</span> October 2025</h4>
             <p>7:30pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
             <!--              <p>Pre-concert performance from 7:15pm</p>-->
-            <div id="buyticket-nightattheopera">
-              <a type="button" class="btn btn-info btn-blocks"
-                 href="https://wegottickets.com/event/675530/" target="_blank">Buy tickets
-              </a>
-              <p></p>
-            </div>
+<!--            <div id="buyticket-nightattheopera">-->
+<!--              <a type="button" class="btn btn-info btn-blocks"-->
+<!--                 href="https://wegottickets.com/event/675530/" target="_blank">Buy tickets-->
+<!--              </a>-->
+<!--              <p></p>-->
+<!--            </div>-->
           </div>
           <div class="col-sm-3">
             <img src="/image/2526/NightAtTheOpera-1-240.jpg" alt="Night at the Opera picture"/>
@@ -495,9 +495,9 @@ htmlHead($title);
                 by a magnificent orchestra. An absolute joy from start to finish!"</i>
               <span class="fa fa-quote-right"></span> – Lanark Music
             </p>
-            <!-- <p><a href="/season/2526/Programme-251018-NightAtTheOpera.pdf" target="_blank">Concert programme</a></p>-->
+             <p><a href="/season/2526/Programme-251018-NightAtTheOpera.pdf" target="_blank">Concert programme</a></p>
             <p><a href="https://www.classicalmusiciansscotland.com/artists/opera-gala/" target="_blank">
-                More about A Night at the Opera</a>
+               More about A Night at the Opera</a>
             </p>
           </div>
         </li>
