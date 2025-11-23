@@ -139,9 +139,9 @@ htmlHead($title);
             <p>Choose how you'd like to pay: online using the button below, buy at the door (card or cash),
               or <a href="contact.php">contact us</a> to request bank transfer details.</p>
             <div id="buyseasonticket">
-              <a type="button" class="btn btn-info btn-blocks"
-                 href="https://wegottickets.com/event/675529/" target="_blank">Buy season tickets
-              </a>
+<!--              <a type="button" class="btn btn-info btn-blocks"-->
+<!--                 href="https://wegottickets.com/event/675529/" target="_blank">Buy season tickets-->
+<!--              </a>-->
             </div>
           </div>
         </li>
@@ -469,9 +469,9 @@ htmlHead($title);
             <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
             <!--              <p>Pre-concert performance from 2:45pm</p>-->
             <div id="buyticket-timkliphuis">
-              <a type="button" class="btn btn-info btn-blocks"
-                 href="https://wegottickets.com/event/675534/" target="_blank">Buy tickets
-              </a>
+<!--              <a type="button" class="btn btn-info btn-blocks"-->
+<!--                 href="https://wegottickets.com/event/675534/" target="_blank">Buy tickets-->
+<!--              </a>-->
               <p></p>
             </div>
           </div>
