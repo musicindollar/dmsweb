@@ -43,15 +43,14 @@ htmlHead($title);
             <!--                            Free complimentary tickets given for all Season Tickets bought before the opening concert,-->
             <!--                            so treat friends and family to a free concert.-->
             <!--                        </p>-->
-            <p><span class="fa fa-heart"></span> <a href="#NightAtTheOpera">A Night At The
-                Opera</a> was a fantastic event, as expected. The large audience was transfixed by the beautiful, sometime heart-rending performance.
-              With a dash of humour too!
+            <p><span class="fa fa-heart"></span> <a href="#TimKliphuis">The Tim Kliphuis Trio</a> were in scintillating form, with inspiration from
+                so many genres, melded into their own rhythincally precise yet free-form style. One to savour!
             </p>
-            <p><span class="fa fa-music"></span> Our next event is the <a href="#ChineseOrchestra">Chinese Ensemble</a>.
-              Reports from previous performances have been very positive, with accessible, enjoyable music and
-              expert musicianship.
-              To encourage everyone to come along any enjoy this, we have made it free to all!
-            </p>
+<!--            <p><span class="fa fa-music"></span> Our next event is the <a href="#ChineseOrchestra">Chinese Ensemble</a>.-->
+<!--              Reports from previous performances have been very positive, with accessible, enjoyable music and-->
+<!--              expert musicianship.-->
+<!--              To encourage everyone to come along any enjoy this, we have made it free to all!-->
+<!--            </p>-->
             <!--                        <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,-->
             <!--                            with Brian McBride irrepressible as ever.-->
             <!--                            This time the focus was on pop songs, about hope and love! What better message for today's-->
@@ -155,83 +154,7 @@ htmlHead($title);
       <h3 class="text-info">Next event</h3>
       <ul class="list-group">
 
-        <li class="clearfix list-group-item dms-list-item-next" id="TimKliphuis">
-          <div class="col-sm-3">
-            <h3>Tim Kliphuis Trio</h3>
-            <h4 class="text-info">Sunday, 23<span class="subscript">rd</span> November 2025</h4>
-            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-            <!--              <p>Pre-concert performance from 2:45pm</p>-->
-            <div id="buyticket-timkliphuis">
-              <a type="button" class="btn btn-info btn-blocks"
-                 href="https://wegottickets.com/event/675534/" target="_blank">Buy tickets
-              </a>
-              <p></p>
-            </div>
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2526/TimKliphuis-Silhouette-240.jpg" alt="Image of Tim Kliphuis"/>
-          </div>
-          <div class="col-sm-6">
-            <p>Award-winning Dutch violinist Tim Kliphuis has created a brand new style that
-              embraces classical, gypsy jazz and folk. Hailed as a ‘current-day improvising
-              Paganini’, his inclusive and innovative approach to music has united audiences
-              and is influencing a new generation of string players.
-            </p>
-            <p>An invitation to the Richard Strauss Festival in Germany started the Tim Kliphuis Trio (Nigel
-              Clark, guitar and Roy Percy, double bass) whose mission is a ‘total music’ without stylistic barriers.
-              They performed at the Amsterdam Canal Concert, curated the world fiddle night at Celtic Connections
-              Glasgow, celebrated Stéphane Grappelli at the Django Reinhardt Festival in Samois-sur-Seine.
-            </p>
-            <p>Many collaborations and tours later, we are thrilled that artists of this international stature will play for us
-              in Dollar.
-            </p>
-            <p><span class="fa fa-quote-left"></span><i>Superb ... a thoughtful, provocative meeting of minds</i>
-              <span class="fa fa-quote-right"></span> – The Sunday Times</p>
-            <p><span class="fa fa-quote-left"></span><i>Playfully inventive and technically brilliant</i>
-              <span class="fa fa-quote-right"></span> – Time Out</p>
-             <p><a href="/season/2526/Programme-251123-TimKliphuis.pdf" target="_blank">Concert programme</a></p>
-            <p><a href="https://timkliphuis.com/" target="_blank">More about Tim Kliphuis</a></p>
-          </div>
-        </li>
-
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-sm-12">
-      <h3 class="text-info">Still to come</h3>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-12">
-      <ul class="list-group">
-
-        <li class="clearfix list-group-item dms-list-item" id="WePlayPiano1">
-          <div class="col-sm-3">
-            <h3>We Play Piano</h3>
-            <p class="specialhilite italic">Free of charge - all welcome</p>
-            <h4 class="text-info">Sunday, 9<span class="subscript">th</span> November 2025</h4>
-            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
-          </div>
-          <div class="col-sm-6">
-            <p>Music in Dollar are hosting another piano performance afternoon, <b>We Play Piano</b>.
-              See the <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
-            </p>
-            <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
-              to play for family and friends, with a supportive and encouraging audience.
-            </p>
-            <p>It showcases young courageous pianists who are dedicated to performance.
-              Come and join us for what will be an inspirational afternoon of young talent!
-            </p>
-            <p>Refreshments will be provided.</p>
-          </div>
-        </li>
-
-        <li class="clearfix list-group-item dms-list-item" id="ChloePianoTrio">
+        <li class="clearfix list-group-item dms-list-item-next" id="ChloePianoTrio">
           <div class="col-sm-3">
             <h3>Chloe Piano Trio</h3>
             <h4 class="text-info">Saturday, 24<span class="subscript">th</span> January 2026</h4>
@@ -266,6 +189,19 @@ htmlHead($title);
             <p><a href="https://chloepianotrio.com/" target="_blank">More about the Chloe Piano Trio</a></p>
           </div>
         </li>
+
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h3 class="text-info">Still to come</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <ul class="list-group">
 
         <li class="clearfix list-group-item dms-list-item" id="ComeAndSing">
           <div class="col-sm-3">
@@ -499,6 +435,69 @@ htmlHead($title);
             <p>This is an informal event, where the audience are invited to touch and play the instruments and chat
               to the performers.
             </p>
+          </div>
+        </li>
+
+        <li class="clearfix list-group-item dms-list-item-prev" id="WePlayPiano1">
+          <div class="col-sm-3">
+            <h3>We Play Piano</h3>
+            <p class="specialhilite italic">Free of charge - all welcome</p>
+            <h4 class="text-info">Sunday, 9<span class="subscript">th</span> November 2025</h4>
+            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
+          </div>
+          <div class="col-sm-6">
+            <p>Music in Dollar are hosting another piano performance afternoon, <b>We Play Piano</b>.
+              See the <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
+            </p>
+            <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
+              to play for family and friends, with a supportive and encouraging audience.
+            </p>
+            <p>It showcases young courageous pianists who are dedicated to performance.
+              Come and join us for what will be an inspirational afternoon of young talent!
+            </p>
+            <p>Refreshments will be provided.</p>
+          </div>
+        </li>
+
+        <li class="clearfix list-group-item dms-list-item-prev" id="TimKliphuis">
+          <div class="col-sm-3">
+            <h3>Tim Kliphuis Trio</h3>
+            <h4 class="text-info">Sunday, 23<span class="subscript">rd</span> November 2025</h4>
+            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+            <!--              <p>Pre-concert performance from 2:45pm</p>-->
+            <div id="buyticket-timkliphuis">
+              <a type="button" class="btn btn-info btn-blocks"
+                 href="https://wegottickets.com/event/675534/" target="_blank">Buy tickets
+              </a>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/2526/TimKliphuis-Silhouette-240.jpg" alt="Image of Tim Kliphuis"/>
+          </div>
+          <div class="col-sm-6">
+            <p>Award-winning Dutch violinist Tim Kliphuis has created a brand new style that
+              embraces classical, gypsy jazz and folk. Hailed as a ‘current-day improvising
+              Paganini’, his inclusive and innovative approach to music has united audiences
+              and is influencing a new generation of string players.
+            </p>
+            <p>An invitation to the Richard Strauss Festival in Germany started the Tim Kliphuis Trio (Nigel
+              Clark, guitar and Roy Percy, double bass) whose mission is a ‘total music’ without stylistic barriers.
+              They performed at the Amsterdam Canal Concert, curated the world fiddle night at Celtic Connections
+              Glasgow, celebrated Stéphane Grappelli at the Django Reinhardt Festival in Samois-sur-Seine.
+            </p>
+            <p>Many collaborations and tours later, we are thrilled that artists of this international stature will play for us
+              in Dollar.
+            </p>
+            <p><span class="fa fa-quote-left"></span><i>Superb ... a thoughtful, provocative meeting of minds</i>
+              <span class="fa fa-quote-right"></span> – The Sunday Times</p>
+            <p><span class="fa fa-quote-left"></span><i>Playfully inventive and technically brilliant</i>
+              <span class="fa fa-quote-right"></span> – Time Out</p>
+             <p><a href="/season/2526/Programme-251123-TimKliphuis.pdf" target="_blank">Concert programme</a></p>
+            <p><a href="https://timkliphuis.com/" target="_blank">More about Tim Kliphuis</a></p>
           </div>
         </li>
 
