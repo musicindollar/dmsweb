@@ -185,7 +185,7 @@ htmlHead($title);
                 but also of lesser known works which deserve more recognition</i>
               <span class="fa fa-quote-right"></span> – Ulrich Koella, Ticino Musica Festival
             </p>
-            <!-- <p><a href="/season/2526/Programme-260124-ChloePianoTrio.pdf" target="_blank">Concert programme</a></p>-->
+            <p><a href="/season/2526/Programme-260124-ChloePianoTrio.pdf" target="_blank">Concert programme</a></p>
             <p><a href="https://chloepianotrio.com/" target="_blank">More about the Chloe Piano Trio</a></p>
           </div>
         </li>
@@ -240,6 +240,7 @@ htmlHead($title);
             </p>-->
             <p>Those who don't fancy singing can still enjoy the sounds of those that do. It's worthwhile just to hear Brian
               singing all the parts!</p>
+            <p>Watch Brian <a href="/season/2526/SingForFun-260201-Info.mov" target="_blank">describing the event</a></p>
           </div>
         </li>
 
