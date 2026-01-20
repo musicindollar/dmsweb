@@ -235,9 +235,9 @@ htmlHead($title);
             <p>Water will be provided. Bring along any other edibles to keep you going. A pencil
               might also be handy for taking notes.
             </p>
-            <p>If you'd like to come along then registering using the button on the left will help us
+            <!--<p>If you'd like to come along then registering using the button on the left will help us
               to prepare for the right number of people.
-            </p>
+            </p>-->
             <p>Those who don't fancy singing can still enjoy the sounds of those that do. It's worthwhile just to hear Brian
               singing all the parts!</p>
           </div>

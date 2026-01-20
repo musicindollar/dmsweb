@@ -99,6 +99,9 @@ htmlHead($title);
       <ul>
         <li>Encouraging collaboration and support among music societies.</li>
         <li>Advocating for the importance of live classical music in the community and in educational settings.</li>
+        <li><a href="https://scoms.org.uk/for-concert-goers/" target="_blank">Consolidated list of concerts</a> promoted by music societies
+          across Scotland.
+        </li>
       </ul>
     </div>
   </div>
