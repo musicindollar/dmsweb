@@ -43,14 +43,13 @@ htmlHead($title);
             <!--                            Free complimentary tickets given for all Season Tickets bought before the opening concert,-->
             <!--                            so treat friends and family to a free concert.-->
             <!--                        </p>-->
-            <p><span class="fa fa-heart"></span> <a href="#TimKliphuis">The Tim Kliphuis Trio</a> were in scintillating form, with inspiration from
-                so many genres, melded into their own rhythincally precise yet free-form style. One to savour!
+            <p><span class="fa fa-heart"></span> <a href="#ChloePianoTrio">The Chloe Piano Trio</a> were fabulous,
+            playing like a single person with apparently supernatural coordination and verve.
             </p>
-<!--            <p><span class="fa fa-music"></span> Our next event is the <a href="#ChineseOrchestra">Chinese Ensemble</a>.-->
-<!--              Reports from previous performances have been very positive, with accessible, enjoyable music and-->
-<!--              expert musicianship.-->
-<!--              To encourage everyone to come along any enjoy this, we have made it free to all!-->
-<!--            </p>-->
+            <p><span class="fa fa-singers"></span> Our next event is <a href="#ComeAndSing"> Come and Sing</a>,
+            a completely free afternoon where you can sing with others in an informal and supportive setting.
+            This time the theme is Scottish songs. It's always great fun, why not come along and bring your friends!
+            </p>
             <!--                        <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,-->
             <!--                            with Brian McBride irrepressible as ever.-->
             <!--                            This time the focus was on pop songs, about hope and love! What better message for today's-->
@@ -154,56 +153,7 @@ htmlHead($title);
       <h3 class="text-info">Next event</h3>
       <ul class="list-group">
 
-        <li class="clearfix list-group-item dms-list-item-next" id="ChloePianoTrio">
-          <div class="col-sm-3">
-            <h3>Chloe Piano Trio</h3>
-            <h4 class="text-info">Saturday, 24<span class="subscript">th</span> January 2026</h4>
-            <p>7:30pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-            <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-            <div id="buyticket-chloepianotrio">
-              <a type="button" class="btn btn-info btn-blocks"
-                 href="https://wegottickets.com/event/678365/"
-                 target="_blank">Buy tickets</a>
-              <p></p>
-            </div>
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2526/Chloe%20Piano%20Trio-240.jpg" alt="Chloe Piano Trio picture"/>
-          </div>
-          <div class="col-sm-6">
-            <p>The Chloé Piano Trio, winners of the Royal Philharmonic Society Henderson
-              Prize 2021, was formed in 2017 by talented emerging musicians at the Royal
-              College of Music, London. They come to Dollar as Tunnell Prize winners, with a
-              programme of Mozart, Dvorak, Weir and Ravel.
-            </p>
-            <p><span class="fa fa-quote-left"></span><i>Few young groups play with as much personality as the Chloé Piano Trio</i>
-              <span class="fa fa-quote-right"></span> – Keith Bruce, Vox Carnyx
-            </p>
-            <p><span class="fa fa-quote-left"></span><i>An outstanding ensemble, with very high
-                standard of playing, bringing together three top-rate instrumentalists and equally sensitive,
-                intelligent and dedicated musicians ...probing interpretations of not only mainstream repertoire,
-                but also of lesser known works which deserve more recognition</i>
-              <span class="fa fa-quote-right"></span> – Ulrich Koella, Ticino Musica Festival
-            </p>
-            <p><a href="/season/2526/Programme-260124-ChloePianoTrio.pdf" target="_blank">Concert programme</a></p>
-            <p><a href="https://chloepianotrio.com/" target="_blank">More about the Chloe Piano Trio</a></p>
-          </div>
-        </li>
-
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-sm-12">
-      <h3 class="text-info">Still to come</h3>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-12">
-      <ul class="list-group">
-
-        <li class="clearfix list-group-item dms-list-item" id="ComeAndSing">
+        <li class="clearfix list-group-item dms-list-item-next" id="ComeAndSing">
           <div class="col-sm-3">
             <h3>Come and Sing!</h3>
             <p class="specialhilite italic">Free of charge - all welcome</p>
@@ -243,6 +193,19 @@ htmlHead($title);
             <p>Watch Brian <a href="/season/2526/SingForFun-260201-Info.mov" target="_blank">describing the event</a></p>
           </div>
         </li>
+
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h3 class="text-info">Still to come</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <ul class="list-group">
 
         <li class="clearfix list-group-item dms-list-item" id="JiaNingNg">
           <div class="col-sm-3">
@@ -499,6 +462,42 @@ htmlHead($title);
               <span class="fa fa-quote-right"></span> – Time Out</p>
              <p><a href="/season/2526/Programme-251123-TimKliphuis.pdf" target="_blank">Concert programme</a></p>
             <p><a href="https://timkliphuis.com/" target="_blank">More about Tim Kliphuis</a></p>
+          </div>
+        </li>
+
+        <li class="clearfix list-group-item dms-list-item-prev" id="ChloePianoTrio">
+          <div class="col-sm-3">
+            <h3>Chloe Piano Trio</h3>
+            <h4 class="text-info">Saturday, 24<span class="subscript">th</span> January 2026</h4>
+            <p>7:30pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+            <!--                        <p>Pre-concert performance from 7:15pm</p>-->
+            <div id="buyticket-chloepianotrio">
+              <a type="button" class="btn btn-info btn-blocks"
+                 href="https://wegottickets.com/event/678365/"
+                 target="_blank">Buy tickets</a>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/2526/Chloe%20Piano%20Trio-240.jpg" alt="Chloe Piano Trio picture"/>
+          </div>
+          <div class="col-sm-6">
+            <p>The Chloé Piano Trio, winners of the Royal Philharmonic Society Henderson
+              Prize 2021, was formed in 2017 by talented emerging musicians at the Royal
+              College of Music, London. They come to Dollar as Tunnell Prize winners, with a
+              programme of Mozart, Dvorak, Weir and Ravel.
+            </p>
+            <p><span class="fa fa-quote-left"></span><i>Few young groups play with as much personality as the Chloé Piano Trio</i>
+              <span class="fa fa-quote-right"></span> – Keith Bruce, Vox Carnyx
+            </p>
+            <p><span class="fa fa-quote-left"></span><i>An outstanding ensemble, with very high
+                standard of playing, bringing together three top-rate instrumentalists and equally sensitive,
+                intelligent and dedicated musicians ...probing interpretations of not only mainstream repertoire,
+                but also of lesser known works which deserve more recognition</i>
+              <span class="fa fa-quote-right"></span> – Ulrich Koella, Ticino Musica Festival
+            </p>
+            <p><a href="/season/2526/Programme-260124-ChloePianoTrio.pdf" target="_blank">Concert programme</a></p>
+            <p><a href="https://chloepianotrio.com/" target="_blank">More about the Chloe Piano Trio</a></p>
           </div>
         </li>
 
