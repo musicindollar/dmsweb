@@ -175,8 +175,8 @@ htmlHead($title);
               Singing doesn't require an instrument – it's you! Everyone can do it, so why not
               come along and have some fun.
             </p>
-            <p>The format will be to learn a few songs (popular, folk, classical), with a vocal
-              workshop led by expert tutor Brian McBride to help bring it all together. Theme TBD.
+            <p>The format will be to learn a couple of songs, with a vocal
+              workshop led by expert tutor Brian McBride to help bring it all together. Theme is <b>Scottish songs</b>.
               At the end the 'choir' will perform the songs for anyone who wants to come along and listen.
             </p>
             <p>This is a community event, all are welcome at no cost. Bring along friends and family, anyone who is interested
