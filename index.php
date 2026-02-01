@@ -207,6 +207,32 @@ htmlHead($title);
     <div class="col-sm-12">
       <ul class="list-group">
 
+        <li class="clearfix list-group-item dms-list-item" id="WePlayPiano2">
+          <div class="col-sm-3">
+            <h3>We Play Piano Feb 26</h3>
+            <p class="specialhilite italic">Free of charge - all welcome</p>
+            <h4 class="text-info">Sunday, 22<span class="subscript">nd</span> February 2026</h4>
+            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
+          </div>
+          <div class="col-sm-6">
+            <p>By popular demand, we have scheduled another piano performance afternoon, <b>We Play Piano</b>.
+              See the <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
+            </p>
+            <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
+              to play for family and friends, with a supportive and encouraging audience.
+            </p>
+            <p>It showcases young courageous pianists who are dedicated to performance.
+              Come and join us for what will be an inspirational afternoon of young talent!
+            </p>
+            <p>Several advanced students from the RCS are playing in this event. Hear the stars of the future!
+            </p>
+            <p>Refreshments will be provided.</p>
+          </div>
+        </li>
+
         <li class="clearfix list-group-item dms-list-item" id="JiaNingNg">
           <div class="col-sm-3">
             <h3>Jia Ning Ng</h3>
