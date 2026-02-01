@@ -46,17 +46,18 @@ htmlHead($title);
             <p><span class="fa fa-heart"></span> <a href="#ChloePianoTrio">The Chloe Piano Trio</a> were fabulous,
             playing like a single person with apparently supernatural coordination and verve.
             </p>
-            <p><span class="fa fa-singers"></span> Our next event is <a href="#ComeAndSing"> Come and Sing</a>,
+            <p><span class="fa fa-music"></span> Our next event is <a href="#ComeAndSing"> Come and Sing</a>,
             a completely free afternoon where you can sing with others in an informal and supportive setting.
             This time the theme is Scottish songs. It's always great fun, why not come along and bring your friends!
+            </p>
+            <p><span class="fa fa-calendar"></span> By popular demand we've scheduled another <a href="#WePlayPiano2">We Play Piano</a> event,
+            where young pianists showcase their skills. It's always a hugely enjoyable event, and completely free.
+            Some RCS students this time, come and hear the stars of the future!
             </p>
             <!--                        <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,-->
             <!--                            with Brian McBride irrepressible as ever.-->
             <!--                            This time the focus was on pop songs, about hope and love! What better message for today's-->
             <!--                            world.-->
-            <!--                        </p>-->
-            <!--                        <p><span class="fa fa-heart"></span> The Eilidh Grant Trio were a treat.-->
-            <!--                            Eilidh was in fine voice and those reels really rocked, with heavy-metal bouzouki!-->
             <!--                        </p>-->
             <p><span class="fa fa-ticket"></span> Ticket prices have been held the same as last season.
               You won't find the highest quality professional music cheaper anywhere!
