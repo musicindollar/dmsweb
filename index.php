@@ -46,14 +46,13 @@ htmlHead($title);
             <p><span class="fa fa-heart"></span> <a href="#ChloePianoTrio">The Chloe Piano Trio</a> were fabulous,
             playing like a single person with apparently supernatural coordination and verve.
             </p>
-            <p><span class="fa fa-music"></span> Our next event is <a href="#ComeAndSing"> Come and Sing</a>,
-            a completely free afternoon where you can sing with others in an informal and supportive setting.
-            This time the theme is Scottish songs. It's always great fun, why not come along and bring your friends!
+            <p><span class="fa fa-music"></span> Our next event is <a href="#JiaNingNg"> a piano recital by Jia Ning Ng</a>,
+            multiple prize-winning performer from RCS. Eagerly anticipated!
             </p>
-            <p><span class="fa fa-calendar"></span> By popular demand we've scheduled another <a href="#WePlayPiano2">We Play Piano</a> event,
-            where young pianists showcase their skills. It's always a hugely enjoyable event, and completely free.
-            Some RCS students this time, come and hear the stars of the future!
-            </p>
+            <!--                        <p><span class="fa fa-calendar"></span> By popular demand we've scheduled another <a href="#WePlayPiano2">We Play Piano</a> event, -->
+            <!--                        where young pianists showcase their skills. It's always a hugely enjoyable event, and completely free. -->
+            <!--                        Some RCS students this time, including the Young Scottish Musician winner. Come and hear the stars of the future! -->
+            <!--                        </p> -->
             <!--                        <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,-->
             <!--                            with Brian McBride irrepressible as ever.-->
             <!--                            This time the focus was on pop songs, about hope and love! What better message for today's-->
@@ -154,87 +153,7 @@ htmlHead($title);
       <h3 class="text-info">Next event</h3>
       <ul class="list-group">
 
-        <li class="clearfix list-group-item dms-list-item-next" id="ComeAndSing">
-          <div class="col-sm-3">
-            <h3>Come and Sing!</h3>
-            <p class="specialhilite italic">Free of charge - all welcome</p>
-            <h4 class="text-info">Sunday 1<span class="subscript">st</span> February 2026</h4>
-            <p>2:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-            <!-- <div id="registeropenchoirday">-->
-            <!--   <a type="button" class="btn btn-info btn-blocks"-->
-            <!--     href="https://wegottickets.com/event/xxx/"-->
-            <!--     target="_blank">Register</a>-->
-            <!--   <p></p>-->
-            <!-- </div>-->
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2223/choir-cartoon-240.jpeg" alt="Choir image"/>
-          </div>
-          <div class="col-sm-6">
-            <p>There's no better way to feel good than to sing! Music in Dollar has organised a
-              day when you can do just that – with some expert tuition along the way.
-              Singing doesn't require an instrument – it's you! Everyone can do it, so why not
-              come along and have some fun.
-            </p>
-            <p>The format will be to learn a couple of songs, with a vocal
-              workshop led by expert tutor Brian McBride to help bring it all together. Theme is <b>Scottish songs</b>.
-              At the end the 'choir' will perform the songs for anyone who wants to come along and listen.
-            </p>
-            <p>This is a community event, all are welcome at no cost. Bring along friends and family, anyone who is interested
-              to either sing themselves or listen to others.
-            </p>
-            <p>Water will be provided. Bring along any other edibles to keep you going. A pencil
-              might also be handy for taking notes.
-            </p>
-            <!--<p>If you'd like to come along then registering using the button on the left will help us
-              to prepare for the right number of people.
-            </p>-->
-            <p>Those who don't fancy singing can still enjoy the sounds of those that do. It's worthwhile just to hear Brian
-              singing all the parts!</p>
-            <p>Watch Brian <a href="/season/2526/SingForFun-260201-Info.mov" target="_blank">describing the event</a></p>
-          </div>
-        </li>
-
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-sm-12">
-      <h3 class="text-info">Still to come</h3>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-12">
-      <ul class="list-group">
-
-        <li class="clearfix list-group-item dms-list-item" id="WePlayPiano2">
-          <div class="col-sm-3">
-            <h3>We Play Piano Feb 26</h3>
-            <p class="specialhilite italic">Free of charge - all welcome</p>
-            <h4 class="text-info">Sunday, 22<span class="subscript">nd</span> February 2026</h4>
-            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
-          </div>
-          <div class="col-sm-6">
-            <p>By popular demand, we have scheduled another piano performance afternoon, <b>We Play Piano</b>.
-              See the <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
-            </p>
-            <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
-              to play for family and friends, with a supportive and encouraging audience.
-            </p>
-            <p>It showcases young courageous pianists who are dedicated to performance.
-              Come and join us for what will be an inspirational afternoon of young talent!
-            </p>
-            <p>Several advanced students from the RCS are playing in this event. Hear the stars of the future!
-            </p>
-            <p>Refreshments will be provided.</p>
-          </div>
-        </li>
-
-        <li class="clearfix list-group-item dms-list-item" id="JiaNingNg">
+        <li class="clearfix list-group-item dms-list-item-next" id="JiaNingNg">
           <div class="col-sm-3">
             <h3>Jia Ning Ng</h3>
             <h4 class="text-info">Sunday, 1<span class="subscript">st</span> March 2026</h4>
@@ -272,10 +191,23 @@ htmlHead($title);
                 as the flowers swayed in the breeze</i>
               <span class="fa fa-quote-right"></span> – Oxford Lieder Festival
             </p>
-            <!-- <p><a href="/season/2425/Programme-250302-JiaNingNg" target="_blank">Concert programme</a></p>-->
+            <p><a href="/season/2526/Programme-260301-JiaNingNg.pdf" target="_blank">Concert programme</a></p>
             <p><a href="https://oxfordsong.org/artist/jia-ning-ng" target="_blank">More about Jia Ning Ng</a></p>
           </div>
         </li>
+
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h3 class="text-info">Still to come</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <ul class="list-group">
 
         <li class="clearfix list-group-item dms-list-item" id="CharlotteRowan">
           <div class="col-sm-3">
@@ -525,6 +457,73 @@ htmlHead($title);
             </p>
             <p><a href="/season/2526/Programme-260124-ChloePianoTrio.pdf" target="_blank">Concert programme</a></p>
             <p><a href="https://chloepianotrio.com/" target="_blank">More about the Chloe Piano Trio</a></p>
+          </div>
+        </li>
+
+        <li class="clearfix list-group-item dms-list-item-prev" id="ComeAndSing">
+          <div class="col-sm-3">
+            <h3>Come and Sing!</h3>
+            <p class="specialhilite italic">Free of charge - all welcome</p>
+            <h4 class="text-info">Sunday 1<span class="subscript">st</span> February 2026</h4>
+            <p>2:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+            <!-- <div id="registeropenchoirday">-->
+            <!--   <a type="button" class="btn btn-info btn-blocks"-->
+            <!--     href="https://wegottickets.com/event/xxx/"-->
+            <!--     target="_blank">Register</a>-->
+            <!--   <p></p>-->
+            <!-- </div>-->
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/2223/choir-cartoon-240.jpeg" alt="Choir image"/>
+          </div>
+          <div class="col-sm-6">
+            <p>There's no better way to feel good than to sing! Music in Dollar has organised a
+              day when you can do just that – with some expert tuition along the way.
+              Singing doesn't require an instrument – it's you! Everyone can do it, so why not
+              come along and have some fun.
+            </p>
+            <p>The format will be to learn a couple of songs, with a vocal
+              workshop led by expert tutor Brian McBride to help bring it all together. Theme is <b>Scottish songs</b>.
+              At the end the 'choir' will perform the songs for anyone who wants to come along and listen.
+            </p>
+            <p>This is a community event, all are welcome at no cost. Bring along friends and family, anyone who is interested
+              to either sing themselves or listen to others.
+            </p>
+            <p>Water will be provided. Bring along any other edibles to keep you going. A pencil
+              might also be handy for taking notes.
+            </p>
+            <!--<p>If you'd like to come along then registering using the button on the left will help us
+              to prepare for the right number of people.
+            </p>-->
+            <p>Those who don't fancy singing can still enjoy the sounds of those that do. It's worthwhile just to hear Brian
+              singing all the parts!</p>
+            <p>Watch Brian <a href="/season/2526/SingForFun-260201-Info.mov" target="_blank">describing the event</a></p>
+          </div>
+        </li>
+
+        <li class="clearfix list-group-item dms-list-item-prev" id="WePlayPiano2">
+          <div class="col-sm-3">
+            <h3>We Play Piano Feb 26</h3>
+            <p class="specialhilite italic">Free of charge - all welcome</p>
+            <h4 class="text-info">Sunday, 22<span class="subscript">nd</span> February 2026</h4>
+            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
+          </div>
+          <div class="col-sm-6">
+            <p>By popular demand, we have scheduled another piano performance afternoon, <b>We Play Piano</b>.
+              See the <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
+            </p>
+            <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
+              to play for family and friends, with a supportive and encouraging audience.
+            </p>
+            <p>It showcases young courageous pianists who are dedicated to performance.
+              Come and join us for what will be an inspirational afternoon of young talent!
+            </p>
+            <p>Several advanced students from the RCS are playing in this event. Hear the stars of the future!
+            </p>
+            <p>Refreshments will be provided.</p>
           </div>
         </li>
 
