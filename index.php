@@ -43,11 +43,10 @@ htmlHead($title);
             <!--                            Free complimentary tickets given for all Season Tickets bought before the opening concert,-->
             <!--                            so treat friends and family to a free concert.-->
             <!--                        </p>-->
-            <p><span class="fa fa-heart"></span> <a href="#ChloePianoTrio">The Chloe Piano Trio</a> were fabulous,
-            playing like a single person with apparently supernatural coordination and verve.
+            <p><span class="fa fa-music"></span> Our next event is <a href="#CharlotteRowan"> Charlotte Rowan</a>,
+            dynamic violin virtuoso originally from Dollar - must see!
             </p>
-            <p><span class="fa fa-music"></span> Our next event is <a href="#JiaNingNg"> a piano recital by Jia Ning Ng</a>,
-            multiple prize-winning performer from RCS. Eagerly anticipated!
+            <p><span class="fa fa-heart"></span> <a href="#JiaNingNg">Jia Ning Ng</a> played with great precision and heart, a real treat.
             </p>
             <!--                        <p><span class="fa fa-calendar"></span> By popular demand we've scheduled another <a href="#WePlayPiano2">We Play Piano</a> event, -->
             <!--                        where young pianists showcase their skills. It's always a hugely enjoyable event, and completely free. -->
@@ -153,63 +152,7 @@ htmlHead($title);
       <h3 class="text-info">Next event</h3>
       <ul class="list-group">
 
-        <li class="clearfix list-group-item dms-list-item-next" id="JiaNingNg">
-          <div class="col-sm-3">
-            <h3>Jia Ning Ng</h3>
-            <h4 class="text-info">Sunday, 1<span class="subscript">st</span> March 2026</h4>
-            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-            <!--            <p>Pre-concert performance from 2:45pm</p>-->
-            <div id="buyticket-jianingng">
-              <a type="button" class="btn btn-info btn-blocks" href="https://wegottickets.com/event/678367/"
-                 target="_blank">Buy tickets
-              </a>
-              <p></p>
-            </div>
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2425/JiaNingNg-1-240.jpg" alt="Image of Jia Ning Ng"/>
-          </div>
-          <div class="col-sm-6">
-            <p>Singaporean pianist Jia Ning Ng has recently graduated from the Royal Conservatoire of
-              Scotland where, in addition to gaining B.Mus., M.Mus. and Artist Diploma, she won many prestigious awards.
-              In April 2022, she made her debut with the RSNO, for which she was awarded First Prize in
-              the RCS Concerto Competition. Jia Ning is also an active chamber musician, being particularly
-              drawn to Lieder, and has also collaborated with the Resol String Quartet
-            </p>
-            <p>Since graduating Jia has played throughout Scotland to rave reviews (and standing ovations).
-              This was originally programmed for last season, but delayed for family reasons. We are delighted that we
-              were able to reschedule what should be a fabulous concert.
-            </p>
-            <p><span class="fa fa-quote-left"></span>
-              <i>From the imposing opening solo piano passage through the technical middle
-                sections, Ng played with an admirable blend of sensitivity and musical understanding</i>
-              <span class="fa fa-quote-right"></span> – Straits Times
-            </p>
-            <p><span class="fa fa-quote-left"></span>
-              <i>Ng was clearly alive to all the nuances of Schubert’s famously illustrative accompaniments
-                whether turning the great Steinway into a gently plucked lute or rippling seamlessly
-                as the flowers swayed in the breeze</i>
-              <span class="fa fa-quote-right"></span> – Oxford Lieder Festival
-            </p>
-            <p><a href="/season/2526/Programme-260301-JiaNingNg.pdf" target="_blank">Concert programme</a></p>
-            <p><a href="https://oxfordsong.org/artist/jia-ning-ng" target="_blank">More about Jia Ning Ng</a></p>
-          </div>
-        </li>
-
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-sm-12">
-      <h3 class="text-info">Still to come</h3>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-12">
-      <ul class="list-group">
-
-        <li class="clearfix list-group-item dms-list-item" id="CharlotteRowan">
+        <li class="clearfix list-group-item dms-list-item-next" id="CharlotteRowan">
           <div class="col-sm-3">
             <h3>Charlotte Rowan</h3>
             <h4 class="text-info">Sunday, 15<span class="subscript">th</span> March 2026</h4>
@@ -242,7 +185,7 @@ htmlHead($title);
               <i>The sheer virtuosity of her playing - speed, range of technique, mood - was amazing. You truly gave us a concert to
                 remember. Such an amazing performance</i>
               <span class="fa fa-quote-right"></span> – Crail</p>
-            <!-- <p><a href="/season/2526/Programme-260315-CharlotteRowan.pdf" target="_blank">Concert programme</a></p>-->
+            <p><a href="/season/2526/Programme-260315-CharlotteRowan.pdf" target="_blank">Concert programme</a></p>
             <p><a href="https://charlotterowan.com/" target="_blank">More about Charlotte Rowan</a></p>
           </div>
         </li>
@@ -250,6 +193,21 @@ htmlHead($title);
       </ul>
     </div>
   </div>
+
+<!--
+  <div class="row">
+    <div class="col-sm-12">
+      <h3 class="text-info">Still to come</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <ul class="list-group">
+
+      </ul>
+    </div>
+  </div>
+-->
 
   <div id="PrevConcert" class="row">
     <div class="col-sm-12">
@@ -430,12 +388,12 @@ htmlHead($title);
             <h4 class="text-info">Saturday, 24<span class="subscript">th</span> January 2026</h4>
             <p>7:30pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
             <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-            <div id="buyticket-chloepianotrio">
+            <!--<div id="buyticket-chloepianotrio">
               <a type="button" class="btn btn-info btn-blocks"
                  href="https://wegottickets.com/event/678365/"
                  target="_blank">Buy tickets</a>
               <p></p>
-            </div>
+            </div>-->
           </div>
           <div class="col-sm-3">
             <img src="/image/2526/Chloe%20Piano%20Trio-240.jpg" alt="Chloe Piano Trio picture"/>
@@ -524,6 +482,49 @@ htmlHead($title);
             <p>Several advanced students from the RCS are playing in this event. Hear the stars of the future!
             </p>
             <p>Refreshments will be provided.</p>
+          </div>
+        </li>
+
+        <li class="clearfix list-group-item dms-list-item-prev" id="JiaNingNg">
+          <div class="col-sm-3">
+            <h3>Jia Ning Ng</h3>
+            <h4 class="text-info">Sunday, 1<span class="subscript">st</span> March 2026</h4>
+            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+            <!--            <p>Pre-concert performance from 2:45pm</p>-->
+            <!--<div id="buyticket-jianingng">
+              <a type="button" class="btn btn-info btn-blocks" href="https://wegottickets.com/event/678367/"
+                 target="_blank">Buy tickets
+              </a>
+              <p></p>
+            </div>-->
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/2425/JiaNingNg-1-240.jpg" alt="Image of Jia Ning Ng"/>
+          </div>
+          <div class="col-sm-6">
+            <p>Singaporean pianist Jia Ning Ng has recently graduated from the Royal Conservatoire of
+              Scotland where, in addition to gaining B.Mus., M.Mus. and Artist Diploma, she won many prestigious awards.
+              In April 2022, she made her debut with the RSNO, for which she was awarded First Prize in
+              the RCS Concerto Competition. Jia Ning is also an active chamber musician, being particularly
+              drawn to Lieder, and has also collaborated with the Resol String Quartet
+            </p>
+            <p>Since graduating Jia has played throughout Scotland to rave reviews (and standing ovations).
+              This was originally programmed for last season, but delayed for family reasons. We are delighted that we
+              were able to reschedule what should be a fabulous concert.
+            </p>
+            <p><span class="fa fa-quote-left"></span>
+              <i>From the imposing opening solo piano passage through the technical middle
+                sections, Ng played with an admirable blend of sensitivity and musical understanding</i>
+              <span class="fa fa-quote-right"></span> – Straits Times
+            </p>
+            <p><span class="fa fa-quote-left"></span>
+              <i>Ng was clearly alive to all the nuances of Schubert’s famously illustrative accompaniments
+                whether turning the great Steinway into a gently plucked lute or rippling seamlessly
+                as the flowers swayed in the breeze</i>
+              <span class="fa fa-quote-right"></span> – Oxford Lieder Festival
+            </p>
+            <p><a href="/season/2526/Programme-260301-JiaNingNg.pdf" target="_blank">Concert programme</a></p>
+            <p><a href="https://oxfordsong.org/artist/jia-ning-ng" target="_blank">More about Jia Ning Ng</a></p>
           </div>
         </li>
 
