@@ -43,10 +43,9 @@ htmlHead($title);
             <!--                            Free complimentary tickets given for all Season Tickets bought before the opening concert,-->
             <!--                            so treat friends and family to a free concert.-->
             <!--                        </p>-->
-            <p><span class="fa fa-music"></span> Our next event is <a href="#CharlotteRowan"> Charlotte Rowan</a>,
-            dynamic violin virtuoso originally from Dollar - must see!
+            <p><span class="fa fa-calendar"></span> Watch this space for next season's programme... will be published here as soon as we have the artists booked.
             </p>
-            <p><span class="fa fa-heart"></span> <a href="#JiaNingNg">Jia Ning Ng</a> played with great precision and heart, a real treat.
+            <p><span class="fa fa-heart"></span> <a href="#JiaNingNg">Charlotte Rowan</a> was stunning, what a sound!
             </p>
             <!--                        <p><span class="fa fa-calendar"></span> By popular demand we've scheduled another <a href="#WePlayPiano2">We Play Piano</a> event, -->
             <!--                        where young pianists showcase their skills. It's always a hugely enjoyable event, and completely free. -->
@@ -147,52 +146,14 @@ htmlHead($title);
       </ul>
     </div>
   </div>
-  <div id="NextConcert" class="row">
-    <div class="col-sm-12">
-      <h3 class="text-info">Next event</h3>
-      <ul class="list-group">
-
-        <li class="clearfix list-group-item dms-list-item-next" id="CharlotteRowan">
-          <div class="col-sm-3">
-            <h3>Charlotte Rowan</h3>
-            <h4 class="text-info">Sunday, 15<span class="subscript">th</span> March 2026</h4>
-            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-            <!--              <p>Pre-concert performance from 2:45pm</p>-->
-            <div id="buyticket-charlotterowan">
-              <a type="button" class="btn btn-info btn-blocks"
-                 href="https://wegottickets.com/event/678373/" target="_blank">Buy tickets</a>
-              <p></p>
-            </div>
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2526/charlotte01-sm.jpg" alt="Charlotte Rowan picture"/>
-          </div>
-          <div class="col-sm-6">
-            <p>From an early age, local lass Rowan (who attended Dollar Academy) has been captivating audiences with her dazzling
-              virtuosity, commanding stage presence and imaginative spirit.
-            </p>
-            <p>Since graduating in 2012 from Peabody Conservatory of Music, USA, she has launched a career as a solo performer,
-              and as a duo with long-established partner Charlotte Stevenson.
-            </p>
-            <p>She last played at Dollar in 2020, and the memory of that powerful and passionate performance lingers.
-              We are very much looking forward to her return to Dollar!
-            </p>
-            <p><span class="fa fa-quote-left"></span>
-              <i>A breathtaking recital. I was advised to get my programme signed for posterity, and wish I had</i>
-              <span class="fa fa-quote-right"></span> – Stirling
-            </p>
-            <p><span class="fa fa-quote-left"></span>
-              <i>The sheer virtuosity of her playing - speed, range of technique, mood - was amazing. You truly gave us a concert to
-                remember. Such an amazing performance</i>
-              <span class="fa fa-quote-right"></span> – Crail</p>
-            <p><a href="/season/2526/Programme-260315-CharlotteRowan.pdf" target="_blank">Concert programme</a></p>
-            <p><a href="https://charlotterowan.com/" target="_blank">More about Charlotte Rowan</a></p>
-          </div>
-        </li>
-
-      </ul>
-    </div>
-  </div>
+<!--  <div id="NextConcert" class="row">-->
+<!--    <div class="col-sm-12">-->
+<!--      <h3 class="text-info">Next event</h3>-->
+<!--      <ul class="list-group">-->
+<!---->
+<!--      </ul>-->
+<!--    </div>-->
+<!--  </div>-->
 
 <!--
   <div class="row">
@@ -527,6 +488,44 @@ htmlHead($title);
             <p><a href="https://oxfordsong.org/artist/jia-ning-ng" target="_blank">More about Jia Ning Ng</a></p>
           </div>
         </li>
+
+          <li class="clearfix list-group-item dms-list-item-prev" id="CharlotteRowan">
+              <div class="col-sm-3">
+                  <h3>Charlotte Rowan</h3>
+                  <h4 class="text-info">Sunday, 15<span class="subscript">th</span> March 2026</h4>
+                  <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+                  <!--              <p>Pre-concert performance from 2:45pm</p>-->
+                  <!--            <div id="buyticket-charlotterowan">-->
+                  <!--              <a type="button" class="btn btn-info btn-blocks"-->
+                  <!--                 href="https://wegottickets.com/event/678373/" target="_blank">Buy tickets</a>-->
+                  <!--              <p></p>-->
+                  <!--            </div>-->
+              </div>
+              <div class="col-sm-3">
+                  <img src="/image/2526/charlotte01-sm.jpg" alt="Charlotte Rowan picture"/>
+              </div>
+              <div class="col-sm-6">
+                  <p>From an early age, local lass Rowan (who attended Dollar Academy) has been captivating audiences with her dazzling
+                      virtuosity, commanding stage presence and imaginative spirit.
+                  </p>
+                  <p>Since graduating in 2012 from Peabody Conservatory of Music, USA, she has launched a career as a solo performer,
+                      and as a duo with long-established partner Charlotte Stevenson.
+                  </p>
+                  <p>She last played at Dollar in 2020, and the memory of that powerful and passionate performance lingers.
+                      We are very much looking forward to her return to Dollar!
+                  </p>
+                  <p><span class="fa fa-quote-left"></span>
+                      <i>A breathtaking recital. I was advised to get my programme signed for posterity, and wish I had</i>
+                      <span class="fa fa-quote-right"></span> – Stirling
+                  </p>
+                  <p><span class="fa fa-quote-left"></span>
+                      <i>The sheer virtuosity of her playing - speed, range of technique, mood - was amazing. You truly gave us a concert to
+                          remember. Such an amazing performance</i>
+                      <span class="fa fa-quote-right"></span> – Crail</p>
+                  <p><a href="/season/2526/Programme-260315-CharlotteRowan.pdf" target="_blank">Concert programme</a></p>
+                  <p><a href="https://charlotterowan.com/" target="_blank">More about Charlotte Rowan</a></p>
+              </div>
+          </li>
 
       </ul>
     </div>
