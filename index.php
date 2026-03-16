@@ -45,8 +45,9 @@ htmlHead($title);
             <!--                        </p>-->
             <p><span class="fa fa-calendar"></span> Watch this space for next season's programme... will be published here as soon as we have the artists booked.
             </p>
-            <p><span class="fa fa-heart"></span> <a href="#JiaNingNg">Charlotte Rowan</a> was stunning, what a sound!
+            <p><span class="fa fa-heart"></span> <a href="#CharlotteRowan">Charlotte Rowan</a> was stunning, what a sound!
             </p>
+            <p><span class="fa fa-file-movie-o"></span> Watch some highlights from the recent <a href="/season/2526/SingForFun-260201-Footage.mp4" target="_blank">Sing For Fun afternoon</a>. Great fun for all who attended!</p>
             <!--                        <p><span class="fa fa-calendar"></span> By popular demand we've scheduled another <a href="#WePlayPiano2">We Play Piano</a> event, -->
             <!--                        where young pianists showcase their skills. It's always a hugely enjoyable event, and completely free. -->
             <!--                        Some RCS students this time, including the Young Scottish Musician winner. Come and hear the stars of the future! -->
@@ -56,9 +57,9 @@ htmlHead($title);
             <!--                            This time the focus was on pop songs, about hope and love! What better message for today's-->
             <!--                            world.-->
             <!--                        </p>-->
-            <p><span class="fa fa-ticket"></span> Ticket prices have been held the same as last season.
-              You won't find the highest quality professional music cheaper anywhere!
-            </p>
+<!--            <p><span class="fa fa-ticket"></span> Ticket prices have been held the same as last season.-->
+<!--              You won't find the highest quality professional music cheaper anywhere!-->
+<!--            </p>-->
             <!--                        <p><span class="fa fa-star"></span> The next <a href="image/2425/LetsPlayMusic-Sep24.jpg" target="_blank">Let's Play Music</a>-->
             <!--                            event will be in Dollar Parish Church on 8th September @ 3pm. Always a great event, showcasing local musical talent!-->
             <!--                        </p>-->
@@ -416,7 +417,8 @@ htmlHead($title);
             </p>-->
             <p>Those who don't fancy singing can still enjoy the sounds of those that do. It's worthwhile just to hear Brian
               singing all the parts!</p>
-            <p>Watch Brian <a href="/season/2526/SingForFun-260201-Info.mov" target="_blank">describing the event</a></p>
+            <p>Watch some <a href="/season/2526/SingForFun-260201-Footage.mp4" target="_blank">highlights from the event</a></p>
+            <p>Watch Brian <a href="/season/2526/SingForFun-260201-Promotion.mp4" target="_blank">describing the event</a></p>
           </div>
         </li>
 
