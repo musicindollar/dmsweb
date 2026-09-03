@@ -43,33 +43,15 @@ htmlHead($title);
             <!--                            Free complimentary tickets given for all Season Tickets bought before the opening concert,-->
             <!--                            so treat friends and family to a free concert.-->
             <!--                        </p>-->
-            <p><span class="fa fa-calendar"></span> Watch this space for next season's programme... will be published here as soon as we have the artists booked.
+            <p><span class="fa fa-calendar"></span> The new season is unveiled! Another fantastic range of high quality musicians and styles.
             </p>
-            <p><span class="fa fa-heart"></span> <a href="#CharlotteRowan">Charlotte Rowan</a> was stunning, what a sound!
+            <p><span class="fa fa-music"></span> Our next event is the Season Opener.
+            Sticking with the successful format of last year, Dollar Academy students will play and sing for us in a variety of styles.
+            This is a completely free community event, open to all.
+            In the relaxed setting of the Captain's Room, Dollar Academy, come along and enjoy a drink of two of your choice while taking in some inspiring music.
             </p>
-            <p><span class="fa fa-file-movie-o"></span> Watch some highlights from the recent <a href="/season/2526/SingForFun-260201-Footage.mp4" target="_blank">Sing For Fun afternoon</a>. Great fun for all who attended!</p>
-            <!--                        <p><span class="fa fa-calendar"></span> By popular demand we've scheduled another <a href="#WePlayPiano2">We Play Piano</a> event, -->
-            <!--                        where young pianists showcase their skills. It's always a hugely enjoyable event, and completely free. -->
-            <!--                        Some RCS students this time, including the Young Scottish Musician winner. Come and hear the stars of the future! -->
-            <!--                        </p> -->
-            <!--                        <p><span class="fa fa-smile-o"></span> <a href="#ComeAndSing">Come And Sing</a> was a lot of fun,-->
-            <!--                            with Brian McBride irrepressible as ever.-->
-            <!--                            This time the focus was on pop songs, about hope and love! What better message for today's-->
-            <!--                            world.-->
-            <!--                        </p>-->
-<!--            <p><span class="fa fa-ticket"></span> Ticket prices have been held the same as last season.-->
-<!--              You won't find the highest quality professional music cheaper anywhere!-->
-<!--            </p>-->
-            <!--                        <p><span class="fa fa-star"></span> The next <a href="image/2425/LetsPlayMusic-Sep24.jpg" target="_blank">Let's Play Music</a>-->
-            <!--                            event will be in Dollar Parish Church on 8th September @ 3pm. Always a great event, showcasing local musical talent!-->
-            <!--                        </p>-->
-
-            <!--                        <p><span class="fa fa-cc-discover"></span> We're busy preparing for next season - watch this space for announcements!-->
-            <!--                        </p>-->
-            <!--                        <p><span class="fa fa-calendar"></span> Renowned violinist <a href="https://en.wikipedia.org/wiki/Rachel_Podger" target="_blank">Rachel Podger</a> <a-->
-            <!--                                    href="https://www.perththeatreandconcerthall.com/whats-on/rachel-podger-218002" target="_blank">will perform in Perth</a> on Tuesday 28th Feb, 7:30pm, in the beautiful St John's Kirk.-->
-            <!--                            Music in Dollar members get in for reduced rates of &#163;10-->
-            <!--                        </p>-->
+            <p><span class="fa fa-gbp"></span> We've had to increase some prices this season. Still the best value around, only &#163;7.50 per concert with a season ticket!
+            </p>
             <p><span class="fa fa-envelope-o">&nbsp;</span> Like something, got a suggestion? Please <a
                 href="contact.php">drop us a note online</a>, or on
               <a href="https://www.facebook.com/MusicInDollar" target="_blank">Facebook</a>
@@ -104,14 +86,14 @@ htmlHead($title);
 
   <div id="WhatsOnWrapper" class="row">
     <div class="col-sm-6">
-      <h2 id="WhatsOn">2025-26 Season</h2>
+      <h2 id="WhatsOn">2026-27 Season</h2>
     </div>
     <div class="col-sm-6 margintop10">
       <div class="panel panel-default">
         <div class="panel-body">
-          <a href="season/2526/MiD-Leaflet-2025-26.pdf" target="_blank">View</a>
+          <a href="season/2627/MiD-Leaflet-2026-27.pdf" target="_blank">View</a>
           the full programme for the current season [PDF 0.6MB]
-          <a href="season/2526/MiD-Leaflet-2025-26.pdf" target="_blank"><img src="image/pdf.jpeg" alt="PDF icon"/></a>
+          <a href="season/2627/MiD-Leaflet-2026-27.pdf" target="_blank"><img src="image/pdf.jpeg" alt="PDF icon"/></a>
         </div>
       </div>
     </div>
@@ -129,17 +111,18 @@ htmlHead($title);
         <li class="clearfix list-group-item dms-list-item-prev" id="Tickets">
           <div class="col-sm-12">
             <p>Tickets for each concert can be bought by clicking the <i>'Buy tickets'</i> button beside the
-              concert listing below, or at the door
-              (we have a card machine, but it doesn't always work so best to have some cash as backup).
-              Cost is &#163;12, students in full-time education admitted free of charge.</p>
-            <p>Season Tickets provide entry to all concerts in the season. Cost is &#163;40. That's less than &#163;7
-              per concert, unbeatable value!</p>
-            <p>Choose how you'd like to pay: online using the button below, buy at the door (card or cash),
-              or <a href="contact.php">contact us</a> to request bank transfer details.</p>
+              concert listing below, or at the door.
+              We accept card and cash payments. Occasionally the card machine won't connect, so it's prudent to have some cash as a backup!
+              Cost at the door for a single concert is &#163;14, students in full-time education admitted free of charge.</p>
+            <p>Season Tickets provide entry to all concerts in the season. Cost is &#163;45, that's only &#163;7.50
+              per concert, unbeatable value!
+              Buy at the <a href="#SeasonOpener">Season Opener</a> (and get free complimentary tickets), on the door at a concert, or <a
+                href="contact.php">contact us</a>.</p>
+            <p>If you prefer to use a bank transfer, then <a href="contact.php">contact us</a> to request bank details.</p>
             <div id="buyseasonticket">
-<!--              <a type="button" class="btn btn-info btn-blocks"-->
-<!--                 href="https://wegottickets.com/event/675529/" target="_blank">Buy season tickets-->
-<!--              </a>-->
+              <a type="button" class="btn btn-info btn-blocks"
+                 href="https://wegottickets.com/f/27426" target="_blank">Buy season tickets
+              </a>
             </div>
           </div>
         </li>
@@ -147,53 +130,26 @@ htmlHead($title);
       </ul>
     </div>
   </div>
-<!--  <div id="NextConcert" class="row">-->
-<!--    <div class="col-sm-12">-->
-<!--      <h3 class="text-info">Next event</h3>-->
-<!--      <ul class="list-group">-->
-<!---->
-<!--      </ul>-->
-<!--    </div>-->
-<!--  </div>-->
 
-<!--
-  <div class="row">
+  <div id="NextConcert" class="row">
     <div class="col-sm-12">
-      <h3 class="text-info">Still to come</h3>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-12">
+      <h3 class="text-info">Next event</h3>
       <ul class="list-group">
 
-      </ul>
-    </div>
-  </div>
--->
-
-  <div id="PrevConcert" class="row">
-    <div class="col-sm-12">
-      <h3 class="text-info">Previous concerts</h3>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-12">
-      <ul class="list-group">
-        <li class="clearfix list-group-item dms-list-item-prev" id="OpenAfternoon">
+        <li class="clearfix list-group-item dms-list-item-next" id="SeasonOpener">
           <div class="col-sm-3">
             <h3>Season Opener - Music on Sunday Afternoon</h3>
             <p class="specialhilite italic">Free of charge - all welcome</p>
-            <h4 class="text-info">Sunday, 14<span class="subscript">th</span> September 2025</h4>
+            <h4 class="text-info">Sunday, 13<span class="subscript">th</span> September 2026</h4>
             <p>3:00pm <a href="https://maps.app.goo.gl/qYBJHMSLHWBZufWM9">Maguire Building, Dollar Academy FK14 7DU</a></p>
           </div>
           <div class="col-sm-3">
             <img src="/image/2526/openafternoon-240.png" alt="Open afternoon picture"/>
           </div>
           <div class="col-sm-6">
-            <p>In a change of format, our event to open the new season is an afternoon of live music.</p>
-            <p>Combining the informality of the Open Evening, with raffle, games and stalls from the Coffee Morning and
-              two halves of live music of varying styles, courtesy of talented students. There is something for everyone -
-              enjoy music, wine, chat and games in a relaxed cabaret-style setting.
+            <p>We're repeating last year's successful format, of a relaxed community concert to open the new season.</p>
+            <p>Combining music from Dollar Academy students in a variety of styles, there is a range of drinks with raffle, games and stalls.
+              There will be something for everyone - enjoy music, wine, chat and games in a relaxed cabaret-style setting.
             </p>
             <p>Drinks and refreshments are supplied. Come along, bring your friends, enjoy!</p>
             <p>Season and Basic memberships will be on sale. As a bonus for buying early and beating the rush at the first
@@ -206,223 +162,192 @@ htmlHead($title);
           </div>
         </li>
 
-        <li class="clearfix list-group-item dms-list-item-prev" id="NightAtTheOpera">
-          <div class="col-sm-3">
-            <h3>A Night At The Opera</h3>
-            <h4 class="text-info">Saturday, 18<span class="subscript">th</span> October 2025</h4>
-            <p>7:30pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-            <!--              <p>Pre-concert performance from 7:15pm</p>-->
-<!--            <div id="buyticket-nightattheopera">-->
-<!--              <a type="button" class="btn btn-info btn-blocks"-->
-<!--                 href="https://wegottickets.com/event/675530/" target="_blank">Buy tickets-->
-<!--              </a>-->
-<!--              <p></p>-->
-<!--            </div>-->
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2526/NightAtTheOpera-1-240.jpg" alt="Night at the Opera picture"/>
-          </div>
-          <div class="col-sm-6">
-            <p>Defying conventional beliefs that the opera can only be played in huge city
-              venues, we’re bringing it to Dollar! Cut-down in size but not in quality, A Night at
-              the Opera comprises four singers, eleven instruments, conductor and compère!
-            </p>
-            <p>Programmes are packed with favourite operatic melodies, including pieces to
-              delight both the musical connoisseur and the less operatically minded. Homage is
-              paid to giants of the genre such as Bizet, Delibes, Donizetti, Mozart, Offenbach,
-              Puccini, Saint-Saens, J Strauss and Verdi, sometimes with a nod to Lehar and Gilbert and
-              Sullivan. Each item is introduced with full musical and character explanation.
-            </p>
-            <p>A surprise or two may also be in store!</p>
-            <p><span class="fa fa-quote-left"></span><i>"Fabulous performance! What a wonderful evening! Sublime singing, all accompanied
-                by a magnificent orchestra. An absolute joy from start to finish!"</i>
-              <span class="fa fa-quote-right"></span> – Lanark Music
-            </p>
-             <p><a href="/season/2526/Programme-251018-NightAtTheOpera.pdf" target="_blank">Concert programme</a></p>
-            <p><a href="https://www.classicalmusiciansscotland.com/artists/opera-gala/" target="_blank">
-               More about A Night at the Opera</a>
-            </p>
-          </div>
-        </li>
+      </ul>
+    </div>
+  </div>
 
-        <li class="clearfix list-group-item dms-list-item-prev" id="ChineseOrchestra">
-          <div class="col-sm-3">
-            <h3>Chinese Ensemble</h3>
-            <p class="specialhilite italic">Free of charge - all welcome</p>
-            <h4 class="text-info">
-              Sunday, 2<span class="subscript">nd</span> November 2025
-            </h4>
-            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-            <!--              <p>Pre-concert performance from 2:45pm</p>-->
-<!--            <div id="buyticket-chineseorchestra">-->
-<!--              <a type="button" class="btn btn-info btn-blocks"-->
-<!--                 href="https://wegottickets.com/event/675532/" target="_blank">Buy tickets-->
-<!--              </a>-->
-<!--              <p></p>-->
-<!--            </div>-->
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2526/ChineseOrchestra-Pipa2-240.jpg" alt="Night at the Opera picture"/>
-          </div>
-          <div class="col-sm-6">
-            <p>And now for something a little different! The Edinburgh Chinese Community Orchestra (aka Harmony Ensemble)
-              was established 25 years ago as a group of local musicians and visiting students who love performing
-              Chinese music.
-            </p>
-            <p>They perform at many events throughout Scotland, often representing the Chinese Community at traditional
-              celebrations, bringing Chinese music to a wider community.
-            </p>
-            <p>For our performance, the ensemble will comprise Li Rong Rong and Eddie McGuire (of Whistlebinkies fame,
-              and a prominent composer) who introduces the pieces. They have lined up a magical programme of Chinese music
-              in various styles.</p>
-            <p>This is an informal event, where the audience are invited to touch and play the instruments and chat
-              to the performers.
-            </p>
-          </div>
-        </li>
+  <div class="row">
+    <div class="col-sm-12">
+      <h3 class="text-info">Still to come</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <ul class="list-group">
 
-        <li class="clearfix list-group-item dms-list-item-prev" id="WePlayPiano1">
+        <li class="clearfix list-group-item dms-list-item" id="WePlayPiano1">
           <div class="col-sm-3">
             <h3>We Play Piano</h3>
             <p class="specialhilite italic">Free of charge - all welcome</p>
-            <h4 class="text-info">Sunday, 9<span class="subscript">th</span> November 2025</h4>
+            <h4 class="text-info">Sunday, 27<span class="subscript">th</span> September 2026</h4>
             <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
           </div>
           <div class="col-sm-3">
             <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
           </div>
           <div class="col-sm-6">
-            <p>Music in Dollar are hosting another piano performance afternoon, <b>We Play Piano</b>.
+            <p>By popular demand, Music in Dollar are hosting another piano performance afternoon, <b>We Play Piano</b>.
               See the <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
             </p>
             <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
               to play for family and friends, with a supportive and encouraging audience.
             </p>
             <p>It showcases young courageous pianists who are dedicated to performance.
+              Skill levels range from intermediate to near-professional RCS students.
               Come and join us for what will be an inspirational afternoon of young talent!
             </p>
             <p>Refreshments will be provided.</p>
           </div>
         </li>
 
-        <li class="clearfix list-group-item dms-list-item-prev" id="TimKliphuis">
+        <li class="clearfix list-group-item dms-list-item" id="DanielCiobanu">
           <div class="col-sm-3">
-            <h3>Tim Kliphuis Trio</h3>
-            <h4 class="text-info">Sunday, 23<span class="subscript">rd</span> November 2025</h4>
+            <h3>Daniel Ciobanu</h3>
+            <h4 class="text-info">Saunday, 25<span class="subscript">th</span> October 2026</h4>
             <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-            <!--              <p>Pre-concert performance from 2:45pm</p>-->
-            <div id="buyticket-timkliphuis">
-<!--              <a type="button" class="btn btn-info btn-blocks"-->
-<!--                 href="https://wegottickets.com/event/675534/" target="_blank">Buy tickets-->
-<!--              </a>-->
+            <!--              <p>Pre-concert performance from 7:15pm</p>-->
+            <div id="buyticket-danielciobanu">
+              <a type="button" class="btn btn-info btn-blocks"
+                 href="https://wegottickets.com/f/27425" target="_blank">Buy tickets
+              </a>
               <p></p>
             </div>
           </div>
           <div class="col-sm-3">
-            <img src="/image/2526/TimKliphuis-Silhouette-240.jpg" alt="Image of Tim Kliphuis"/>
+            <img src="/image/1819/Daniel-Ciobanu-sm.jpg" alt="Image of Daniel Ciobanu"/>
           </div>
           <div class="col-sm-6">
-            <p>Award-winning Dutch violinist Tim Kliphuis has created a brand new style that
-              embraces classical, gypsy jazz and folk. Hailed as a ‘current-day improvising
-              Paganini’, his inclusive and innovative approach to music has united audiences
-              and is influencing a new generation of string players.
+            <p>The memory of Romanian pianist Daniel Ciobanu’s previous concert in Dollar is still vivid,
+              in particular his epic, passionate performance of Pictures at an Exhibition.
+              Since 2018 Daniel has developed into an established global star, with rave reviews for live performances,
+              both solo and with orchestras, and recordings.
             </p>
-            <p>An invitation to the Richard Strauss Festival in Germany started the Tim Kliphuis Trio (Nigel
-              Clark, guitar and Roy Percy, double bass) whose mission is a ‘total music’ without stylistic barriers.
-              They performed at the Amsterdam Canal Concert, curated the world fiddle night at Celtic Connections
-              Glasgow, celebrated Stéphane Grappelli at the Django Reinhardt Festival in Samois-sur-Seine.
+            <p>He has played on many of the world's big stages, from Carnegie Hall New York, to Concertgebouw Amsterdam and KonzertHaus Berlin,
+              and with some of the world's premier orchestras.</p>
+            <p>Daniel retains a deep love of Scotland, where he trained,
+              and we are privileged to have him play again for us in Dollar.
+              His <i>l’enfant terrible</i> programme spans Bach, Mozart, Liszt, Prokofiev and more. Not to be missed!
             </p>
-            <p>Many collaborations and tours later, we are thrilled that artists of this international stature will play for us
-              in Dollar.
+            <p><span class="fa fa-quote-left"></span><i>Ciobanu, the perfect pianist to pull of a work of astonishing energy and passion.
+              To watch him in action is truly mesmerising, as he brings to life the pace and sheer aggression of the work
+              [Prokofiev's 3rd Piano Concerto, with the Royal Philharmonic Orchestra] as it builds to a crashing finale.
+              To then be treated to an amusing and varied performance, showcasing his range of talents to the full, was the icing on the cake.</i>
+              <span class="fa fa-quote-right"></span> – Karl Hornsey
             </p>
-            <p><span class="fa fa-quote-left"></span><i>Superb ... a thoughtful, provocative meeting of minds</i>
-              <span class="fa fa-quote-right"></span> – The Sunday Times</p>
-            <p><span class="fa fa-quote-left"></span><i>Playfully inventive and technically brilliant</i>
-              <span class="fa fa-quote-right"></span> – Time Out</p>
-             <p><a href="/season/2526/Programme-251123-TimKliphuis.pdf" target="_blank">Concert programme</a></p>
-            <p><a href="https://timkliphuis.com/" target="_blank">More about Tim Kliphuis</a></p>
+            <p><span class="fa fa-quote-left"></span><i>The solo part was played by the phenomenal Romanian pianist Daniel Ciobanu
+              with vitalism of his style, wonderful technique, the pouring, albeit controlled lyricism and a great sense of swing style.</i>
+              <span class="fa fa-quote-right"></span> – Michael Klubinski - Beethoven Easter Festival Warsaw Philharmonic
+            </p>
+            <!--<p><a href="/season/2627/Programme-261025-DanielCiobanu.pdf" target="_blank">Concert programme</a></p> -->
+            <p><a href="https://www.danielciobanu.com/" target="_blank">
+               More about Daniel Ciobanu</a>
+            </p>
           </div>
         </li>
 
-        <li class="clearfix list-group-item dms-list-item-prev" id="ChloePianoTrio">
+        <li class="clearfix list-group-item dms-list-item" id="TesseraStringQuartet">
           <div class="col-sm-3">
-            <h3>Chloe Piano Trio</h3>
-            <h4 class="text-info">Saturday, 24<span class="subscript">th</span> January 2026</h4>
-            <p>7:30pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-            <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-            <!--<div id="buyticket-chloepianotrio">
+            <h3>Tessera String Quartet</h3>
+            <h4 class="text-info">
+              Sunday, 15<span class="subscript">th</span> November 2026
+            </h4>
+            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+            <!--              <p>Pre-concert performance from 2:45pm</p>-->
+            <div id="buyticket-tesseraquartet">
               <a type="button" class="btn btn-info btn-blocks"
-                 href="https://wegottickets.com/event/678365/"
+                 href="https://wegottickets.com/f/27428" target="_blank">Buy tickets
+              </a>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/2627/tesseraquartet-1-sm.png" alt="Image of Tessera String Quartet"/>
+          </div>
+          <div class="col-sm-6">
+            <p>Since 2025 the Tessera Quartet has been promoting the goal to make classical and chamber music more accessible, engaging, and personal.
+              Comprising musicians from RCS and Northern College of Music, they have a shared passion for the living tradition of chamber music,
+              while extending the boundaries of performance and repertoire. For example, concerts by candlelight!
+            </p>
+            <p>The varied programme will interweave favourites like Dvorak's “American” Quartet, with some hidden gems.
+            </p>
+            <p>The word <i>tessera</i> suggests a small piece within a larger mosaic.
+            For the quartet, it reflects the way four individual musical voices come together to form something complete, detailed, and alive,
+            making every performance a warm and engaging experience.
+            </p>
+            <!--<p><a href="/season/2627/Programme-261115-TesseraQuartet.pdf" target="_blank">Concert programme</a></p> -->
+            <p><a href="https://tesseraquartet.co.uk/" target="_blank">
+               More about Tessera Quartet</a>
+            </p>
+          </div>
+        </li>
+
+        <li class="clearfix list-group-item dms-list-item" id="NewFocus">
+          <div class="col-sm-3">
+            <h3>New Focus</h3>
+            <h4 class="text-info">Sunday, 10<span class="subscript">th</span> January 2027</h4>
+            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+            <!--              <p>Pre-concert performance from 2:45pm</p>-->
+            <div id="buyticket-newfocus">
+              <a type="button" class="btn btn-info btn-blocks"
+                 href="https://wegottickets.com/f/27461" target="_blank">Buy tickets
+              </a>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/2627/New-Focus-1-240.jpg" alt="Image of New Focus duo"/>
+          </div>
+          <div class="col-sm-6">
+            <p>Award-winning piano-saxophone duo Euan Stevenson and Konrad Wiszniewski explore the relationship between classical music and jazz.
+            </p>
+            <p>Ranging from jazz improvisation on a Bach theme, to playing a Duke Ellington standard
+              in the style of a Mozart sonata, each piece fascinates, delights and educates!
+              Stevenson is a well established composer, performer and teacher (including our own Fergus McCreadie).
+              Wiszniewski is one of the Scottish National Jazz Orchestra’s star soloists and twice winner of the Best Instrumentalist title at the Scottish Jazz Awards.
+            </p>
+            <p>With rave reviews from around Scotland, New Focus is forging a unique and imaginative sound.
+            </p>
+            <p><span class="fa fa-quote-left"></span><i>Concise, hauntingly original pieces</i>
+              <span class="fa fa-quote-right"></span> – The Sunday Times</p>
+            <p><span class="fa fa-quote-left"></span><i>It’s all about class and quality: Stevenson has a beautiful touch, caressing the keys Bill Evans-style but rhythmically perfect too…</i>
+              <span class="fa fa-quote-right"></span> – Jazzwise Magazine</p>
+             <!--<p><a href="/season/2526/Programme-270110-NewFocus.pdf" target="_blank">Concert programme</a></p> -->
+            <p><a href="https://www.euanstevenson.com/new-focus" target="_blank">More about New Focus</a></p>
+          </div>
+        </li>
+
+        <li class="clearfix list-group-item dms-list-item" id="CromlitsLilt">
+          <div class="col-sm-3">
+            <h3>Cromlit's Lilt</h3>
+            <h4 class="text-info">Sunday, 31<span class="subscript">st</span> January 2027</h4>
+            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+            <!--                        <p>Pre-concert performance from 2:50pm</p>-->
+            <div id="buyticket-cromlitslilt">
+              <a type="button" class="btn btn-info btn-blocks"
+                 href="https://wegottickets.com/f/27469"
                  target="_blank">Buy tickets</a>
               <p></p>
-            </div>-->
+            </div>
           </div>
           <div class="col-sm-3">
-            <img src="/image/2526/Chloe%20Piano%20Trio-240.jpg" alt="Chloe Piano Trio picture"/>
+            <img src="/image/2627/cromlitslilt-1-240.jpg" alt="Image of Cromlits Lilt group"/>
           </div>
           <div class="col-sm-6">
-            <p>The Chloé Piano Trio, winners of the Royal Philharmonic Society Henderson
-              Prize 2021, was formed in 2017 by talented emerging musicians at the Royal
-              College of Music, London. They come to Dollar as Tunnell Prize winners, with a
-              programme of Mozart, Dvorak, Weir and Ravel.
+            <p>Cromlit’s Lilt is a unique Scottish ensemble dedicated to music of the baroque era,
+              including Vivaldi, Handel, Bach and many superb but unjustly neglected Scottish composers
+              such as Oswald, Erskine and McGibbon.
             </p>
-            <p><span class="fa fa-quote-left"></span><i>Few young groups play with as much personality as the Chloé Piano Trio</i>
-              <span class="fa fa-quote-right"></span> – Keith Bruce, Vox Carnyx
+            <p>The name <i>Cromlit's Lilt</i> comes from the slow air written by Scottish composer James Oswald, published in 1760.</p>
+            <p><span class="fa fa-quote-left"></span><i>Rarely have I heard baroque masterpieces played with so much flair and enthusiasm</i>
+              <!--<span class="fa fa-quote-right"></span> – xxx -->
             </p>
-            <p><span class="fa fa-quote-left"></span><i>An outstanding ensemble, with very high
-                standard of playing, bringing together three top-rate instrumentalists and equally sensitive,
-                intelligent and dedicated musicians ...probing interpretations of not only mainstream repertoire,
-                but also of lesser known works which deserve more recognition</i>
-              <span class="fa fa-quote-right"></span> – Ulrich Koella, Ticino Musica Festival
-            </p>
-            <p><a href="/season/2526/Programme-260124-ChloePianoTrio.pdf" target="_blank">Concert programme</a></p>
-            <p><a href="https://chloepianotrio.com/" target="_blank">More about the Chloe Piano Trio</a></p>
+            <!--<p><a href="/season/2627/Programme-270131-CromlitsLilt.pdf" target="_blank">Concert programme</a></p> -->
+            <p><a href="https://www.facebook.com/people/Cromlits-Lilt/100041636506213/" target="_blank">More about the Cromlit's Lilt</a></p>
           </div>
         </li>
 
-        <li class="clearfix list-group-item dms-list-item-prev" id="ComeAndSing">
-          <div class="col-sm-3">
-            <h3>Come and Sing!</h3>
-            <p class="specialhilite italic">Free of charge - all welcome</p>
-            <h4 class="text-info">Sunday 1<span class="subscript">st</span> February 2026</h4>
-            <p>2:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-            <!-- <div id="registeropenchoirday">-->
-            <!--   <a type="button" class="btn btn-info btn-blocks"-->
-            <!--     href="https://wegottickets.com/event/xxx/"-->
-            <!--     target="_blank">Register</a>-->
-            <!--   <p></p>-->
-            <!-- </div>-->
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2223/choir-cartoon-240.jpeg" alt="Choir image"/>
-          </div>
-          <div class="col-sm-6">
-            <p>There's no better way to feel good than to sing! Music in Dollar has organised a
-              day when you can do just that – with some expert tuition along the way.
-              Singing doesn't require an instrument – it's you! Everyone can do it, so why not
-              come along and have some fun.
-            </p>
-            <p>The format will be to learn a couple of songs, with a vocal
-              workshop led by expert tutor Brian McBride to help bring it all together. Theme is <b>Scottish songs</b>.
-              At the end the 'choir' will perform the songs for anyone who wants to come along and listen.
-            </p>
-            <p>This is a community event, all are welcome at no cost. Bring along friends and family, anyone who is interested
-              to either sing themselves or listen to others.
-            </p>
-            <p>Water will be provided. Bring along any other edibles to keep you going. A pencil
-              might also be handy for taking notes.
-            </p>
-            <!--<p>If you'd like to come along then registering using the button on the left will help us
-              to prepare for the right number of people.
-            </p>-->
-            <p>Those who don't fancy singing can still enjoy the sounds of those that do. It's worthwhile just to hear Brian
-              singing all the parts!</p>
-            <p>Watch some <a href="/season/2526/SingForFun-260201-Footage.mp4" target="_blank">highlights from the event</a></p>
-            <p>Watch Brian <a href="/season/2526/SingForFun-260201-Promotion.mp4" target="_blank">describing the event</a></p>
-          </div>
-        </li>
-
-        <li class="clearfix list-group-item dms-list-item-prev" id="WePlayPiano2">
+<!--
+        <li class="clearfix list-group-item dms-list-item" id="WePlayPiano2">
           <div class="col-sm-3">
             <h3>We Play Piano Feb 26</h3>
             <p class="specialhilite italic">Free of charge - all welcome</p>
@@ -447,92 +372,96 @@ htmlHead($title);
             <p>Refreshments will be provided.</p>
           </div>
         </li>
-
-        <li class="clearfix list-group-item dms-list-item-prev" id="JiaNingNg">
+-->
+        <li class="clearfix list-group-item dms-list-item" id="RogersHammerstein">
           <div class="col-sm-3">
-            <h3>Jia Ning Ng</h3>
-            <h4 class="text-info">Sunday, 1<span class="subscript">st</span> March 2026</h4>
+            <h3>Celebrate! Rogers & Hammerstein</h3>
+            <h4 class="text-info">Sunday, 21<span class="subscript">st</span> February 2027</h4>
             <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
             <!--            <p>Pre-concert performance from 2:45pm</p>-->
-            <!--<div id="buyticket-jianingng">
-              <a type="button" class="btn btn-info btn-blocks" href="https://wegottickets.com/event/678367/"
+            <div id="buyticket-rogershammerstein">
+              <a type="button" class="btn btn-info btn-blocks" href="https://wegottickets.com/f/27464"
                  target="_blank">Buy tickets
               </a>
               <p></p>
-            </div>-->
+            </div>
           </div>
           <div class="col-sm-3">
-            <img src="/image/2425/JiaNingNg-1-240.jpg" alt="Image of Jia Ning Ng"/>
+            <img src="/image/2627/celebrate-rh-1.jpeg" alt="Image of Celebrate singers"/>
           </div>
           <div class="col-sm-6">
-            <p>Singaporean pianist Jia Ning Ng has recently graduated from the Royal Conservatoire of
-              Scotland where, in addition to gaining B.Mus., M.Mus. and Artist Diploma, she won many prestigious awards.
-              In April 2022, she made her debut with the RSNO, for which she was awarded First Prize in
-              the RCS Concerto Competition. Jia Ning is also an active chamber musician, being particularly
-              drawn to Lieder, and has also collaborated with the Resol String Quartet
+            <p>Come and hear the popular and uplifting music of Rogers and Hammerstein
+              performed by classically trained professional singers, appearing in opera, chamber and ensemble vocal roles.
+              Accompanied by ex-director of Scottish Opera Derek Clark, familiar from last season’s magnificent Night at the Opera.
             </p>
-            <p>Since graduating Jia has played throughout Scotland to rave reviews (and standing ovations).
-              This was originally programmed for last season, but delayed for family reasons. We are delighted that we
-              were able to reschedule what should be a fabulous concert.
+            <p>Prepare to be transported from the Alps (Sound of Music), to Oklahoma and the exotic South Pacific.
+              Impossible to leave without a smile on your face!
             </p>
             <p><span class="fa fa-quote-left"></span>
-              <i>From the imposing opening solo piano passage through the technical middle
-                sections, Ng played with an admirable blend of sensitivity and musical understanding</i>
-              <span class="fa fa-quote-right"></span> – Straits Times
+              <i>Brilliant expressive musicians and a well crafted repertoire</i>
+              <span class="fa fa-quote-right"></span> – Stranraer Music For All
             </p>
             <p><span class="fa fa-quote-left"></span>
-              <i>Ng was clearly alive to all the nuances of Schubert’s famously illustrative accompaniments
-                whether turning the great Steinway into a gently plucked lute or rippling seamlessly
-                as the flowers swayed in the breeze</i>
-              <span class="fa fa-quote-right"></span> – Oxford Lieder Festival
+              <i>Greatly enjoyed by the sell out audience</i>
+              <span class="fa fa-quote-right"></span> – Westbourne Music Society
             </p>
-            <p><a href="/season/2526/Programme-260301-JiaNingNg.pdf" target="_blank">Concert programme</a></p>
-            <p><a href="https://oxfordsong.org/artist/jia-ning-ng" target="_blank">More about Jia Ning Ng</a></p>
+            <p><span class="fa fa-quote-left"></span>
+              <i>A sparkling concert.... which prompted rapturous applause</i>
+              <span class="fa fa-quote-right"></span> – Isle of Bute News
+            </p>
+            <!--<p><a href="/season/2627/Programme-270221-RogersHammerstein.pdf" target="_blank">Concert programme</a></p> -->
+            <p><a href="https://www.classicalmusiciansscotland.com/artists/celebrating-irving-berlin/" target="_blank">More about Celebrate!</a></p>
           </div>
         </li>
 
-          <li class="clearfix list-group-item dms-list-item-prev" id="CharlotteRowan">
-              <div class="col-sm-3">
-                  <h3>Charlotte Rowan</h3>
-                  <h4 class="text-info">Sunday, 15<span class="subscript">th</span> March 2026</h4>
-                  <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-                  <!--              <p>Pre-concert performance from 2:45pm</p>-->
-                  <!--            <div id="buyticket-charlotterowan">-->
-                  <!--              <a type="button" class="btn btn-info btn-blocks"-->
-                  <!--                 href="https://wegottickets.com/event/678373/" target="_blank">Buy tickets</a>-->
-                  <!--              <p></p>-->
-                  <!--            </div>-->
-              </div>
-              <div class="col-sm-3">
-                  <img src="/image/2526/charlotte01-sm.jpg" alt="Charlotte Rowan picture"/>
-              </div>
-              <div class="col-sm-6">
-                  <p>From an early age, local lass Rowan (who attended Dollar Academy) has been captivating audiences with her dazzling
-                      virtuosity, commanding stage presence and imaginative spirit.
-                  </p>
-                  <p>Since graduating in 2012 from Peabody Conservatory of Music, USA, she has launched a career as a solo performer,
-                      and as a duo with long-established partner Charlotte Stevenson.
-                  </p>
-                  <p>She last played at Dollar in 2020, and the memory of that powerful and passionate performance lingers.
-                      We are very much looking forward to her return to Dollar!
-                  </p>
-                  <p><span class="fa fa-quote-left"></span>
-                      <i>A breathtaking recital. I was advised to get my programme signed for posterity, and wish I had</i>
-                      <span class="fa fa-quote-right"></span> – Stirling
-                  </p>
-                  <p><span class="fa fa-quote-left"></span>
-                      <i>The sheer virtuosity of her playing - speed, range of technique, mood - was amazing. You truly gave us a concert to
-                          remember. Such an amazing performance</i>
-                      <span class="fa fa-quote-right"></span> – Crail</p>
-                  <p><a href="/season/2526/Programme-260315-CharlotteRowan.pdf" target="_blank">Concert programme</a></p>
-                  <p><a href="https://charlotterowan.com/" target="_blank">More about Charlotte Rowan</a></p>
-              </div>
-          </li>
+        <li class="clearfix list-group-item dms-list-item" id="Dauntless">
+            <div class="col-sm-3">
+                <h3>Dauntless</h3>
+                <h4 class="text-info">Sunday, 14<span class="subscript">th</span> March 2027</h4>
+                <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+                <!--<p>Pre-concert performance from 2:45pm</p>-->
+                <div id="buyticket-dauntless">
+                  <a type="button" class="btn btn-info btn-blocks"
+                     href="https://wegottickets.com/f/27465" target="_blank">Buy tickets</a>
+                  <p></p>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <img src="/image/2627/dauntless-4-240.jpg" alt="Image of Dauntless band"/>
+            </div>
+            <div class="col-sm-6">
+                <p>Dauntless are a Scottish traditional music trio, winners of the Battle of the Folk Bands at Celtic Connections 2025.
+                  They combine 18th-century fiddle music with original compositions to create a unique listening experience.
+                  Their repertoire ranges from energetic foot-stomping tunes to thoughtful, melodic pieces that will enchant any audience.
+                </p>
+                <p>The Trio's name comes from their approach - blending older traditional tunes and forms and contemporary arrangements without fear!
+                </p>
+                <p>Featuring fiddle, cello, bodhran & octave-mandolin, their programmes dig deep into the rich history of Scottish Music, alongside their own work.
+                </p>
+                <!--<p><a href="/season/2627/Programme-270314-Dauntless.pdf" target="_blank">Concert programme</a></p> -->
+                <p><a href="https://www.facebook.com/people/Dauntless-Band/61568350988319/" target="_blank">More about Dauntless Trio</a></p>
+                <p><a href="https://dauntlesstrad.bandcamp.com/track/corrie-man" target="_blank">Listen to Dauntless Trio reinterpret a traditional tune in 7/8 time!</a></p>
+            </div>
+        </li>
 
       </ul>
     </div>
   </div>
 
+<!--
+  <div id="PrevConcert" class="row">
+    <div class="col-sm-12">
+      <h3 class="text-info">Previous concerts</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <ul class="list-group">
+
+      </ul>
+    </div>
+  </div>
+-->
 </div>
 
 <?php require "footer.php"; ?>

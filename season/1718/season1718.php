@@ -22,7 +22,7 @@ htmlHead($title);
     <div class="row page-header">
         <div class="col-sm-12">
             <a href="DMS-Leaflet-2017-18.pdf" target="_blank">View</a>
-            the full programme for the current season [PDF 7.7MB] <a
+            the full programme for the 2017-18 season [PDF 7.7MB] <a
                     href="DMS-Leaflet-2017-18.pdf" target="_blank"><img
                         src="../../image/pdf.jpeg"/></a>
         </div>
@@ -84,11 +84,6 @@ htmlHead($title);
                         <p>7:30pm Gibson Hall, Dollar Academy <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                                                <div id="buytickettl">
-                                                    <a type="button" class="btn btn-info btn-blocks"
-                                                       href="http://www.wegottickets.com/event/417691"
-                                                       target="_blank">Buy tickets</a>
-                                                </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1718/tasminlittle-sm.jpg"/>

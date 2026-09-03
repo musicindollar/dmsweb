@@ -22,7 +22,7 @@ htmlHead($title);
     <div class="row page-header">
         <div class="col-sm-12">
             <a href="DMS-Leaflet-2016-17.pdf" target="_blank">View</a>
-            the full programme for the current season [PDF 3.5MB] <a
+            the full programme for the 2016-17 season [PDF 3.5MB] <a
                     href="DMS-Leaflet-2016-17.pdf" target="_blank"><img
                         src="../../image/pdf.jpeg"/></a>
         </div>

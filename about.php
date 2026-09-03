@@ -46,7 +46,7 @@ htmlHead($title);
         member, including:
       <p>
       <ul>
-        <li>Discount of 33&#37; on all concerts</li>
+        <li>Large discount on all concerts</li>
         <li>Priority booking for other events</li>
         <li>Free entry to the Open Evening concert</li>
         <li>Satisfaction of supporting us to bring the best music to Dollar</li>
@@ -115,16 +115,9 @@ htmlHead($title);
   <div class="row">
     <div class="col-sm-4">
       <p>
-        <a href="https://www.chambermusicscotland.com/" target="_blank"><img
-            src="image/logo/chamber-music-scotland-logo.svg" alt="Chamber Music Scotland logo"/>
-          <p>Chamber Music Scotland</p></a>
-      </p>
-    </div>
-    <div class="col-sm-4">
-      <p>
-        <a href="http://www.creativescotland.com" target="_blank"><img
-            src="image/logo/Creative_Scotland_bw-sm.png" alt="Creative Scotland logo"/>
-          <p>Creative Scotland</p></a>
+        <a href="https://dollaracademy.org.uk/" target="_blank"><img
+            src="image/logo/dollaracademy.png" alt="Dollar Academy logo" width="100"/>
+          <p>Dollar Academy</p></a>
       </p>
     </div>
   </div>
@@ -170,6 +163,25 @@ htmlHead($title);
       </p>
     </div>
   </div>
+
+<!--
+  </div>
+    <div class="col-sm-4">
+      <p>
+        <a href="https://www.chambermusicscotland.com/" target="_blank"><img
+            src="image/logo/chamber-music-scotland-logo.svg" alt="Chamber Music Scotland logo"/>
+          <p>Chamber Music Scotland</p></a>
+      </p>
+    </div>
+    <div class="col-sm-4">
+      <p>
+        <a href="http://www.creativescotland.com" target="_blank"><img
+            src="image/logo/Creative_Scotland_bw-sm.png" alt="Creative Scotland logo"/>
+          <p>Creative Scotland</p></a>
+      </p>
+    </div>
+  </div>
+-->
 
   <?php require "footer.php"; ?>
 

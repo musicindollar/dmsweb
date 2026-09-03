@@ -22,7 +22,7 @@ htmlHead($title);
     <div class="row page-header">
         <div class="col-sm-12">
             <a href="DMS-Leaflet-2018-19.pdf" target="_blank">View</a>
-            the full programme for the current season [PDF 2.6Mb] <a
+            the full programme for the 2018-19 season [PDF 2.6Mb] <a
                     href="DMS-Leaflet-2018-19.pdf" target="_blank"><img
                         src="../../image/pdf.jpeg"/></a>
         </div>
@@ -41,12 +41,6 @@ htmlHead($title);
                         <p>7:30pm Gibson Hall, Dollar <a
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
-                        <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-                        <!--                            <div id="buyticketroseroom">-->
-                        <!--                                <a type="button" class="btn btn-info btn-blocks"-->
-                        <!--                                   href="https://www.wegottickets.com/event/447829"-->
-                        <!--                                   target="_blank">Buy tickets</a>-->
-                        <!--                            </div>-->
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1819/roseroom-1-sm.jpg"/>
@@ -88,11 +82,6 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                        <p>Pre-concert performance from 7:15pm</p>-->
-                        <div id="buyticketdanielciobanu">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/447831"
-                               target="_blank">Buy tickets</a>
-                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1819/Daniel-Ciobanu-sm.jpg"/>
@@ -135,11 +124,6 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <div id="buyticketaymanjarjour">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/447833"
-                               target="_blank">Buy tickets</a>
-                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1819/AymanJarjour-sm.jpg"/>
@@ -181,11 +165,6 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <div id="buyticketemilymitchell">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/447835"
-                               target="_blank">Buy tickets</a>
-                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1819/emilymitchell-2-sm.jpg"/>
@@ -230,11 +209,6 @@ htmlHead($title);
                                     href="https://www.google.co.uk/maps/place/Dollar+Academy/@56.1652588,-3.6761852,17z/data=!3m1!4b1!4m5!3m4!1s0x48862aa7490a4397:0x8adbca915a555cda!8m2!3d56.1652588!4d-3.6739965">FK14
                                 7DU</a></p>
                         <!--                            <p>Pre-concert performance from 7:15pm</p>-->
-                        <div id="buytickettl">
-                            <a type="button" class="btn btn-info btn-blocks"
-                               href="https://www.wegottickets.com/event/447837"
-                               target="_blank">Buy tickets</a>
-                        </div>
                     </div>
                     <div class="col-sm-3">
                         <img src="/image/1819/alastairsavage-sm.jpg"/>
