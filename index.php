@@ -27,22 +27,6 @@ htmlHead($title);
           </div>
           <div class="panel-body">
             <p></p>
-            <!--                        <p><img src="image/2324/harvest-sm.png"></img> Tony Baldwin <a href="season/2324/Harvest 1_10_23.pdf" target="_blank">will perform an organ recital in Dollar Parish Church</a> on Sunday 1st October, as part of the Celebration of Harvest.-->
-            <!--                        </p>-->
-            <!--                        <p><span class="fa fa-thumbs-o-up"></span> Well done to all students who took part in the Piano Day! A great variety of pieces and styles, and very enjoyable afternoon.-->
-            <!--                        </p>-->
-            <!--                        <p><span class="fa fa-user"></span> Come and Sing was great fun!-->
-            <!--                            Led by the warm, engaging and amazing voice of expert tutor Brian McBride, we learned to sing a couple of musical theatre songs:-->
-            <!--                            Age of Aquarius and Good Morning Baltimore.-->
-            <!--                        </p>-->
-            <!--                        <p><span class="fa fa-coffee"></span> The annual Coffee Morning is planned for Saturday 21st-->
-            <!--                            September @10:00, in the Burnside Hall as usual.-->
-            <!--                            This is our usual season opener and a great way to sample sounds from the season's artists-->
-            <!--                            alongside home baking, games and chat.-->
-            <!--                            Come along and hear what's upcoming!-->
-            <!--                            Free complimentary tickets given for all Season Tickets bought before the opening concert,-->
-            <!--                            so treat friends and family to a free concert.-->
-            <!--                        </p>-->
             <p><span class="fa fa-calendar"></span> The new season is unveiled! Another fantastic range of high quality musicians and styles.
             </p>
             <p><span class="fa fa-music"></span> Our next event is the Season Opener.
@@ -55,10 +39,6 @@ htmlHead($title);
             <p><span class="fa fa-envelope-o">&nbsp;</span> Like something, got a suggestion? Please <a
                 href="contact.php">drop us a note online</a>, or on
               <a href="https://www.facebook.com/MusicInDollar" target="_blank">Facebook</a>
-              <!--                  <a href="https://twitter.com/MusicInDollar" target="_blank">Twitter</a>.</p>-->
-              <!--                        <p><span class="fa fa-ticket">&nbsp;</span>It&#39;s not too late to take out a membership and-->
-              <!--                            save on this season&#39;s programme. Basic membership let&#39;s you pick and choose your-->
-              <!--                            concerts, at a cheaper price. And it helps Music in Dollar too.</p>-->
           </div>
         </div>
       </div>
@@ -116,8 +96,8 @@ htmlHead($title);
               Cost at the door for a single concert is &#163;14, students in full-time education admitted free of charge.</p>
             <p>Season Tickets provide entry to all concerts in the season. Cost is &#163;45, that's only &#163;7.50
               per concert, unbeatable value!
-              Buy at the <a href="#SeasonOpener">Season Opener</a> (and get free complimentary tickets), on the door at a concert, or <a
-                href="contact.php">contact us</a>.</p>
+              Buy at the <a href="#SeasonOpener">Season Opener</a> (and get free complimentary tickets), on the door at a concert,
+              <a href="https://wegottickets.com/f/27426" target="_blank">online</a>, or <a href="contact.php">contact us</a>.</p>
             <p>If you prefer to use a bank transfer, then <a href="contact.php">contact us</a> to request bank details.</p>
             <div id="buyseasonticket">
               <a type="button" class="btn btn-info btn-blocks"
