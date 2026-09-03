@@ -183,7 +183,7 @@ htmlHead($title);
         <li class="clearfix list-group-item dms-list-item" id="DanielCiobanu">
           <div class="col-sm-3">
             <h3>Daniel Ciobanu</h3>
-            <h4 class="text-info">Saunday, 25<span class="subscript">th</span> October 2026</h4>
+            <h4 class="text-info">Sunday, 25<span class="subscript">th</span> October 2026</h4>
             <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
             <!--              <p>Pre-concert performance from 7:15pm</p>-->
             <div id="buyticket-danielciobanu">
