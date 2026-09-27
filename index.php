@@ -97,7 +97,7 @@ htmlHead($title);
             <p>Season Tickets provide entry to all concerts in the season. Cost is &#163;45, that's only &#163;7.50
               per concert, unbeatable value!
               Buy at the <a href="#SeasonOpener">Season Opener</a> (and get free complimentary tickets), on the door at a concert,
-              <a href="https://wegottickets.com/f/27426" target="_blank">online</a>, or <a href="contact.php">contact us</a>.</p>
+              <a href="https://wegottickets.com/f/29189" target="_blank">online</a>, or <a href="contact.php">contact us</a>.</p>
             <p>If you prefer to use a bank transfer, then <a href="contact.php">contact us</a> to request bank details.</p>
             <div id="buyseasonticket">
               <a type="button" class="btn btn-info btn-blocks"
@@ -116,46 +116,7 @@ htmlHead($title);
       <h3 class="text-info">Next event</h3>
       <ul class="list-group">
 
-        <li class="clearfix list-group-item dms-list-item-next" id="SeasonOpener">
-          <div class="col-sm-3">
-            <h3>Season Opener - Music on Sunday Afternoon</h3>
-            <p class="specialhilite italic">Free of charge - all welcome</p>
-            <h4 class="text-info">Sunday, 13<span class="subscript">th</span> September 2026</h4>
-            <p>3:00pm <a href="https://maps.app.goo.gl/qYBJHMSLHWBZufWM9">Maguire Building, Dollar Academy FK14 7DU</a></p>
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2526/openafternoon-240.png" alt="Open afternoon picture"/>
-          </div>
-          <div class="col-sm-6">
-            <p>We're repeating last year's successful format, of a relaxed community concert to open the new season.</p>
-            <p>Combining music from Dollar Academy students in a variety of styles, there is a range of drinks with raffle, games and stalls.
-              There will be something for everyone - enjoy music, wine, chat and games in a relaxed cabaret-style setting.
-            </p>
-            <p>Drinks and refreshments are supplied. Come along, bring your friends, enjoy!</p>
-            <p>Season and Basic memberships will be on sale. As a bonus for buying early and beating the rush at the first
-              concert, every Season membership comes with free complimentary tickets. Treat your friends and family!
-            </p>
-            <p><i>Note that this is in the Maguire Building, Dollar Academy, not the usual Gibson Hall where we stage concerts.
-                It is a magnificent modern building (2005) in the grounds of Dollar Academy,
-                around 200 yards from the main school building (<a href="https://maps.app.goo.gl/qYBJHMSLHWBZufWM9">link to
-                  map</a>), and close to the sports pavilion. Signs directing you to it will be in place.</i></p>
-          </div>
-        </li>
-
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-sm-12">
-      <h3 class="text-info">Still to come</h3>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-12">
-      <ul class="list-group">
-
-        <li class="clearfix list-group-item dms-list-item" id="WePlayPiano1">
+        <li class="clearfix list-group-item dms-list-item-next" id="WePlayPiano1">
           <div class="col-sm-3">
             <h3>We Play Piano</h3>
             <p class="specialhilite italic">Free of charge - all welcome</p>
@@ -179,6 +140,19 @@ htmlHead($title);
             <p>Refreshments will be provided.</p>
           </div>
         </li>
+
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h3 class="text-info">Still to come</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <ul class="list-group">
 
         <li class="clearfix list-group-item dms-list-item" id="DanielCiobanu">
           <div class="col-sm-3">
@@ -428,7 +402,6 @@ htmlHead($title);
     </div>
   </div>
 
-<!--
   <div id="PrevConcert" class="row">
     <div class="col-sm-12">
       <h3 class="text-info">Previous concerts</h3>
@@ -438,10 +411,35 @@ htmlHead($title);
     <div class="col-sm-12">
       <ul class="list-group">
 
+        <li class="clearfix list-group-item dms-list-item-prev" id="SeasonOpener">
+          <div class="col-sm-3">
+            <h3>Season Opener - Music on Sunday Afternoon</h3>
+            <p class="specialhilite italic">Free of charge - all welcome</p>
+            <h4 class="text-info">Sunday, 13<span class="subscript">th</span> September 2026</h4>
+            <p>3:00pm <a href="https://maps.app.goo.gl/qYBJHMSLHWBZufWM9">Maguire Building, Dollar Academy FK14 7DU</a></p>
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/2526/openafternoon-240.png" alt="Open afternoon picture"/>
+          </div>
+          <div class="col-sm-6">
+            <p>We're repeating last year's successful format, of a relaxed community concert to open the new season.</p>
+            <p>Combining music from Dollar Academy students in a variety of styles, there is a range of drinks with raffle, games and stalls.
+              There will be something for everyone - enjoy music, wine, chat and games in a relaxed cabaret-style setting.
+            </p>
+            <p>Drinks and refreshments are supplied. Come along, bring your friends, enjoy!</p>
+            <p>Season and Basic memberships will be on sale. As a bonus for buying early and beating the rush at the first
+              concert, every Season membership comes with free complimentary tickets. Treat your friends and family!
+            </p>
+            <p><i>Note that this is in the Maguire Building, Dollar Academy, not the usual Gibson Hall where we stage concerts.
+                It is a magnificent modern building (2005) in the grounds of Dollar Academy,
+                around 200 yards from the main school building (<a href="https://maps.app.goo.gl/qYBJHMSLHWBZufWM9">link to
+                  map</a>), and close to the sports pavilion. Signs directing you to it will be in place.</i></p>
+          </div>
+        </li>
+
       </ul>
     </div>
   </div>
--->
 </div>
 
 <?php require "footer.php"; ?>
