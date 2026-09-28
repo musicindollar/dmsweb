@@ -26,13 +26,13 @@ htmlHead($title);
             <h4 class="text-info">News</h4>
           </div>
           <div class="panel-body">
+            <p><span class="fa fa-music"></span> First concert of the season is the dynamic and increasingly famous pianist <a href="#DanielCiobanu">Daniel Ciobanu</a>.
+              He first played for us in Dollar shortly after graduating from RCS in Glasgow, and made a huge impression with precision, passion and a mighty sound.
+              After a stellar rise in the concert pianist world, he's back for a short tour in Scotland, and we are
+              privileged to have him play in Dollar again. Come along to this, it will be electric!
+            </p>
             <p></p>
             <p><span class="fa fa-calendar"></span> The new season is unveiled! Another fantastic range of high quality musicians and styles.
-            </p>
-            <p><span class="fa fa-music"></span> Our next event is the Season Opener.
-            Sticking with the successful format of last year, Dollar Academy students will play and sing for us in a variety of styles.
-            This is a completely free community event, open to all.
-            In the relaxed setting of the Captain's Room, Dollar Academy, come along and enjoy a drink of two of your choice while taking in some inspiring music.
             </p>
             <p><span class="fa fa-gbp"></span> We've had to increase some prices this season. Still the best value around, only &#163;7.50 per concert with a season ticket!
             </p>
@@ -101,7 +101,7 @@ htmlHead($title);
             <p>If you prefer to use a bank transfer, then <a href="contact.php">contact us</a> to request bank details.</p>
             <div id="buyseasonticket">
               <a type="button" class="btn btn-info btn-blocks"
-                 href="https://wegottickets.com/f/27426" target="_blank">Buy season tickets
+                 href="https://wegottickets.com/f/29189" target="_blank">Buy season tickets
               </a>
             </div>
           </div>
@@ -116,45 +116,7 @@ htmlHead($title);
       <h3 class="text-info">Next event</h3>
       <ul class="list-group">
 
-        <li class="clearfix list-group-item dms-list-item-next" id="WePlayPiano1">
-          <div class="col-sm-3">
-            <h3>We Play Piano</h3>
-            <p class="specialhilite italic">Free of charge - all welcome</p>
-            <h4 class="text-info">Sunday, 27<span class="subscript">th</span> September 2026</h4>
-            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
-          </div>
-          <div class="col-sm-6">
-            <p>By popular demand, Music in Dollar are hosting another piano performance afternoon, <b>We Play Piano</b>.
-              See the <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
-            </p>
-            <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
-              to play for family and friends, with a supportive and encouraging audience.
-            </p>
-            <p>It showcases young courageous pianists who are dedicated to performance.
-              Skill levels range from intermediate to near-professional RCS students.
-              Come and join us for what will be an inspirational afternoon of young talent!
-            </p>
-            <p>Refreshments will be provided.</p>
-          </div>
-        </li>
-
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-sm-12">
-      <h3 class="text-info">Still to come</h3>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-12">
-      <ul class="list-group">
-
-        <li class="clearfix list-group-item dms-list-item" id="DanielCiobanu">
+        <li class="clearfix list-group-item dms-list-item-next" id="DanielCiobanu">
           <div class="col-sm-3">
             <h3>Daniel Ciobanu</h3>
             <h4 class="text-info">Sunday, 25<span class="subscript">th</span> October 2026</h4>
@@ -198,6 +160,19 @@ htmlHead($title);
             </p>
           </div>
         </li>
+
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h3 class="text-info">Still to come</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <ul class="list-group">
 
         <li class="clearfix list-group-item dms-list-item" id="TesseraStringQuartet">
           <div class="col-sm-3">
@@ -404,7 +379,7 @@ htmlHead($title);
 
   <div id="PrevConcert" class="row">
     <div class="col-sm-12">
-      <h3 class="text-info">Previous concerts</h3>
+      <h3 class="text-info">Previous events</h3>
     </div>
   </div>
   <div class="row">
@@ -434,6 +409,31 @@ htmlHead($title);
                 It is a magnificent modern building (2005) in the grounds of Dollar Academy,
                 around 200 yards from the main school building (<a href="https://maps.app.goo.gl/qYBJHMSLHWBZufWM9">link to
                   map</a>), and close to the sports pavilion. Signs directing you to it will be in place.</i></p>
+          </div>
+        </li>
+
+        <li class="clearfix list-group-item dms-list-item-prev" id="WePlayPiano1">
+          <div class="col-sm-3">
+            <h3>We Play Piano</h3>
+            <p class="specialhilite italic">Free of charge - all welcome</p>
+            <h4 class="text-info">Sunday, 27<span class="subscript">th</span> September 2026</h4>
+            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
+          </div>
+          <div class="col-sm-6">
+            <p>By popular demand, Music in Dollar are hosting another piano performance afternoon, <b>We Play Piano</b>.
+              See the <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
+            </p>
+            <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
+              to play for family and friends, with a supportive and encouraging audience.
+            </p>
+            <p>It showcases young courageous pianists who are dedicated to performance.
+              Skill levels range from intermediate to near-professional RCS students.
+              Come and join us for what will be an inspirational afternoon of young talent!
+            </p>
+            <p>Refreshments will be provided.</p>
           </div>
         </li>
 
