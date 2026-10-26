@@ -26,15 +26,15 @@ htmlHead($title);
             <h4 class="text-info">News</h4>
           </div>
           <div class="panel-body">
-            <p><span class="fa fa-music"></span> First concert of the season is the dynamic and increasingly famous pianist <a href="#DanielCiobanu">Daniel Ciobanu</a>.
-              He first played for us in Dollar shortly after graduating from RCS in Glasgow, and made a huge impression with precision, passion and a mighty sound.
-              After a stellar rise in the concert pianist world, he's back for a short tour in Scotland, and we are
-              privileged to have him play in Dollar again. Come along to this, it will be electric!
-            </p>
+            <p><span class="fa fa-heart"></span> <a href="#DanielCiobanu">Daniel Ciobanu</a> was stunning, what a sound! Easy to see why he
+              has become so sought-after on the international circuit.
+              Thanks to everyone who braved the strong wind to hear such a fabulous show of advanced piano and musical mastery.
             <p></p>
-            <p><span class="fa fa-calendar"></span> The new season is unveiled! Another fantastic range of high quality musicians and styles.
-            </p>
-            <p><span class="fa fa-gbp"></span> We've had to increase some prices this season. Still the best value around, only &#163;7.50 per concert with a season ticket!
+<!--            <p><span class="fa fa-calendar"></span> The new season is unveiled! Another fantastic range of high quality musicians and-->
+<!--              styles.-->
+<!--            </p>-->
+            <p><span class="fa fa-gbp"></span> We've had to increase some prices this season. Still the best value around, only &#163;7.50
+              per concert with a season ticket!
             </p>
             <p><span class="fa fa-envelope-o">&nbsp;</span> Like something, got a suggestion? Please <a
                 href="contact.php">drop us a note online</a>, or on
@@ -116,65 +116,7 @@ htmlHead($title);
       <h3 class="text-info">Next event</h3>
       <ul class="list-group">
 
-        <li class="clearfix list-group-item dms-list-item-next" id="DanielCiobanu">
-          <div class="col-sm-3">
-            <h3>Daniel Ciobanu</h3>
-            <h4 class="text-info">Sunday, 25<span class="subscript">th</span> October 2026</h4>
-            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-            <!--              <p>Pre-concert performance from 7:15pm</p>-->
-            <div id="buyticket-danielciobanu">
-              <a type="button" class="btn btn-info btn-blocks"
-                 href="https://wegottickets.com/f/27425" target="_blank">Buy tickets
-              </a>
-              <p></p>
-            </div>
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/1819/Daniel-Ciobanu-sm.jpg" alt="Image of Daniel Ciobanu"/>
-          </div>
-          <div class="col-sm-6">
-            <p>The memory of Romanian pianist Daniel Ciobanu’s previous concert in Dollar is still vivid,
-              in particular his epic, passionate performance of Pictures at an Exhibition.
-              Since 2018 Daniel has developed into an established global star, with rave reviews for live performances,
-              both solo and with orchestras, and recordings.
-            </p>
-            <p>He has played on many of the world's big stages, from Carnegie Hall New York, to Concertgebouw Amsterdam and KonzertHaus Berlin,
-              and with some of the world's premier orchestras.</p>
-            <p>Daniel retains a deep love of Scotland, where he trained,
-              and we are privileged to have him play again for us in Dollar.
-              His <i>l’enfant terrible</i> programme spans Bach, Mozart, Liszt, Prokofiev and more. Not to be missed!
-            </p>
-            <p><span class="fa fa-quote-left"></span><i>Ciobanu, the perfect pianist to pull of a work of astonishing energy and passion.
-              To watch him in action is truly mesmerising, as he brings to life the pace and sheer aggression of the work
-              [Prokofiev's 3rd Piano Concerto, with the Royal Philharmonic Orchestra] as it builds to a crashing finale.
-              To then be treated to an amusing and varied performance, showcasing his range of talents to the full, was the icing on the cake.</i>
-              <span class="fa fa-quote-right"></span> – Karl Hornsey
-            </p>
-            <p><span class="fa fa-quote-left"></span><i>The solo part was played by the phenomenal Romanian pianist Daniel Ciobanu
-              with vitalism of his style, wonderful technique, the pouring, albeit controlled lyricism and a great sense of swing style.</i>
-              <span class="fa fa-quote-right"></span> – Michael Klubinski - Beethoven Easter Festival Warsaw Philharmonic
-            </p>
-            <!--<p><a href="/season/2627/Programme-261025-DanielCiobanu.pdf" target="_blank">Concert programme</a></p> -->
-            <p><a href="https://www.danielciobanu.com/" target="_blank">
-               More about Daniel Ciobanu</a>
-            </p>
-          </div>
-        </li>
-
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-sm-12">
-      <h3 class="text-info">Still to come</h3>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-12">
-      <ul class="list-group">
-
-        <li class="clearfix list-group-item dms-list-item" id="TesseraStringQuartet">
+        <li class="clearfix list-group-item dms-list-item-next" id="TesseraStringQuartet">
           <div class="col-sm-3">
             <h3>Tessera String Quartet</h3>
             <h4 class="text-info">
@@ -193,22 +135,38 @@ htmlHead($title);
             <img src="/image/2627/tesseraquartet-1-sm.png" alt="Image of Tessera String Quartet"/>
           </div>
           <div class="col-sm-6">
-            <p>Since 2025 the Tessera Quartet has been promoting the goal to make classical and chamber music more accessible, engaging, and personal.
-              Comprising musicians from RCS and Northern College of Music, they have a shared passion for the living tradition of chamber music,
+            <p>Since 2025 the Tessera Quartet has been promoting the goal to make classical and chamber music more accessible, engaging, and
+              personal.
+              Comprising musicians from RCS and Northern College of Music, they have a shared passion for the living tradition of chamber
+              music,
               while extending the boundaries of performance and repertoire. For example, concerts by candlelight!
             </p>
             <p>The varied programme will interweave favourites like Dvorak's “American” Quartet, with some hidden gems.
             </p>
             <p>The word <i>tessera</i> suggests a small piece within a larger mosaic.
-            For the quartet, it reflects the way four individual musical voices come together to form something complete, detailed, and alive,
-            making every performance a warm and engaging experience.
+              For the quartet, it reflects the way four individual musical voices come together to form something complete, detailed, and
+              alive,
+              making every performance a warm and engaging experience.
             </p>
             <!--<p><a href="/season/2627/Programme-261115-TesseraQuartet.pdf" target="_blank">Concert programme</a></p> -->
             <p><a href="https://tesseraquartet.co.uk/" target="_blank">
-               More about Tessera Quartet</a>
+                More about Tessera Quartet</a>
             </p>
           </div>
         </li>
+
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12">
+      <h3 class="text-info">Still to come</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <ul class="list-group">
 
         <li class="clearfix list-group-item dms-list-item" id="NewFocus">
           <div class="col-sm-3">
@@ -227,20 +185,23 @@ htmlHead($title);
             <img src="/image/2627/New-Focus-1-240.jpg" alt="Image of New Focus duo"/>
           </div>
           <div class="col-sm-6">
-            <p>Award-winning piano-saxophone duo Euan Stevenson and Konrad Wiszniewski explore the relationship between classical music and jazz.
+            <p>Award-winning piano-saxophone duo Euan Stevenson and Konrad Wiszniewski explore the relationship between classical music and
+              jazz.
             </p>
             <p>Ranging from jazz improvisation on a Bach theme, to playing a Duke Ellington standard
               in the style of a Mozart sonata, each piece fascinates, delights and educates!
               Stevenson is a well established composer, performer and teacher (including our own Fergus McCreadie).
-              Wiszniewski is one of the Scottish National Jazz Orchestra’s star soloists and twice winner of the Best Instrumentalist title at the Scottish Jazz Awards.
+              Wiszniewski is one of the Scottish National Jazz Orchestra’s star soloists and twice winner of the Best Instrumentalist title
+              at the Scottish Jazz Awards.
             </p>
             <p>With rave reviews from around Scotland, New Focus is forging a unique and imaginative sound.
             </p>
             <p><span class="fa fa-quote-left"></span><i>Concise, hauntingly original pieces</i>
               <span class="fa fa-quote-right"></span> – The Sunday Times</p>
-            <p><span class="fa fa-quote-left"></span><i>It’s all about class and quality: Stevenson has a beautiful touch, caressing the keys Bill Evans-style but rhythmically perfect too…</i>
+            <p><span class="fa fa-quote-left"></span><i>It’s all about class and quality: Stevenson has a beautiful touch, caressing the
+                keys Bill Evans-style but rhythmically perfect too…</i>
               <span class="fa fa-quote-right"></span> – Jazzwise Magazine</p>
-             <!--<p><a href="/season/2526/Programme-270110-NewFocus.pdf" target="_blank">Concert programme</a></p> -->
+            <!--<p><a href="/season/2526/Programme-270110-NewFocus.pdf" target="_blank">Concert programme</a></p> -->
             <p><a href="https://www.euanstevenson.com/new-focus" target="_blank">More about New Focus</a></p>
           </div>
         </li>
@@ -267,41 +228,43 @@ htmlHead($title);
               such as Oswald, Erskine and McGibbon.
             </p>
             <p>The name <i>Cromlit's Lilt</i> comes from the slow air written by Scottish composer James Oswald, published in 1760.</p>
-            <p><span class="fa fa-quote-left"></span><i>Rarely have I heard baroque masterpieces played with so much flair and enthusiasm</i>
+            <p><span class="fa fa-quote-left"></span><i>Rarely have I heard baroque masterpieces played with so much flair and
+                enthusiasm</i>
               <!--<span class="fa fa-quote-right"></span> – xxx -->
             </p>
             <!--<p><a href="/season/2627/Programme-270131-CromlitsLilt.pdf" target="_blank">Concert programme</a></p> -->
-            <p><a href="https://www.facebook.com/people/Cromlits-Lilt/100041636506213/" target="_blank">More about the Cromlit's Lilt</a></p>
+            <p><a href="https://www.facebook.com/people/Cromlits-Lilt/100041636506213/" target="_blank">More about the Cromlit's Lilt</a>
+            </p>
           </div>
         </li>
 
-<!--
-        <li class="clearfix list-group-item dms-list-item" id="WePlayPiano2">
-          <div class="col-sm-3">
-            <h3>We Play Piano Feb 26</h3>
-            <p class="specialhilite italic">Free of charge - all welcome</p>
-            <h4 class="text-info">Sunday, 22<span class="subscript">nd</span> February 2026</h4>
-            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-          </div>
-          <div class="col-sm-3">
-            <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
-          </div>
-          <div class="col-sm-6">
-            <p>By popular demand, we have scheduled another piano performance afternoon, <b>We Play Piano</b>.
-              See the <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
-            </p>
-            <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
-              to play for family and friends, with a supportive and encouraging audience.
-            </p>
-            <p>It showcases young courageous pianists who are dedicated to performance.
-              Come and join us for what will be an inspirational afternoon of young talent!
-            </p>
-            <p>Several advanced students from the RCS are playing in this event. Hear the stars of the future!
-            </p>
-            <p>Refreshments will be provided.</p>
-          </div>
-        </li>
--->
+        <!--
+                <li class="clearfix list-group-item dms-list-item" id="WePlayPiano2">
+                  <div class="col-sm-3">
+                    <h3>We Play Piano Feb 26</h3>
+                    <p class="specialhilite italic">Free of charge - all welcome</p>
+                    <h4 class="text-info">Sunday, 22<span class="subscript">nd</span> February 2026</h4>
+                    <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+                  </div>
+                  <div class="col-sm-3">
+                    <img src="/image/2122/piano-keyboardangle-240.jpg" alt="Image of piano keyboard"/>
+                  </div>
+                  <div class="col-sm-6">
+                    <p>By popular demand, we have scheduled another piano performance afternoon, <b>We Play Piano</b>.
+                      See the <a href="season/2324/WEPLAYPIANO-info.pdf" target="_blank">accompanying information</a>.
+                    </p>
+                    <p>This is an afternoon for young pianists ages 5-18, of all abilities and all styles,
+                      to play for family and friends, with a supportive and encouraging audience.
+                    </p>
+                    <p>It showcases young courageous pianists who are dedicated to performance.
+                      Come and join us for what will be an inspirational afternoon of young talent!
+                    </p>
+                    <p>Several advanced students from the RCS are playing in this event. Hear the stars of the future!
+                    </p>
+                    <p>Refreshments will be provided.</p>
+                  </div>
+                </li>
+        -->
         <li class="clearfix list-group-item dms-list-item" id="RogersHammerstein">
           <div class="col-sm-3">
             <h3>Celebrate! Rogers & Hammerstein</h3>
@@ -339,38 +302,42 @@ htmlHead($title);
               <span class="fa fa-quote-right"></span> – Isle of Bute News
             </p>
             <!--<p><a href="/season/2627/Programme-270221-RogersHammerstein.pdf" target="_blank">Concert programme</a></p> -->
-            <p><a href="https://www.classicalmusiciansscotland.com/artists/celebrating-irving-berlin/" target="_blank">More about Celebrate!</a></p>
+            <p><a href="https://www.classicalmusiciansscotland.com/artists/celebrating-irving-berlin/" target="_blank">More about
+                Celebrate!</a></p>
           </div>
         </li>
 
         <li class="clearfix list-group-item dms-list-item" id="Dauntless">
-            <div class="col-sm-3">
-                <h3>Dauntless</h3>
-                <h4 class="text-info">Sunday, 14<span class="subscript">th</span> March 2027</h4>
-                <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
-                <!--<p>Pre-concert performance from 2:45pm</p>-->
-                <div id="buyticket-dauntless">
-                  <a type="button" class="btn btn-info btn-blocks"
-                     href="https://wegottickets.com/f/27465" target="_blank">Buy tickets</a>
-                  <p></p>
-                </div>
+          <div class="col-sm-3">
+            <h3>Dauntless</h3>
+            <h4 class="text-info">Sunday, 14<span class="subscript">th</span> March 2027</h4>
+            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+            <!--<p>Pre-concert performance from 2:45pm</p>-->
+            <div id="buyticket-dauntless">
+              <a type="button" class="btn btn-info btn-blocks"
+                 href="https://wegottickets.com/f/27465" target="_blank">Buy tickets</a>
+              <p></p>
             </div>
-            <div class="col-sm-3">
-                <img src="/image/2627/dauntless-4-240.jpg" alt="Image of Dauntless band"/>
-            </div>
-            <div class="col-sm-6">
-                <p>Dauntless are a Scottish traditional music trio, winners of the Battle of the Folk Bands at Celtic Connections 2025.
-                  They combine 18th-century fiddle music with original compositions to create a unique listening experience.
-                  Their repertoire ranges from energetic foot-stomping tunes to thoughtful, melodic pieces that will enchant any audience.
-                </p>
-                <p>The Trio's name comes from their approach - blending older traditional tunes and forms and contemporary arrangements without fear!
-                </p>
-                <p>Featuring fiddle, cello, bodhran & octave-mandolin, their programmes dig deep into the rich history of Scottish Music, alongside their own work.
-                </p>
-                <!--<p><a href="/season/2627/Programme-270314-Dauntless.pdf" target="_blank">Concert programme</a></p> -->
-                <p><a href="https://www.facebook.com/people/Dauntless-Band/61568350988319/" target="_blank">More about Dauntless Trio</a></p>
-                <p><a href="https://dauntlesstrad.bandcamp.com/track/corrie-man" target="_blank">Listen to Dauntless Trio reinterpret a traditional tune in 7/8 time!</a></p>
-            </div>
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/2627/dauntless-4-240.jpg" alt="Image of Dauntless band"/>
+          </div>
+          <div class="col-sm-6">
+            <p>Dauntless are a Scottish traditional music trio, winners of the Battle of the Folk Bands at Celtic Connections 2025.
+              They combine 18th-century fiddle music with original compositions to create a unique listening experience.
+              Their repertoire ranges from energetic foot-stomping tunes to thoughtful, melodic pieces that will enchant any audience.
+            </p>
+            <p>The Trio's name comes from their approach - blending older traditional tunes and forms and contemporary arrangements without
+              fear!
+            </p>
+            <p>Featuring fiddle, cello, bodhran & octave-mandolin, their programmes dig deep into the rich history of Scottish Music,
+              alongside their own work.
+            </p>
+            <!--<p><a href="/season/2627/Programme-270314-Dauntless.pdf" target="_blank">Concert programme</a></p> -->
+            <p><a href="https://www.facebook.com/people/Dauntless-Band/61568350988319/" target="_blank">More about Dauntless Trio</a></p>
+            <p><a href="https://dauntlesstrad.bandcamp.com/track/corrie-man" target="_blank">Listen to Dauntless Trio reinterpret a
+                traditional tune in 7/8 time!</a></p>
+          </div>
         </li>
 
       </ul>
@@ -398,7 +365,8 @@ htmlHead($title);
           </div>
           <div class="col-sm-6">
             <p>We're repeating last year's successful format, of a relaxed community concert to open the new season.</p>
-            <p>Combining music from Dollar Academy students in a variety of styles, there is a range of drinks with raffle, games and stalls.
+            <p>Combining music from Dollar Academy students in a variety of styles, there is a range of drinks with raffle, games and
+              stalls.
               There will be something for everyone - enjoy music, wine, chat and games in a relaxed cabaret-style setting.
             </p>
             <p>Drinks and refreshments are supplied. Come along, bring your friends, enjoy!</p>
@@ -434,6 +402,54 @@ htmlHead($title);
               Come and join us for what will be an inspirational afternoon of young talent!
             </p>
             <p>Refreshments will be provided.</p>
+          </div>
+        </li>
+
+        <li class="clearfix list-group-item dms-list-item-prev" id="DanielCiobanu">
+          <div class="col-sm-3">
+            <h3>Daniel Ciobanu</h3>
+            <h4 class="text-info">Sunday, 25<span class="subscript">th</span> October 2026</h4>
+            <p>3:00pm Gibson Hall, Dollar <a href="https://maps.app.goo.gl/ZGZdA8GLVcdQeRT79">FK14 7DU</a></p>
+            <!--              <p>Pre-concert performance from 7:15pm</p>-->
+<!--            <div id="buyticket-danielciobanu">-->
+<!--              <a type="button" class="btn btn-info btn-blocks"-->
+<!--                 href="https://wegottickets.com/f/27425" target="_blank">Buy tickets-->
+<!--              </a>-->
+<!--              <p></p>-->
+<!--            </div>-->
+          </div>
+          <div class="col-sm-3">
+            <img src="/image/1819/Daniel-Ciobanu-sm.jpg" alt="Image of Daniel Ciobanu"/>
+          </div>
+          <div class="col-sm-6">
+            <p>The memory of Romanian pianist Daniel Ciobanu’s previous concert in Dollar is still vivid,
+              in particular his epic, passionate performance of Pictures at an Exhibition.
+              Since 2018 Daniel has developed into an established global star, with rave reviews for live performances,
+              both solo and with orchestras, and recordings.
+            </p>
+            <p>He has played on many of the world's big stages, from Carnegie Hall New York, to Concertgebouw Amsterdam and KonzertHaus
+              Berlin,
+              and with some of the world's premier orchestras.</p>
+            <p>Daniel retains a deep love of Scotland, where he trained,
+              and we are privileged to have him play again for us in Dollar.
+              His <i>l’enfant terrible</i> programme spans Bach, Mozart, Liszt, Prokofiev and more. Not to be missed!
+            </p>
+            <p><span class="fa fa-quote-left"></span><i>Ciobanu, the perfect pianist to pull of a work of astonishing energy and passion.
+                To watch him in action is truly mesmerising, as he brings to life the pace and sheer aggression of the work
+                [Prokofiev's 3rd Piano Concerto, with the Royal Philharmonic Orchestra] as it builds to a crashing finale.
+                To then be treated to an amusing and varied performance, showcasing his range of talents to the full, was the icing on the
+                cake.</i>
+              <span class="fa fa-quote-right"></span> – Karl Hornsey
+            </p>
+            <p><span class="fa fa-quote-left"></span><i>The solo part was played by the phenomenal Romanian pianist Daniel Ciobanu
+                with vitalism of his style, wonderful technique, the pouring, albeit controlled lyricism and a great sense of swing
+                style.</i>
+              <span class="fa fa-quote-right"></span> – Michael Klubinski - Beethoven Easter Festival Warsaw Philharmonic
+            </p>
+            <!--<p><a href="/season/2627/Programme-261025-DanielCiobanu.pdf" target="_blank">Concert programme</a></p> -->
+            <p><a href="https://www.danielciobanu.com/" target="_blank">
+                More about Daniel Ciobanu</a>
+            </p>
           </div>
         </li>
 
