@@ -446,7 +446,7 @@ htmlHead($title);
                 style.</i>
               <span class="fa fa-quote-right"></span> – Michael Klubinski - Beethoven Easter Festival Warsaw Philharmonic
             </p>
-            <!--<p><a href="/season/2627/Programme-261025-DanielCiobanu.pdf" target="_blank">Concert programme</a></p> -->
+            <p><a href="/season/2627/Programme-261025-DanielCiobanu.pdf" target="_blank">Concert programme</a></p>
             <p><a href="https://www.danielciobanu.com/" target="_blank">
                 More about Daniel Ciobanu</a>
             </p>
